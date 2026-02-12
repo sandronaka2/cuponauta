@@ -233,6 +233,51 @@
 
     .copy-btn:hover { background: #20bd5a; transform: scale(1.05); }
 
+    .share-btns {
+      display: flex;
+      gap: 8px;
+      padding: 10px 16px;
+      background: #0d1117;
+      border-top: 1px solid #252525;
+    }
+
+    .share-btn {
+      flex: 1;
+      background: #25d366;
+      color: #fff;
+      border: none;
+      padding: 10px 12px;
+      border-radius: 6px;
+      font-size: 13px;
+      font-weight: 700;
+      cursor: pointer;
+      transition: all 0.2s;
+      text-align: center;
+    }
+
+    .share-btn:hover { background: #20bd5a; transform: scale(1.02); }
+    .share-btn.loading { opacity: 0.6; cursor: wait; }
+    .share-btn.success { background: #1a8; }
+    .share-btn.error { background: #c44; }
+
+    .share-btn-secondary {
+      flex: 1;
+      background: #1a1a2e;
+      color: #6ea8fe;
+      border: 1px solid #3a3a5e;
+      padding: 10px 12px;
+      border-radius: 6px;
+      font-size: 13px;
+      font-weight: 700;
+      cursor: pointer;
+      transition: all 0.2s;
+      text-align: center;
+      text-decoration: none;
+      display: block;
+    }
+
+    .share-btn-secondary:hover { background: #252540; }
+
     .whats-send-btn {
       position: absolute;
       top: 10px;
@@ -368,6 +413,7 @@
 
     let allData = {};
     let serverLastRefresh = null;
+    const productMap = {};
 
     async function loadProducts() {
       try {
@@ -476,6 +522,7 @@
         section.appendChild(copyAllBtn);
 
         allData[cat].forEach((p, i) => {
+          productMap[p.id] = p;
           section.appendChild(createProductCard(p, i + 1));
         });
 
@@ -515,15 +562,18 @@
             '<div style="font-size:11px;color:#666;margin-top:2px;">' +
               'Score: ' + scorePercent + '%' +
               '<div class="score-bar"><div class="score-fill" style="width:' + scorePercent + '%;background:' + scoreColor + '"></div></div>' +
-              (p.avaliacao ? ' | ⭐ ' + p.avaliacao : '') +
-              (p.vendas ? ' | 🛒 ' + formatVendas(p.vendas) + ' vendas' : '') +
+              (p.avaliacao ? ' | \u2b50 ' + p.avaliacao : '') +
+              (p.vendas ? ' | \ud83d\uded2 ' + formatVendas(p.vendas) + ' vendas' : '') +
             '</div>' +
             '<div class="product-meta">' + metaTags + '</div>' +
           '</div>' +
         '</div>' +
         '<div class="whats-text-area">' +
           '<pre class="whats-text">' + escHtml(whatsText) + '</pre>' +
-          '<a class="copy-btn whats-send-btn" href="https://wa.me/?text=' + encodeURIComponent(whatsText) + '" target="_blank" rel="noopener">📤 Enviar no WhatsApp</a>' +
+        '</div>' +
+        '<div class="share-btns">' +
+          '<button class="share-btn" onclick="shareProduct(\'' + p.id + '\')" id="share-' + p.id + '">\ud83d\udcf2 Enviar com Imagem</button>' +
+          '<a class="share-btn-secondary" href="https://wa.me/?text=' + encodeURIComponent(whatsText) + '" target="_blank" rel="noopener">\ud83d\udcac S\u00f3 Texto</a>' +
         '</div>';
 
       return card;
@@ -564,6 +614,126 @@
       if (n >= 1000000) return (n / 1000000).toFixed(1) + 'M';
       if (n >= 1000) return (n / 1000).toFixed(1) + 'K';
       return String(n);
+    }
+
+    // ── Compartilhar produto com imagem via Web Share API ──
+    async function shareProduct(productId) {
+      const p = productMap[productId];
+      if (!p) return;
+
+      const btn = document.getElementById('share-' + productId);
+      const originalText = btn.textContent;
+      btn.textContent = '\u23f3 Carregando imagem...';
+      btn.classList.add('loading');
+
+      const whatsText = buildWhatsText(p);
+
+      // Tentar Web Share API com arquivo de imagem
+      if (navigator.share && navigator.canShare) {
+        try {
+          // Baixar imagem como blob
+          const imageBlob = await fetchImageAsBlob(p.imagem);
+          if (imageBlob) {
+            const ext = imageBlob.type.includes('png') ? 'png' : 'jpg';
+            const file = new File([imageBlob], 'produto.' + ext, { type: imageBlob.type });
+
+            if (navigator.canShare({ files: [file] })) {
+              await navigator.share({
+                files: [file],
+                text: whatsText,
+              });
+              btn.textContent = '\u2705 Enviado!';
+              btn.classList.remove('loading');
+              btn.classList.add('success');
+              setTimeout(() => { btn.textContent = originalText; btn.classList.remove('success'); }, 3000);
+              return;
+            }
+          }
+        } catch (err) {
+          if (err.name === 'AbortError') {
+            btn.textContent = originalText;
+            btn.classList.remove('loading');
+            return; // usu\u00e1rio cancelou
+          }
+          console.log('Share com imagem falhou:', err);
+        }
+      }
+
+      // Fallback: Copiar imagem pro clipboard + abrir WhatsApp com texto
+      try {
+        const imageBlob = await fetchImageAsBlob(p.imagem);
+        if (imageBlob && navigator.clipboard && window.ClipboardItem) {
+          // Converter para PNG para clipboard (clipboard s\u00f3 aceita PNG)
+          const pngBlob = await convertToPng(imageBlob, p.imagem);
+          await navigator.clipboard.write([
+            new ClipboardItem({ 'image/png': pngBlob })
+          ]);
+          btn.textContent = '\u2705 Imagem copiada! Abrindo WhatsApp...';
+          btn.classList.remove('loading');
+          btn.classList.add('success');
+          // Abrir WhatsApp com texto pr\u00e9-preenchido
+          setTimeout(() => {
+            window.open('https://wa.me/?text=' + encodeURIComponent(whatsText), '_blank');
+          }, 500);
+          setTimeout(() => { btn.textContent = originalText; btn.classList.remove('success'); }, 5000);
+          return;
+        }
+      } catch (err) {
+        console.log('Clipboard write falhou:', err);
+      }
+
+      // Fallback final: s\u00f3 abre wa.me com texto
+      btn.textContent = originalText;
+      btn.classList.remove('loading');
+      window.open('https://wa.me/?text=' + encodeURIComponent(whatsText), '_blank');
+    }
+
+    // Baixar imagem como blob (com fallback via canvas para CORS)
+    async function fetchImageAsBlob(url) {
+      if (!url) return null;
+      try {
+        const res = await fetch(url);
+        if (res.ok) return await res.blob();
+      } catch (e) {
+        // CORS bloqueado, tentar via canvas
+      }
+      return await loadImageViaCanvas(url);
+    }
+
+    // Carregar imagem via canvas (bypass CORS se poss\u00edvel)
+    function loadImageViaCanvas(url) {
+      return new Promise((resolve) => {
+        const img = new Image();
+        img.crossOrigin = 'anonymous';
+        img.onload = () => {
+          const canvas = document.createElement('canvas');
+          canvas.width = img.naturalWidth;
+          canvas.height = img.naturalHeight;
+          canvas.getContext('2d').drawImage(img, 0, 0);
+          canvas.toBlob((blob) => resolve(blob), 'image/png');
+        };
+        img.onerror = () => resolve(null);
+        img.src = url;
+      });
+    }
+
+    // Converter qualquer imagem blob para PNG (necess\u00e1rio pro clipboard)
+    function convertToPng(blob, url) {
+      return new Promise((resolve) => {
+        if (blob.type === 'image/png') { resolve(blob); return; }
+        const img = new Image();
+        img.crossOrigin = 'anonymous';
+        img.onload = () => {
+          const canvas = document.createElement('canvas');
+          canvas.width = img.naturalWidth;
+          canvas.height = img.naturalHeight;
+          canvas.getContext('2d').drawImage(img, 0, 0);
+          canvas.toBlob((pngBlob) => resolve(pngBlob || blob), 'image/png');
+          URL.revokeObjectURL(img.src);
+        };
+        img.onerror = () => resolve(blob);
+        img.src = URL.createObjectURL(blob);
+      });
     }
 
     loadProducts();
