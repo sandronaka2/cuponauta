@@ -358,6 +358,87 @@
       .action-btn { min-width: calc(50% - 4px); }
       .score-row { flex-wrap: wrap; justify-content: center; }
     }
+
+    /* ── Posted State ── */
+    .product-card.posted { opacity: 0.4; border-color: #1a5e1a; }
+    .product-card.posted .product-title::before { content: '✅ '; }
+    .btn-posted { background: #333; border: 1px solid #555; width: 40px; flex: none !important; font-size: 16px; }
+    .btn-posted.active { background: #1a5e1a; border-color: #25d366; }
+
+    /* ── Cupons Tab ── */
+    @keyframes blinkTab { 0%, 100% { background: transparent; } 50% { background: rgba(255,68,68,0.3); } }
+    .tab.has-new { animation: blinkTab 1s ease-in-out infinite; }
+    .tab.has-new .badge { background: #ff4444; color: #fff; }
+
+    .coupon-section { display: none; }
+    .coupon-section.active { display: block; }
+
+    .coupon-card {
+      background: #161616;
+      border: 2px solid #ff4444;
+      border-radius: 12px;
+      padding: 20px;
+      margin-bottom: 16px;
+    }
+
+    .coupon-name { font-size: 22px; font-weight: 800; color: #ff4444; margin-bottom: 12px; }
+
+    .coupon-details {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 8px;
+      margin-bottom: 16px;
+    }
+
+    .coupon-detail {
+      font-size: 13px;
+      color: #ccc;
+      padding: 8px 12px;
+      background: #1a1a1a;
+      border-radius: 6px;
+    }
+
+    .coupon-detail strong { color: #25d366; }
+
+    .coupon-text-preview {
+      background: #0d1117;
+      border: 1px solid #252525;
+      border-radius: 8px;
+      padding: 12px 16px;
+      margin: 0;
+      font-family: 'Courier New', monospace;
+      font-size: 12px;
+      color: #c9d1d9;
+      white-space: pre-wrap;
+      word-break: break-word;
+      line-height: 1.6;
+      max-height: 200px;
+      overflow-y: auto;
+    }
+
+    .coupon-btns { display: flex; gap: 10px; flex-wrap: wrap; }
+
+    .coupon-btn {
+      flex: 1;
+      padding: 12px 16px;
+      border-radius: 8px;
+      font-size: 14px;
+      font-weight: 700;
+      cursor: pointer;
+      border: none;
+      color: #fff;
+      transition: all 0.2s;
+      min-width: 140px;
+      text-align: center;
+    }
+
+    .coupon-btn:hover { transform: scale(1.02); }
+    .coupon-btn-new { background: #25d366; color: #000; }
+    .coupon-btn-depleted { background: #ff4444; }
+    .coupon-btn.success { background: #1a8 !important; color: #fff !important; }
+
+    .no-coupons { text-align: center; padding: 60px 20px; color: #666; font-size: 15px; }
+
   </style>
 </head>
 <body>
@@ -412,6 +493,25 @@
     let couponFilterActive = false;
     let currentCategory = null;
     let searchTimeout = null;
+    let cuponsGerais = [];
+
+    // ── Posted / Seen tracking (localStorage, daily) ──
+    const TODAY_KEY = new Date().toISOString().slice(0, 10);
+    const POSTED_KEY = 'cuponauta-posted-' + TODAY_KEY;
+    const SEEN_KEY = 'cuponauta-seen-' + TODAY_KEY;
+
+    function getPosted() { try { return JSON.parse(localStorage.getItem(POSTED_KEY) || '[]'); } catch { return []; } }
+    function savePosted(list) { localStorage.setItem(POSTED_KEY, JSON.stringify(list)); }
+    function isPosted(id) { return getPosted().includes(String(id)); }
+    function getCouponsSeen() { try { return JSON.parse(localStorage.getItem(SEEN_KEY) || '[]'); } catch { return []; } }
+    function saveCouponsSeen(list) { localStorage.setItem(SEEN_KEY, JSON.stringify(list)); }
+
+    // Limpar chaves de dias anteriores
+    Object.keys(localStorage).forEach(k => {
+      if ((k.startsWith('cuponauta-posted-') || k.startsWith('cuponauta-seen-')) && !k.endsWith(TODAY_KEY)) {
+        localStorage.removeItem(k);
+      }
+    });
 
     // ── Load ──
     async function loadProducts() {
@@ -421,6 +521,7 @@
         const json = await res.json();
         allData = json.data;
         serverLastRefresh = json.lastRefresh;
+        cuponsGerais = json.cuponsGerais || [];
         renderPage();
       } catch (err) {
         document.getElementById('content').innerHTML =
@@ -508,6 +609,16 @@
         tabBar.appendChild(tab);
       });
 
+      // Coupon tab
+      const seen = getCouponsSeen();
+      const hasNewCoupon = cuponsGerais.length > 0 && cuponsGerais.some(c => !seen.includes(c.nome));
+      const couponTab = document.createElement('div');
+      couponTab.className = 'tab' + (hasNewCoupon ? ' has-new' : '');
+      couponTab.dataset.cat = '__cupons__';
+      couponTab.innerHTML = '\ud83c\udf9f\ufe0f Cupons' + (cuponsGerais.length > 0 ? '<span class="badge">' + cuponsGerais.length + '</span>' : '');
+      couponTab.onclick = () => switchTab('__cupons__');
+      tabBar.appendChild(couponTab);
+
       if (!currentCategory) currentCategory = categories[0];
 
       // Content
@@ -526,13 +637,20 @@
         content.appendChild(section);
       });
 
+      // Coupon section
+      const couponSection = document.createElement('div');
+      couponSection.className = 'coupon-section';
+      couponSection.id = 'cat---cupons--';
+      renderCouponSection(couponSection);
+      content.appendChild(couponSection);
+
       updateResultsCount();
     }
 
     // ── Create Card ──
     function createProductCard(p, rank) {
       const card = document.createElement('div');
-      card.className = 'product-card';
+      card.className = 'product-card' + (isPosted(p.id) ? ' posted' : '');
       card.dataset.id = p.id;
       card.dataset.titulo = (p.titulo || '').toLowerCase();
       card.dataset.hasCoupon = (p.cupomNome || p.cupom) ? '1' : '0';
@@ -580,6 +698,7 @@
         '<div class="action-btns">' +
           '<button class="action-btn btn-copy-img" onclick="copyImage(\'' + p.id + '\', this)">\ud83d\uddbc\ufe0f Copiar Imagem</button>' +
           '<button class="action-btn btn-copy-txt" onclick="copyText(\'' + p.id + '\', this)">\ud83d\udcdd Copiar Texto</button>' +
+          '<button class="action-btn btn-posted' + (isPosted(p.id) ? ' active' : '') + '" onclick="togglePosted(\'' + p.id + '\', this)">' + (isPosted(p.id) ? '\u2705' : '\u2610') + '</button>' +
         '</div>';
 
       return card;
@@ -720,10 +839,22 @@
     function switchTab(cat) {
       currentCategory = cat;
       document.querySelectorAll('.tab').forEach(t => t.classList.toggle('active', t.dataset.cat === cat));
-      document.querySelectorAll('.category-section').forEach(s => s.classList.remove('active'));
-      const section = document.getElementById('cat-' + slugify(cat));
-      if (section) section.classList.add('active');
-      applyFilters();
+      document.querySelectorAll('.category-section, .coupon-section').forEach(s => s.classList.remove('active'));
+
+      if (cat === '__cupons__') {
+        const cs = document.getElementById('cat---cupons--');
+        if (cs) cs.classList.add('active');
+        // Mark all coupons as seen
+        const seen = getCouponsSeen();
+        cuponsGerais.forEach(c => { if (!seen.includes(c.nome)) seen.push(c.nome); });
+        saveCouponsSeen(seen);
+        document.querySelectorAll('.tab').forEach(t => { if (t.dataset.cat === '__cupons__') t.classList.remove('has-new'); });
+        document.getElementById('resultsCount').textContent = cuponsGerais.length + ' cupons';
+      } else {
+        const section = document.getElementById('cat-' + slugify(cat));
+        if (section) section.classList.add('active');
+        applyFilters();
+      }
     }
 
     // ── Utils ──
@@ -742,6 +873,92 @@
       if (n >= 1000000) return (n / 1000000).toFixed(1) + 'M';
       if (n >= 1000) return (n / 1000).toFixed(1) + 'K';
       return String(n);
+    }
+
+    // ── Posted Toggle ──
+    function togglePosted(id, btn) {
+      const posted = getPosted();
+      const strId = String(id);
+      const idx = posted.indexOf(strId);
+      if (idx >= 0) posted.splice(idx, 1); else posted.push(strId);
+      savePosted(posted);
+      const card = btn.closest('.product-card');
+      card.classList.toggle('posted', posted.includes(strId));
+      btn.classList.toggle('active', posted.includes(strId));
+      btn.textContent = posted.includes(strId) ? '\u2705' : '\u2610';
+    }
+
+    // ── Coupon Section ──
+    function renderCouponSection(container) {
+      if (cuponsGerais.length === 0) {
+        container.innerHTML = '<div class="no-coupons">\ud83c\udf9f\ufe0f Nenhum cupom geral ativo no momento</div>';
+        return;
+      }
+      container.innerHTML = '';
+      cuponsGerais.forEach(c => {
+        const vmin = (c.valorMinimo || '').replace(/^Compra m\u00ednima\s*/i, '');
+        const lim = (c.limite || '').replace(/^Limite de\s*/i, '');
+        const newText = buildCouponNewText(c);
+        const depletedText = buildCouponDepletedText(c);
+        const card = document.createElement('div');
+        card.className = 'coupon-card';
+        card.innerHTML =
+          '<div class="coupon-name">\ud83c\udf9f\ufe0f ' + escHtml(c.nome) + '</div>' +
+          '<div class="coupon-details">' +
+            '<div class="coupon-detail">\ud83d\udcb8 Desconto: <strong>' + escHtml(c.desconto) + '</strong></div>' +
+            '<div class="coupon-detail">\u26a0\ufe0f M\u00ednimo: <strong>' + escHtml(vmin) + '</strong></div>' +
+            '<div class="coupon-detail">\ud83d\udd1d Limite: <strong>' + escHtml(lim) + '</strong></div>' +
+            '<div class="coupon-detail">\ud83d\udcca Tipo: <strong>' + escHtml(c.tipo) + '</strong></div>' +
+          '</div>' +
+          '<div style="margin-bottom:12px;">' +
+            '<div style="font-size:12px;color:#888;margin-bottom:6px;">\ud83d\udccb Texto - Cupom Novo:</div>' +
+            '<pre class="coupon-text-preview">' + escHtml(newText) + '</pre>' +
+          '</div>' +
+          '<div style="margin-bottom:12px;">' +
+            '<div style="font-size:12px;color:#888;margin-bottom:6px;">\ud83d\udccb Texto - Cupom Esgotado:</div>' +
+            '<pre class="coupon-text-preview">' + escHtml(depletedText) + '</pre>' +
+          '</div>' +
+          '<div class="coupon-btns">' +
+            '<button class="coupon-btn coupon-btn-new" onclick="copyCouponText(this, \'' + escHtml(c.nome) + '\', \'new\')">\ud83d\udcdd Copiar Novo</button>' +
+            '<button class="coupon-btn coupon-btn-depleted" onclick="copyCouponText(this, \'' + escHtml(c.nome) + '\', \'depleted\')">\ud83d\udcdd Copiar Esgotado</button>' +
+          '</div>';
+        container.appendChild(card);
+      });
+    }
+
+    function buildCouponNewText(c) {
+      const vmin = (c.valorMinimo || '').replace(/^Compra m\u00ednima\s*/i, '');
+      const lim = (c.limite || '').replace(/^Limite de\s*/i, '');
+      let t = '\ud83e\udd16 *CUPOM LIBERADO! Novo cupom fresquinho, cuponauta* \ud83d\udc9b\n\n';
+      t += '\ud83d\udcb8 C\u00f3digo: *' + c.nome + '*\n';
+      t += '\ud83c\udfaf Desconto: ' + c.desconto + '\n';
+      t += '\u26a0\ufe0f Compra m\u00ednima: ' + vmin + '\n';
+      t += '\ud83d\udd1d Limite de desconto: ' + lim + ' (m\u00e1ximo que voc\u00ea ganha)\n';
+      t += '\ud83d\udcca Tipo: ' + c.tipo + ' (v\u00e1lido para a maioria dos produtos)\n';
+      t += '\u23f3 Corre que \u00e9 por tempo limitado! \ud83d\ude80 Quem pega primeiro, leva!\n\n';
+      t += 'Ative agora pela p\u00e1gina oficial do Mercado Livre antes de finalizar a compra e garanta seu desconto:\n';
+      t += 'https://mercadolivre.com/sec/2EjzCDG';
+      return t;
+    }
+
+    function buildCouponDepletedText(c) {
+      let t = '\ud83d\ude29 CUPOM *' + c.nome + '* ESGOTADO! Infelizmente zerou total, galera \ud83d\udc94\n';
+      t += 'Ele voou rapidinho como sempre nesses tops!\n\n';
+      t += 'N\u00e3o desanima n\u00e3o: novos cupons, achados incr\u00edveis e promo\u00e7\u00f5es de produtos podem cair a qualquer momento aqui no grupo. Fica ligado nas notifica\u00e7\u00f5es e nos posts que eu aviso na hora que liberar algo fresco! \ud83d\udd75\ufe0f\u200d\u2642\ufe0f\ud83d\udd25\n\n';
+      t += 'Bora economizar juntos! \ud83d\udc9b';
+      return t;
+    }
+
+    function copyCouponText(btn, nome, type) {
+      const c = cuponsGerais.find(x => x.nome === nome);
+      if (!c) return;
+      const text = type === 'new' ? buildCouponNewText(c) : buildCouponDepletedText(c);
+      navigator.clipboard.writeText(text).then(() => {
+        const orig = btn.textContent;
+        btn.textContent = '\u2705 Copiado!';
+        btn.classList.add('success');
+        setTimeout(() => { btn.textContent = orig; btn.classList.remove('success'); }, 2000);
+      });
     }
 
     loadProducts();
