@@ -24,24 +24,83 @@
       box-shadow: 0 2px 15px rgba(0,0,0,0.5);
     }
 
-    .header h1 {
-      font-size: 24px;
+    .header h1 { font-size: 24px; color: #fff; margin-bottom: 5px; }
+    .header p { font-size: 13px; color: #d1f5d3; }
+
+    /* ── Search & Filters ── */
+    .toolbar {
+      background: #111;
+      padding: 12px 20px;
+      border-bottom: 1px solid #222;
+      display: flex;
+      gap: 10px;
+      align-items: center;
+      flex-wrap: wrap;
+      position: sticky;
+      top: 76px;
+      z-index: 100;
+    }
+
+    .search-wrapper {
+      flex: 1;
+      min-width: 200px;
+      position: relative;
+    }
+
+    .search-box {
+      width: 100%;
+      padding: 10px 14px 10px 36px;
+      background: #1a1a1a;
+      border: 1px solid #333;
+      border-radius: 8px;
       color: #fff;
-      margin-bottom: 5px;
+      font-size: 14px;
+      outline: none;
+      transition: border-color 0.2s;
     }
 
-    .header p {
+    .search-box:focus { border-color: #25d366; }
+
+    .search-icon {
+      position: absolute;
+      left: 12px;
+      top: 50%;
+      transform: translateY(-50%);
+      color: #666;
+      font-size: 14px;
+      pointer-events: none;
+    }
+
+    .filter-btn {
+      padding: 10px 16px;
+      border-radius: 8px;
+      border: 1px solid #333;
+      background: #1a1a1a;
+      color: #aaa;
       font-size: 13px;
-      color: #d1f5d3;
+      font-weight: 600;
+      cursor: pointer;
+      transition: all 0.2s;
+      white-space: nowrap;
     }
 
+    .filter-btn:hover { border-color: #25d366; color: #fff; }
+    .filter-btn.active { background: #25d366; color: #000; border-color: #25d366; }
+
+    .results-count {
+      font-size: 12px;
+      color: #666;
+      white-space: nowrap;
+    }
+
+    /* ── Tabs ── */
     .tab-bar {
       display: flex;
-      background: #111;
+      background: #0d0d0d;
       border-bottom: 1px solid #222;
       overflow-x: auto;
       position: sticky;
-      top: 76px;
+      top: 130px;
       z-index: 99;
     }
 
@@ -62,11 +121,7 @@
     }
 
     .tab:hover { color: #ccc; background: #1a1a1a; }
-
-    .tab.active {
-      color: #25d366;
-      border-bottom-color: #25d366;
-    }
+    .tab.active { color: #25d366; border-bottom-color: #25d366; }
 
     .tab .badge {
       background: #25d366;
@@ -78,6 +133,7 @@
       font-weight: 700;
     }
 
+    /* ── Container ── */
     .container {
       max-width: 1100px;
       margin: 0 auto;
@@ -91,10 +147,7 @@
       gap: 16px;
     }
 
-    .copy-all-btn {
-      grid-column: 1 / -1;
-    }
-
+    /* ── Product Card ── */
     .product-card {
       background: #161616;
       border: 1px solid #252525;
@@ -104,6 +157,7 @@
     }
 
     .product-card:hover { border-color: #25d366; }
+    .product-card.hidden { display: none; }
 
     .product-inner {
       display: flex;
@@ -120,10 +174,7 @@
       flex-shrink: 0;
     }
 
-    .product-info {
-      flex: 1;
-      min-width: 0;
-    }
+    .product-info { flex: 1; min-width: 0; }
 
     .product-title {
       font-size: 14px;
@@ -144,17 +195,8 @@
       margin-bottom: 4px;
     }
 
-    .price-original {
-      font-size: 12px;
-      color: #666;
-      text-decoration: line-through;
-    }
-
-    .price-current {
-      font-size: 18px;
-      font-weight: 700;
-      color: #25d366;
-    }
+    .price-original { font-size: 12px; color: #666; text-decoration: line-through; }
+    .price-current { font-size: 18px; font-weight: 700; color: #25d366; }
 
     .discount-badge {
       background: #ff4444;
@@ -181,29 +223,37 @@
       border: 1px solid #333;
     }
 
-    .meta-tag.coupon {
-      background: #1a2e1a;
-      color: #25d366;
-      border-color: #25d366;
+    .meta-tag.coupon { background: #1a2e1a; color: #25d366; border-color: #25d366; }
+    .meta-tag.seller { background: #1a1a2e; color: #6ea8fe; border-color: #3a3a5e; }
+    .meta-tag.highlight { background: #2e1a1a; color: #ff6b6b; border-color: #5e3a3a; }
+
+    /* ── Score ── */
+    .score-row {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      margin-top: 4px;
+      font-size: 11px;
+      color: #666;
     }
 
-    .meta-tag.seller {
-      background: #1a1a2e;
-      color: #6ea8fe;
-      border-color: #3a3a5e;
+    .score-bar {
+      width: 60px;
+      height: 5px;
+      background: #333;
+      border-radius: 3px;
+      overflow: hidden;
     }
 
-    .meta-tag.highlight {
-      background: #2e1a1a;
-      color: #ff6b6b;
-      border-color: #5e3a3a;
-    }
+    .score-fill { height: 100%; border-radius: 3px; }
+    .score-value { font-weight: 700; }
+    .rank-number { font-size: 11px; font-weight: 700; color: #555; margin-right: 4px; }
 
+    /* ── WhatsApp Text Area ── */
     .whats-text-area {
       background: #0d1117;
       border-top: 1px solid #252525;
       padding: 12px 16px;
-      position: relative;
     }
 
     .whats-text {
@@ -214,119 +264,51 @@
       word-break: break-word;
       line-height: 1.6;
       user-select: all;
-      padding-right: 50px;
     }
 
-    .copy-btn {
-      background: #25d366;
-      color: #fff;
-      border: none;
-      padding: 8px 16px;
-      border-radius: 6px;
-      font-size: 13px;
-      font-weight: 700;
-      cursor: pointer;
-      transition: all 0.2s;
-      text-decoration: none;
-      display: inline-block;
-    }
-
-    .copy-btn:hover { background: #20bd5a; transform: scale(1.05); }
-
-    .share-btns {
+    /* ── Action Buttons ── */
+    .action-btns {
       display: flex;
       gap: 8px;
       padding: 10px 16px;
       background: #0d1117;
-      border-top: 1px solid #252525;
+      border-top: 1px solid #1a1a2e;
     }
 
-    .share-btn {
+    .action-btn {
       flex: 1;
-      background: #25d366;
-      color: #fff;
+      padding: 10px 12px;
+      border-radius: 6px;
+      font-size: 13px;
+      font-weight: 700;
+      cursor: pointer;
+      transition: all 0.2s;
+      text-align: center;
       border: none;
-      padding: 10px 12px;
-      border-radius: 6px;
-      font-size: 13px;
-      font-weight: 700;
-      cursor: pointer;
-      transition: all 0.2s;
-      text-align: center;
+      color: #fff;
     }
 
-    .share-btn:hover { background: #20bd5a; transform: scale(1.02); }
-    .share-btn.loading { opacity: 0.6; cursor: wait; }
-    .share-btn.success { background: #1a8; }
-    .share-btn.error { background: #c44; }
+    .action-btn:hover { transform: scale(1.02); }
 
-    .share-btn-secondary {
-      flex: 1;
-      background: #1a1a2e;
-      color: #6ea8fe;
-      border: 1px solid #3a3a5e;
-      padding: 10px 12px;
-      border-radius: 6px;
-      font-size: 13px;
-      font-weight: 700;
-      cursor: pointer;
-      transition: all 0.2s;
-      text-align: center;
+    .btn-copy-img { background: #6c5ce7; }
+    .btn-copy-img:hover { background: #5a4bd1; }
+
+    .btn-copy-txt { background: #00b894; }
+    .btn-copy-txt:hover { background: #00a381; }
+
+    .btn-whats {
+      background: #25d366;
       text-decoration: none;
-      display: block;
+      display: flex;
+      align-items: center;
+      justify-content: center;
     }
+    .btn-whats:hover { background: #20bd5a; }
 
-    .share-btn-secondary:hover { background: #252540; }
+    .action-btn.success { background: #1a8 !important; }
+    .action-btn.error { background: #c44 !important; }
 
-    .whats-send-btn {
-      position: absolute;
-      top: 10px;
-      right: 12px;
-    }
-
-    .score-bar {
-      width: 60px;
-      height: 4px;
-      background: #333;
-      border-radius: 2px;
-      overflow: hidden;
-      display: inline-block;
-      vertical-align: middle;
-      margin-left: 6px;
-    }
-
-    .score-fill {
-      height: 100%;
-      border-radius: 2px;
-      transition: width 0.3s;
-    }
-
-    .rank-number {
-      font-size: 11px;
-      font-weight: 700;
-      color: #555;
-      margin-right: 4px;
-    }
-
-    .loading {
-      text-align: center;
-      padding: 60px 20px;
-      color: #666;
-      font-size: 16px;
-    }
-
-    .loading .spinner {
-      width: 40px;
-      height: 40px;
-      border: 3px solid #333;
-      border-top-color: #25d366;
-      border-radius: 50%;
-      animation: spin 0.8s linear infinite;
-      margin: 0 auto 16px;
-    }
-
-    @keyframes spin { to { transform: rotate(360deg); } }
-
+    /* ── Stats ── */
     .stats-bar {
       display: flex;
       justify-content: center;
@@ -340,81 +322,105 @@
 
     .stats-bar strong { color: #25d366; }
 
-    .copy-all-btn {
-      display: block;
-      width: 100%;
-      padding: 14px;
-      background: #25d366;
-      color: #000;
-      border: none;
-      border-radius: 8px;
-      font-size: 15px;
-      font-weight: 700;
-      cursor: pointer;
-      margin-bottom: 0;
-      transition: all 0.2s;
+    /* ── Loading ── */
+    .loading-section {
+      text-align: center;
+      padding: 60px 20px;
+      color: #666;
+      font-size: 16px;
     }
 
-    .copy-all-btn:hover { background: #20bd5a; }
-    .copy-all-btn.copied { background: #fff; }
+    .spinner {
+      width: 40px;
+      height: 40px;
+      border: 3px solid #333;
+      border-top-color: #25d366;
+      border-radius: 50%;
+      animation: spin 0.8s linear infinite;
+      margin: 0 auto 16px;
+    }
 
+    @keyframes spin { to { transform: rotate(360deg); } }
+
+    .no-results {
+      grid-column: 1 / -1;
+      text-align: center;
+      padding: 40px;
+      color: #666;
+      font-size: 15px;
+    }
+
+    /* ── Mobile ── */
     @media (max-width: 768px) {
-      .category-section.active {
-        grid-template-columns: 1fr;
-      }
+      .category-section.active { grid-template-columns: 1fr; }
       .product-inner { flex-direction: column; align-items: center; text-align: center; }
       .product-img { width: 140px; height: 140px; }
       .product-prices { justify-content: center; }
       .product-meta { justify-content: center; }
       .header h1 { font-size: 20px; }
       .tab { padding: 10px 14px; font-size: 12px; }
+      .toolbar { top: 68px; padding: 10px 12px; }
+      .tab-bar { top: 120px; }
+      .action-btns { flex-wrap: wrap; }
+      .action-btn { min-width: calc(50% - 4px); }
+      .score-row { flex-wrap: wrap; justify-content: center; }
     }
   </style>
 </head>
 <body>
 
   <div class="header">
-    <h1>🤖 Cuponauta WhatsApp</h1>
-    <p>Top 30 produtos por categoria — prontos para copiar e enviar</p>
+    <h1>&#x1F916; Cuponauta WhatsApp</h1>
+    <p>Top 100 produtos por categoria &mdash; prontos para copiar e enviar</p>
   </div>
 
   <div class="stats-bar" id="statsBar">
     <span>Carregando...</span>
   </div>
 
+  <div class="toolbar" id="toolbar">
+    <div class="search-wrapper">
+      <span class="search-icon">&#x1F50D;</span>
+      <input type="text" class="search-box" id="searchInput" placeholder="Buscar produto..." autocomplete="off">
+    </div>
+    <button class="filter-btn" id="couponFilter" onclick="toggleCouponFilter()">&#x1F3AB; S&oacute; com Cupom</button>
+    <span class="results-count" id="resultsCount"></span>
+  </div>
+
   <div class="tab-bar" id="tabBar"></div>
 
   <div class="container" id="content">
-    <div class="loading">
+    <div class="loading-section">
       <div class="spinner"></div>
       Carregando produtos...
     </div>
   </div>
 
   <script>
-    // Base URL para páginas de produto com OG tags
-    const SITE_BASE = window.location.href.replace(/[^/]*$/, '');
-
     const CATEGORY_EMOJIS = {
-      'Tech & Eletrônicos': '📱',
-      'Casa, Eletros & Utilidades': '🏠',
-      'Moda & Acessórios': '👗',
-      'Beleza, Saúde & Bem-Estar': '💄',
-      'Games & Hobbies': '🎮',
+      'Tech & Eletr\u00f4nicos': '\ud83d\udcf1',
+      'Casa, Eletros & Utilidades': '\ud83c\udfe0',
+      'Moda & Acess\u00f3rios': '\ud83d\udc57',
+      'Beleza, Sa\u00fade & Bem-Estar': '\ud83d\udc84',
+      'Games & Hobbies': '\ud83c\udfae',
     };
 
     const CATEGORY_ORDER = [
-      'Tech & Eletrônicos',
+      'Tech & Eletr\u00f4nicos',
       'Casa, Eletros & Utilidades',
-      'Moda & Acessórios',
-      'Beleza, Saúde & Bem-Estar',
+      'Moda & Acess\u00f3rios',
+      'Beleza, Sa\u00fade & Bem-Estar',
       'Games & Hobbies',
     ];
 
     let allData = {};
     let serverLastRefresh = null;
     const productMap = {};
+    let couponFilterActive = false;
+    let currentCategory = null;
+    let searchTimeout = null;
 
+    // ── Load ──
     async function loadProducts() {
       try {
         const res = await fetch('products.json');
@@ -425,57 +431,64 @@
         renderPage();
       } catch (err) {
         document.getElementById('content').innerHTML =
-          '<div class="loading" style="color:#ff4444;">Erro ao carregar: ' + err.message + '</div>';
+          '<div class="loading-section" style="color:#ff4444;">Erro ao carregar: ' + err.message + '</div>';
       }
     }
 
+    // ── Build WhatsApp text ──
     function buildWhatsText(p) {
       let text = '';
-      text += '🤖 *' + p.titulo + '*\n\n';
+      text += '\ud83e\udd16 *' + p.titulo + '*\n\n';
 
       if (p.precoOriginal && p.precoAtual) {
-        text += '🔥 De ' + p.precoOriginal + ' por *' + p.precoAtual + '*\n';
+        text += '\ud83d\udd25 De ' + p.precoOriginal + ' por *' + p.precoAtual + '*\n';
       } else if (p.precoAtual) {
-        text += '🔥 Por *' + p.precoAtual + '*\n';
+        text += '\ud83d\udd25 Por *' + p.precoAtual + '*\n';
       }
 
-      // OFERTA RELÂMPAGO com horário de expiração
-      if (p.destaque && p.destaque.includes('RELÂMPAGO') && p.ofertaExpiraEmLocal) {
+      if (p.destaque && p.destaque.includes('REL\u00c2MPAGO') && p.ofertaExpiraEmLocal) {
         const expiraDate = new Date(p.ofertaExpiraEmLocal);
         const horas = expiraDate.getHours().toString().padStart(2, '0');
         const minutos = expiraDate.getMinutes().toString().padStart(2, '0');
-        text += '⚡️ OFERTA RELÂMPAGO • Expira às ' + horas + ':' + minutos + '\n';
-      } else if (p.destaque && p.destaque.includes('RELÂMPAGO')) {
-        text += '⚡️ OFERTA RELÂMPAGO\n';
+        text += '\u26a1\ufe0f OFERTA REL\u00c2MPAGO \u2022 Expira \u00e0s ' + horas + ':' + minutos + '\n';
+      } else if (p.destaque && p.destaque.includes('REL\u00c2MPAGO')) {
+        text += '\u26a1\ufe0f OFERTA REL\u00c2MPAGO\n';
       }
 
-      // Só mostrar cupom se tiver cupomNome (cupom válido com código real)
       if (p.cupomNome) {
-        text += '\n🎟️ Cupom: *' + p.cupomNome + '*\n';
-        if (p.cupomDesconto) text += '💰 Desconto do Cupom: ' + p.cupomDesconto + '\n';
-        if (p.cupomLimite) text += '💵 Limite: ' + p.cupomLimite + '\n';
+        text += '\n\ud83c\udfab Cupom: *' + p.cupomNome + '*\n';
+        if (p.cupomDesconto) text += '\ud83d\udcb0 Desconto do Cupom: ' + p.cupomDesconto + '\n';
+        if (p.cupomLimite) text += '\ud83d\udcb5 Limite: ' + p.cupomLimite + '\n';
       }
 
       if (p.vendedor) {
-        text += '\n🏪 Loja: ' + p.vendedor + '\n';
+        text += '\n\ud83c\udfea Loja: ' + p.vendedor + '\n';
       }
 
-      text += '\n👉 *Clique no link e aproveite o desconto agora:*\n';
-      text += SITE_BASE + 'p/' + p.id + '.html';
+      text += '\n\ud83d\udc49 *Clique no link e aproveite o desconto agora:*\n';
+      text += p.linkAfiliado;
 
       return text;
     }
 
+    // ── Score ──
     function getScoreColor(score) {
-      if (score >= 0.8) return '#25d366';
-      if (score >= 0.6) return '#ffc107';
-      if (score >= 0.4) return '#ff9800';
+      if (score >= 70) return '#25d366';
+      if (score >= 50) return '#ffc107';
+      if (score >= 30) return '#ff9800';
       return '#ff4444';
     }
 
+    function getScoreLabel(score) {
+      if (score >= 80) return '\ud83d\udd25 Excelente';
+      if (score >= 60) return '\u2b50 Bom';
+      if (score >= 40) return '\ud83d\udc4d Regular';
+      return '\u26a0\ufe0f Baixo';
+    }
+
+    // ── Render ──
     function renderPage() {
       const categories = CATEGORY_ORDER.filter(c => allData[c] && allData[c].length > 0);
-      // Incluir categorias que existem nos dados mas não estão na lista de order
       Object.keys(allData).forEach(c => {
         if (!categories.includes(c) && allData[c].length > 0) categories.push(c);
       });
@@ -483,21 +496,17 @@
       let totalProducts = 0;
       categories.forEach(c => totalProducts += allData[c].length);
 
-      // Stats bar
-      const refreshTime = serverLastRefresh ? new Date(serverLastRefresh).toLocaleTimeString('pt-BR') : '—';
-      const now = new Date();
-      const nextRefresh = now.getHours() < 8 ? '08:00' : (now.getHours() < 13 ? '13:00' : '08:00 (amanhã)');
+      const refreshTime = serverLastRefresh ? new Date(serverLastRefresh).toLocaleTimeString('pt-BR') : '\u2014';
       document.getElementById('statsBar').innerHTML =
         '<span>Categorias: <strong>' + categories.length + '</strong></span>' +
         '<span>Produtos: <strong>' + totalProducts + '</strong></span>' +
-        '<span>Atualizado: <strong>' + refreshTime + '</strong></span>' +
-        '<span>Próximo: <strong>' + nextRefresh + '</strong></span>';
+        '<span>Atualizado: <strong>' + refreshTime + '</strong></span>';
 
       // Tabs
       const tabBar = document.getElementById('tabBar');
       tabBar.innerHTML = '';
       categories.forEach((cat, idx) => {
-        const emoji = CATEGORY_EMOJIS[cat] || '📦';
+        const emoji = CATEGORY_EMOJIS[cat] || '\ud83d\udce6';
         const tab = document.createElement('div');
         tab.className = 'tab' + (idx === 0 ? ' active' : '');
         tab.dataset.cat = cat;
@@ -505,6 +514,8 @@
         tab.onclick = () => switchTab(cat);
         tabBar.appendChild(tab);
       });
+
+      if (!currentCategory) currentCategory = categories[0];
 
       // Content
       const content = document.getElementById('content');
@@ -514,13 +525,6 @@
         section.className = 'category-section' + (idx === 0 ? ' active' : '');
         section.id = 'cat-' + slugify(cat);
 
-        // Copy All button
-        const copyAllBtn = document.createElement('button');
-        copyAllBtn.className = 'copy-all-btn';
-        copyAllBtn.textContent = '📋 Copiar TODOS os ' + allData[cat].length + ' textos desta categoria';
-        copyAllBtn.onclick = () => copyAllFromCategory(cat, copyAllBtn);
-        section.appendChild(copyAllBtn);
-
         allData[cat].forEach((p, i) => {
           productMap[p.id] = p;
           section.appendChild(createProductCard(p, i + 1));
@@ -528,26 +532,34 @@
 
         content.appendChild(section);
       });
+
+      updateResultsCount();
     }
 
+    // ── Create Card ──
     function createProductCard(p, rank) {
       const card = document.createElement('div');
       card.className = 'product-card';
+      card.dataset.id = p.id;
+      card.dataset.titulo = (p.titulo || '').toLowerCase();
+      card.dataset.hasCoupon = (p.cupomNome || p.cupom) ? '1' : '0';
 
       const whatsText = buildWhatsText(p);
-      const scorePercent = Math.round((p.score || 0) * 100);
-      const scoreColor = getScoreColor(p.score || 0);
+      const score = p.score || 0;
+      const scoreColor = getScoreColor(score);
+      const scoreLabel = getScoreLabel(score);
 
       let metaTags = '';
-      if (p.cupomNome) metaTags += '<span class="meta-tag coupon">🎟️ ' + escHtml(p.cupomNome) + ' (' + escHtml(p.cupomDesconto || '') + ')</span>';
-      if (p.vendedor) metaTags += '<span class="meta-tag seller">🏪 ' + escHtml(p.vendedor) + '</span>';
-      if (p.destaque && p.destaque.includes('RELÂMPAGO') && p.ofertaExpiraEmLocal) {
+      if (p.cupomNome) metaTags += '<span class="meta-tag coupon">\ud83c\udfab ' + escHtml(p.cupomNome) + (p.cupomDesconto ? ' (' + escHtml(p.cupomDesconto) + ')' : '') + '</span>';
+      else if (p.cupom) metaTags += '<span class="meta-tag coupon">\ud83c\udfab ' + escHtml(p.cupom) + '</span>';
+      if (p.vendedor) metaTags += '<span class="meta-tag seller">\ud83c\udfea ' + escHtml(p.vendedor) + '</span>';
+      if (p.destaque && p.destaque.includes('REL\u00c2MPAGO') && p.ofertaExpiraEmLocal) {
         const exp = new Date(p.ofertaExpiraEmLocal);
-        metaTags += '<span class="meta-tag highlight">⚡ RELÂMPAGO até ' + exp.getHours().toString().padStart(2,'0') + ':' + exp.getMinutes().toString().padStart(2,'0') + '</span>';
+        metaTags += '<span class="meta-tag highlight">\u26a1 REL\u00c2MPAGO at\u00e9 ' + exp.getHours().toString().padStart(2,'0') + ':' + exp.getMinutes().toString().padStart(2,'0') + '</span>';
       } else if (p.destaque) {
-        metaTags += '<span class="meta-tag highlight">⭐ ' + escHtml(p.destaque) + '</span>';
+        metaTags += '<span class="meta-tag highlight">\u2b50 ' + escHtml(p.destaque) + '</span>';
       }
-      if (p.frete) metaTags += '<span class="meta-tag">🚚 ' + escHtml(p.frete) + '</span>';
+      if (p.frete) metaTags += '<span class="meta-tag">\ud83d\ude9a ' + escHtml(p.frete) + '</span>';
 
       card.innerHTML =
         '<div class="product-inner">' +
@@ -559,11 +571,12 @@
               '<span class="price-current">' + escHtml(p.precoAtual || 'N/A') + '</span>' +
               (p.desconto ? '<span class="discount-badge">' + escHtml(p.desconto) + '</span>' : '') +
             '</div>' +
-            '<div style="font-size:11px;color:#666;margin-top:2px;">' +
-              'Score: ' + scorePercent + '%' +
-              '<div class="score-bar"><div class="score-fill" style="width:' + scorePercent + '%;background:' + scoreColor + '"></div></div>' +
+            '<div class="score-row">' +
+              '<span class="score-value" style="color:' + scoreColor + '">' + score + '/100</span>' +
+              '<div class="score-bar"><div class="score-fill" style="width:' + score + '%;background:' + scoreColor + '"></div></div>' +
+              '<span>' + scoreLabel + '</span>' +
               (p.avaliacao ? ' | \u2b50 ' + p.avaliacao : '') +
-              (p.vendas ? ' | \ud83d\uded2 ' + formatVendas(p.vendas) + ' vendas' : '') +
+              (p.vendas ? ' | \ud83d\uded2 ' + formatVendas(p.vendas) : '') +
             '</div>' +
             '<div class="product-meta">' + metaTags + '</div>' +
           '</div>' +
@@ -571,136 +584,66 @@
         '<div class="whats-text-area">' +
           '<pre class="whats-text">' + escHtml(whatsText) + '</pre>' +
         '</div>' +
-        '<div class="share-btns">' +
-          '<button class="share-btn" onclick="shareProduct(\'' + p.id + '\')" id="share-' + p.id + '">\ud83d\udcf2 Enviar com Imagem</button>' +
-          '<a class="share-btn-secondary" href="https://wa.me/?text=' + encodeURIComponent(whatsText) + '" target="_blank" rel="noopener">\ud83d\udcac S\u00f3 Texto</a>' +
+        '<div class="action-btns">' +
+          '<button class="action-btn btn-copy-img" onclick="copyImage(\'' + p.id + '\', this)">\ud83d\uddbc\ufe0f Copiar Imagem</button>' +
+          '<button class="action-btn btn-copy-txt" onclick="copyText(\'' + p.id + '\', this)">\ud83d\udcdd Copiar Texto</button>' +
+          '<a class="action-btn btn-whats" href="https://wa.me/?text=' + encodeURIComponent(whatsText) + '" target="_blank" rel="noopener">\ud83d\udce4 WhatsApp</a>' +
         '</div>';
 
       return card;
     }
 
-    function switchTab(cat) {
-      document.querySelectorAll('.tab').forEach(t => t.classList.toggle('active', t.dataset.cat === cat));
-      document.querySelectorAll('.category-section').forEach(s => s.classList.remove('active'));
-      const section = document.getElementById('cat-' + slugify(cat));
-      if (section) section.classList.add('active');
-    }
-
-    function copyAllFromCategory(cat, btn) {
-      const products = allData[cat] || [];
-      const allTexts = products.map(p => buildWhatsText(p)).join('\n\n━━━━━━━━━━━━━━━━━━━━\n\n');
-      navigator.clipboard.writeText(allTexts).then(() => {
-        btn.textContent = '✅ Todos copiados!';
-        btn.classList.add('copied');
-        setTimeout(() => {
-          btn.textContent = '📋 Copiar TODOS os ' + products.length + ' textos desta categoria';
-          btn.classList.remove('copied');
-        }, 3000);
+    // ── Copy Text ──
+    function copyText(productId, btn) {
+      const p = productMap[productId];
+      if (!p) return;
+      const text = buildWhatsText(p);
+      navigator.clipboard.writeText(text).then(() => {
+        const orig = btn.textContent;
+        btn.textContent = '\u2705 Texto copiado!';
+        btn.classList.add('success');
+        setTimeout(() => { btn.textContent = orig; btn.classList.remove('success'); }, 2000);
       });
     }
 
-    function slugify(str) {
-      return str.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '');
-    }
-
-    function escHtml(str) {
-      if (!str) return '';
-      return String(str).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
-    }
-
-    function formatVendas(v) {
-      const n = parseInt(v);
-      if (isNaN(n)) return v;
-      if (n >= 1000000) return (n / 1000000).toFixed(1) + 'M';
-      if (n >= 1000) return (n / 1000).toFixed(1) + 'K';
-      return String(n);
-    }
-
-    // ── Compartilhar produto com imagem via Web Share API ──
-    async function shareProduct(productId) {
+    // ── Copy Image ──
+    async function copyImage(productId, btn) {
       const p = productMap[productId];
-      if (!p) return;
+      if (!p || !p.imagem) return;
 
-      const btn = document.getElementById('share-' + productId);
-      const originalText = btn.textContent;
-      btn.textContent = '\u23f3 Carregando imagem...';
-      btn.classList.add('loading');
+      const orig = btn.textContent;
+      btn.textContent = '\u23f3 Copiando...';
 
-      const whatsText = buildWhatsText(p);
-
-      // Tentar Web Share API com arquivo de imagem
-      if (navigator.share && navigator.canShare) {
+      try {
+        // Tentar fetch direto
+        let blob = null;
         try {
-          // Baixar imagem como blob
-          const imageBlob = await fetchImageAsBlob(p.imagem);
-          if (imageBlob) {
-            const ext = imageBlob.type.includes('png') ? 'png' : 'jpg';
-            const file = new File([imageBlob], 'produto.' + ext, { type: imageBlob.type });
+          const res = await fetch(p.imagem);
+          if (res.ok) blob = await res.blob();
+        } catch(e) {}
 
-            if (navigator.canShare({ files: [file] })) {
-              await navigator.share({
-                files: [file],
-                text: whatsText,
-              });
-              btn.textContent = '\u2705 Enviado!';
-              btn.classList.remove('loading');
-              btn.classList.add('success');
-              setTimeout(() => { btn.textContent = originalText; btn.classList.remove('success'); }, 3000);
-              return;
-            }
-          }
-        } catch (err) {
-          if (err.name === 'AbortError') {
-            btn.textContent = originalText;
-            btn.classList.remove('loading');
-            return; // usu\u00e1rio cancelou
-          }
-          console.log('Share com imagem falhou:', err);
-        }
-      }
+        // Fallback via canvas
+        if (!blob) blob = await loadImageViaCanvas(p.imagem);
+        if (!blob) throw new Error('Imagem indispon\u00edvel');
 
-      // Fallback: Copiar imagem pro clipboard + abrir WhatsApp com texto
-      try {
-        const imageBlob = await fetchImageAsBlob(p.imagem);
-        if (imageBlob && navigator.clipboard && window.ClipboardItem) {
-          // Converter para PNG para clipboard (clipboard s\u00f3 aceita PNG)
-          const pngBlob = await convertToPng(imageBlob, p.imagem);
-          await navigator.clipboard.write([
-            new ClipboardItem({ 'image/png': pngBlob })
-          ]);
-          btn.textContent = '\u2705 Imagem copiada! Abrindo WhatsApp...';
-          btn.classList.remove('loading');
-          btn.classList.add('success');
-          // Abrir WhatsApp com texto pr\u00e9-preenchido
-          setTimeout(() => {
-            window.open('https://wa.me/?text=' + encodeURIComponent(whatsText), '_blank');
-          }, 500);
-          setTimeout(() => { btn.textContent = originalText; btn.classList.remove('success'); }, 5000);
-          return;
-        }
+        // Converter para PNG (clipboard s\u00f3 aceita PNG)
+        const pngBlob = await convertToPng(blob);
+
+        await navigator.clipboard.write([
+          new ClipboardItem({ 'image/png': pngBlob })
+        ]);
+
+        btn.textContent = '\u2705 Imagem copiada!';
+        btn.classList.add('success');
+        setTimeout(() => { btn.textContent = orig; btn.classList.remove('success'); }, 2000);
       } catch (err) {
-        console.log('Clipboard write falhou:', err);
+        console.error('Erro ao copiar imagem:', err);
+        btn.textContent = '\u274c Erro';
+        btn.classList.add('error');
+        setTimeout(() => { btn.textContent = orig; btn.classList.remove('error'); }, 2000);
       }
-
-      // Fallback final: s\u00f3 abre wa.me com texto
-      btn.textContent = originalText;
-      btn.classList.remove('loading');
-      window.open('https://wa.me/?text=' + encodeURIComponent(whatsText), '_blank');
     }
 
-    // Baixar imagem como blob (com fallback via canvas para CORS)
-    async function fetchImageAsBlob(url) {
-      if (!url) return null;
-      try {
-        const res = await fetch(url);
-        if (res.ok) return await res.blob();
-      } catch (e) {
-        // CORS bloqueado, tentar via canvas
-      }
-      return await loadImageViaCanvas(url);
-    }
-
-    // Carregar imagem via canvas (bypass CORS se poss\u00edvel)
     function loadImageViaCanvas(url) {
       return new Promise((resolve) => {
         const img = new Image();
@@ -717,12 +660,10 @@
       });
     }
 
-    // Converter qualquer imagem blob para PNG (necess\u00e1rio pro clipboard)
-    function convertToPng(blob, url) {
+    function convertToPng(blob) {
       return new Promise((resolve) => {
         if (blob.type === 'image/png') { resolve(blob); return; }
         const img = new Image();
-        img.crossOrigin = 'anonymous';
         img.onload = () => {
           const canvas = document.createElement('canvas');
           canvas.width = img.naturalWidth;
@@ -734,6 +675,79 @@
         img.onerror = () => resolve(blob);
         img.src = URL.createObjectURL(blob);
       });
+    }
+
+    // ── Search ──
+    document.getElementById('searchInput').addEventListener('input', function() {
+      clearTimeout(searchTimeout);
+      searchTimeout = setTimeout(applyFilters, 200);
+    });
+
+    // ── Coupon Filter ──
+    function toggleCouponFilter() {
+      couponFilterActive = !couponFilterActive;
+      document.getElementById('couponFilter').classList.toggle('active', couponFilterActive);
+      applyFilters();
+    }
+
+    // ── Apply Filters ──
+    function applyFilters() {
+      const query = document.getElementById('searchInput').value.toLowerCase().trim();
+      const cards = document.querySelectorAll('.product-card');
+
+      cards.forEach(card => {
+        const titulo = card.dataset.titulo || '';
+        const hasCoupon = card.dataset.hasCoupon === '1';
+
+        let show = true;
+        if (query && !titulo.includes(query)) show = false;
+        if (couponFilterActive && !hasCoupon) show = false;
+
+        card.classList.toggle('hidden', !show);
+      });
+
+      updateResultsCount();
+    }
+
+    function updateResultsCount() {
+      const activeSection = document.querySelector('.category-section.active');
+      if (!activeSection) return;
+      const total = activeSection.querySelectorAll('.product-card').length;
+      const visible = activeSection.querySelectorAll('.product-card:not(.hidden)').length;
+      const el = document.getElementById('resultsCount');
+      if (visible === total) {
+        el.textContent = total + ' produtos';
+      } else {
+        el.textContent = visible + ' de ' + total;
+      }
+    }
+
+    // ── Tab Switch ──
+    function switchTab(cat) {
+      currentCategory = cat;
+      document.querySelectorAll('.tab').forEach(t => t.classList.toggle('active', t.dataset.cat === cat));
+      document.querySelectorAll('.category-section').forEach(s => s.classList.remove('active'));
+      const section = document.getElementById('cat-' + slugify(cat));
+      if (section) section.classList.add('active');
+      applyFilters();
+    }
+
+    // ── Utils ──
+    function slugify(str) {
+      return str.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '');
+    }
+
+    function escHtml(str) {
+      if (!str) return '';
+      return String(str).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+    }
+
+    function formatVendas(v) {
+      const n = parseInt(v);
+      if (isNaN(n)) return v;
+      if (n >= 1000000) return (n / 1000000).toFixed(1) + 'M';
+      if (n >= 1000) return (n / 1000).toFixed(1) + 'K';
+      return String(n);
     }
 
     loadProducts();
