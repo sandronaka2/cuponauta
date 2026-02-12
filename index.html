@@ -347,6 +347,9 @@
   </div>
 
   <script>
+    // Base URL para páginas de produto com OG tags
+    const SITE_BASE = window.location.href.replace(/[^/]*$/, '');
+
     const CATEGORY_EMOJIS = {
       'Tech & Eletrônicos': '📱',
       'Casa, Eletros & Utilidades': '🏠',
@@ -412,7 +415,7 @@
       }
 
       text += '\n👉 *Clique no link e aproveite o desconto agora:*\n';
-      text += p.linkAfiliado;
+      text += SITE_BASE + 'p/' + p.id + '.html';
 
       return text;
     }
