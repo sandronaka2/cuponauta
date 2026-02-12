@@ -343,7 +343,6 @@
     </div>
   </div>
 
-  <script src="products.js"></script>
   <script>
     const CATEGORY_EMOJIS = {
       'Tech & Eletrônicos': '📱',
@@ -364,11 +363,13 @@
     let allData = {};
     let serverLastRefresh = null;
 
-    function loadProducts() {
+    async function loadProducts() {
       try {
-        if (typeof PRODUCTS_DATA === 'undefined') throw new Error('products.js não carregado');
-        allData = PRODUCTS_DATA.data;
-        serverLastRefresh = PRODUCTS_DATA.lastRefresh;
+        const res = await fetch('products.json');
+        if (!res.ok) throw new Error('Erro HTTP ' + res.status);
+        const json = await res.json();
+        allData = json.data;
+        serverLastRefresh = json.lastRefresh;
         renderPage();
       } catch (err) {
         document.getElementById('content').innerHTML =
