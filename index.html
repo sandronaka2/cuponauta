@@ -296,14 +296,7 @@
     .btn-copy-txt { background: #00b894; }
     .btn-copy-txt:hover { background: #00a381; }
 
-    .btn-whats {
-      background: #25d366;
-      text-decoration: none;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-    }
-    .btn-whats:hover { background: #20bd5a; }
+
 
     .action-btn.success { background: #1a8 !important; }
     .action-btn.error { background: #c44 !important; }
@@ -587,7 +580,6 @@
         '<div class="action-btns">' +
           '<button class="action-btn btn-copy-img" onclick="copyImage(\'' + p.id + '\', this)">\ud83d\uddbc\ufe0f Copiar Imagem</button>' +
           '<button class="action-btn btn-copy-txt" onclick="copyText(\'' + p.id + '\', this)">\ud83d\udcdd Copiar Texto</button>' +
-          '<a class="action-btn btn-whats" href="https://wa.me/?text=' + encodeURIComponent(whatsText) + '" target="_blank" rel="noopener">\ud83d\udce4 WhatsApp</a>' +
         '</div>';
 
       return card;
@@ -693,7 +685,9 @@
     // ── Apply Filters ──
     function applyFilters() {
       const query = document.getElementById('searchInput').value.toLowerCase().trim();
-      const cards = document.querySelectorAll('.product-card');
+      const activeSection = document.querySelector('.category-section.active');
+      if (!activeSection) return;
+      const cards = activeSection.querySelectorAll('.product-card');
 
       cards.forEach(card => {
         const titulo = card.dataset.titulo || '';
