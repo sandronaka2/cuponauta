@@ -79,19 +79,26 @@
     }
 
     .container {
-      max-width: 900px;
+      max-width: 1100px;
       margin: 0 auto;
       padding: 20px 15px;
     }
 
     .category-section { display: none; }
-    .category-section.active { display: block; }
+    .category-section.active {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 16px;
+    }
+
+    .copy-all-btn {
+      grid-column: 1 / -1;
+    }
 
     .product-card {
       background: #161616;
       border: 1px solid #252525;
       border-radius: 12px;
-      margin-bottom: 16px;
       overflow: hidden;
       transition: border-color 0.2s;
     }
@@ -296,14 +303,17 @@
       font-size: 15px;
       font-weight: 700;
       cursor: pointer;
-      margin-bottom: 20px;
+      margin-bottom: 0;
       transition: all 0.2s;
     }
 
     .copy-all-btn:hover { background: #20bd5a; }
     .copy-all-btn.copied { background: #fff; }
 
-    @media (max-width: 600px) {
+    @media (max-width: 768px) {
+      .category-section.active {
+        grid-template-columns: 1fr;
+      }
       .product-inner { flex-direction: column; align-items: center; text-align: center; }
       .product-img { width: 140px; height: 140px; }
       .product-prices { justify-content: center; }
@@ -333,6 +343,7 @@
     </div>
   </div>
 
+  <script src="products.js"></script>
   <script>
     const CATEGORY_EMOJIS = {
       'Tech & Eletrônicos': '📱',
@@ -351,13 +362,13 @@
     ];
 
     let allData = {};
+    let serverLastRefresh = null;
 
-    async function loadProducts() {
+    function loadProducts() {
       try {
-        const res = await fetch('/api/products');
-        const json = await res.json();
-        if (!json.success) throw new Error(json.error);
-        allData = json.data;
+        if (typeof PRODUCTS_DATA === 'undefined') throw new Error('products.js não carregado');
+        allData = PRODUCTS_DATA.data;
+        serverLastRefresh = PRODUCTS_DATA.lastRefresh;
         renderPage();
       } catch (err) {
         document.getElementById('content').innerHTML =
@@ -420,10 +431,14 @@
       categories.forEach(c => totalProducts += allData[c].length);
 
       // Stats bar
+      const refreshTime = serverLastRefresh ? new Date(serverLastRefresh).toLocaleTimeString('pt-BR') : '—';
+      const now = new Date();
+      const nextRefresh = now.getHours() < 8 ? '08:00' : (now.getHours() < 13 ? '13:00' : '08:00 (amanhã)');
       document.getElementById('statsBar').innerHTML =
         '<span>Categorias: <strong>' + categories.length + '</strong></span>' +
         '<span>Produtos: <strong>' + totalProducts + '</strong></span>' +
-        '<span>Atualizado: <strong>' + new Date().toLocaleTimeString('pt-BR') + '</strong></span>';
+        '<span>Atualizado: <strong>' + refreshTime + '</strong></span>' +
+        '<span>Próximo: <strong>' + nextRefresh + '</strong></span>';
 
       // Tabs
       const tabBar = document.getElementById('tabBar');
@@ -522,45 +537,44 @@
       btn.disabled = true;
 
       try {
-        // Buscar imagem via proxy para evitar CORS
-        const proxyUrl = '/api/proxy-image?url=' + encodeURIComponent(imageUrl);
-        const response = await fetch(proxyUrl);
-        const blob = await response.blob();
-
-        // Converter para PNG via canvas (clipboard exige PNG)
+        // Tentar copiar imagem + texto via canvas (cross-origin)
         const img = new Image();
-        const objectUrl = URL.createObjectURL(blob);
+        img.crossOrigin = 'anonymous';
 
-        await new Promise((resolve, reject) => {
-          img.onload = resolve;
-          img.onerror = reject;
-          img.src = objectUrl;
+        const loaded = await new Promise((resolve, reject) => {
+          img.onload = () => resolve(true);
+          img.onerror = () => resolve(false);
+          img.src = imageUrl;
         });
 
-        const canvas = document.createElement('canvas');
-        canvas.width = img.naturalWidth;
-        canvas.height = img.naturalHeight;
-        const ctx = canvas.getContext('2d');
-        ctx.drawImage(img, 0, 0);
-        URL.revokeObjectURL(objectUrl);
+        if (loaded && img.naturalWidth > 0) {
+          const canvas = document.createElement('canvas');
+          canvas.width = img.naturalWidth;
+          canvas.height = img.naturalHeight;
+          const ctx = canvas.getContext('2d');
+          ctx.drawImage(img, 0, 0);
 
-        const pngBlob = await new Promise(resolve => canvas.toBlob(resolve, 'image/png'));
+          const pngBlob = await new Promise(resolve => canvas.toBlob(resolve, 'image/png'));
+          const textBlob = new Blob([whatsText], { type: 'text/plain' });
+          const htmlBlob = new Blob(['<pre>' + whatsText.replace(/</g, '&lt;') + '</pre>'], { type: 'text/html' });
 
-        // Copiar imagem + texto juntos no clipboard
-        const textBlob = new Blob([whatsText], { type: 'text/plain' });
-        const htmlContent = '<img src="cid:img"/><pre>' + whatsText.replace(/</g, '&lt;') + '</pre>';
-        const htmlBlob = new Blob([htmlContent], { type: 'text/html' });
+          await navigator.clipboard.write([
+            new ClipboardItem({
+              'image/png': pngBlob,
+              'text/plain': textBlob,
+              'text/html': htmlBlob
+            })
+          ]);
 
-        await navigator.clipboard.write([
-          new ClipboardItem({
-            'image/png': pngBlob,
-            'text/plain': textBlob,
-            'text/html': htmlBlob
-          })
-        ]);
+          btn.textContent = '✅ Copiado!';
+          btn.classList.add('copied');
+        } else {
+          // Imagem não carregou (CORS), copiar só texto
+          await navigator.clipboard.writeText(whatsText);
+          btn.textContent = '✅ Texto copiado!';
+          btn.classList.add('copied');
+        }
 
-        btn.textContent = '✅ Copiado!';
-        btn.classList.add('copied');
         setTimeout(() => {
           btn.textContent = '📋 Copiar';
           btn.classList.remove('copied');
@@ -568,7 +582,6 @@
         }, 2000);
       } catch (err) {
         console.error('Erro ao copiar:', err);
-        // Fallback: copiar só o texto
         try {
           await navigator.clipboard.writeText(whatsText);
           btn.textContent = '✅ Texto copiado!';
