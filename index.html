@@ -568,7 +568,7 @@
     // ── Load ──
     async function loadProducts() {
       try {
-        const res = await fetch('products.json');
+        const res = await fetch('products.json?t=' + Date.now());
         if (!res.ok) throw new Error('Erro HTTP ' + res.status);
         const json = await res.json();
 
