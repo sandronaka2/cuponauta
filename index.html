@@ -519,6 +519,14 @@
         const res = await fetch('products.json');
         if (!res.ok) throw new Error('Erro HTTP ' + res.status);
         const json = await res.json();
+
+        if (json.offline) {
+          document.getElementById('content').innerHTML =
+            '<div class="loading-section" style="color:#ffc107;">🌙 ' + (json.offlineMessage || 'Sistema offline') + '</div>';
+          document.getElementById('statsBar').innerHTML = '<span>🌙 Offline &mdash; Voltamos às 06:00</span>';
+          return;
+        }
+
         allData = json.data;
         serverLastRefresh = json.lastRefresh;
         cuponsGerais = json.cuponsGerais || [];
