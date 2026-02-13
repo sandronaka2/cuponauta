@@ -133,6 +133,39 @@
       font-weight: 700;
     }
 
+    /* ── Sort Bar ── */
+    .sort-bar {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      padding: 8px 20px;
+      background: #111;
+      border-bottom: 1px solid #222;
+      overflow-x: auto;
+    }
+
+    .sort-label {
+      font-size: 12px;
+      color: #666;
+      white-space: nowrap;
+    }
+
+    .sort-btn {
+      padding: 6px 14px;
+      border-radius: 20px;
+      border: 1px solid #333;
+      background: #1a1a1a;
+      color: #aaa;
+      font-size: 12px;
+      font-weight: 600;
+      cursor: pointer;
+      transition: all 0.2s;
+      white-space: nowrap;
+    }
+
+    .sort-btn:hover { border-color: #25d366; color: #fff; }
+    .sort-btn.active { background: #25d366; color: #000; border-color: #25d366; }
+
     /* ── Container ── */
     .container {
       max-width: 1100px;
@@ -357,6 +390,8 @@
       .action-btns { flex-wrap: wrap; }
       .action-btn { min-width: calc(50% - 4px); }
       .score-row { flex-wrap: wrap; justify-content: center; }
+      .sort-bar { padding: 8px 12px; gap: 6px; }
+      .sort-btn { padding: 5px 10px; font-size: 11px; }
     }
 
     /* ── Posted State ── */
@@ -463,6 +498,14 @@
 
   <div class="tab-bar" id="tabBar"></div>
 
+  <div class="sort-bar" id="sortBar">
+    <span class="sort-label">Ordenar:</span>
+    <button class="sort-btn active" data-sort="score" onclick="changeSort('score')">&#x1F3C6; Score</button>
+    <button class="sort-btn" data-sort="vendasNum" onclick="changeSort('vendasNum')">&#x1F6D2; Vendidos</button>
+    <button class="sort-btn" data-sort="avaliacaoNum" onclick="changeSort('avaliacaoNum')">&#x2B50; Avalia&ccedil;&atilde;o</button>
+    <button class="sort-btn" data-sort="descontoNum" onclick="changeSort('descontoNum')">&#x1F4B0; Desconto</button>
+  </div>
+
   <div class="container" id="content">
     <div class="loading-section">
       <div class="spinner"></div>
@@ -471,21 +514,15 @@
   </div>
 
   <script>
-    const CATEGORY_EMOJIS = {
-      'Tech & Eletr\u00f4nicos': '\ud83d\udcf1',
-      'Casa, Eletros & Utilidades': '\ud83c\udfe0',
-      'Moda & Acess\u00f3rios': '\ud83d\udc57',
-      'Beleza, Sa\u00fade & Bem-Estar': '\ud83d\udc84',
-      'Games & Hobbies': '\ud83c\udfae',
+    const RANGE_EMOJIS = {
+      'Geral': '\ud83c\udf10',
+      'At\u00e9 R$100': '\ud83d\udcb2',
+      'R$100 \u2013 R$500': '\ud83d\udcb3',
+      'R$500 \u2013 R$2.000': '\ud83d\udcb0',
+      'R$2.000+': '\ud83d\udc8e',
     };
 
-    const CATEGORY_ORDER = [
-      'Tech & Eletr\u00f4nicos',
-      'Casa, Eletros & Utilidades',
-      'Moda & Acess\u00f3rios',
-      'Beleza, Sa\u00fade & Bem-Estar',
-      'Games & Hobbies',
-    ];
+    const RANGE_ORDER = ['Geral', 'At\u00e9 R$100', 'R$100 \u2013 R$500', 'R$500 \u2013 R$2.000', 'R$2.000+'];
 
     let allData = {};
     let serverLastRefresh = null;
@@ -493,6 +530,7 @@
     let couponFilterActive = false;
     let currentCategory = null;
     let searchTimeout = null;
+    let currentSort = 'score';
     let cuponsGerais = [];
 
     // ── Posted / Seen tracking (localStorage, daily) ──
@@ -527,7 +565,10 @@
           return;
         }
 
-        allData = json.data;
+        const products = json.products || [];
+        allData = { 'Geral': products };
+        RANGE_ORDER.forEach(r => { if (r !== 'Geral') allData[r] = []; });
+        products.forEach(p => { if (p.faixa && allData[p.faixa]) allData[p.faixa].push(p); });
         serverLastRefresh = json.lastRefresh;
         cuponsGerais = json.cuponsGerais || [];
         renderPage();
@@ -590,25 +631,20 @@
 
     // ── Render ──
     function renderPage() {
-      const categories = CATEGORY_ORDER.filter(c => allData[c] && allData[c].length > 0);
-      Object.keys(allData).forEach(c => {
-        if (!categories.includes(c) && allData[c].length > 0) categories.push(c);
-      });
-
-      let totalProducts = 0;
-      categories.forEach(c => totalProducts += allData[c].length);
+      const ranges = RANGE_ORDER.filter(r => allData[r] && allData[r].length > 0);
+      const totalProducts = allData['Geral'] ? allData['Geral'].length : 0;
 
       const refreshTime = serverLastRefresh ? new Date(serverLastRefresh).toLocaleTimeString('pt-BR') : '\u2014';
       document.getElementById('statsBar').innerHTML =
-        '<span>Categorias: <strong>' + categories.length + '</strong></span>' +
+        '<span>Faixas: <strong>' + ranges.length + '</strong></span>' +
         '<span>Produtos: <strong>' + totalProducts + '</strong></span>' +
         '<span>Atualizado: <strong>' + refreshTime + '</strong></span>';
 
       // Tabs
       const tabBar = document.getElementById('tabBar');
       tabBar.innerHTML = '';
-      categories.forEach((cat, idx) => {
-        const emoji = CATEGORY_EMOJIS[cat] || '\ud83d\udce6';
+      ranges.forEach((cat, idx) => {
+        const emoji = RANGE_EMOJIS[cat] || '\ud83d\udce6';
         const tab = document.createElement('div');
         tab.className = 'tab' + (idx === 0 ? ' active' : '');
         tab.dataset.cat = cat;
@@ -627,20 +663,21 @@
       couponTab.onclick = () => switchTab('__cupons__');
       tabBar.appendChild(couponTab);
 
-      if (!currentCategory) currentCategory = categories[0];
+      if (!currentCategory) currentCategory = ranges[0];
 
       // Content
       const content = document.getElementById('content');
       content.innerHTML = '';
-      categories.forEach((cat, idx) => {
+      ranges.forEach((cat, idx) => {
         const section = document.createElement('div');
         section.className = 'category-section' + (idx === 0 ? ' active' : '');
         section.id = 'cat-' + slugify(cat);
+        section.dataset.range = cat;
 
-        allData[cat].forEach((p, i) => {
-          productMap[p.id] = p;
-          section.appendChild(createProductCard(p, i + 1));
-        });
+        // Lazy render: only populate the first (active) section
+        if (idx === 0) {
+          renderSection(section, cat);
+        }
 
         content.appendChild(section);
       });
@@ -662,6 +699,10 @@
       card.dataset.id = p.id;
       card.dataset.titulo = (p.titulo || '').toLowerCase();
       card.dataset.hasCoupon = (p.cupomNome || p.cupom) ? '1' : '0';
+      card.dataset.score = p.score || 0;
+      card.dataset.vendasNum = p.vendasNum || 0;
+      card.dataset.avaliacaoNum = p.avaliacaoNum || 0;
+      card.dataset.descontoNum = p.descontoNum || 0;
 
       const whatsText = buildWhatsText(p);
       const score = p.score || 0;
@@ -860,8 +901,14 @@
         document.getElementById('resultsCount').textContent = cuponsGerais.length + ' cupons';
       } else {
         const section = document.getElementById('cat-' + slugify(cat));
-        if (section) section.classList.add('active');
-        applyFilters();
+        if (section) {
+          section.classList.add('active');
+          if (section.dataset.rendered !== 'true') {
+            renderSection(section, section.dataset.range || cat);
+          }
+          if (currentSort !== 'score') changeSort(currentSort);
+          applyFilters();
+        }
       }
     }
 
@@ -881,6 +928,33 @@
       if (n >= 1000000) return (n / 1000000).toFixed(1) + 'M';
       if (n >= 1000) return (n / 1000).toFixed(1) + 'K';
       return String(n);
+    }
+
+    // ── Render Section (lazy) ──
+    function renderSection(section, rangeName) {
+      section.innerHTML = '';
+      const items = allData[rangeName] || [];
+      items.forEach((p, i) => {
+        productMap[p.id] = p;
+        section.appendChild(createProductCard(p, i + 1));
+      });
+      section.dataset.rendered = 'true';
+    }
+
+    // ── Sort ──
+    function changeSort(field) {
+      currentSort = field;
+      document.querySelectorAll('.sort-btn').forEach(b => b.classList.toggle('active', b.dataset.sort === field));
+      const section = document.querySelector('.category-section.active');
+      if (!section) return;
+      const cards = Array.from(section.querySelectorAll('.product-card'));
+      cards.sort((a, b) => parseFloat(b.dataset[field] || 0) - parseFloat(a.dataset[field] || 0));
+      cards.forEach((card, i) => {
+        section.appendChild(card);
+        const rankEl = card.querySelector('.rank-number');
+        if (rankEl) rankEl.textContent = '#' + (i + 1);
+      });
+      updateResultsCount();
     }
 
     // ── Posted Toggle ──
