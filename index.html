@@ -259,6 +259,20 @@
     .meta-tag.coupon { background: #1a2e1a; color: #25d366; border-color: #25d366; }
     .meta-tag.seller { background: #1a1a2e; color: #6ea8fe; border-color: #3a3a5e; }
     .meta-tag.highlight { background: #2e1a1a; color: #ff6b6b; border-color: #5e3a3a; }
+    .meta-tag.cupom-geral { background: #2e2e0a; color: #ffc107; border-color: #5e5e1a; font-weight: 700; }
+
+    .price-with-coupon {
+      font-size: 13px;
+      color: #ffc107;
+      font-weight: 700;
+      margin-top: 2px;
+    }
+
+    .price-with-coupon .coupon-name {
+      font-size: 11px;
+      color: #999;
+      font-weight: 400;
+    }
 
     /* ── Score ── */
     .score-row {
@@ -589,6 +603,11 @@
         text += '\ud83d\udd25 Por *' + p.precoAtual + '*\n';
       }
 
+      // Cupom geral aplicado
+      if (p.cupomGeral) {
+        text += '\ud83c\udfab Com cupom *' + p.cupomGeral.nome + '* (' + p.cupomGeral.desconto + '): *' + p.cupomGeral.precoComCupomStr + '*\n';
+      }
+
       if (p.destaque && p.destaque.includes('REL\u00c2MPAGO') && p.ofertaExpiraEmLocal) {
         const expiraDate = new Date(p.ofertaExpiraEmLocal);
         const horas = expiraDate.getHours().toString().padStart(2, '0');
@@ -599,7 +618,7 @@
       }
 
       if (p.cupomNome) {
-        text += '\n\ud83c\udfab Cupom: *' + p.cupomNome + '*\n';
+        text += '\n\ud83c\udfab Cupom espec\u00edfico: *' + p.cupomNome + '*\n';
         if (p.cupomDesconto) text += '\ud83d\udcb0 Desconto do Cupom: ' + p.cupomDesconto + '\n';
         if (p.cupomLimite) text += '\ud83d\udcb5 Limite: ' + p.cupomLimite + '\n';
       }
@@ -720,6 +739,7 @@
         metaTags += '<span class="meta-tag highlight">\u2b50 ' + escHtml(p.destaque) + '</span>';
       }
       if (p.frete) metaTags += '<span class="meta-tag">\ud83d\ude9a ' + escHtml(p.frete) + '</span>';
+      if (p.cupomGeral) metaTags += '<span class="meta-tag cupom-geral">\ud83c\udfab ' + escHtml(p.cupomGeral.nome) + ' ' + escHtml(p.cupomGeral.desconto) + '</span>';
 
       card.innerHTML =
         '<div class="product-inner">' +
@@ -731,6 +751,7 @@
               '<span class="price-current">' + escHtml(p.precoAtual || 'N/A') + '</span>' +
               (p.desconto ? '<span class="discount-badge">' + escHtml(p.desconto) + '</span>' : '') +
             '</div>' +
+            (p.cupomGeral ? '<div class="price-with-coupon">\ud83c\udfab Com <strong>' + escHtml(p.cupomGeral.nome) + '</strong>: <strong>' + escHtml(p.cupomGeral.precoComCupomStr) + '</strong> <span class="coupon-name">(-R$' + p.cupomGeral.descontoValor.toFixed(2).replace('.', ',') + ')</span></div>' : '') +
             '<div class="score-row">' +
               '<span class="score-value" style="color:' + scoreColor + '">' + score + '/100</span>' +
               '<div class="score-bar"><div class="score-fill" style="width:' + score + '%;background:' + scoreColor + '"></div></div>' +
