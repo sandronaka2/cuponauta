@@ -605,7 +605,11 @@
 
       // Cupom geral aplicado
       if (p.cupomGeral) {
-        text += '\ud83c\udfab Com cupom *' + p.cupomGeral.nome + '* (' + p.cupomGeral.desconto + '): *' + p.cupomGeral.precoComCupomStr + '*\n';
+        if (p.cupomGeral.atingeMinimo) {
+          text += '\ud83c\udfab Com cupom *' + p.cupomGeral.nome + '* (' + p.cupomGeral.desconto + '): *' + p.cupomGeral.precoComCupomStr + '*\n';
+        } else {
+          text += '\ud83c\udfab Cupom *' + p.cupomGeral.nome + '* (' + p.cupomGeral.desconto + ') dispon\u00edvel (m\u00edn. R$' + p.cupomGeral.minimoNum + ')\n';
+        }
       }
 
       if (p.destaque && p.destaque.includes('REL\u00c2MPAGO') && p.ofertaExpiraEmLocal) {
@@ -751,7 +755,8 @@
               '<span class="price-current">' + escHtml(p.precoAtual || 'N/A') + '</span>' +
               (p.desconto ? '<span class="discount-badge">' + escHtml(p.desconto) + '</span>' : '') +
             '</div>' +
-            (p.cupomGeral ? '<div class="price-with-coupon">\ud83c\udfab Com <strong>' + escHtml(p.cupomGeral.nome) + '</strong>: <strong>' + escHtml(p.cupomGeral.precoComCupomStr) + '</strong> <span class="coupon-name">(-R$' + p.cupomGeral.descontoValor.toFixed(2).replace('.', ',') + ')</span></div>' : '') +
+            (p.cupomGeral && p.cupomGeral.atingeMinimo ? '<div class="price-with-coupon">\ud83c\udfab Com <strong>' + escHtml(p.cupomGeral.nome) + '</strong>: <strong>' + escHtml(p.cupomGeral.precoComCupomStr) + '</strong> <span class="coupon-name">(-R$' + p.cupomGeral.descontoValor.toFixed(2).replace('.', ',') + ')</span></div>' : '') +
+            (p.cupomGeral && !p.cupomGeral.atingeMinimo ? '<div class="price-with-coupon" style="color:#888;">\ud83c\udfab <strong>' + escHtml(p.cupomGeral.nome) + '</strong> ' + escHtml(p.cupomGeral.desconto) + ' <span class="coupon-name">(m\u00edn. R$' + p.cupomGeral.minimoNum + ')</span></div>' : '') +
             '<div class="score-row">' +
               '<span class="score-value" style="color:' + scoreColor + '">' + score + '/100</span>' +
               '<div class="score-bar"><div class="score-fill" style="width:' + score + '%;background:' + scoreColor + '"></div></div>' +
