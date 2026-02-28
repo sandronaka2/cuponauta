@@ -686,6 +686,14 @@
       couponTab.onclick = () => switchTab('__cupons__');
       tabBar.appendChild(couponTab);
 
+      // Fila WhatsApp tab
+      const queueTab = document.createElement('div');
+      queueTab.className = 'tab';
+      queueTab.dataset.cat = '__fila__';
+      queueTab.innerHTML = '\ud83d\udccb Fila WhatsApp';
+      queueTab.onclick = () => switchTab('__fila__');
+      tabBar.appendChild(queueTab);
+
       if (!currentCategory) currentCategory = ranges[0];
 
       // Content
@@ -711,6 +719,13 @@
       couponSection.id = 'cat---cupons--';
       renderCouponSection(couponSection);
       content.appendChild(couponSection);
+
+      // Queue section
+      const queueSection = document.createElement('div');
+      queueSection.className = 'queue-section';
+      queueSection.id = 'cat---fila--';
+      queueSection.innerHTML = '<div class="loading-section"><div class="spinner"></div>Carregando fila...</div>';
+      content.appendChild(queueSection);
 
       updateResultsCount();
     }
@@ -914,9 +929,13 @@
     function switchTab(cat) {
       currentCategory = cat;
       document.querySelectorAll('.tab').forEach(t => t.classList.toggle('active', t.dataset.cat === cat));
-      document.querySelectorAll('.category-section, .coupon-section').forEach(s => s.classList.remove('active'));
+      document.querySelectorAll('.category-section, .coupon-section, .queue-section').forEach(s => s.classList.remove('active'));
 
-      if (cat === '__cupons__') {
+      if (cat === '__fila__') {
+        const qs = document.getElementById('cat---fila--');
+        if (qs) { qs.classList.add('active'); loadQueue(); }
+        document.getElementById('resultsCount').textContent = '';
+      } else if (cat === '__cupons__') {
         const cs = document.getElementById('cat---cupons--');
         if (cs) cs.classList.add('active');
         // Mark all coupons as seen
@@ -1069,6 +1088,67 @@
         btn.classList.add('success');
         setTimeout(() => { btn.textContent = orig; btn.classList.remove('success'); }, 2000);
       });
+    }
+
+    // \u2500\u2500 Queue (Fila WhatsApp) \u2500\u2500
+    async function loadQueue() {
+      const container = document.getElementById('cat---fila--');
+      if (!container) return;
+      container.innerHTML = '<div class="loading-section"><div class="spinner"></div>Carregando fila...</div>';
+      try {
+        const res = await fetch('queue.json?t=' + Date.now());
+        if (!res.ok) throw new Error('Erro HTTP ' + res.status);
+        const data = await res.json();
+        renderQueue(container, data);
+      } catch (err) {
+        container.innerHTML = '<div class="queue-empty">\u26a0\ufe0f Fila n\u00e3o dispon\u00edvel: ' + escHtml(err.message) + '</div>';
+      }
+    }
+
+    function renderQueue(container, data) {
+      const items = data.queue || [];
+      if (items.length === 0) {
+        container.innerHTML = '<div class="queue-empty">\ud83d\udccb Nenhum item na fila</div>';
+        return;
+      }
+
+      const pendentes = items.filter(i => i.status === 'pendente' || i.status === 'aprovado').length;
+      const postados = items.filter(i => i.status === 'postado').length;
+      const erros = items.filter(i => i.status === 'erro' || i.status === 'reprovado').length;
+      const exportTime = data.exportedAt || '\u2014';
+
+      let html = '<div class="queue-summary">';
+      html += '<div class="queue-summary-item"><div class="number">' + items.length + '</div><div class="label">Total</div></div>';
+      html += '<div class="queue-summary-item"><div class="number" style="color:#ffc107">' + pendentes + '</div><div class="label">Pendentes</div></div>';
+      html += '<div class="queue-summary-item"><div class="number" style="color:#25d366">' + postados + '</div><div class="label">Postados</div></div>';
+      if (erros > 0) html += '<div class="queue-summary-item"><div class="number" style="color:#ff4444">' + erros + '</div><div class="label">Erros</div></div>';
+      html += '</div>';
+      html += '<div style="font-size:12px;color:#666;margin-bottom:12px;">\ud83d\udd52 Atualizado: ' + escHtml(exportTime) + '</div>';
+
+      html += '<div style="overflow-x:auto;"><table class="queue-table"><thead><tr>';
+      html += '<th>#</th><th>Hor\u00e1rio</th><th>T\u00edtulo</th><th>Pre\u00e7o</th><th>Desconto</th><th>Status</th>';
+      html += '</tr></thead><tbody>';
+
+      items.sort((a, b) => (a.posicao || 0) - (b.posicao || 0));
+
+      items.forEach(item => {
+        const statusClass = (item.status || 'pendente').toLowerCase();
+        html += '<tr>';
+        html += '<td><span class="queue-pos">' + item.posicao + '</span></td>';
+        html += '<td>' + escHtml(item.horarioProgramado || '\u2014') + '</td>';
+        html += '<td class="queue-titulo">';
+        if (item.link) html += '<a href="' + escHtml(item.link) + '" target="_blank">';
+        html += escHtml(item.titulo);
+        if (item.link) html += '</a>';
+        html += '</td>';
+        html += '<td>' + escHtml(item.preco || '\u2014') + '</td>';
+        html += '<td>' + escHtml(item.desconto || '\u2014') + '</td>';
+        html += '<td><span class="queue-status ' + statusClass + '">' + escHtml(item.status) + '</span></td>';
+        html += '</tr>';
+      });
+
+      html += '</tbody></table></div>';
+      container.innerHTML = html;
     }
 
     loadProducts();
