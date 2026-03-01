@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-03-01T15:40:52.422Z",
-  "exportedAt": "01/03/2026, 12:40:52",
+  "lastExport": "2026-03-01T15:48:57.041Z",
+  "exportedAt": "01/03/2026, 12:48:57",
   "total": 38,
-  "pendentes": 29,
-  "postados": 9,
+  "pendentes": 28,
+  "postados": 10,
   "queue": [
     {
       "posicao": 1,
@@ -204,10 +204,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_688330-MLA99972969557_112025-AB.webp",
       "horarioProgramado": "12:42",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-03-01T15:42:52.639Z"
     },
     {
       "posicao": 13,
@@ -637,13 +637,13 @@
     {
       "posicao": 38,
       "id": "wa-2158-37",
-      "titulo": "Miniatura Bike Bmx Bicicleta Cross Coleção Mtb Lançamento!!",
-      "preco": "R$ 85",
-      "precoOriginal": "R$125,50",
-      "desconto": "31% OFF",
+      "titulo": "Fone De Ouvido Bluetooth6.0 Esportivo Sem Fio Gancho Com Led Cor Rosa",
+      "preco": "R$ 170",
+      "precoOriginal": "R$315",
+      "desconto": "45% OFF",
       "cupom": null,
-      "link": "https://meli.la/2KbFkpS",
-      "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_638337-MLB89732059880_082025-AB.webp",
+      "link": "https://meli.la/1cnZP6t",
+      "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_689855-MLA100591127020_122025-AB.webp",
       "horarioProgramado": "21:58",
       "janela": "21:00-22:00",
       "status": "pendente",
