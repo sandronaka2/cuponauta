@@ -488,6 +488,124 @@
 
     .no-coupons { text-align: center; padding: 60px 20px; color: #666; font-size: 15px; }
 
+    /* ── Fila WhatsApp ── */
+    .queue-section { display: none; padding: 12px; }
+    .queue-section.active { display: block; }
+
+    .queue-summary {
+      display: flex; gap: 12px; flex-wrap: wrap; justify-content: center;
+      margin-bottom: 16px;
+    }
+    .queue-summary-item {
+      background: #161616; border: 1px solid #252525; border-radius: 10px;
+      padding: 12px 20px; text-align: center; min-width: 80px;
+    }
+    .queue-summary-item .number { font-size: 24px; font-weight: 800; color: #fff; }
+    .queue-summary-item .label { font-size: 11px; color: #888; margin-top: 2px; }
+
+    .queue-cards {
+      display: flex; flex-direction: column; gap: 12px;
+    }
+
+    .queue-card {
+      background: #161616; border: 2px solid #252525; border-radius: 12px;
+      overflow: hidden; transition: all 0.3s ease;
+    }
+    .queue-card:hover { border-color: #25d366; transform: translateY(-1px); }
+    .queue-card.status-postado { opacity: 0.55; border-color: #1a5e1a; }
+    .queue-card.status-pendente { border-color: #ffc107; }
+    .queue-card.status-erro { border-color: #ff4444; background: rgba(255,68,68,0.05); }
+
+    .queue-card-inner {
+      display: flex; gap: 14px; padding: 14px;
+    }
+
+    .queue-card-img {
+      width: 110px; height: 110px; flex-shrink: 0;
+      border-radius: 8px; object-fit: contain;
+      background: #0d0d0d; border: 1px solid #252525;
+    }
+    .queue-card-img-placeholder {
+      width: 110px; height: 110px; flex-shrink: 0;
+      border-radius: 8px; background: #0d0d0d; border: 1px solid #252525;
+      display: flex; align-items: center; justify-content: center;
+      font-size: 32px; color: #333;
+    }
+
+    .queue-card-body { flex: 1; min-width: 0; display: flex; flex-direction: column; gap: 6px; }
+
+    .queue-card-header {
+      display: flex; align-items: center; gap: 8px; flex-wrap: wrap;
+    }
+
+    .queue-card-pos {
+      background: #25d366; color: #000; font-weight: 800; font-size: 12px;
+      width: 26px; height: 26px; border-radius: 50%;
+      display: flex; align-items: center; justify-content: center; flex-shrink: 0;
+    }
+    .queue-card.status-postado .queue-card-pos { background: #1a5e1a; color: #25d366; }
+    .queue-card.status-erro .queue-card-pos { background: #5e1a1a; color: #ff4444; }
+
+    .queue-card-time {
+      font-size: 12px; color: #25d366; font-weight: 700;
+      background: rgba(37,211,102,0.1); padding: 2px 8px; border-radius: 4px;
+    }
+
+    .queue-card-status {
+      font-size: 11px; font-weight: 700; padding: 2px 8px; border-radius: 4px;
+    }
+    .queue-card-status.postado { background: rgba(37,211,102,0.15); color: #25d366; }
+    .queue-card-status.pendente { background: rgba(255,193,7,0.15); color: #ffc107; }
+    .queue-card-status.erro { background: rgba(255,68,68,0.15); color: #ff4444; }
+    .queue-card-status.aprovado { background: rgba(96,165,250,0.15); color: #60a5fa; }
+
+    .queue-card-source {
+      font-size: 10px; font-weight: 600; padding: 2px 6px; border-radius: 4px;
+    }
+    .queue-card-source.cupom { background: rgba(251,191,36,0.12); color: #fbbf24; }
+    .queue-card-source.oferta { background: rgba(96,165,250,0.12); color: #60a5fa; }
+    .queue-card-source.boost { background: rgba(245,158,11,0.12); color: #f59e0b; }
+
+    .queue-card-title {
+      font-size: 14px; font-weight: 600; color: #e8e8e8;
+      line-height: 1.3;
+      display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+    .queue-card-title a { color: inherit; text-decoration: none; }
+    .queue-card-title a:hover { color: #25d366; text-decoration: underline; }
+
+    .queue-card-prices {
+      display: flex; align-items: center; gap: 8px; flex-wrap: wrap;
+    }
+    .queue-card-price { font-size: 18px; font-weight: 800; color: #25d366; }
+    .queue-card-price-original { font-size: 12px; color: #666; text-decoration: line-through; }
+    .queue-card-discount {
+      background: #ff4444; color: #fff; font-size: 11px; font-weight: 700;
+      padding: 2px 6px; border-radius: 4px;
+    }
+    .queue-card-coupon {
+      font-size: 12px; color: #ffc107; font-weight: 600;
+      background: rgba(255,193,7,0.1); padding: 2px 8px; border-radius: 4px;
+      border: 1px solid rgba(255,193,7,0.2);
+    }
+
+    .queue-card-footer {
+      display: flex; align-items: center; gap: 8px; font-size: 11px; color: #666;
+    }
+
+    .queue-empty {
+      text-align: center; padding: 60px 20px; color: #666; font-size: 15px;
+    }
+
+    @media (max-width: 768px) {
+      .queue-card-inner { flex-direction: column; align-items: center; text-align: center; }
+      .queue-card-img, .queue-card-img-placeholder { width: 160px; height: 160px; }
+      .queue-card-header { justify-content: center; }
+      .queue-card-prices { justify-content: center; }
+      .queue-card-footer { justify-content: center; flex-wrap: wrap; }
+    }
+
   </style>
 </head>
 <body>
@@ -1123,31 +1241,68 @@
       html += '<div class="queue-summary-item"><div class="number" style="color:#25d366">' + postados + '</div><div class="label">Postados</div></div>';
       if (erros > 0) html += '<div class="queue-summary-item"><div class="number" style="color:#ff4444">' + erros + '</div><div class="label">Erros</div></div>';
       html += '</div>';
-      html += '<div style="font-size:12px;color:#666;margin-bottom:12px;">\ud83d\udd52 Atualizado: ' + escHtml(exportTime) + '</div>';
-
-      html += '<div style="overflow-x:auto;"><table class="queue-table"><thead><tr>';
-      html += '<th>#</th><th>Hor\u00e1rio</th><th>T\u00edtulo</th><th>Pre\u00e7o</th><th>Desconto</th><th>Status</th>';
-      html += '</tr></thead><tbody>';
+      html += '<div style="font-size:12px;color:#666;margin-bottom:14px;">\ud83d\udd52 Atualizado: ' + escHtml(exportTime) + '</div>';
 
       items.sort((a, b) => (a.posicao || 0) - (b.posicao || 0));
 
-      items.forEach(item => {
-        const statusClass = (item.status || 'pendente').toLowerCase();
-        html += '<tr>';
-        html += '<td><span class="queue-pos">' + item.posicao + '</span></td>';
-        html += '<td>' + escHtml(item.horarioProgramado || '\u2014') + '</td>';
-        html += '<td class="queue-titulo">';
-        if (item.link) html += '<a href="' + escHtml(item.link) + '" target="_blank">';
+      html += '<div class="queue-cards">';
+      items.forEach(function(item) {
+        var st = (item.status || 'pendente').toLowerCase();
+        var srcClass = (item.fonte || '').toLowerCase() === 'cupom' ? 'cupom' : (item.boostType ? 'boost' : 'oferta');
+        var srcLabel = srcClass === 'cupom' ? '\ud83c\udf9f\ufe0f Cupom' : (srcClass === 'boost' ? '\ud83d\ude80 Boost' : '\ud83d\uded2 Oferta');
+        var statusLabel = st === 'postado' ? '\u2705 Enviado' : (st === 'erro' ? '\u274c Erro' : (st === 'aprovado' ? '\ud83d\udc4d Aprovado' : '\u23f3 Pendente'));
+
+        html += '<div class="queue-card status-' + st + '">';
+        html += '<div class="queue-card-inner">';
+
+        // Image
+        if (item.imagem) {
+          html += '<img class="queue-card-img" src="' + escHtml(item.imagem) + '" alt="' + escHtml(item.titulo) + '" onerror="this.outerHTML=\'<div class=queue-card-img-placeholder>\ud83d\udcf7</div>\'" loading="lazy">';
+        } else {
+          html += '<div class="queue-card-img-placeholder">\ud83d\udcf7</div>';
+        }
+
+        html += '<div class="queue-card-body">';
+
+        // Header: pos + time + status + source
+        html += '<div class="queue-card-header">';
+        html += '<span class="queue-card-pos">' + item.posicao + '</span>';
+        html += '<span class="queue-card-time">\u23f0 ' + escHtml(item.horarioProgramado || '\u2014') + '</span>';
+        if (item.janela) html += '<span style="font-size:10px;color:#888;">' + escHtml(item.janela) + '</span>';
+        html += '<span class="queue-card-status ' + st + '">' + statusLabel + '</span>';
+        html += '<span class="queue-card-source ' + srcClass + '">' + srcLabel + '</span>';
+        html += '</div>';
+
+        // Title
+        html += '<div class="queue-card-title">';
+        if (item.link) html += '<a href="' + escHtml(item.link) + '" target="_blank" rel="noopener">';
         html += escHtml(item.titulo);
         if (item.link) html += '</a>';
-        html += '</td>';
-        html += '<td>' + escHtml(item.preco || '\u2014') + '</td>';
-        html += '<td>' + escHtml(item.desconto || '\u2014') + '</td>';
-        html += '<td><span class="queue-status ' + statusClass + '">' + escHtml(item.status) + '</span></td>';
-        html += '</tr>';
-      });
+        html += '</div>';
 
-      html += '</tbody></table></div>';
+        // Prices
+        html += '<div class="queue-card-prices">';
+        if (item.preco) html += '<span class="queue-card-price">' + escHtml(item.preco) + '</span>';
+        if (item.precoOriginal) html += '<span class="queue-card-price-original">' + escHtml(item.precoOriginal) + '</span>';
+        if (item.desconto) html += '<span class="queue-card-discount">' + escHtml(item.desconto) + '</span>';
+        html += '</div>';
+
+        // Coupon
+        if (item.cupom) {
+          html += '<div><span class="queue-card-coupon">\ud83c\udf9f\ufe0f ' + escHtml(item.cupom) + '</span></div>';
+        }
+
+        // Footer
+        if (item.postedAt) {
+          html += '<div class="queue-card-footer"><span>\ud83d\udce4 Enviado: ' + escHtml(item.postedAt) + '</span></div>';
+        }
+
+        html += '</div>'; // body
+        html += '</div>'; // inner
+        html += '</div>'; // card
+      });
+      html += '</div>';
+
       container.innerHTML = html;
     }
 
