@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-03-01T12:30:03.793Z",
-  "exportedAt": "01/03/2026, 09:30:03",
+  "lastExport": "2026-03-01T12:34:05.462Z",
+  "exportedAt": "01/03/2026, 09:34:05",
   "total": 38,
-  "pendentes": 37,
-  "postados": 1,
+  "pendentes": 36,
+  "postados": 2,
   "queue": [
     {
       "posicao": 1,
@@ -26,18 +26,18 @@
       "posicao": 2,
       "id": "wa-0932-1",
       "titulo": "Relógio Casio G-shock G-squad Masculino Gbd-200uu-9dr Cinza",
-      "preco": "R$ 799",
+      "preco": "R$ 739,00",
       "precoOriginal": "R$1.399",
       "desconto": "42% OFF",
-      "cupom": null,
-      "link": "https://meli.la/27puyJK",
+      "cupom": "MELIMODA",
+      "link": "https://mercadolivre.com/sec/2iQnfMY",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_671956-MLA99956258247_112025-AB.webp",
       "horarioProgramado": "09:32",
       "janela": "09:00-10:00",
-      "status": "pendente",
-      "fonte": "OFERTA",
+      "status": "postado",
+      "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-03-01T12:32:56.959Z"
     },
     {
       "posicao": 3,
