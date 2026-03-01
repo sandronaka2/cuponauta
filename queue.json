@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-03-01T12:45:18.031Z",
-  "exportedAt": "01/03/2026, 09:45:18",
+  "lastExport": "2026-03-01T12:50:03.795Z",
+  "exportedAt": "01/03/2026, 09:50:03",
   "total": 38,
-  "pendentes": 36,
-  "postados": 2,
+  "pendentes": 35,
+  "postados": 3,
   "queue": [
     {
       "posicao": 1,
@@ -43,18 +43,18 @@
       "posicao": 3,
       "id": "wa-0946-2",
       "titulo": "Vaporizador Quente Frio Facial Cabelos Estética Anvisa Estek",
-      "preco": "R$ 631",
+      "preco": "R$ 571,00",
       "precoOriginal": "R$1.052",
       "desconto": "39% OFF",
-      "cupom": null,
-      "link": "https://meli.la/1WNdYbj",
+      "cupom": "MELIMODA",
+      "link": "https://mercadolivre.com/sec/2iQnfMY",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_853041-MLB89970337097_082025-AB.webp",
       "horarioProgramado": "09:46",
       "janela": "09:00-10:00",
-      "status": "pendente",
-      "fonte": "OFERTA",
+      "status": "postado",
+      "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-03-01T12:46:44.908Z"
     },
     {
       "posicao": 4,
