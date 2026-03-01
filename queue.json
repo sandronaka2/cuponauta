@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-03-01T13:01:45.066Z",
-  "exportedAt": "01/03/2026, 10:01:45",
+  "lastExport": "2026-03-01T13:02:25.295Z",
+  "exportedAt": "01/03/2026, 10:02:25",
   "total": 38,
-  "pendentes": 34,
-  "postados": 4,
+  "pendentes": 33,
+  "postados": 5,
   "queue": [
     {
       "posicao": 1,
@@ -179,18 +179,18 @@
       "posicao": 11,
       "id": "wa-1002-4",
       "titulo": "Tenis Oakley Masculino Flak 365 Ii Lite",
-      "preco": "R$ 551",
+      "preco": "R$ 491,00",
       "precoOriginal": "R$749,90",
       "desconto": "26% OFF",
-      "cupom": null,
-      "link": "https://meli.la/1oz3hgF",
+      "cupom": "MELIMODA",
+      "link": "https://mercadolivre.com/sec/2iQnfMY",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_608011-MLB106667878411_022026-AB.webp",
       "horarioProgramado": "12:28",
       "janela": "10:00-12:00",
-      "status": "pendente",
-      "fonte": "OFERTA",
+      "status": "postado",
+      "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-03-01T13:02:15.123Z"
     },
     {
       "posicao": 12,
