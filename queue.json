@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-03-03T12:50:02.736Z",
-  "exportedAt": "03/03/2026, 09:50:02",
+  "lastExport": "2026-03-03T12:59:21.822Z",
+  "exportedAt": "03/03/2026, 09:59:21",
   "total": 38,
-  "pendentes": 35,
-  "postados": 3,
+  "pendentes": 34,
+  "postados": 4,
   "queue": [
     {
       "posicao": 1,
@@ -60,18 +60,18 @@
       "posicao": 4,
       "id": "wa-0958-3",
       "titulo": "Colchão Queen Ortofirm 158x198x28 One Face Espuma D33 Dourado",
-      "preco": "R$ 1.029",
+      "preco": "R$ 969,00",
       "precoOriginal": "R$1.769",
       "desconto": "41% OFF",
-      "cupom": null,
-      "link": "https://meli.la/1jtoBGV",
+      "cupom": "MELIPROMO",
+      "link": "https://mercadolivre.com/sec/2iQnfMY",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_810956-MLA99454052064_112025-AB.webp",
       "horarioProgramado": "09:58",
       "janela": "09:00-10:00",
-      "status": "pendente",
-      "fonte": "OFERTA",
+      "status": "postado",
+      "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-03-03T12:58:21.042Z"
     },
     {
       "posicao": 5,
