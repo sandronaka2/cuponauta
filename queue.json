@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-03-03T14:54:07.863Z",
-  "exportedAt": "03/03/2026, 11:54:07",
+  "lastExport": "2026-03-03T14:56:40.419Z",
+  "exportedAt": "03/03/2026, 11:56:40",
   "total": 38,
-  "pendentes": 31,
-  "postados": 7,
+  "pendentes": 30,
+  "postados": 8,
   "queue": [
     {
       "posicao": 1,
@@ -145,18 +145,18 @@
       "posicao": 9,
       "id": "wa-1156-8",
       "titulo": "Perfume Jean Paul Gaultier Le Male Le Parfum Eau De Parfum Intense 200 Ml Masculino",
-      "preco": "R$ 761",
+      "preco": "R$ 701,00",
       "precoOriginal": "R$1.099",
       "desconto": "30% OFF",
-      "cupom": null,
-      "link": "https://meli.la/2P1R8Ag",
+      "cupom": "MELIPROMO",
+      "link": "https://mercadolivre.com/sec/2iQnfMY",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_862275-MLA104274378661_012026-AB.webp",
       "horarioProgramado": "11:56",
       "janela": "10:00-12:00",
-      "status": "pendente",
-      "fonte": "OFERTA",
+      "status": "postado",
+      "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-03-03T14:56:30.036Z"
     },
     {
       "posicao": 10,
