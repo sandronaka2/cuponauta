@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-03-02T23:52:50.460Z",
-  "exportedAt": "02/03/2026, 20:52:50",
+  "lastExport": "2026-03-03T00:02:50.480Z",
+  "exportedAt": "02/03/2026, 21:02:50",
   "total": 38,
-  "pendentes": 5,
-  "postados": 33,
+  "pendentes": 4,
+  "postados": 34,
   "queue": [
     {
       "posicao": 1,
@@ -570,18 +570,18 @@
       "posicao": 34,
       "id": "wa-2058-33",
       "titulo": "Conj De Panelas 8 Peças Ceramic Life Smart Plus Vanilla - Brinox Baunilha",
-      "preco": "R$ 569,00",
+      "preco": "R$ 629",
       "precoOriginal": "R$1.099",
       "desconto": "42% OFF",
-      "cupom": "PAGAMENOS",
-      "link": "https://mercadolivre.com/sec/2iQnfMY",
+      "cupom": null,
+      "link": "https://meli.la/2pC95Yb",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_926181-MLA106965198532_022026-AB.webp",
       "horarioProgramado": "20:58",
       "janela": "18:00-21:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-03-02T23:58:31.035Z"
     },
     {
       "posicao": 35,
