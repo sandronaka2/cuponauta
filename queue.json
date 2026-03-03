@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-03-03T12:30:02.119Z",
-  "exportedAt": "03/03/2026, 09:30:02",
+  "lastExport": "2026-03-03T12:33:32.114Z",
+  "exportedAt": "03/03/2026, 09:33:32",
   "total": 38,
-  "pendentes": 37,
-  "postados": 1,
+  "pendentes": 36,
+  "postados": 2,
   "queue": [
     {
       "posicao": 1,
@@ -26,18 +26,18 @@
       "posicao": 2,
       "id": "wa-0931-1",
       "titulo": "Smartwatch Bettdow Fb055 1.85  Esportivo Ia Música Gps 3atm",
-      "preco": "R$ 369",
+      "preco": "R$ 313,65",
       "precoOriginal": "R$999",
       "desconto": "63% OFF",
-      "cupom": null,
-      "link": "https://meli.la/2Tw1HLJ",
+      "cupom": "DENNISDJ15",
+      "link": "https://mercadolivre.com/sec/2iQnfMY",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_887269-MLB103168918124_012026-AB.webp",
       "horarioProgramado": "09:31",
       "janela": "09:00-10:00",
-      "status": "pendente",
-      "fonte": "OFERTA",
+      "status": "postado",
+      "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-03-03T12:31:13.541Z"
     },
     {
       "posicao": 3,
