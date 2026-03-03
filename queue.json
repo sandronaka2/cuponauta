@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-03-03T13:50:02.181Z",
-  "exportedAt": "03/03/2026, 10:50:02",
+  "lastExport": "2026-03-03T13:59:23.547Z",
+  "exportedAt": "03/03/2026, 10:59:23",
   "total": 38,
-  "pendentes": 33,
-  "postados": 5,
+  "pendentes": 32,
+  "postados": 6,
   "queue": [
     {
       "posicao": 1,
@@ -111,18 +111,18 @@
       "posicao": 7,
       "id": "wa-1057-6",
       "titulo": "Caixa De Som Bluetooth À Prova D'água Boombox 4 Jbl - Preta Preto 127/220v",
-      "preco": "R$ 2.659",
+      "preco": "R$ 2599,00",
       "precoOriginal": "R$3.556",
       "desconto": "25% OFF no Pix",
-      "cupom": null,
-      "link": "https://meli.la/2BsPTMf",
+      "cupom": "MELIPROMO",
+      "link": "https://mercadolivre.com/sec/2iQnfMY",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_682250-MLA99395859458_112025-AB.webp",
       "horarioProgramado": "10:57",
       "janela": "10:00-12:00",
-      "status": "pendente",
-      "fonte": "OFERTA",
+      "status": "postado",
+      "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-03-03T13:57:45.024Z"
     },
     {
       "posicao": 8,
