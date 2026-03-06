@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-03-06T16:10:03.322Z",
-  "exportedAt": "06/03/2026, 13:10:03",
+  "lastExport": "2026-03-06T16:20:03.361Z",
+  "exportedAt": "06/03/2026, 13:20:03",
   "total": 38,
-  "pendentes": 26,
-  "postados": 12,
+  "pendentes": 25,
+  "postados": 13,
   "queue": [
     {
       "posicao": 1,
@@ -230,18 +230,18 @@
       "posicao": 14,
       "id": "wa-1314-13",
       "titulo": "Conjunto Fitness Roupa Academia Legging Zero Transp. Bioc",
-      "preco": "R$ 94",
+      "preco": "R$ 84,60",
       "precoOriginal": "R$149,80",
       "desconto": "37% OFF",
-      "cupom": null,
+      "cupom": "MELIVANTAGEM",
       "link": "https://meli.la/2Q8iozC",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_882770-MLA107331317632_032026-AB.webp",
       "horarioProgramado": "13:14",
       "janela": "12:00-14:00",
-      "status": "pendente",
-      "fonte": "OFERTA",
+      "status": "postado",
+      "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-03-06T16:14:34.733Z"
     },
     {
       "posicao": 15,
