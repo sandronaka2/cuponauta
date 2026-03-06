@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-03-06T15:30:03.328Z",
-  "exportedAt": "06/03/2026, 12:30:03",
+  "lastExport": "2026-03-06T15:31:01.201Z",
+  "exportedAt": "06/03/2026, 12:31:01",
   "total": 38,
-  "pendentes": 29,
-  "postados": 9,
+  "pendentes": 28,
+  "postados": 10,
   "queue": [
     {
       "posicao": 1,
@@ -179,18 +179,18 @@
       "posicao": 11,
       "id": "wa-1230-10",
       "titulo": "Notebook Vaio Fe16 Amd Ryzen 7 5825u Linux 8gb Ram 512gb Ssd Wi-fi 6 Tela 16  Ips Wuxga Antirreflexo - Cinza Grafite Vjfe69f11xb0321h - Permite Upgrade De Memória Ram E Ssd",
-      "preco": "R$ 3.394",
+      "preco": "R$ 3334,00",
       "precoOriginal": "R$7.999",
       "desconto": "57% OFF no Pix",
-      "cupom": null,
+      "cupom": "BORACOMPRAR",
       "link": "https://meli.la/31UejGy",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_695951-MLA99449832220_112025-AB.webp",
       "horarioProgramado": "12:30",
       "janela": "12:00-14:00",
-      "status": "pendente",
-      "fonte": "OFERTA",
+      "status": "postado",
+      "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-03-06T15:30:22.732Z"
     },
     {
       "posicao": 12,
