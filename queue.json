@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-03-06T16:20:03.361Z",
-  "exportedAt": "06/03/2026, 13:20:03",
+  "lastExport": "2026-03-06T16:30:03.211Z",
+  "exportedAt": "06/03/2026, 13:30:03",
   "total": 38,
-  "pendentes": 25,
-  "postados": 13,
+  "pendentes": 24,
+  "postados": 14,
   "queue": [
     {
       "posicao": 1,
@@ -247,18 +247,18 @@
       "posicao": 15,
       "id": "wa-1329-14",
       "titulo": "Secadora De Roupas 12kg Wanke Comfort 12 Programas Branca Swsa120p Branco 220v",
-      "preco": "R$ 1.889",
+      "preco": "R$ 1789,00",
       "precoOriginal": "R$3.161",
       "desconto": "40% OFF",
-      "cupom": null,
+      "cupom": "MELIVANTAGEM",
       "link": "https://meli.la/1PfJMhE",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_758285-MLA91555025152_092025-AB.webp",
       "horarioProgramado": "13:29",
       "janela": "12:00-14:00",
-      "status": "pendente",
-      "fonte": "OFERTA",
+      "status": "postado",
+      "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-03-06T16:29:39.730Z"
     },
     {
       "posicao": 16,
