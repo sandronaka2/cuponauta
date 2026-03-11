@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-03-11T17:20:01.410Z",
-  "exportedAt": "11/03/2026, 14:20:01",
+  "lastExport": "2026-03-11T17:30:01.428Z",
+  "exportedAt": "11/03/2026, 14:30:01",
   "total": 38,
-  "pendentes": 23,
-  "postados": 15,
+  "pendentes": 22,
+  "postados": 16,
   "queue": [
     {
       "posicao": 1,
@@ -289,10 +289,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_794701-MLA95637816574_102025-AB.webp",
       "horarioProgramado": "14:24",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-03-11T17:24:34.794Z"
     },
     {
       "posicao": 18,
