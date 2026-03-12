@@ -882,7 +882,7 @@
         '<div class="product-inner">' +
           '<img class="product-img" src="' + escHtml(p.imagem || '') + '" alt="" loading="lazy" onerror="this.src=\'data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><rect fill=%22%23222%22 width=%22100%22 height=%22100%22/><text x=%2250%22 y=%2255%22 text-anchor=%22middle%22 fill=%22%23555%22 font-size=%2214%22>Sem img</text></svg>\'">' +
           '<div class="product-info">' +
-            '<div class="product-title"><span class="rank-number">#' + rank + '</span>' + escHtml(p.titulo) + '</div>' +
+            '<div class="product-title">' + (p.numericId ? '<span class="rank-number" title="ID #' + p.numericId + '">#' + p.numericId + '</span>' : '<span class="rank-number">#' + rank + '</span>') + escHtml(p.titulo) + '</div>' +
             '<div class="product-prices">' +
               (p.precoOriginal ? '<span class="price-original">' + escHtml(p.precoOriginal) + '</span>' : '') +
               '<span class="price-current">' + escHtml(p.precoAtual || 'N/A') + '</span>' +
