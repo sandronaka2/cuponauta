@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-03-12T19:04:36.587Z",
-  "exportedAt": "12/03/2026, 16:04:36",
+  "lastExport": "2026-03-12T19:11:23.467Z",
+  "exportedAt": "12/03/2026, 16:11:23",
   "total": 38,
-  "pendentes": 19,
-  "postados": 19,
+  "pendentes": 18,
+  "postados": 20,
   "queue": [
     {
       "posicao": 1,
@@ -349,18 +349,18 @@
       "posicao": 21,
       "id": "wa-1606-20",
       "titulo": "Perfume Árabe Asad Bourbon 100ml Lipx",
-      "preco": "R$ 249,92",
+      "preco": "R$ 284",
       "precoOriginal": "R$449",
       "desconto": "36% OFF",
-      "cupom": "DESCONTOAMIGO",
+      "cupom": null,
       "link": "https://meli.la/2ccGpfJ",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_786518-MLA101211429239_122025-AB.webp",
       "horarioProgramado": "16:06",
       "janela": "14:00-18:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-03-12T19:06:09.795Z"
     },
     {
       "posicao": 22,
