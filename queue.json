@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-03-12T14:14:05.653Z",
-  "exportedAt": "12/03/2026, 11:14:05",
+  "lastExport": "2026-03-12T14:23:22.046Z",
+  "exportedAt": "12/03/2026, 11:23:22",
   "total": 38,
-  "pendentes": 32,
-  "postados": 6,
+  "pendentes": 31,
+  "postados": 7,
   "queue": [
     {
       "posicao": 1,
@@ -128,18 +128,18 @@
       "posicao": 8,
       "id": "wa-1122-7",
       "titulo": "Relógio Seculus Masculino Original Prova D'água 50 Metros Preto",
-      "preco": "R$ 242,88",
+      "preco": "R$ 276",
       "precoOriginal": "R$375,44",
       "desconto": "26% OFF",
-      "cupom": "DESCONTOAMIGO",
+      "cupom": null,
       "link": "https://meli.la/2pM2SvZ",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_732853-MLB92386316830_092025-AB.webp",
       "horarioProgramado": "11:22",
       "janela": "10:00-12:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-03-12T14:22:49.830Z"
     },
     {
       "posicao": 9,
