@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-03-12T22:14:36.705Z",
-  "exportedAt": "12/03/2026, 19:14:36",
+  "lastExport": "2026-03-12T22:20:31.578Z",
+  "exportedAt": "12/03/2026, 19:20:31",
   "total": 38,
-  "pendentes": 10,
-  "postados": 28,
+  "pendentes": 9,
+  "postados": 29,
   "queue": [
     {
       "posicao": 1,
@@ -502,18 +502,18 @@
       "posicao": 30,
       "id": "wa-1919-29",
       "titulo": "Smartwatch Compatível iPhone 10 A 16 Com Gps Conecta Strava Dourado Bege",
-      "preco": "R$ 452,00",
+      "preco": "R$ 512",
       "precoOriginal": "R$899",
       "desconto": "43% OFF",
-      "cupom": "DESCONTOAMIGO",
+      "cupom": null,
       "link": "https://meli.la/2JZuE1Z",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_774548-MLB89269709828_082025-AB.webp",
       "horarioProgramado": "19:19",
       "janela": "18:00-21:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-03-12T22:19:50.815Z"
     },
     {
       "posicao": 31,
