@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-03-12T23:34:36.784Z",
-  "exportedAt": "12/03/2026, 20:34:36",
+  "lastExport": "2026-03-12T23:44:36.781Z",
+  "exportedAt": "12/03/2026, 20:44:36",
   "total": 38,
-  "pendentes": 6,
-  "postados": 32,
+  "pendentes": 5,
+  "postados": 33,
   "queue": [
     {
       "posicao": 1,
@@ -570,18 +570,18 @@
       "posicao": 34,
       "id": "wa-2041-33",
       "titulo": "Kit C 4 Calças Moletom Infanto Juvenil Masculino E Feminino",
-      "preco": "R$ 166,32",
+      "preco": "R$ 189",
       "precoOriginal": "R$279,95",
       "desconto": "32% OFF",
-      "cupom": "DESCONTOAMIGO",
+      "cupom": null,
       "link": "https://meli.la/2TpUwbD",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_749153-MLB83679037593_042025-AB.webp",
       "horarioProgramado": "20:41",
       "janela": "18:00-21:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-03-12T23:41:11.780Z"
     },
     {
       "posicao": 35,
