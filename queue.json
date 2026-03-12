@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-03-12T13:01:15.203Z",
-  "exportedAt": "12/03/2026, 10:01:15",
+  "lastExport": "2026-03-12T13:10:03.187Z",
+  "exportedAt": "12/03/2026, 10:10:03",
   "total": 38,
-  "pendentes": 35,
-  "postados": 3,
+  "pendentes": 34,
+  "postados": 4,
   "queue": [
     {
       "posicao": 1,
@@ -77,18 +77,18 @@
       "posicao": 5,
       "id": "wa-1008-4",
       "titulo": "Kit 24 Cabides Veludo Slim Bege Com Presilhas Gancho Cromado",
-      "preco": "R$ 218",
+      "preco": "R$ 191,84",
       "precoOriginal": "R$299,99",
       "desconto": "27% OFF",
-      "cupom": null,
+      "cupom": "DESCONTOAMIGO",
       "link": "https://meli.la/2U5R9cP",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_984726-MLA96174795791_102025-AB.webp",
       "horarioProgramado": "10:08",
       "janela": "10:00-12:00",
-      "status": "pendente",
-      "fonte": "OFERTA",
+      "status": "postado",
+      "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-03-12T13:08:16.049Z"
     },
     {
       "posicao": 6,
