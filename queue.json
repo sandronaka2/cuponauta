@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-03-12T13:24:43.317Z",
-  "exportedAt": "12/03/2026, 10:24:43",
+  "lastExport": "2026-03-12T13:33:21.958Z",
+  "exportedAt": "12/03/2026, 10:33:21",
   "total": 38,
-  "pendentes": 34,
-  "postados": 4,
+  "pendentes": 33,
+  "postados": 5,
   "queue": [
     {
       "posicao": 1,
@@ -94,18 +94,18 @@
       "posicao": 6,
       "id": "wa-1031-5",
       "titulo": "Camiseta Masculina Small Logo Azul/branco adidas Dark Blue Liso M Lisa",
-      "preco": "R$ 70,40",
+      "preco": "R$ 80",
       "precoOriginal": "R$119,99",
       "desconto": "32% OFF no Pix",
-      "cupom": "DESCONTOAMIGO",
+      "cupom": null,
       "link": "https://meli.la/1zrq7ve",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_746118-MLB86423635801_062025-AB.webp",
       "horarioProgramado": "10:31",
       "janela": "10:00-12:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-03-12T13:31:17.967Z"
     },
     {
       "posicao": 7,
