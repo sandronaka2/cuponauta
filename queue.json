@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-03-12T15:23:22.204Z",
-  "exportedAt": "12/03/2026, 12:23:22",
+  "lastExport": "2026-03-12T15:33:22.101Z",
+  "exportedAt": "12/03/2026, 12:33:22",
   "total": 38,
-  "pendentes": 30,
-  "postados": 8,
+  "pendentes": 29,
+  "postados": 9,
   "queue": [
     {
       "posicao": 1,
@@ -162,18 +162,18 @@
       "posicao": 10,
       "id": "wa-1224-9",
       "titulo": "Tênis Masculino Gama Olympikus Preto/preto Lisa 39 Br",
-      "preco": "R$ 169,84",
+      "preco": "R$ 193",
       "precoOriginal": "R$299,99",
       "desconto": "35% OFF",
-      "cupom": "DESCONTOAMIGO",
+      "cupom": null,
       "link": "https://meli.la/18Az9XQ",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_919967-MLB91317030218_092025-AB.webp",
       "horarioProgramado": "12:24",
       "janela": "12:00-14:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-03-12T15:24:42.809Z"
     },
     {
       "posicao": 11,
