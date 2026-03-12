@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-03-12T19:54:36.608Z",
-  "exportedAt": "12/03/2026, 16:54:36",
+  "lastExport": "2026-03-12T20:04:36.692Z",
+  "exportedAt": "12/03/2026, 17:04:36",
   "total": 38,
-  "pendentes": 17,
-  "postados": 21,
+  "pendentes": 16,
+  "postados": 22,
   "queue": [
     {
       "posicao": 1,
@@ -383,18 +383,18 @@
       "posicao": 23,
       "id": "wa-1701-22",
       "titulo": "Controle Pro Para Nitendo Switch Oled Edição Especial Turbo",
-      "preco": "R$ 145,20",
+      "preco": "R$ 165",
       "precoOriginal": "R$299,90",
       "desconto": "44% OFF",
-      "cupom": "DESCONTOAMIGO",
+      "cupom": null,
       "link": "https://meli.la/2cU5weq",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_905686-MLB100010779418_122025-AB.webp",
       "horarioProgramado": "17:01",
       "janela": "14:00-18:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-03-12T20:01:19.112Z"
     },
     {
       "posicao": 24,
