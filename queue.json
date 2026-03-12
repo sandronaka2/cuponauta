@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-03-12T21:34:36.663Z",
-  "exportedAt": "12/03/2026, 18:34:36",
+  "lastExport": "2026-03-12T21:44:36.668Z",
+  "exportedAt": "12/03/2026, 18:44:36",
   "total": 38,
-  "pendentes": 12,
-  "postados": 26,
+  "pendentes": 11,
+  "postados": 27,
   "queue": [
     {
       "posicao": 1,
@@ -468,18 +468,18 @@
       "posicao": 28,
       "id": "wa-1839-27",
       "titulo": "Cinto Masculino Couro Jeep Original Premium Luxo Social",
-      "preco": "R$ 87,12",
+      "preco": "R$ 99",
       "precoOriginal": "R$107,97",
       "desconto": "7% OFF",
-      "cupom": "DESCONTOAMIGO",
+      "cupom": null,
       "link": "https://meli.la/1nBr4mE",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_871407-MLB99360546744_112025-AB.webp",
       "horarioProgramado": "18:39",
       "janela": "18:00-21:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-03-12T21:39:20.783Z"
     },
     {
       "posicao": 29,
