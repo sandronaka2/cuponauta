@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-03-12T23:24:36.788Z",
-  "exportedAt": "12/03/2026, 20:24:36",
+  "lastExport": "2026-03-12T23:34:36.784Z",
+  "exportedAt": "12/03/2026, 20:34:36",
   "total": 38,
-  "pendentes": 7,
-  "postados": 31,
+  "pendentes": 6,
+  "postados": 32,
   "queue": [
     {
       "posicao": 1,
@@ -553,18 +553,18 @@
       "posicao": 33,
       "id": "wa-2030-32",
       "titulo": "Ar Condicionado Eco Inverter Ii Connect Elgin 18k F R32 Branco 220v",
-      "preco": "R$ 3407,00",
+      "preco": "R$ 3.467",
       "precoOriginal": "R$3.991",
       "desconto": "13% OFF",
-      "cupom": "DESCONTOAMIGO",
+      "cupom": null,
       "link": "https://meli.la/1oZbXg7",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_829129-MLA99543615790_122025-AB.webp",
       "horarioProgramado": "20:30",
       "janela": "18:00-21:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-03-12T23:30:11.808Z"
     },
     {
       "posicao": 34,
