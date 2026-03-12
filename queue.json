@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-03-12T12:50:03.183Z",
-  "exportedAt": "12/03/2026, 09:50:03",
+  "lastExport": "2026-03-12T13:00:03.149Z",
+  "exportedAt": "12/03/2026, 10:00:03",
   "total": 38,
-  "pendentes": 36,
-  "postados": 2,
+  "pendentes": 35,
+  "postados": 3,
   "queue": [
     {
       "posicao": 1,
@@ -60,18 +60,18 @@
       "posicao": 4,
       "id": "wa-0958-3",
       "titulo": "Cadeira De Banho Para Idoso Dobrável 100kg Higiênica Rodas",
-      "preco": "R$ 189",
+      "preco": "R$ 166,32",
       "precoOriginal": "R$590",
       "desconto": "67% OFF",
-      "cupom": "AUTOCUIDADO",
+      "cupom": "DESCONTOAMIGO",
       "link": "https://meli.la/23LBU67",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_914313-MLB94035487995_102025-E.webp",
       "horarioProgramado": "09:58",
       "janela": "09:00-10:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-03-12T12:58:46.199Z"
     },
     {
       "posicao": 5,
