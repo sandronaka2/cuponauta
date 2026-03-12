@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-03-12T17:26:35.699Z",
-  "exportedAt": "12/03/2026, 14:26:35",
+  "lastExport": "2026-03-12T17:34:36.420Z",
+  "exportedAt": "12/03/2026, 14:34:36",
   "total": 38,
-  "pendentes": 22,
-  "postados": 16,
+  "pendentes": 21,
+  "postados": 17,
   "queue": [
     {
       "posicao": 1,
@@ -298,18 +298,18 @@
       "posicao": 18,
       "id": "wa-1434-17",
       "titulo": "Relógio Smartwatch Wearzone Horizon Pro 4g/5g  Android Nfc Preto Mesh",
-      "preco": "R$ 289,52",
+      "preco": "R$ 329",
       "precoOriginal": "R$499",
       "desconto": "34% OFF",
-      "cupom": "DESCONTOAMIGO",
+      "cupom": null,
       "link": "https://meli.la/28b4Udh",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_635573-MLB105012393330_012026-AB.webp",
       "horarioProgramado": "14:34",
       "janela": "14:00-18:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-03-12T17:34:06.938Z"
     },
     {
       "posicao": 19,
