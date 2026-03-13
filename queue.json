@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-03-13T00:44:36.833Z",
-  "exportedAt": "12/03/2026, 21:44:36",
+  "lastExport": "2026-03-13T00:54:36.823Z",
+  "exportedAt": "12/03/2026, 21:54:36",
   "total": 38,
-  "pendentes": 2,
-  "postados": 36,
+  "pendentes": 1,
+  "postados": 37,
   "queue": [
     {
       "posicao": 1,
@@ -638,18 +638,18 @@
       "posicao": 38,
       "id": "wa-2148-37",
       "titulo": "Whey Protein Concentrado 1kg Sabor Chocolate Belga Soldiers Nutrition Rico em Proteína Treino",
-      "preco": "R$ 101,20",
+      "preco": "R$ 115",
       "precoOriginal": "R$299,90",
       "desconto": "61% OFF",
-      "cupom": "DESCONTOAMIGO",
+      "cupom": null,
       "link": "https://meli.la/2rU5N2a",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_859018-MLA100008028659_122025-E.webp",
       "horarioProgramado": "21:48",
       "janela": "21:00-22:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-03-13T00:48:34.786Z"
     }
   ]
 }
