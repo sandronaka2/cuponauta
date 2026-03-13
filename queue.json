@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-03-13T00:24:36.800Z",
-  "exportedAt": "12/03/2026, 21:24:36",
+  "lastExport": "2026-03-13T00:34:36.799Z",
+  "exportedAt": "12/03/2026, 21:34:36",
   "total": 38,
-  "pendentes": 3,
-  "postados": 35,
+  "pendentes": 2,
+  "postados": 36,
   "queue": [
     {
       "posicao": 1,
@@ -621,18 +621,18 @@
       "posicao": 37,
       "id": "wa-2132-36",
       "titulo": "Ar-condicionado Portátil Rheem 12000btus Frio Branco 127v",
-      "preco": "R$ 2939,00",
+      "preco": "R$ 2.999",
       "precoOriginal": "R$3.389",
       "desconto": "11% OFF",
-      "cupom": "DESCONTOAMIGO",
+      "cupom": null,
       "link": "https://meli.la/2EzXpyk",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_914926-MLA99478480312_112025-AB.webp",
       "horarioProgramado": "21:32",
       "janela": "21:00-22:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-03-13T00:32:43.789Z"
     },
     {
       "posicao": 38,
