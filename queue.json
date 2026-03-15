@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-03-15T14:10:04.411Z",
-  "exportedAt": "15/03/2026, 11:10:04",
+  "lastExport": "2026-03-15T14:16:35.031Z",
+  "exportedAt": "15/03/2026, 11:16:35",
   "total": 38,
-  "pendentes": 32,
-  "postados": 6,
+  "pendentes": 31,
+  "postados": 7,
   "queue": [
     {
       "posicao": 1,
@@ -111,18 +111,18 @@
       "posicao": 7,
       "id": "wa-1111-6",
       "titulo": "Cortina Lorena 4.00x 2.70 Metros Para Sala Quarto Escritório",
-      "preco": "R$ 158",
+      "preco": "R$ 134,30",
       "precoOriginal": "R$299,99",
       "desconto": "47% OFF no Pix",
-      "cupom": null,
+      "cupom": "15MAISA",
       "link": "https://meli.la/1rg6KWd",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_821078-MLB106059799826_022026-AB.webp",
       "horarioProgramado": "11:11",
       "janela": "10:00-12:00",
-      "status": "pendente",
-      "fonte": "OFERTA",
+      "status": "postado",
+      "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-03-15T14:11:46.161Z"
     },
     {
       "posicao": 8,
