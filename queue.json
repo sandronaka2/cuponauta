@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-03-16T13:40:04.432Z",
-  "exportedAt": "16/03/2026, 10:40:04",
+  "lastExport": "2026-03-16T13:47:33.495Z",
+  "exportedAt": "16/03/2026, 10:47:33",
   "total": 38,
-  "pendentes": 33,
-  "postados": 5,
+  "pendentes": 32,
+  "postados": 6,
   "queue": [
     {
       "posicao": 1,
@@ -94,18 +94,18 @@
       "posicao": 6,
       "id": "wa-1047-5",
       "titulo": "Whey Protein Concentrado 1kg Growth Supplements - Capuccino Cappuccino",
-      "preco": "R$ 144,32",
+      "preco": "R$ 164",
       "precoOriginal": "R$199,90",
       "desconto": "17% OFF",
-      "cupom": "OFERTAJA",
+      "cupom": null,
       "link": "https://meli.la/1c3vhkY",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_955359-MLA98408972330_112025-AB.webp",
       "horarioProgramado": "10:47",
       "janela": "10:00-12:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-03-16T13:47:31.887Z"
     },
     {
       "posicao": 7,
