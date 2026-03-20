@@ -624,6 +624,9 @@
       <span class="search-icon">&#x1F50D;</span>
       <input type="text" class="search-box" id="searchInput" placeholder="Buscar produto..." autocomplete="off">
     </div>
+    <button class="filter-btn active" id="sourceAllFilter" onclick="changeSourceFilter('all')">Todas as Fontes</button>
+    <button class="filter-btn" id="sourceMlFilter" onclick="changeSourceFilter('mercadoLivre')">Mercado Livre</button>
+    <button class="filter-btn" id="sourceMagaluFilter" onclick="changeSourceFilter('magalu')">Magalu</button>
     <button class="filter-btn" id="couponFilter" onclick="toggleCouponFilter()">&#x1F3AB; S&oacute; com Cupom</button>
     <span class="results-count" id="resultsCount"></span>
   </div>
@@ -664,6 +667,7 @@
     let searchTimeout = null;
     let currentSort = 'score';
     let cuponsGerais = [];
+    let currentSourceFilter = 'all';
 
     // ── Posted / Seen tracking (localStorage, daily) ──
     const TODAY_KEY = new Date().toISOString().slice(0, 10);
@@ -698,6 +702,9 @@
         }
 
         const products = json.products || [];
+        products.forEach(p => {
+          p.source = normalizeSource(p.source, p.numericId);
+        });
         allData = { 'Geral': products };
         RANGE_ORDER.forEach(r => { if (r !== 'Geral') allData[r] = []; });
         products.forEach(p => { if (p.faixa && allData[p.faixa]) allData[p.faixa].push(p); });
@@ -708,6 +715,14 @@
         document.getElementById('content').innerHTML =
           '<div class="loading-section" style="color:#ff4444;">Erro ao carregar: ' + err.message + '</div>';
       }
+    }
+
+    function normalizeSource(source, numericId) {
+      const raw = String(source || '').toLowerCase();
+      if (raw.includes('magalu')) return 'magalu';
+      if (raw.includes('mercado')) return 'mercadoLivre';
+      if (String(numericId || '').toLowerCase().startsWith('m')) return 'magalu';
+      return 'mercadoLivre';
     }
 
     // ── Build WhatsApp text ──
@@ -774,11 +789,18 @@
     function renderPage() {
       const ranges = RANGE_ORDER.filter(r => allData[r] && allData[r].length > 0);
       const totalProducts = allData['Geral'] ? allData['Geral'].length : 0;
+      const bySource = (allData['Geral'] || []).reduce((acc, p) => {
+        const src = p.source || 'mercadoLivre';
+        acc[src] = (acc[src] || 0) + 1;
+        return acc;
+      }, { mercadoLivre: 0, magalu: 0 });
 
       const refreshTime = serverLastRefresh ? new Date(serverLastRefresh).toLocaleTimeString('pt-BR') : '\u2014';
       document.getElementById('statsBar').innerHTML =
         '<span>Faixas: <strong>' + ranges.length + '</strong></span>' +
         '<span>Produtos: <strong>' + totalProducts + '</strong></span>' +
+        '<span>ML: <strong>' + (bySource.mercadoLivre || 0) + '</strong></span>' +
+        '<span>Magalu: <strong>' + (bySource.magalu || 0) + '</strong></span>' +
         '<span>Atualizado: <strong>' + refreshTime + '</strong></span>';
 
       // Tabs
@@ -859,6 +881,7 @@
       card.dataset.vendasNum = p.vendasNum || 0;
       card.dataset.avaliacaoNum = p.avaliacaoNum || 0;
       card.dataset.descontoNum = p.descontoNum || 0;
+      card.dataset.source = p.source || 'mercadoLivre';
 
       const whatsText = buildWhatsText(p);
       const score = p.score || 0;
@@ -868,6 +891,7 @@
       let metaTags = '';
       if (p.cupomNome) metaTags += '<span class="meta-tag coupon">\ud83c\udfab ' + escHtml(p.cupomNome) + (p.cupomDesconto ? ' (' + escHtml(p.cupomDesconto) + ')' : '') + '</span>';
       else if (p.cupom) metaTags += '<span class="meta-tag coupon">\ud83c\udfab ' + escHtml(p.cupom) + '</span>';
+      metaTags += '<span class="meta-tag seller">' + (p.source === 'magalu' ? 'Magalu' : 'Mercado Livre') + '</span>';
       if (p.vendedor) metaTags += '<span class="meta-tag seller">\ud83c\udfea ' + escHtml(p.vendedor) + '</span>';
       if (p.destaque && p.destaque.includes('REL\u00c2MPAGO') && p.ofertaExpiraEmLocal) {
         const exp = new Date(p.ofertaExpiraEmLocal);
@@ -1009,6 +1033,14 @@
       applyFilters();
     }
 
+    function changeSourceFilter(source) {
+      currentSourceFilter = source;
+      document.getElementById('sourceAllFilter').classList.toggle('active', source === 'all');
+      document.getElementById('sourceMlFilter').classList.toggle('active', source === 'mercadoLivre');
+      document.getElementById('sourceMagaluFilter').classList.toggle('active', source === 'magalu');
+      applyFilters();
+    }
+
     // ── Apply Filters ──
     function applyFilters() {
       const query = document.getElementById('searchInput').value.toLowerCase().trim();
@@ -1019,10 +1051,12 @@
       cards.forEach(card => {
         const titulo = card.dataset.titulo || '';
         const hasCoupon = card.dataset.hasCoupon === '1';
+        const source = card.dataset.source || 'mercadoLivre';
 
         let show = true;
         if (query && !titulo.includes(query)) show = false;
         if (couponFilterActive && !hasCoupon) show = false;
+        if (currentSourceFilter !== 'all' && source !== currentSourceFilter) show = false;
 
         card.classList.toggle('hidden', !show);
       });
@@ -1036,10 +1070,13 @@
       const total = activeSection.querySelectorAll('.product-card').length;
       const visible = activeSection.querySelectorAll('.product-card:not(.hidden)').length;
       const el = document.getElementById('resultsCount');
+      const sourceLabel = currentSourceFilter === 'all'
+        ? ''
+        : (currentSourceFilter === 'magalu' ? ' (Magalu)' : ' (Mercado Livre)');
       if (visible === total) {
-        el.textContent = total + ' produtos';
+        el.textContent = total + ' produtos' + sourceLabel;
       } else {
-        el.textContent = visible + ' de ' + total;
+        el.textContent = visible + ' de ' + total + sourceLabel;
       }
     }
 
