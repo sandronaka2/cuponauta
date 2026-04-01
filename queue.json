@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-01T23:22:03.732Z",
-  "exportedAt": "01/04/2026, 20:22:03",
+  "lastExport": "2026-04-01T23:30:06.474Z",
+  "exportedAt": "01/04/2026, 20:30:06",
   "total": 72,
-  "pendentes": 14,
-  "postados": 58,
+  "pendentes": 13,
+  "postados": 59,
   "queue": [
     {
       "posicao": 1,
@@ -1012,18 +1012,18 @@
       "posicao": 60,
       "id": "wa-2025-59",
       "titulo": "Vestido De Malha Premium Alto Padrão Luxo Tendência Da Moda",
-      "preco": "R$ 152",
+      "preco": "R$ 136,80",
       "precoOriginal": "R$239,90",
       "desconto": "36% OFF",
-      "cupom": null,
+      "cupom": "OFERTAHOJE",
       "link": "https://meli.la/1fZY1tB",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_674209-MLB96528390929_102025-AB-vestido-de-malha-premium-alto-padro-luxo-tendncia-da-moda.webp",
       "horarioProgramado": "20:25",
       "janela": "18:00-21:00",
-      "status": "pendente",
-      "fonte": "OFERTA",
+      "status": "postado",
+      "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-01T23:25:09.257Z"
     },
     {
       "posicao": 61,
