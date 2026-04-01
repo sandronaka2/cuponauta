@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-01T23:10:07.653Z",
-  "exportedAt": "01/04/2026, 20:10:07",
+  "lastExport": "2026-04-01T23:20:06.373Z",
+  "exportedAt": "01/04/2026, 20:20:06",
   "total": 72,
-  "pendentes": 15,
-  "postados": 57,
+  "pendentes": 14,
+  "postados": 58,
   "queue": [
     {
       "posicao": 1,
@@ -995,18 +995,18 @@
       "posicao": 59,
       "id": "wa-2016-58",
       "titulo": "Celular Samsung Galaxy A17 Com Ia, 256gb, 8gb Ram, Câm De 50mp, Tela De 6.7 , Nfc, Ip54 - Azul",
-      "preco": "R$ 1.079",
+      "preco": "R$ 1019,00",
       "precoOriginal": "R$1.749",
       "desconto": "38% OFF no Pix ou Saldo no Mercado Pago",
-      "cupom": null,
+      "cupom": "OFERTAHOJE",
       "link": "https://meli.la/1k5EbB7",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_889169-MLA96868779849_102025-AB.webp",
       "horarioProgramado": "20:16",
       "janela": "18:00-21:00",
-      "status": "pendente",
-      "fonte": "OFERTA",
+      "status": "postado",
+      "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-01T23:16:16.254Z"
     },
     {
       "posicao": 60,
