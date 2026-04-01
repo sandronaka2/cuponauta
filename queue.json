@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-01T16:40:05.533Z",
-  "exportedAt": "01/04/2026, 13:40:05",
+  "lastExport": "2026-04-01T16:50:05.542Z",
+  "exportedAt": "01/04/2026, 13:50:05",
   "total": 72,
-  "pendentes": 50,
-  "postados": 22,
+  "pendentes": 48,
+  "postados": 24,
   "queue": [
     {
       "posicao": 1,
@@ -408,10 +408,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_808103-MLB85975680347_062025-AB-casaco-feminino-sobretudo-longo-com-botoes-inverno-confort.webp",
       "horarioProgramado": "13:41",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-01T16:41:45.299Z"
     },
     {
       "posicao": 25,
@@ -425,10 +425,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_836889-MLB89397532682_082025-AB-cilios-5dw-fadvan-volume-egipicio-extenso-de-cilios.webp",
       "horarioProgramado": "13:49",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-01T16:49:53.319Z"
     },
     {
       "posicao": 26,
