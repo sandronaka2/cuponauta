@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-01T18:05:33.984Z",
-  "exportedAt": "01/04/2026, 15:05:33",
+  "lastExport": "2026-04-01T18:10:05.729Z",
+  "exportedAt": "01/04/2026, 15:10:05",
   "total": 72,
-  "pendentes": 43,
-  "postados": 29,
+  "pendentes": 42,
+  "postados": 30,
   "queue": [
     {
       "posicao": 1,
@@ -527,10 +527,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_989752-MLB86354504940_062025-AB-kit-3-cintos-femininos-plus-size-casual-social-fivela-prata.webp",
       "horarioProgramado": "15:06",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-01T18:06:20.002Z"
     },
     {
       "posicao": 32,
