@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-01T15:00:53.609Z",
-  "exportedAt": "01/04/2026, 12:00:53",
+  "lastExport": "2026-04-01T15:01:34.263Z",
+  "exportedAt": "01/04/2026, 12:01:34",
   "total": 72,
-  "pendentes": 61,
-  "postados": 11,
+  "pendentes": 60,
+  "postados": 12,
   "queue": [
     {
       "posicao": 1,
@@ -221,10 +221,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_643568-MLB89783608909_082025-AB-cilios-4d-w-decemars-volume-egipcio-tam-unico-mix.webp",
       "horarioProgramado": "12:01",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-01T15:01:19.947Z"
     },
     {
       "posicao": 14,
