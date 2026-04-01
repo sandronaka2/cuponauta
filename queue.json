@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-01T16:20:05.604Z",
-  "exportedAt": "01/04/2026, 13:20:05",
+  "lastExport": "2026-04-01T16:29:56.317Z",
+  "exportedAt": "01/04/2026, 13:29:56",
   "total": 72,
-  "pendentes": 52,
-  "postados": 20,
+  "pendentes": 51,
+  "postados": 21,
   "queue": [
     {
       "posicao": 1,
@@ -374,10 +374,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_657923-MLB79164515522_092024-AB-kit-4-cueca-boxer-algodo-sem-costura-zorba-adulto-masculina.webp",
       "horarioProgramado": "13:24",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-01T16:24:17.251Z"
     },
     {
       "posicao": 23,
