@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-01T23:30:06.474Z",
-  "exportedAt": "01/04/2026, 20:30:06",
+  "lastExport": "2026-04-01T23:40:06.489Z",
+  "exportedAt": "01/04/2026, 20:40:06",
   "total": 72,
-  "pendentes": 13,
-  "postados": 59,
+  "pendentes": 12,
+  "postados": 60,
   "queue": [
     {
       "posicao": 1,
@@ -1029,18 +1029,18 @@
       "posicao": 61,
       "id": "wa-2033-60",
       "titulo": "Lava E Seca 11kg Titanium Slim Conectada Midea Cinza-escuro 127v",
-      "preco": "R$ 3.039",
+      "preco": "R$ 2979,00",
       "precoOriginal": "R$4.023",
       "desconto": "24% OFF no Pix",
-      "cupom": null,
+      "cupom": "OFERTAHOJE",
       "link": "https://meli.la/1RYpRLw",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_990916-MLA95355386089_102025-AB.webp",
       "horarioProgramado": "20:33",
       "janela": "18:00-21:00",
-      "status": "pendente",
-      "fonte": "OFERTA",
+      "status": "postado",
+      "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-01T23:33:35.247Z"
     },
     {
       "posicao": 62,
