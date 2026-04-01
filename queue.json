@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-01T12:50:05.296Z",
-  "exportedAt": "01/04/2026, 09:50:05",
+  "lastExport": "2026-04-01T12:58:47.007Z",
+  "exportedAt": "01/04/2026, 09:58:47",
   "total": 72,
-  "pendentes": 70,
-  "postados": 2,
+  "pendentes": 69,
+  "postados": 3,
   "queue": [
     {
       "posicao": 1,
@@ -68,10 +68,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_782497-MLB94694927481_102025-E.webp",
       "horarioProgramado": "09:58",
       "janela": "09:00-10:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-01T12:58:46.328Z"
     },
     {
       "posicao": 5,
@@ -416,13 +416,13 @@
     {
       "posicao": 25,
       "id": "wa-1349-24",
-      "titulo": "Kit 10 Metros Perfil Alumínio Embutir Slim P/ Fita Led Luz Branco 127/220v",
-      "preco": "R$ 49",
-      "precoOriginal": "R$78,99",
-      "desconto": "37% OFF",
+      "titulo": "Cílios 5dw Fadvan Volume Egípicio Extensão De Cilios",
+      "preco": "R$ 39",
+      "precoOriginal": "R$54,45",
+      "desconto": "27% OFF",
       "cupom": null,
-      "link": "https://meli.la/2S8X9BR",
-      "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_709698-MLA96100971863_102025-AB.webp",
+      "link": "https://meli.la/2VZ3Vng",
+      "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_836889-MLB89397532682_082025-AB-cilios-5dw-fadvan-volume-egipicio-extenso-de-cilios.webp",
       "horarioProgramado": "13:49",
       "janela": "12:00-14:00",
       "status": "pendente",
