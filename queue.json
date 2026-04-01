@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-01T19:50:05.767Z",
-  "exportedAt": "01/04/2026, 16:50:05",
+  "lastExport": "2026-04-01T20:00:07.343Z",
+  "exportedAt": "01/04/2026, 17:00:07",
   "total": 72,
-  "pendentes": 36,
-  "postados": 36,
+  "pendentes": 35,
+  "postados": 37,
   "queue": [
     {
       "posicao": 1,
@@ -646,10 +646,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_967671-MLB107821810080_032026-AB-camiseta-puma-termica-manga-longa-proteco-uv-50-masculina.webp",
       "horarioProgramado": "16:56",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-01T19:56:25.222Z"
     },
     {
       "posicao": 39,
