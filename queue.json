@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-01T23:00:06.570Z",
-  "exportedAt": "01/04/2026, 20:00:06",
+  "lastExport": "2026-04-01T23:10:07.653Z",
+  "exportedAt": "01/04/2026, 20:10:07",
   "total": 72,
-  "pendentes": 16,
-  "postados": 56,
+  "pendentes": 15,
+  "postados": 57,
   "queue": [
     {
       "posicao": 1,
@@ -978,18 +978,18 @@
       "posicao": 58,
       "id": "wa-2008-57",
       "titulo": "Relógio Masculino Skmei 1389 Prova D'água Digital Esporte Nf",
-      "preco": "R$ 120",
+      "preco": "R$ 108,00",
       "precoOriginal": "R$180",
       "desconto": "33% OFF no Pix",
-      "cupom": null,
+      "cupom": "OFERTAHOJE",
       "link": "https://meli.la/1DmN735",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_951192-MLB95832680599_102025-AB-relogio-masculino-skmei-1389-prova-dagua-digital-esporte-nf.webp",
       "horarioProgramado": "20:08",
       "janela": "18:00-21:00",
-      "status": "pendente",
-      "fonte": "OFERTA",
+      "status": "postado",
+      "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-01T23:08:10.634Z"
     },
     {
       "posicao": 59,
