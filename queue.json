@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-02T16:50:43.356Z",
-  "exportedAt": "02/04/2026, 13:50:43",
+  "lastExport": "2026-04-02T17:00:43.424Z",
+  "exportedAt": "02/04/2026, 14:00:43",
   "total": 72,
-  "pendentes": 48,
-  "postados": 24,
+  "pendentes": 46,
+  "postados": 26,
   "queue": [
     {
       "posicao": 1,
@@ -425,10 +425,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_978820-MLB92702564834_092025-AB-calca-jeans-feminina-cargo-pantalona-wide-leg-cintura-alta.webp",
       "horarioProgramado": "13:50",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-02T16:50:54.071Z"
     },
     {
       "posicao": 26,
@@ -442,10 +442,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_941294-MLB93336143246_092025-AB-camiseta-dry-fit-slim-academia-proteco-uv-voker-original.webp",
       "horarioProgramado": "13:58",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-02T16:58:56.528Z"
     },
     {
       "posicao": 27,
