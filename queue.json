@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-02T16:30:43.320Z",
-  "exportedAt": "02/04/2026, 13:30:43",
+  "lastExport": "2026-04-02T16:40:43.825Z",
+  "exportedAt": "02/04/2026, 13:40:43",
   "total": 72,
-  "pendentes": 50,
-  "postados": 22,
+  "pendentes": 49,
+  "postados": 23,
   "queue": [
     {
       "posicao": 1,
@@ -391,10 +391,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_871924-MLB109356386037_032026-AB-blusa-feminina-gola-alta-canelada-cacharrel-segunda-pele.webp",
       "horarioProgramado": "13:34",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-02T16:34:14.119Z"
     },
     {
       "posicao": 24,
