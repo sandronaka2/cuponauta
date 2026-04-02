@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-02T21:09:12.956Z",
-  "exportedAt": "02/04/2026, 18:09:12",
+  "lastExport": "2026-04-02T21:22:09.245Z",
+  "exportedAt": "02/04/2026, 18:22:09",
   "total": 72,
-  "pendentes": 29,
-  "postados": 43,
+  "pendentes": 27,
+  "postados": 45,
   "queue": [
     {
       "posicao": 1,
@@ -748,10 +748,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_848128-MLU74191829298_012024-AB.webp",
       "horarioProgramado": "18:09",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-02T21:09:37.552Z"
     },
     {
       "posicao": 45,
@@ -765,10 +765,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_839178-MLB81963635588_022025-AB-tnis-ultimashow-20-adidas.webp",
       "horarioProgramado": "18:18",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-02T21:18:20.551Z"
     },
     {
       "posicao": 46,
