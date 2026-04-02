@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-02T14:40:43.843Z",
-  "exportedAt": "02/04/2026, 11:40:43",
+  "lastExport": "2026-04-02T14:50:43.393Z",
+  "exportedAt": "02/04/2026, 11:50:43",
   "total": 72,
-  "pendentes": 62,
-  "postados": 10,
+  "pendentes": 61,
+  "postados": 11,
   "queue": [
     {
       "posicao": 1,
@@ -179,18 +179,18 @@
       "posicao": 11,
       "id": "wa-1143-10",
       "titulo": "Principia Kit Gl-02 + Gh-01 + Ps-01 Todo Tipo De Pele Dia/noite",
-      "preco": "R$ 116",
+      "preco": "R$ 104,40",
       "precoOriginal": "R$147",
       "desconto": "21% OFF",
-      "cupom": null,
+      "cupom": "PROMOAGORA",
       "link": "https://meli.la/13RaqrS",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_636403-MLA99022118074_112025-AB.webp",
       "horarioProgramado": "11:43",
       "janela": "10:00-12:00",
-      "status": "pendente",
-      "fonte": "OFERTA",
+      "status": "postado",
+      "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-02T14:43:16.236Z"
     },
     {
       "posicao": 12,
