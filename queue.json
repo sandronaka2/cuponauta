@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-02T00:30:06.475Z",
-  "exportedAt": "01/04/2026, 21:30:06",
+  "lastExport": "2026-04-02T00:40:06.423Z",
+  "exportedAt": "01/04/2026, 21:40:06",
   "total": 72,
-  "pendentes": 5,
-  "postados": 67,
+  "pendentes": 4,
+  "postados": 68,
   "queue": [
     {
       "posicao": 1,
@@ -1165,18 +1165,18 @@
       "posicao": 69,
       "id": "wa-2134-68",
       "titulo": "Panela De Pressão 4,5l Teflon Antiaderente Alegrete Cinza",
-      "preco": "R$ 135",
+      "preco": "R$ 121,50",
       "precoOriginal": "R$179,90",
       "desconto": "24% OFF no Pix",
-      "cupom": null,
+      "cupom": "OFERTAHOJE",
       "link": "https://meli.la/16cpBES",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_917630-MLA99450686010_112025-AB.webp",
       "horarioProgramado": "21:34",
       "janela": "21:00-22:00",
-      "status": "pendente",
-      "fonte": "OFERTA",
+      "status": "postado",
+      "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-02T00:34:13.241Z"
     },
     {
       "posicao": 70,
