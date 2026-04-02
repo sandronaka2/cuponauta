@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-02T00:22:04.774Z",
-  "exportedAt": "01/04/2026, 21:22:04",
+  "lastExport": "2026-04-02T00:30:06.475Z",
+  "exportedAt": "01/04/2026, 21:30:06",
   "total": 72,
-  "pendentes": 6,
-  "postados": 66,
+  "pendentes": 5,
+  "postados": 67,
   "queue": [
     {
       "posicao": 1,
@@ -1156,10 +1156,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_666512-MLB72110345387_102023-AB-cortina-blackout-de-pvc-220m-x-130m-preto-corta-luz.webp",
       "horarioProgramado": "21:26",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-02T00:26:28.014Z"
     },
     {
       "posicao": 69,
