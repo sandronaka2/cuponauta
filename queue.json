@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-02T00:40:06.423Z",
-  "exportedAt": "01/04/2026, 21:40:06",
+  "lastExport": "2026-04-02T00:50:06.438Z",
+  "exportedAt": "01/04/2026, 21:50:06",
   "total": 72,
-  "pendentes": 4,
-  "postados": 68,
+  "pendentes": 3,
+  "postados": 69,
   "queue": [
     {
       "posicao": 1,
@@ -1182,18 +1182,18 @@
       "posicao": 70,
       "id": "wa-2142-69",
       "titulo": "Console Nintendo Switch 2, Modelo Nacional De Tomada",
-      "preco": "R$ 3.895",
+      "preco": "R$ 3835,00",
       "precoOriginal": "R$5.909",
       "desconto": "34% OFF no Pix",
-      "cupom": null,
+      "cupom": "OFERTAHOJE",
       "link": "https://meli.la/2Hckspj",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_785396-MLA99867558581_112025-AB.webp",
       "horarioProgramado": "21:42",
       "janela": "21:00-22:00",
-      "status": "pendente",
-      "fonte": "OFERTA",
+      "status": "postado",
+      "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-02T00:42:33.223Z"
     },
     {
       "posicao": 71,
