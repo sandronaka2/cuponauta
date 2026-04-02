@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-02T14:50:43.393Z",
-  "exportedAt": "02/04/2026, 11:50:43",
+  "lastExport": "2026-04-02T15:00:43.466Z",
+  "exportedAt": "02/04/2026, 12:00:43",
   "total": 72,
-  "pendentes": 61,
-  "postados": 11,
+  "pendentes": 60,
+  "postados": 12,
   "queue": [
     {
       "posicao": 1,
@@ -196,18 +196,18 @@
       "posicao": 12,
       "id": "wa-1158-11",
       "titulo": "Azeite De Oliva Extra Virgem Português Andorinha Clássicos Galão 3l",
-      "preco": "R$ 165",
+      "preco": "R$ 148,50",
       "precoOriginal": "R$289,90",
       "desconto": "42% OFF",
-      "cupom": null,
+      "cupom": "PROMOAGORA",
       "link": "https://meli.la/1QFsMuF",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_879733-MLA99936782451_112025-AB.webp",
       "horarioProgramado": "11:58",
       "janela": "10:00-12:00",
-      "status": "pendente",
-      "fonte": "OFERTA",
+      "status": "postado",
+      "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-02T14:58:26.244Z"
     },
     {
       "posicao": 13,
