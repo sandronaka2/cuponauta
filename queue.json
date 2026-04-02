@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-02T14:10:46.126Z",
-  "exportedAt": "02/04/2026, 11:10:46",
+  "lastExport": "2026-04-02T14:20:43.384Z",
+  "exportedAt": "02/04/2026, 11:20:43",
   "total": 72,
-  "pendentes": 64,
-  "postados": 8,
+  "pendentes": 63,
+  "postados": 9,
   "queue": [
     {
       "posicao": 1,
@@ -145,18 +145,18 @@
       "posicao": 9,
       "id": "wa-1112-8",
       "titulo": "Relógio Inteligente Gps Smartwatch Amoled 3atm Sport Gps Caixa Cinza Bege",
-      "preco": "R$ 293",
+      "preco": "R$ 263,70",
       "precoOriginal": "R$599",
       "desconto": "51% OFF no Pix",
-      "cupom": null,
+      "cupom": "PROMOAGORA",
       "link": "https://meli.la/24fE9md",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_971061-MLA105116883587_012026-AB.webp",
       "horarioProgramado": "11:12",
       "janela": "10:00-12:00",
-      "status": "pendente",
-      "fonte": "OFERTA",
+      "status": "postado",
+      "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-02T14:12:54.235Z"
     },
     {
       "posicao": 10,
