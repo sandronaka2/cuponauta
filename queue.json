@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-02T13:20:43.169Z",
-  "exportedAt": "02/04/2026, 10:20:43",
+  "lastExport": "2026-04-02T13:24:56.215Z",
+  "exportedAt": "02/04/2026, 10:24:56",
   "total": 72,
-  "pendentes": 67,
-  "postados": 5,
+  "pendentes": 66,
+  "postados": 6,
   "queue": [
     {
       "posicao": 1,
@@ -94,18 +94,18 @@
       "posicao": 6,
       "id": "wa-1020-5",
       "titulo": "Vaso Sanitário Monobloco Caixa Acoplada Privada Paris Branco Stillus Home",
-      "preco": "R$ 590",
+      "preco": "R$ 531,00",
       "precoOriginal": "R$899,89",
       "desconto": "34% OFF",
-      "cupom": null,
+      "cupom": "PROMOAGORA",
       "link": "https://meli.la/1UDtUci",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_834878-MLA108318839824_032026-E.webp",
       "horarioProgramado": "10:20",
       "janela": "10:00-12:00",
-      "status": "pendente",
-      "fonte": "OFERTA",
+      "status": "postado",
+      "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-02T13:20:51.272Z"
     },
     {
       "posicao": 7,
