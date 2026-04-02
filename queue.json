@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-02T00:10:06.545Z",
-  "exportedAt": "01/04/2026, 21:10:06",
+  "lastExport": "2026-04-02T00:20:06.426Z",
+  "exportedAt": "01/04/2026, 21:20:06",
   "total": 72,
-  "pendentes": 8,
-  "postados": 64,
+  "pendentes": 6,
+  "postados": 66,
   "queue": [
     {
       "posicao": 1,
@@ -1114,18 +1114,18 @@
       "posicao": 66,
       "id": "wa-2110-65",
       "titulo": "Ventilador Arno X-treme 9 De Mesa 40cm Ve90 Cor Preto Pás Azul 220v Plástico",
-      "preco": "R$ 227",
+      "preco": "R$ 204,30",
       "precoOriginal": "R$459,99",
       "desconto": "50% OFF no Pix",
-      "cupom": null,
+      "cupom": "OFERTAHOJE",
       "link": "https://meli.la/1u3xWg8",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_620545-MLA99990989587_112025-AB.webp",
       "horarioProgramado": "21:10",
       "janela": "21:00-22:00",
-      "status": "pendente",
-      "fonte": "OFERTA",
+      "status": "postado",
+      "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-02T00:10:18.469Z"
     },
     {
       "posicao": 67,
@@ -1139,10 +1139,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_855365-MLB95050151929_102025-AB.webp",
       "horarioProgramado": "21:17",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-02T00:17:56.320Z"
     },
     {
       "posicao": 68,
