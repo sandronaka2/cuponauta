@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-02T15:50:43.394Z",
-  "exportedAt": "02/04/2026, 12:50:43",
+  "lastExport": "2026-04-02T16:00:43.574Z",
+  "exportedAt": "02/04/2026, 13:00:43",
   "total": 72,
-  "pendentes": 55,
-  "postados": 17,
+  "pendentes": 54,
+  "postados": 18,
   "queue": [
     {
       "posicao": 1,
@@ -306,10 +306,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_868766-MLB98436931338_112025-AB-torneira-monocomando-banheiro-para-lavatorio-bancadatubo.webp",
       "horarioProgramado": "12:51",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-02T15:51:36.198Z"
     },
     {
       "posicao": 19,
