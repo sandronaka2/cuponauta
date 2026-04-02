@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-02T12:30:03.481Z",
-  "exportedAt": "02/04/2026, 09:30:03",
+  "lastExport": "2026-04-02T12:40:04.416Z",
+  "exportedAt": "02/04/2026, 09:40:04",
   "total": 72,
-  "pendentes": 70,
-  "postados": 2,
+  "pendentes": 69,
+  "postados": 3,
   "queue": [
     {
       "posicao": 1,
@@ -43,18 +43,18 @@
       "posicao": 3,
       "id": "wa-0938-2",
       "titulo": "Kit Com 3 Câmeras Lâmpada Wifi E27 360° Full Hd, Visão Noturna, Áudio, Sensor Movimento, App Yoosee Monitoramento 24h Fácil Instalação Segurança Residencial Imagem Nítida E Acesso Remoto Branco",
-      "preco": "R$ 154",
+      "preco": "R$ 138,60",
       "precoOriginal": "R$219",
       "desconto": "29% OFF",
-      "cupom": null,
+      "cupom": "PROMOAGORA",
       "link": "https://meli.la/1Qw6jRD",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_878992-MLA106043452740_022026-AB.webp",
       "horarioProgramado": "09:38",
       "janela": "09:00-10:00",
-      "status": "pendente",
-      "fonte": "OFERTA",
+      "status": "postado",
+      "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-02T12:38:09.523Z"
     },
     {
       "posicao": 4,
