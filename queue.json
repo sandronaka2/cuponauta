@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-02T12:50:03.521Z",
-  "exportedAt": "02/04/2026, 09:50:03",
+  "lastExport": "2026-04-02T13:00:03.723Z",
+  "exportedAt": "02/04/2026, 10:00:03",
   "total": 72,
-  "pendentes": 69,
-  "postados": 3,
+  "pendentes": 68,
+  "postados": 4,
   "queue": [
     {
       "posicao": 1,
@@ -60,18 +60,18 @@
       "posicao": 4,
       "id": "wa-0953-3",
       "titulo": "Monitor Portátil Bettdow Brand/ Full Hd Ips 15.6 Compatível Com A Cor Preta Hdmi/tipo C/ Usb C Extendida Psp Gamer Plug... Preto 127/220v",
-      "preco": "R$ 442",
+      "preco": "R$ 397,80",
       "precoOriginal": "R$799",
       "desconto": "44% OFF",
-      "cupom": null,
+      "cupom": "PROMOAGORA",
       "link": "https://meli.la/1JN6WPW",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_665279-MLA91956933715_092025-AB.webp",
       "horarioProgramado": "09:53",
       "janela": "09:00-10:00",
-      "status": "pendente",
-      "fonte": "OFERTA",
+      "status": "postado",
+      "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-02T12:53:38.354Z"
     },
     {
       "posicao": 5,
