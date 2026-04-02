@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-02T22:09:14.090Z",
-  "exportedAt": "02/04/2026, 19:09:14",
+  "lastExport": "2026-04-02T22:13:22.075Z",
+  "exportedAt": "02/04/2026, 19:13:22",
   "total": 72,
-  "pendentes": 22,
-  "postados": 50,
+  "pendentes": 21,
+  "postados": 51,
   "queue": [
     {
       "posicao": 1,
@@ -867,10 +867,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_718564-MLB90757275673_082025-AB-5-cuecas-boxer-box-de-algodo-masculino-adulto-cotton.webp",
       "horarioProgramado": "19:10",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-02T22:10:21.957Z"
     },
     {
       "posicao": 52,
