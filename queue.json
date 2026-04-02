@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-02T15:10:44.319Z",
-  "exportedAt": "02/04/2026, 12:10:44",
+  "lastExport": "2026-04-02T15:20:43.532Z",
+  "exportedAt": "02/04/2026, 12:20:43",
   "total": 72,
-  "pendentes": 59,
-  "postados": 13,
+  "pendentes": 58,
+  "postados": 14,
   "queue": [
     {
       "posicao": 1,
@@ -230,18 +230,18 @@
       "posicao": 14,
       "id": "wa-1215-13",
       "titulo": "Azeite De Oliva Virgem 5 Litros Galão - Azeite 5l Lisboa",
-      "preco": "R$ 116",
+      "preco": "R$ 104,40",
       "precoOriginal": "R$179",
       "desconto": "35% OFF",
-      "cupom": null,
+      "cupom": "PROMOAGORA",
       "link": "https://meli.la/2bKpysG",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_887391-MLB100594460589_122025-AB.webp",
       "horarioProgramado": "12:15",
       "janela": "12:00-14:00",
-      "status": "pendente",
-      "fonte": "OFERTA",
+      "status": "postado",
+      "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-02T15:15:16.269Z"
     },
     {
       "posicao": 15,
