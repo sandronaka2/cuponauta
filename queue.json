@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-02T23:43:22.171Z",
-  "exportedAt": "02/04/2026, 20:43:22",
+  "lastExport": "2026-04-02T23:53:22.167Z",
+  "exportedAt": "02/04/2026, 20:53:22",
   "total": 72,
-  "pendentes": 11,
-  "postados": 61,
+  "pendentes": 9,
+  "postados": 63,
   "queue": [
     {
       "posicao": 1,
@@ -1054,10 +1054,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_705063-MLB96528522699_102025-AB-jaqueta-masculina-courino-ecologico-motoqueiro-inverno-frio.webp",
       "horarioProgramado": "20:43",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-02T23:43:30.560Z"
     },
     {
       "posicao": 63,
@@ -1071,10 +1071,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_693308-MLA96109936595_102025-AB.webp",
       "horarioProgramado": "20:51",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-02T23:51:57.677Z"
     },
     {
       "posicao": 64,
