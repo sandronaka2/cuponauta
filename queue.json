@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-03T18:04:06.519Z",
-  "exportedAt": "03/04/2026, 15:04:06",
+  "lastExport": "2026-04-03T18:15:46.583Z",
+  "exportedAt": "03/04/2026, 15:15:46",
   "total": 72,
-  "pendentes": 43,
-  "postados": 29,
+  "pendentes": 42,
+  "postados": 30,
   "queue": [
     {
       "posicao": 1,
@@ -519,18 +519,18 @@
       "posicao": 31,
       "id": "wa-1506-30",
       "titulo": "Lava E Seca Samsung Wd11m Com Digital Inverter Branca 11kg Cor Branco 127v",
-      "preco": "R$ 3.319",
+      "preco": "R$ 3269,00",
       "precoOriginal": "R$3.499",
       "desconto": "5% OFF",
-      "cupom": null,
+      "cupom": "COMPRAHOJE",
       "link": "https://meli.la/1VmVETa",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_707477-MLA99987270185_112025-AB.webp",
       "horarioProgramado": "15:06",
       "janela": "14:00-18:00",
-      "status": "pendente",
-      "fonte": "OFERTA",
+      "status": "postado",
+      "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-03T18:06:49.001Z"
     },
     {
       "posicao": 32,
