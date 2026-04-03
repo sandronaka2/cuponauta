@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-03T18:36:11.420Z",
-  "exportedAt": "03/04/2026, 15:36:11",
+  "lastExport": "2026-04-03T18:46:11.430Z",
+  "exportedAt": "03/04/2026, 15:46:11",
   "total": 72,
-  "pendentes": 41,
-  "postados": 31,
+  "pendentes": 40,
+  "postados": 32,
   "queue": [
     {
       "posicao": 1,
@@ -553,18 +553,18 @@
       "posicao": 33,
       "id": "wa-1537-32",
       "titulo": "Samsung Wd10m Lava E Seca Digital Inverter Cor Branco Wd10m4453mw/az",
-      "preco": "R$ 3.049",
+      "preco": "R$ 2999,00",
       "precoOriginal": "R$3.199",
       "desconto": "4% OFF",
-      "cupom": null,
+      "cupom": "COMPRAHOJE",
       "link": "https://meli.la/2UmEfJ7",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_833478-MLA99873513811_112025-AB.webp",
       "horarioProgramado": "15:37",
       "janela": "14:00-18:00",
-      "status": "pendente",
-      "fonte": "OFERTA",
+      "status": "postado",
+      "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-03T18:37:46.009Z"
     },
     {
       "posicao": 34,
