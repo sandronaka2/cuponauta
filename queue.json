@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-03T13:01:11.776Z",
-  "exportedAt": "03/04/2026, 10:01:11",
+  "lastExport": "2026-04-03T13:02:20.168Z",
+  "exportedAt": "03/04/2026, 10:02:20",
   "total": 72,
-  "pendentes": 69,
-  "postados": 3,
+  "pendentes": 68,
+  "postados": 4,
   "queue": [
     {
       "posicao": 1,
@@ -85,10 +85,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_973114-MLB71545968869_092023-AB-sandalia-masculina-infantil-papete-menino-minipasso.webp",
       "horarioProgramado": "10:01",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-03T13:01:49.676Z"
     },
     {
       "posicao": 6,
