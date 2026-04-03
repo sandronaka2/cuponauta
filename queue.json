@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-03T15:23:12.817Z",
-  "exportedAt": "03/04/2026, 12:23:12",
+  "lastExport": "2026-04-03T15:33:12.853Z",
+  "exportedAt": "03/04/2026, 12:33:12",
   "total": 72,
-  "pendentes": 58,
-  "postados": 14,
+  "pendentes": 57,
+  "postados": 15,
   "queue": [
     {
       "posicao": 1,
@@ -264,18 +264,18 @@
       "posicao": 16,
       "id": "wa-1229-15",
       "titulo": "Máquina De Lavar Electrolux 13kg Cesto Inox Lda13 Branco 127v",
-      "preco": "R$ 1.709",
+      "preco": "R$ 1659,00",
       "precoOriginal": "R$2.399",
       "desconto": "28% OFF no Pix ou Saldo no Mercado Pago",
-      "cupom": null,
+      "cupom": "COMPRAHOJE",
       "link": "https://meli.la/1WCYHDN",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_634227-MLA99979901073_112025-AB.webp",
       "horarioProgramado": "12:29",
       "janela": "12:00-14:00",
-      "status": "pendente",
-      "fonte": "OFERTA",
+      "status": "postado",
+      "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-03T15:29:44.996Z"
     },
     {
       "posicao": 17,
