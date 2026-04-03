@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-03T16:13:39.176Z",
-  "exportedAt": "03/04/2026, 13:13:39",
+  "lastExport": "2026-04-03T16:15:40.401Z",
+  "exportedAt": "03/04/2026, 13:15:40",
   "total": 72,
-  "pendentes": 53,
-  "postados": 19,
+  "pendentes": 52,
+  "postados": 20,
   "queue": [
     {
       "posicao": 1,
@@ -357,10 +357,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_922399-MLB96660497878_112025-AB-kit-4-camisa-masculina-polo-piquet-casual-elegance.webp",
       "horarioProgramado": "13:14",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-03T16:14:47.049Z"
     },
     {
       "posicao": 22,
