@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-03T19:23:18.649Z",
-  "exportedAt": "03/04/2026, 16:23:18",
+  "lastExport": "2026-04-03T19:33:18.519Z",
+  "exportedAt": "03/04/2026, 16:33:18",
   "total": 72,
-  "pendentes": 38,
-  "postados": 34,
+  "pendentes": 37,
+  "postados": 35,
   "queue": [
     {
       "posicao": 1,
@@ -604,18 +604,18 @@
       "posicao": 36,
       "id": "wa-1624-35",
       "titulo": "Console Playstation®5 Slim Digital - Pacote Astro Bot E Gran Turismo 7 - Branco",
-      "preco": "R$ 3.549",
+      "preco": "R$ 3499,00",
       "precoOriginal": "R$5.384",
       "desconto": "34% OFF",
-      "cupom": null,
+      "cupom": "COMPRAHOJE",
       "link": "https://meli.la/1kttTKv",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_667226-MLA96871260244_112025-AB.webp",
       "horarioProgramado": "16:24",
       "janela": "14:00-18:00",
-      "status": "pendente",
-      "fonte": "OFERTA",
+      "status": "postado",
+      "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-03T19:24:35.604Z"
     },
     {
       "posicao": 37,
