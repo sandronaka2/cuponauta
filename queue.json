@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-03T22:15:55.898Z",
-  "exportedAt": "03/04/2026, 19:15:55",
+  "lastExport": "2026-04-03T22:23:49.413Z",
+  "exportedAt": "03/04/2026, 19:23:49",
   "total": 72,
-  "pendentes": 22,
-  "postados": 50,
+  "pendentes": 21,
+  "postados": 51,
   "queue": [
     {
       "posicao": 1,
@@ -876,18 +876,18 @@
       "posicao": 52,
       "id": "wa-1916-51",
       "titulo": "Rabanne One 1 Million ( Tradicional ) 200ml Masculino",
-      "preco": "R$ 696",
+      "preco": "R$ 646,00",
       "precoOriginal": "R$999",
       "desconto": "30% OFF",
-      "cupom": null,
+      "cupom": "COMPRAHOJE",
       "link": "https://meli.la/31hTAic",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_885952-MLB108484786538_032026-AB.webp",
       "horarioProgramado": "19:16",
       "janela": "18:00-21:00",
-      "status": "pendente",
-      "fonte": "OFERTA",
+      "status": "postado",
+      "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-03T22:16:24.580Z"
     },
     {
       "posicao": 53,
