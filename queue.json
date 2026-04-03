@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-03T13:33:10.808Z",
-  "exportedAt": "03/04/2026, 10:33:10",
+  "lastExport": "2026-04-03T13:43:10.828Z",
+  "exportedAt": "03/04/2026, 10:43:10",
   "total": 72,
-  "pendentes": 67,
-  "postados": 5,
+  "pendentes": 66,
+  "postados": 6,
   "queue": [
     {
       "posicao": 1,
@@ -119,10 +119,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_969607-MLB86743893470_072025-AB-calca-social-alfaiataria-masculina-malha-elastano-stretch.webp",
       "horarioProgramado": "10:35",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-03T13:35:37.989Z"
     },
     {
       "posicao": 8,
