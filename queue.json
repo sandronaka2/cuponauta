@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-03T18:46:11.430Z",
-  "exportedAt": "03/04/2026, 15:46:11",
+  "lastExport": "2026-04-03T18:56:11.463Z",
+  "exportedAt": "03/04/2026, 15:56:11",
   "total": 72,
-  "pendentes": 40,
-  "postados": 32,
+  "pendentes": 39,
+  "postados": 33,
   "queue": [
     {
       "posicao": 1,
@@ -570,18 +570,18 @@
       "posicao": 34,
       "id": "wa-1553-33",
       "titulo": "Relógio Mondaine Multifunção Esportivo Masculino Original Dourado Preto",
-      "preco": "R$ 322",
+      "preco": "R$ 283,36",
       "precoOriginal": "R$693,99",
       "desconto": "53% OFF no Pix",
-      "cupom": null,
+      "cupom": "COMPRAHOJE",
       "link": "https://meli.la/1zSjhBF",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_755645-MLB89051611079_072025-AB.webp",
       "horarioProgramado": "15:53",
       "janela": "14:00-18:00",
-      "status": "pendente",
-      "fonte": "OFERTA",
+      "status": "postado",
+      "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-03T18:53:12.036Z"
     },
     {
       "posicao": 35,
