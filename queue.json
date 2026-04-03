@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-03T21:43:47.039Z",
-  "exportedAt": "03/04/2026, 18:43:47",
+  "lastExport": "2026-04-03T21:53:47.037Z",
+  "exportedAt": "03/04/2026, 18:53:47",
   "total": 72,
-  "pendentes": 25,
-  "postados": 47,
+  "pendentes": 24,
+  "postados": 48,
   "queue": [
     {
       "posicao": 1,
@@ -825,18 +825,18 @@
       "posicao": 49,
       "id": "wa-1851-48",
       "titulo": "Smart TV LG UHD AI UA85 50 polegadas HDR10 Pro Processador α7 AI Ger 8 webOS 25",
-      "preco": "R$ 2.326",
+      "preco": "R$ 2276,00",
       "precoOriginal": "R$2.398",
       "desconto": "no Pix",
-      "cupom": null,
+      "cupom": "COMPRAHOJE",
       "link": "https://meli.la/1YrfAVt",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_795812-MLA107587476677_022026-E.webp",
       "horarioProgramado": "18:51",
       "janela": "18:00-21:00",
-      "status": "pendente",
-      "fonte": "OFERTA",
+      "status": "postado",
+      "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-03T21:51:54.590Z"
     },
     {
       "posicao": 50,
