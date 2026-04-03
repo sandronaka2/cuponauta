@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-03T23:04:13.922Z",
-  "exportedAt": "03/04/2026, 20:04:13",
+  "lastExport": "2026-04-03T23:10:22.888Z",
+  "exportedAt": "03/04/2026, 20:10:22",
   "total": 72,
-  "pendentes": 16,
-  "postados": 56,
+  "pendentes": 15,
+  "postados": 57,
   "queue": [
     {
       "posicao": 1,
@@ -978,18 +978,18 @@
       "posicao": 58,
       "id": "wa-2009-57",
       "titulo": "Whey Protein Concentrado 1kg Morango Dark Lab",
-      "preco": "R$ 129",
+      "preco": "R$ 113,52",
       "precoOriginal": "R$349,90",
       "desconto": "62% OFF",
-      "cupom": null,
+      "cupom": "COMPRAHOJE",
       "link": "https://meli.la/13cgVdH",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_927988-MLA99469885866_112025-AB.webp",
       "horarioProgramado": "20:09",
       "janela": "18:00-21:00",
-      "status": "pendente",
-      "fonte": "OFERTA",
+      "status": "postado",
+      "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-03T23:09:16.583Z"
     },
     {
       "posicao": 59,
