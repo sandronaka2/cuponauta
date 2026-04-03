@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-03T20:23:48.994Z",
-  "exportedAt": "03/04/2026, 17:23:48",
+  "lastExport": "2026-04-03T20:33:49.010Z",
+  "exportedAt": "03/04/2026, 17:33:49",
   "total": 72,
-  "pendentes": 34,
-  "postados": 38,
+  "pendentes": 33,
+  "postados": 39,
   "queue": [
     {
       "posicao": 1,
@@ -672,18 +672,18 @@
       "posicao": 40,
       "id": "wa-1727-39",
       "titulo": "Cadeira Salao De Beleza Reclinável Safira - Pronta Entrega",
-      "preco": "R$ 1.260",
+      "preco": "R$ 1210,00",
       "precoOriginal": "R$1.627",
       "desconto": "22% OFF",
-      "cupom": null,
+      "cupom": "COMPRAHOJE",
       "link": "https://meli.la/1DeU2oL",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_926788-MLB93852157245_092025-AB-cadeira-salao-de-beleza-reclinavel-safira-pronta-entrega.webp",
       "horarioProgramado": "17:27",
       "janela": "14:00-18:00",
-      "status": "pendente",
-      "fonte": "OFERTA",
+      "status": "postado",
+      "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-03T20:27:39.676Z"
     },
     {
       "posicao": 41,
