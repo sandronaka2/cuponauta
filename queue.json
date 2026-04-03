@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-03T17:15:43.116Z",
-  "exportedAt": "03/04/2026, 14:15:43",
+  "lastExport": "2026-04-03T17:23:39.278Z",
+  "exportedAt": "03/04/2026, 14:23:39",
   "total": 72,
-  "pendentes": 46,
-  "postados": 26,
+  "pendentes": 45,
+  "postados": 27,
   "queue": [
     {
       "posicao": 1,
@@ -468,18 +468,18 @@
       "posicao": 28,
       "id": "wa-1418-27",
       "titulo": "Micro-ondas Brastemp 20 Litros Em Inox Espelhado - Bms20ar 220v",
-      "preco": "R$ 521",
+      "preco": "R$ 471,00",
       "precoOriginal": "R$699",
       "desconto": "25% OFF no Pix ou Saldo no Mercado Pago",
-      "cupom": null,
+      "cupom": "COMPRAHOJE",
       "link": "https://meli.la/1Fon8RV",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_645260-MLA99975151355_112025-AB.webp",
       "horarioProgramado": "14:18",
       "janela": "14:00-18:00",
-      "status": "pendente",
-      "fonte": "OFERTA",
+      "status": "postado",
+      "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-03T17:18:29.196Z"
     },
     {
       "posicao": 29,
