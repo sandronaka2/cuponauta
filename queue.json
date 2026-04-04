@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-04T15:22:07.528Z",
-  "exportedAt": "04/04/2026, 12:22:07",
+  "lastExport": "2026-04-04T15:32:07.528Z",
+  "exportedAt": "04/04/2026, 12:32:07",
   "total": 72,
-  "pendentes": 59,
-  "postados": 13,
+  "pendentes": 57,
+  "postados": 15,
   "queue": [
     {
       "posicao": 1,
@@ -255,10 +255,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_880855-MLB83590666773_042025-AB-vestido-feminino-curto-camadas-alcinha-vero-elegante-luxo.webp",
       "horarioProgramado": "12:22",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-04T15:22:57.158Z"
     },
     {
       "posicao": 16,
@@ -272,10 +272,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_882952-MLB106804965837_022026-AB-kit-com-10-cuecas-boxer-masculina-microfibra-original.webp",
       "horarioProgramado": "12:31",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-04T15:31:15.100Z"
     },
     {
       "posicao": 17,
