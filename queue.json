@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-04T13:32:07.436Z",
-  "exportedAt": "04/04/2026, 10:32:07",
+  "lastExport": "2026-04-04T13:35:38.614Z",
+  "exportedAt": "04/04/2026, 10:35:38",
   "total": 72,
-  "pendentes": 67,
-  "postados": 5,
+  "pendentes": 66,
+  "postados": 6,
   "queue": [
     {
       "posicao": 1,
@@ -119,10 +119,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_978402-MLB92369338252_092025-AB-kit-2-pares-tnis-meia-gola-alta-masculino-stillus-confort.webp",
       "horarioProgramado": "10:34",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-04T13:34:20.130Z"
     },
     {
       "posicao": 8,
