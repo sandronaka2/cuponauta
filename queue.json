@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-04T19:53:21.364Z",
-  "exportedAt": "04/04/2026, 16:53:21",
+  "lastExport": "2026-04-04T20:03:21.366Z",
+  "exportedAt": "04/04/2026, 17:03:21",
   "total": 72,
-  "pendentes": 36,
-  "postados": 36,
+  "pendentes": 35,
+  "postados": 37,
   "queue": [
     {
       "posicao": 1,
@@ -638,18 +638,18 @@
       "posicao": 38,
       "id": "wa-1654-37",
       "titulo": "Jogo De Toalhas Buddemeyer Atena Fio Penteado Banho Cinza/cinza Claro 4 Peças",
-      "preco": "R$ 169",
+      "preco": "R$ 152,10",
       "precoOriginal": "R$289,90",
       "desconto": "41% OFF no Pix ou Saldo no Mercado Pago",
-      "cupom": null,
+      "cupom": "HOJETEMPROMO",
       "link": "https://meli.la/1N5wX8d",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_856490-MLA95690222024_102025-AB.webp",
       "horarioProgramado": "16:54",
       "janela": "14:00-18:00",
-      "status": "pendente",
-      "fonte": "OFERTA",
+      "status": "postado",
+      "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-04T19:54:46.677Z"
     },
     {
       "posicao": 39,
