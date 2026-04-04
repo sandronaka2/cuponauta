@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-04T00:36:51.804Z",
-  "exportedAt": "03/04/2026, 21:36:51",
+  "lastExport": "2026-04-04T00:46:51.846Z",
+  "exportedAt": "03/04/2026, 21:46:51",
   "total": 72,
-  "pendentes": 5,
-  "postados": 67,
+  "pendentes": 3,
+  "postados": 69,
   "queue": [
     {
       "posicao": 1,
@@ -1165,18 +1165,18 @@
       "posicao": 69,
       "id": "wa-2136-68",
       "titulo": "Vaporizador Quente Frio Facial Cabelos Estética Anvisa Estek",
-      "preco": "R$ 631",
+      "preco": "R$ 571,00",
       "precoOriginal": "R$1.052",
       "desconto": "39% OFF",
-      "cupom": null,
+      "cupom": "CARRINHOCHEIO",
       "link": "https://meli.la/1WNdYbj",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_853041-MLB89970337097_082025-AB-vaporizador-quente-frio-facial-cabelos-estetica-anvisa-estek.webp",
       "horarioProgramado": "21:36",
       "janela": "21:00-22:00",
-      "status": "pendente",
-      "fonte": "OFERTA",
+      "status": "postado",
+      "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-04T00:36:55.597Z"
     },
     {
       "posicao": 70,
@@ -1190,10 +1190,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_858619-MLB94607182670_102025-AB.webp",
       "horarioProgramado": "21:45",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-04T00:45:47.784Z"
     },
     {
       "posicao": 71,
