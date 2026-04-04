@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-04T23:12:49.424Z",
-  "exportedAt": "04/04/2026, 20:12:49",
+  "lastExport": "2026-04-04T23:22:49.411Z",
+  "exportedAt": "04/04/2026, 20:22:49",
   "total": 72,
-  "pendentes": 16,
-  "postados": 56,
+  "pendentes": 15,
+  "postados": 57,
   "queue": [
     {
       "posicao": 1,
@@ -1003,10 +1003,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_850291-MLB98727386442_112025-AB-sandalia-feminina-ana-bela-plataforma-zoe-salto-cordas-nude.webp",
       "horarioProgramado": "20:19",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-04T23:19:32.630Z"
     },
     {
       "posicao": 60,
