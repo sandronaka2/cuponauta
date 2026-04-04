@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-04T23:02:49.993Z",
-  "exportedAt": "04/04/2026, 20:02:49",
+  "lastExport": "2026-04-04T23:12:49.424Z",
+  "exportedAt": "04/04/2026, 20:12:49",
   "total": 72,
-  "pendentes": 17,
-  "postados": 55,
+  "pendentes": 16,
+  "postados": 56,
   "queue": [
     {
       "posicao": 1,
@@ -986,10 +986,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_669482-MLB83135779251_032025-AB-kit-2-jaquetas-corta-vento-impermeavel-liso-unissex.webp",
       "horarioProgramado": "20:09",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-04T23:09:35.604Z"
     },
     {
       "posicao": 59,
