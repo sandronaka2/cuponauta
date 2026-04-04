@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-04T17:12:07.638Z",
-  "exportedAt": "04/04/2026, 14:12:07",
+  "lastExport": "2026-04-04T17:19:04.583Z",
+  "exportedAt": "04/04/2026, 14:19:04",
   "total": 72,
-  "pendentes": 46,
-  "postados": 26,
+  "pendentes": 45,
+  "postados": 27,
   "queue": [
     {
       "posicao": 1,
@@ -476,10 +476,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_768916-MLB52972406737_122022-AB-cortina-gaze-de-linho-6m-x-27m-sem-forro-para-varo.webp",
       "horarioProgramado": "14:16",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-04T17:16:29.105Z"
     },
     {
       "posicao": 29,
