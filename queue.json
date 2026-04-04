@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-04T12:14:42.447Z",
-  "exportedAt": "04/04/2026, 09:14:42",
+  "lastExport": "2026-04-04T12:21:35.459Z",
+  "exportedAt": "04/04/2026, 09:21:35",
   "total": 72,
-  "pendentes": 72,
-  "postados": 0,
+  "pendentes": 71,
+  "postados": 1,
   "queue": [
     {
       "posicao": 1,
@@ -34,10 +34,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_935581-MLB84466323870_052025-AB-calca-jeans-masculina-skinny-com-super-lycra-linha-premium.webp",
       "horarioProgramado": "09:20",
       "janela": "09:00-10:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-04T12:20:46.950Z"
     },
     {
       "posicao": 3,
