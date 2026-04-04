@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-04T00:50:14.108Z",
-  "exportedAt": "03/04/2026, 21:50:14",
+  "lastExport": "2026-04-04T01:00:22.410Z",
+  "exportedAt": "03/04/2026, 22:00:22",
   "total": 72,
-  "pendentes": 3,
-  "postados": 69,
+  "pendentes": 1,
+  "postados": 71,
   "queue": [
     {
       "posicao": 1,
@@ -1199,18 +1199,18 @@
       "posicao": 71,
       "id": "wa-2153-70",
       "titulo": "Samsung Smart Monitor Tv 43 , Hd, Plataforma Tizen Preto 127/220v",
-      "preco": "R$ 1.429",
+      "preco": "R$ 1369,00",
       "precoOriginal": "R$2.399",
       "desconto": "40% OFF",
-      "cupom": null,
+      "cupom": "CARRINHOCHEIO",
       "link": "https://meli.la/2vuqANx",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_893483-MLA101918794951_122025-AB.webp",
       "horarioProgramado": "21:53",
       "janela": "21:00-22:00",
-      "status": "pendente",
-      "fonte": "OFERTA",
+      "status": "postado",
+      "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-04T00:53:56.701Z"
     },
     {
       "posicao": 72,
@@ -1224,10 +1224,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_681528-MLB96658571767_102025-AB-jaqueta-corta-vento-feminina-plussize-impermeavel-aspen-liso.webp",
       "horarioProgramado": "21:58",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-04T00:58:45.217Z"
     }
   ]
 }
