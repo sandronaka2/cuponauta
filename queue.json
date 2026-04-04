@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-04T20:41:18.279Z",
-  "exportedAt": "04/04/2026, 17:41:18",
+  "lastExport": "2026-04-04T20:51:18.305Z",
+  "exportedAt": "04/04/2026, 17:51:18",
   "total": 72,
-  "pendentes": 33,
-  "postados": 39,
+  "pendentes": 32,
+  "postados": 40,
   "queue": [
     {
       "posicao": 1,
@@ -689,18 +689,18 @@
       "posicao": 41,
       "id": "wa-1744-40",
       "titulo": "Mini Lavadora Semiautomática Praxis Petit 1.2kg Branca Portátil 127v Branco",
-      "preco": "R$ 404",
+      "preco": "R$ 363,60",
       "precoOriginal": "R$515,18",
       "desconto": "21% OFF no Pix",
-      "cupom": null,
+      "cupom": "HOJETEMPROMO",
       "link": "https://meli.la/2fXca7n",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_875585-MLA100071056677_122025-AB.webp",
       "horarioProgramado": "17:44",
       "janela": "14:00-18:00",
-      "status": "pendente",
-      "fonte": "OFERTA",
+      "status": "postado",
+      "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-04T20:44:22.630Z"
     },
     {
       "posicao": 42,
