@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-04T20:03:21.366Z",
-  "exportedAt": "04/04/2026, 17:03:21",
+  "lastExport": "2026-04-04T20:13:21.273Z",
+  "exportedAt": "04/04/2026, 17:13:21",
   "total": 72,
-  "pendentes": 35,
-  "postados": 37,
+  "pendentes": 34,
+  "postados": 38,
   "queue": [
     {
       "posicao": 1,
@@ -655,18 +655,18 @@
       "posicao": 39,
       "id": "wa-1712-38",
       "titulo": "Smartwatch Xiaomi Redmi Watch 5 Lite 1.96 Preto Desenho Da Pulseira Milanese Milanês",
-      "preco": "R$ 290",
+      "preco": "R$ 261,00",
       "precoOriginal": "R$399",
       "desconto": "27% OFF",
-      "cupom": null,
+      "cupom": "HOJETEMPROMO",
       "link": "https://meli.la/2vueB9h",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_625071-MLA99989591849_112025-AB.webp",
       "horarioProgramado": "17:12",
       "janela": "14:00-18:00",
-      "status": "pendente",
-      "fonte": "OFERTA",
+      "status": "postado",
+      "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-04T20:12:47.616Z"
     },
     {
       "posicao": 40,
