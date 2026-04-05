@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-05T20:01:44.483Z",
-  "exportedAt": "05/04/2026, 17:01:44",
+  "lastExport": "2026-04-05T20:11:52.302Z",
+  "exportedAt": "05/04/2026, 17:11:52",
   "total": 72,
-  "pendentes": 34,
-  "postados": 38,
+  "pendentes": 33,
+  "postados": 39,
   "queue": [
     {
       "posicao": 1,
@@ -663,10 +663,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_790623-MLB89750264126_082025-AB-cinto-masculino-couro-dupla-face-2-em-1-preto-marrom-social.webp",
       "horarioProgramado": "17:09",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-05T20:09:23.331Z"
     },
     {
       "posicao": 40,
