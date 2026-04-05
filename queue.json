@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-05T15:01:17.108Z",
-  "exportedAt": "05/04/2026, 12:01:17",
+  "lastExport": "2026-04-05T15:12:44.810Z",
+  "exportedAt": "05/04/2026, 12:12:44",
   "total": 72,
-  "pendentes": 60,
-  "postados": 12,
+  "pendentes": 58,
+  "postados": 14,
   "queue": [
     {
       "posicao": 1,
@@ -221,10 +221,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_628916-MLA99504989742_112025-AB.webp",
       "horarioProgramado": "12:01",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-05T15:01:19.109Z"
     },
     {
       "posicao": 14,
@@ -238,10 +238,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_785396-MLA99867558581_112025-AB.webp",
       "horarioProgramado": "12:10",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-05T15:10:35.003Z"
     },
     {
       "posicao": 15,
