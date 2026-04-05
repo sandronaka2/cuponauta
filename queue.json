@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-05T00:01:26.774Z",
-  "exportedAt": "04/04/2026, 21:01:26",
+  "lastExport": "2026-04-05T00:02:50.475Z",
+  "exportedAt": "04/04/2026, 21:02:50",
   "total": 72,
-  "pendentes": 10,
-  "postados": 62,
+  "pendentes": 9,
+  "postados": 63,
   "queue": [
     {
       "posicao": 1,
@@ -1105,10 +1105,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_955457-MLB91948752389_092025-AB-kit-7-camisetas-basica-lisa-algodo-premium-masculina.webp",
       "horarioProgramado": "21:01",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-05T00:01:35.817Z"
     },
     {
       "posicao": 66,
