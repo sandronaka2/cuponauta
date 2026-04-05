@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-05T21:23:22.222Z",
-  "exportedAt": "05/04/2026, 18:23:22",
+  "lastExport": "2026-04-05T21:33:22.222Z",
+  "exportedAt": "05/04/2026, 18:33:22",
   "total": 72,
-  "pendentes": 27,
-  "postados": 45,
+  "pendentes": 26,
+  "postados": 46,
   "queue": [
     {
       "posicao": 1,
@@ -782,10 +782,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_880618-MLB95661478919_102025-AB-calca-tactel-jogger-com-elastano-active-wear-void-vero.webp",
       "horarioProgramado": "18:27",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-05T21:27:31.857Z"
     },
     {
       "posicao": 47,
