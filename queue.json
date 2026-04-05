@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-05T16:41:18.084Z",
-  "exportedAt": "05/04/2026, 13:41:18",
+  "lastExport": "2026-04-05T17:01:19.246Z",
+  "exportedAt": "05/04/2026, 14:01:19",
   "total": 72,
-  "pendentes": 49,
-  "postados": 23,
+  "pendentes": 46,
+  "postados": 26,
   "queue": [
     {
       "posicao": 1,
@@ -408,10 +408,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_955359-MLA98408972330_112025-AB.webp",
       "horarioProgramado": "13:41",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-05T16:41:52.147Z"
     },
     {
       "posicao": 25,
@@ -425,10 +425,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_631589-MLA99834507171_112025-AB.webp",
       "horarioProgramado": "13:51",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-05T16:51:43.254Z"
     },
     {
       "posicao": 26,
@@ -442,10 +442,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_672406-MLB89237912615_082025-AB-chinelo-masculino-original-olympikus-921-ortopedico.webp",
       "horarioProgramado": "13:58",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-05T16:58:08.011Z"
     },
     {
       "posicao": 27,
