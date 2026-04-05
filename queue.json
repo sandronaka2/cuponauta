@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-05T21:43:51.517Z",
-  "exportedAt": "05/04/2026, 18:43:51",
+  "lastExport": "2026-04-05T21:53:51.589Z",
+  "exportedAt": "05/04/2026, 18:53:51",
   "total": 72,
-  "pendentes": 25,
-  "postados": 47,
+  "pendentes": 23,
+  "postados": 49,
   "queue": [
     {
       "posicao": 1,
@@ -816,10 +816,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_932405-MLB77376616776_072024-AB-chinelo-havaianas-masculino-top-max-comfort-anatmica-macia.webp",
       "horarioProgramado": "18:44",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-05T21:44:50.755Z"
     },
     {
       "posicao": 49,
@@ -833,10 +833,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_655413-MLB107651407033_022026-AB-kit-6-pares-meias-puma-cano-medio-esportiva-algodo-original.webp",
       "horarioProgramado": "18:53",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-05T21:53:49.030Z"
     },
     {
       "posicao": 50,
