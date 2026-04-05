@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-05T23:42:28.547Z",
-  "exportedAt": "05/04/2026, 20:42:28",
+  "lastExport": "2026-04-05T23:52:28.529Z",
+  "exportedAt": "05/04/2026, 20:52:28",
   "total": 72,
-  "pendentes": 11,
-  "postados": 61,
+  "pendentes": 9,
+  "postados": 63,
   "queue": [
     {
       "posicao": 1,
@@ -1054,10 +1054,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_613811-MLB109626730783_032026-AB-cortina-oxford-tecido-premium-grosso-300x250-sala-quarto.webp",
       "horarioProgramado": "20:43",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-05T23:43:40.127Z"
     },
     {
       "posicao": 63,
@@ -1071,10 +1071,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_915093-MLA96277505762_102025-AB.webp",
       "horarioProgramado": "20:51",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-05T23:51:16.538Z"
     },
     {
       "posicao": 64,
