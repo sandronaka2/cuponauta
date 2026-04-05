@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-05T18:33:45.891Z",
-  "exportedAt": "05/04/2026, 15:33:45",
+  "lastExport": "2026-04-05T18:43:45.894Z",
+  "exportedAt": "05/04/2026, 15:43:45",
   "total": 72,
-  "pendentes": 40,
-  "postados": 32,
+  "pendentes": 39,
+  "postados": 33,
   "queue": [
     {
       "posicao": 1,
@@ -561,10 +561,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_838140-MLB103606388222_012026-AB-vestido-infantil-galinha-pintadinha-rosa-candy-color-e-tiara.webp",
       "horarioProgramado": "15:37",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-05T18:37:10.010Z"
     },
     {
       "posicao": 34,
