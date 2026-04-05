@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-05T16:21:18.064Z",
-  "exportedAt": "05/04/2026, 13:21:18",
+  "lastExport": "2026-04-05T16:31:18.064Z",
+  "exportedAt": "05/04/2026, 13:31:18",
   "total": 72,
-  "pendentes": 51,
-  "postados": 21,
+  "pendentes": 50,
+  "postados": 22,
   "queue": [
     {
       "posicao": 1,
@@ -374,10 +374,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_665075-MLB73682860246_012024-AB-kit-2-pares-botinha-casual-cano-medio-ziper-calce-facil.webp",
       "horarioProgramado": "13:24",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-05T16:24:43.071Z"
     },
     {
       "posicao": 23,
