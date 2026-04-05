@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-05T14:41:16.022Z",
-  "exportedAt": "05/04/2026, 11:41:16",
+  "lastExport": "2026-04-05T14:51:16.029Z",
+  "exportedAt": "05/04/2026, 11:51:16",
   "total": 72,
-  "pendentes": 62,
-  "postados": 10,
+  "pendentes": 61,
+  "postados": 11,
   "queue": [
     {
       "posicao": 1,
@@ -187,10 +187,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_904130-MLB91146098195_082025-AB-kit-6-pares-meias-zhamaro-premium-cano-curto-baixo-atoalhada.webp",
       "horarioProgramado": "11:43",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-05T14:43:35.087Z"
     },
     {
       "posicao": 12,
