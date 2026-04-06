@@ -1,26 +1,26 @@
 {
-  "lastExport": "2026-04-06T12:00:24.131Z",
-  "exportedAt": "06/04/2026, 09:00:24",
+  "lastExport": "2026-04-06T12:02:51.379Z",
+  "exportedAt": "06/04/2026, 09:02:51",
   "total": 72,
-  "pendentes": 72,
-  "postados": 0,
+  "pendentes": 71,
+  "postados": 1,
   "queue": [
     {
       "posicao": 1,
       "id": "wa-0901-0",
       "titulo": "Vapor Ozônio Salão Barbearia Cabelo Facial Estética Estek",
-      "preco": "R$ 566",
+      "preco": "R$ 506,00",
       "precoOriginal": "R$899",
       "desconto": "36% OFF",
-      "cupom": null,
+      "cupom": "COMPRINHASML",
       "link": "https://meli.la/2B9YC5X",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_981594-MLB89589427802_082025-AB-vapor-oznio-salo-barbearia-cabelo-facial-estetica-estek.webp",
       "horarioProgramado": "09:01",
       "janela": "09:00-10:00",
-      "status": "pendente",
-      "fonte": "OFERTA",
+      "status": "postado",
+      "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-06T12:01:28.735Z"
     },
     {
       "posicao": 2,
