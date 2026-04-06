@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-06T22:48:20.446Z",
-  "exportedAt": "06/04/2026, 19:48:20",
+  "lastExport": "2026-04-06T22:58:20.472Z",
+  "exportedAt": "06/04/2026, 19:58:20",
   "total": 72,
-  "pendentes": 19,
-  "postados": 53,
+  "pendentes": 17,
+  "postados": 55,
   "queue": [
     {
       "posicao": 1,
@@ -952,10 +952,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_927772-MLB108091976308_032026-AB-poltrona-cabeleireiro-reclinavel-sofa-monaco-pronta-entrega.webp",
       "horarioProgramado": "19:50",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-06T22:50:41.037Z"
     },
     {
       "posicao": 57,
@@ -969,10 +969,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_824261-MLB84358416406_052025-AB-kit-4-calcas-country-masculina-tradicional-com-elastano.webp",
       "horarioProgramado": "19:58",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-06T22:58:15.047Z"
     },
     {
       "posicao": 58,
