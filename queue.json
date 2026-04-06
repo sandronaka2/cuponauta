@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-06T00:01:53.936Z",
-  "exportedAt": "05/04/2026, 21:01:53",
+  "lastExport": "2026-04-06T00:12:02.387Z",
+  "exportedAt": "05/04/2026, 21:12:02",
   "total": 72,
-  "pendentes": 8,
-  "postados": 64,
+  "pendentes": 6,
+  "postados": 66,
   "queue": [
     {
       "posicao": 1,
@@ -1105,10 +1105,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_721783-MLA99507462046_112025-AB.webp",
       "horarioProgramado": "21:02",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-06T00:02:38.671Z"
     },
     {
       "posicao": 66,
@@ -1122,10 +1122,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_812025-MLB106188314899_012026-AB-tnis-branco-feminino-vittal-couro-legitimo-casual-classico.webp",
       "horarioProgramado": "21:10",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-06T00:10:21.534Z"
     },
     {
       "posicao": 67,
