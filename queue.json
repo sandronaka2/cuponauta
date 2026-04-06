@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-06T19:05:17.309Z",
-  "exportedAt": "06/04/2026, 16:05:17",
+  "lastExport": "2026-04-06T19:15:15.967Z",
+  "exportedAt": "06/04/2026, 16:15:15",
   "total": 72,
-  "pendentes": 40,
-  "postados": 32,
+  "pendentes": 39,
+  "postados": 33,
   "queue": [
     {
       "posicao": 1,
@@ -595,10 +595,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_658056-MLB94132699546_102025-AB-conjunto-alfaiataria-social-risca-de-giz-feminino-elegante.webp",
       "horarioProgramado": "16:09",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-06T19:09:42.070Z"
     },
     {
       "posicao": 36,
