@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-06T14:10:47.985Z",
-  "exportedAt": "06/04/2026, 11:10:47",
+  "lastExport": "2026-04-06T14:20:48.012Z",
+  "exportedAt": "06/04/2026, 11:20:48",
   "total": 72,
-  "pendentes": 65,
-  "postados": 7,
+  "pendentes": 64,
+  "postados": 8,
   "queue": [
     {
       "posicao": 1,
@@ -153,10 +153,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_897571-MLB108491452059_032026-AB-fone-sem-fio-bluetooth-anc-tela-touch-led-lx10-pbuds.webp",
       "horarioProgramado": "11:11",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-06T14:11:49.107Z"
     },
     {
       "posicao": 10,
