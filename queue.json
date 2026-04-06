@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-06T19:16:09.445Z",
-  "exportedAt": "06/04/2026, 16:16:09",
+  "lastExport": "2026-04-06T19:26:17.577Z",
+  "exportedAt": "06/04/2026, 16:26:17",
   "total": 72,
-  "pendentes": 39,
-  "postados": 33,
+  "pendentes": 38,
+  "postados": 34,
   "queue": [
     {
       "posicao": 1,
@@ -612,10 +612,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_711577-MLB85306876903_052025-AB-meia-de-compresso-34-sigvaris-sem-ponteira-unissex-15-20m.webp",
       "horarioProgramado": "16:25",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-06T19:25:35.056Z"
     },
     {
       "posicao": 37,
