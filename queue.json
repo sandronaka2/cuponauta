@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-06T15:41:37.515Z",
-  "exportedAt": "06/04/2026, 12:41:37",
+  "lastExport": "2026-04-06T15:51:45.253Z",
+  "exportedAt": "06/04/2026, 12:51:45",
   "total": 72,
-  "pendentes": 57,
-  "postados": 15,
+  "pendentes": 56,
+  "postados": 16,
   "queue": [
     {
       "posicao": 1,
@@ -306,10 +306,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_894747-MLB106458143282_022026-AB-sapatilha-aquatica-antiderrapante-tnis-praia-bike-unissex.webp",
       "horarioProgramado": "12:46",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-06T15:46:54.898Z"
     },
     {
       "posicao": 19,
