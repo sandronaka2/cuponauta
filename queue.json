@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-06T17:27:30.037Z",
-  "exportedAt": "06/04/2026, 14:27:30",
+  "lastExport": "2026-04-06T17:35:15.703Z",
+  "exportedAt": "06/04/2026, 14:35:15",
   "total": 72,
-  "pendentes": 46,
-  "postados": 26,
+  "pendentes": 45,
+  "postados": 27,
   "queue": [
     {
       "posicao": 1,
@@ -485,18 +485,18 @@
       "posicao": 29,
       "id": "wa-1434-28",
       "titulo": "Relogio Mondaine Masculino Prova D'água Lançamento Original Dourado Preto",
-      "preco": "R$ 227",
+      "preco": "R$ 204,30",
       "precoOriginal": "R$443,90",
       "desconto": "48% OFF no Pix",
-      "cupom": null,
+      "cupom": "OFERTANOMELI",
       "link": "https://meli.la/1o2mwB4",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_608676-MLB106127470946_022026-AB.webp",
       "horarioProgramado": "14:34",
       "janela": "14:00-18:00",
-      "status": "pendente",
-      "fonte": "OFERTA",
+      "status": "postado",
+      "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-06T17:34:39.141Z"
     },
     {
       "posicao": 30,
