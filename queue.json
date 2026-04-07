@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-07T00:38:16.463Z",
-  "exportedAt": "06/04/2026, 21:38:16",
+  "lastExport": "2026-04-07T00:44:44.825Z",
+  "exportedAt": "06/04/2026, 21:44:44",
   "total": 72,
-  "pendentes": 5,
-  "postados": 67,
+  "pendentes": 4,
+  "postados": 68,
   "queue": [
     {
       "posicao": 1,
@@ -1190,10 +1190,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_719390-MLB81772831850_012025-AB-camisa-social-manga-longa-slim-fit-masculina-classica.webp",
       "horarioProgramado": "21:44",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-07T00:44:33.817Z"
     },
     {
       "posicao": 71,
