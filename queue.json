@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-07T16:13:42.026Z",
-  "exportedAt": "07/04/2026, 13:13:42",
+  "lastExport": "2026-04-07T16:23:52.481Z",
+  "exportedAt": "07/04/2026, 13:23:52",
   "total": 72,
-  "pendentes": 54,
-  "postados": 18,
+  "pendentes": 53,
+  "postados": 19,
   "queue": [
     {
       "posicao": 1,
@@ -366,18 +366,18 @@
       "posicao": 22,
       "id": "wa-1320-21",
       "titulo": "Creamy Skincare Ácido Tranexâmico 90ml Solução Clareadora Previne A Hiperpigmentação De Manchas Solares Trata Acne E Melasma Todos Os Tipos De Pele Uso Noturno Todo Tipo De Pele",
-      "preco": "R$ 94",
+      "preco": "R$ 79,90",
       "precoOriginal": "R$143,45",
       "desconto": "33% OFF",
-      "cupom": null,
+      "cupom": "SUPERCUPOM15",
       "link": "https://meli.la/2DtAhRL",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_847845-MLA108939673818_032026-AB.webp",
       "horarioProgramado": "13:20",
       "janela": "12:00-14:00",
-      "status": "pendente",
-      "fonte": "OFERTA",
+      "status": "postado",
+      "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-07T16:20:38.050Z"
     },
     {
       "posicao": 23,
