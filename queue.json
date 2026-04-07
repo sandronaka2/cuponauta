@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-07T00:48:30.877Z",
-  "exportedAt": "06/04/2026, 21:48:30",
+  "lastExport": "2026-04-07T00:58:30.889Z",
+  "exportedAt": "06/04/2026, 21:58:30",
   "total": 72,
-  "pendentes": 4,
-  "postados": 68,
+  "pendentes": 3,
+  "postados": 69,
   "queue": [
     {
       "posicao": 1,
@@ -1207,10 +1207,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_747243-MLB51986518830_102022-AB-cortina-gaze-linho-e-blackout-6m-x-280m-trilho-suico-duplo.webp",
       "horarioProgramado": "21:51",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-07T00:51:54.116Z"
     },
     {
       "posicao": 72,
