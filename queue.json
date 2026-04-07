@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-07T13:18:12.189Z",
-  "exportedAt": "07/04/2026, 10:18:12",
+  "lastExport": "2026-04-07T13:24:40.922Z",
+  "exportedAt": "07/04/2026, 10:24:40",
   "total": 72,
-  "pendentes": 67,
-  "postados": 5,
+  "pendentes": 66,
+  "postados": 6,
   "queue": [
     {
       "posicao": 1,
@@ -102,10 +102,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_699174-MLB82168177759_012025-AB-manta-para-sofa-grossa-king-size-grande-gigante-300m-x-18m.webp",
       "horarioProgramado": "10:18",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-07T13:18:57.309Z"
     },
     {
       "posicao": 7,
