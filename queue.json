@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-07T16:03:18.007Z",
-  "exportedAt": "07/04/2026, 13:03:18",
+  "lastExport": "2026-04-07T16:13:28.716Z",
+  "exportedAt": "07/04/2026, 13:13:28",
   "total": 72,
-  "pendentes": 56,
-  "postados": 16,
+  "pendentes": 54,
+  "postados": 18,
   "queue": [
     {
       "posicao": 1,
@@ -340,10 +340,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_890374-MLB93277562415_092025-AB.webp",
       "horarioProgramado": "13:04",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-07T16:04:55.182Z"
     },
     {
       "posicao": 21,
@@ -357,10 +357,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_929010-MLB104276946605_012026-AB-bolsa-organizadora-cabos-case-estojo-bag-eletrnico-grande.webp",
       "horarioProgramado": "13:12",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-07T16:12:59.456Z"
     },
     {
       "posicao": 22,
