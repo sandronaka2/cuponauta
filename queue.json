@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-07T12:58:08.518Z",
-  "exportedAt": "07/04/2026, 09:58:08",
+  "lastExport": "2026-04-07T13:02:55.070Z",
+  "exportedAt": "07/04/2026, 10:02:55",
   "total": 72,
-  "pendentes": 69,
-  "postados": 3,
+  "pendentes": 67,
+  "postados": 5,
   "queue": [
     {
       "posicao": 1,
@@ -60,35 +60,35 @@
       "posicao": 4,
       "id": "wa-0958-3",
       "titulo": "Kit 10 Cueca Boxer Reebok Sem Costura Box + 1 Par De Meias",
-      "preco": "R$ 129",
+      "preco": "R$ 113,52",
       "precoOriginal": "R$269,98",
       "desconto": "51% OFF",
-      "cupom": "CUPOMPRAMODA",
+      "cupom": "AQUITEMCUPOM",
       "link": "https://meli.la/1F7E6qj",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_835032-MLB78593176937_082024-E.webp",
       "horarioProgramado": "09:58",
       "janela": "09:00-10:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-07T12:58:42.121Z"
     },
     {
       "posicao": 5,
       "id": "wa-1001-4",
       "titulo": "Anabela Salto Baixo Confortavel Plataforma Brilho Leve Nó",
-      "preco": "R$ 114",
+      "preco": "R$ 100,32",
       "precoOriginal": "R$185",
       "desconto": "38% OFF",
-      "cupom": null,
+      "cupom": "AQUITEMCUPOM",
       "link": "https://meli.la/1TkMq5q",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_751384-MLB84701012789_052025-AB-anabela-salto-baixo-confortavel-plataforma-brilho-leve-no.webp",
       "horarioProgramado": "10:01",
       "janela": "10:00-12:00",
-      "status": "pendente",
-      "fonte": "OFERTA",
+      "status": "postado",
+      "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-07T13:01:43.192Z"
     },
     {
       "posicao": 6,
