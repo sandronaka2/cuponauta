@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-07T22:28:48.004Z",
-  "exportedAt": "07/04/2026, 19:28:48",
+  "lastExport": "2026-04-07T22:38:57.381Z",
+  "exportedAt": "07/04/2026, 19:38:57",
   "total": 72,
-  "pendentes": 23,
-  "postados": 49,
+  "pendentes": 22,
+  "postados": 50,
   "queue": [
     {
       "posicao": 1,
@@ -918,10 +918,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_748812-MLB83726683431_042025-AB-materiais-criativos-fabricaco-buqu-borboleta-para-presente.webp",
       "horarioProgramado": "19:35",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-07T22:35:32.933Z"
     },
     {
       "posicao": 55,
