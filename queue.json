@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-07T20:50:16.417Z",
-  "exportedAt": "07/04/2026, 17:50:16",
+  "lastExport": "2026-04-07T20:59:49.515Z",
+  "exportedAt": "07/04/2026, 17:59:49",
   "total": 72,
-  "pendentes": 35,
-  "postados": 37,
+  "pendentes": 34,
+  "postados": 38,
   "queue": [
     {
       "posicao": 1,
@@ -714,10 +714,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_926788-MLB93852157245_092025-AB-cadeira-salao-de-beleza-reclinavel-safira-pronta-entrega.webp",
       "horarioProgramado": "17:58",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-07T20:58:27.521Z"
     },
     {
       "posicao": 43,
