@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-07T16:38:42.378Z",
-  "exportedAt": "07/04/2026, 13:38:42",
+  "lastExport": "2026-04-07T16:40:43.285Z",
+  "exportedAt": "07/04/2026, 13:40:43",
   "total": 72,
-  "pendentes": 52,
-  "postados": 20,
+  "pendentes": 51,
+  "postados": 21,
   "queue": [
     {
       "posicao": 1,
@@ -400,18 +400,18 @@
       "posicao": 24,
       "id": "wa-1339-23",
       "titulo": "Relógio Technos Masculino Quartzo Grafite 42mm Aço Resistente À Água",
-      "preco": "R$ 388",
+      "preco": "R$ 338,00",
       "precoOriginal": "R$499",
       "desconto": "22% OFF no Pix ou Saldo no Mercado Pago",
-      "cupom": null,
+      "cupom": "SUPERCUPOM15",
       "link": "https://meli.la/1fEfbCo",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_866220-MLA99995378069_112025-AB.webp",
       "horarioProgramado": "13:39",
       "janela": "12:00-14:00",
-      "status": "pendente",
-      "fonte": "OFERTA",
+      "status": "postado",
+      "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-07T16:39:23.024Z"
     },
     {
       "posicao": 25,
