@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-07T13:48:09.204Z",
-  "exportedAt": "07/04/2026, 10:48:09",
+  "lastExport": "2026-04-07T13:56:29.769Z",
+  "exportedAt": "07/04/2026, 10:56:29",
   "total": 72,
-  "pendentes": 65,
-  "postados": 7,
+  "pendentes": 64,
+  "postados": 8,
   "queue": [
     {
       "posicao": 1,
@@ -128,18 +128,18 @@
       "posicao": 8,
       "id": "wa-1049-7",
       "titulo": "Tênis Jada Feminino Puma",
-      "preco": "R$ 216",
+      "preco": "R$ 190,08",
       "precoOriginal": "R$449,99",
       "desconto": "51% OFF no Pix",
-      "cupom": null,
+      "cupom": "AQUITEMCUPOM",
       "link": "https://meli.la/17x9ccu",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_799947-MLB82678208795_022025-AB-tnis-jada-feminino-puma.webp",
       "horarioProgramado": "10:49",
       "janela": "10:00-12:00",
-      "status": "pendente",
-      "fonte": "OFERTA",
+      "status": "postado",
+      "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-07T13:49:44.708Z"
     },
     {
       "posicao": 9,
