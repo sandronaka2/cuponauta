@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-07T15:52:41.732Z",
-  "exportedAt": "07/04/2026, 12:52:41",
+  "lastExport": "2026-04-07T16:02:52.833Z",
+  "exportedAt": "07/04/2026, 13:02:52",
   "total": 72,
-  "pendentes": 57,
-  "postados": 15,
+  "pendentes": 56,
+  "postados": 16,
   "queue": [
     {
       "posicao": 1,
@@ -315,18 +315,18 @@
       "posicao": 19,
       "id": "wa-1255-18",
       "titulo": "Jaqueta Bobojaco Forrada Frio Moto Casaco  Grossa  Peluciada Preto Plusize G1",
-      "preco": "R$ 197",
+      "preco": "R$ 167,45",
       "precoOriginal": "R$219",
       "desconto": "9% OFF no Pix",
-      "cupom": null,
+      "cupom": "SUPERCUPOM15",
       "link": "https://meli.la/2r5k5BC",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_879433-MLB85883497429_062025-AB.webp",
       "horarioProgramado": "12:55",
       "janela": "12:00-14:00",
-      "status": "pendente",
-      "fonte": "OFERTA",
+      "status": "postado",
+      "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-07T15:55:26.232Z"
     },
     {
       "posicao": 20,
