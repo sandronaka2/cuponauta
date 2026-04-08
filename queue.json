@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-08T21:00:40.109Z",
-  "exportedAt": "08/04/2026, 18:00:40",
+  "lastExport": "2026-04-08T21:09:58.889Z",
+  "exportedAt": "08/04/2026, 18:09:58",
   "total": 72,
-  "pendentes": 31,
-  "postados": 41,
+  "pendentes": 29,
+  "postados": 43,
   "queue": [
     {
       "posicao": 1,
@@ -731,10 +731,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_735998-MLB109541048637_032026-AB-oculos-de-sol-quadrado-preto-fosco-unissex-proteco-uv400.webp",
       "horarioProgramado": "18:01",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-08T21:01:48.004Z"
     },
     {
       "posicao": 44,
@@ -748,10 +748,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_741988-MLB75684072031_042024-AB-colchacobre-leito-dupla-face-matelado-casal-3-pecas.webp",
       "horarioProgramado": "18:08",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-08T21:08:11.947Z"
     },
     {
       "posicao": 45,
