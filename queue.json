@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-08T19:00:39.553Z",
-  "exportedAt": "08/04/2026, 16:00:39",
+  "lastExport": "2026-04-08T19:08:50.212Z",
+  "exportedAt": "08/04/2026, 16:08:50",
   "total": 72,
-  "pendentes": 39,
-  "postados": 33,
+  "pendentes": 38,
+  "postados": 34,
   "queue": [
     {
       "posicao": 1,
@@ -595,10 +595,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_666615-MLB85936081657_062025-AB-pendente-de-cerejeira-artificial-12-galhos-grande-folhagem.webp",
       "horarioProgramado": "16:07",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-08T19:07:17.907Z"
     },
     {
       "posicao": 36,
