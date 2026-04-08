@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-08T16:28:51.030Z",
-  "exportedAt": "08/04/2026, 13:28:51",
+  "lastExport": "2026-04-08T16:39:01.715Z",
+  "exportedAt": "08/04/2026, 13:39:01",
   "total": 72,
-  "pendentes": 50,
-  "postados": 22,
+  "pendentes": 48,
+  "postados": 24,
   "queue": [
     {
       "posicao": 1,
@@ -391,10 +391,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_719067-MLB95663531124_102025-AB-extenso-6-tomadas-e-2-usb-1-pd-led-bivolt-power.webp",
       "horarioProgramado": "13:30",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-08T16:30:29.335Z"
     },
     {
       "posicao": 24,
@@ -408,10 +408,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_834739-MLB89421024664_082025-AB-escova-secadora-modeladora-oval-easy-style-taiff-127v.webp",
       "horarioProgramado": "13:38",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-08T16:38:52.828Z"
     },
     {
       "posicao": 25,
