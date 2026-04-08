@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-08T22:58:59.953Z",
-  "exportedAt": "08/04/2026, 19:58:59",
+  "lastExport": "2026-04-08T23:00:39.102Z",
+  "exportedAt": "08/04/2026, 20:00:39",
   "total": 72,
-  "pendentes": 17,
-  "postados": 55,
+  "pendentes": 16,
+  "postados": 56,
   "queue": [
     {
       "posicao": 1,
@@ -969,10 +969,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_613811-MLB109626730783_032026-AB-cortina-oxford-tecido-premium-grosso-300x250-sala-quarto.webp",
       "horarioProgramado": "19:59",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-08T22:59:48.847Z"
     },
     {
       "posicao": 58,
