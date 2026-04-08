@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-08T21:10:39.542Z",
-  "exportedAt": "08/04/2026, 18:10:39",
+  "lastExport": "2026-04-08T21:58:13.115Z",
+  "exportedAt": "08/04/2026, 18:58:13",
   "total": 72,
-  "pendentes": 29,
-  "postados": 43,
+  "pendentes": 24,
+  "postados": 48,
   "queue": [
     {
       "posicao": 1,
@@ -765,10 +765,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_970085-MLB97383970976_112025-AB.webp",
       "horarioProgramado": "18:17",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-08T21:17:16.702Z"
     },
     {
       "posicao": 46,
@@ -782,10 +782,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_990547-MLB107999943115_032026-AB.webp",
       "horarioProgramado": "18:25",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-08T21:25:57.839Z"
     },
     {
       "posicao": 47,
@@ -799,10 +799,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_692843-MLA100007837965_122025-AB.webp",
       "horarioProgramado": "18:34",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-08T21:34:23.609Z"
     },
     {
       "posicao": 48,
@@ -816,10 +816,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_628498-MLB92598514533_092025-AB-kit-6-cuecas-boxer-microfibra-lupo-sem-costura.webp",
       "horarioProgramado": "18:42",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-08T21:42:57.537Z"
     },
     {
       "posicao": 49,
@@ -833,10 +833,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_612456-MLB100377792915_122025-AB-kit-10-pares-meias-zhamaro-premium-cano-medio-alto-atoalhada.webp",
       "horarioProgramado": "18:50",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-08T21:50:51.817Z"
     },
     {
       "posicao": 50,
