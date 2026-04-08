@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-08T21:58:26.785Z",
-  "exportedAt": "08/04/2026, 18:58:26",
+  "lastExport": "2026-04-08T22:09:58.437Z",
+  "exportedAt": "08/04/2026, 19:09:58",
   "total": 72,
-  "pendentes": 24,
-  "postados": 48,
+  "pendentes": 22,
+  "postados": 50,
   "queue": [
     {
       "posicao": 1,
@@ -850,10 +850,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_874587-MLB90539893904_082025-AB-tnis-akion-masculino-e-feminino-casual-conforto-premium.webp",
       "horarioProgramado": "18:59",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-08T21:59:41.163Z"
     },
     {
       "posicao": 51,
@@ -867,10 +867,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_665472-MLU75359066475_032024-AB.webp",
       "horarioProgramado": "19:08",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-08T22:08:35.493Z"
     },
     {
       "posicao": 52,
