@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-08T15:18:21.551Z",
-  "exportedAt": "08/04/2026, 12:18:21",
+  "lastExport": "2026-04-08T15:28:32.483Z",
+  "exportedAt": "08/04/2026, 12:28:32",
   "total": 72,
-  "pendentes": 58,
-  "postados": 14,
+  "pendentes": 56,
+  "postados": 16,
   "queue": [
     {
       "posicao": 1,
@@ -255,10 +255,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_985128-MLB109036432744_032026-AB-camisola-feminina-adulta-decote-v-ribana-soft-confortavel.webp",
       "horarioProgramado": "12:18",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-08T15:18:22.996Z"
     },
     {
       "posicao": 16,
@@ -272,10 +272,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_753898-MLB89364401362_082025-AB-kit-5-bermudas-moletom-masculinas-academia-plus-size-p-ao-g6.webp",
       "horarioProgramado": "12:26",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-08T15:26:59.087Z"
     },
     {
       "posicao": 17,
