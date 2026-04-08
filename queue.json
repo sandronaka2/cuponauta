@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-08T23:10:39.049Z",
-  "exportedAt": "08/04/2026, 20:10:39",
+  "lastExport": "2026-04-08T23:18:22.167Z",
+  "exportedAt": "08/04/2026, 20:18:22",
   "total": 72,
-  "pendentes": 15,
-  "postados": 57,
+  "pendentes": 14,
+  "postados": 58,
   "queue": [
     {
       "posicao": 1,
@@ -1003,10 +1003,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_647656-MLB109282581057_032026-AB-arminha-de-gel-eletrica-automatica-bolinha-metralhadora-led.webp",
       "horarioProgramado": "20:15",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-08T23:15:17.821Z"
     },
     {
       "posicao": 60,
