@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-09T22:31:57.586Z",
-  "exportedAt": "09/04/2026, 19:31:57",
+  "lastExport": "2026-04-09T22:34:28.439Z",
+  "exportedAt": "09/04/2026, 19:34:28",
   "total": 72,
-  "pendentes": 19,
-  "postados": 53,
+  "pendentes": 18,
+  "postados": 54,
   "queue": [
     {
       "posicao": 1,
@@ -918,10 +918,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_636977-MLB106355826329_022026-AB-cabeceira-casal-estofada-havena-140-suede-premium-line.webp",
       "horarioProgramado": "19:34",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-09T22:34:14.241Z"
     },
     {
       "posicao": 55,
