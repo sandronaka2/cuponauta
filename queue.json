@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-09T20:26:37.418Z",
-  "exportedAt": "09/04/2026, 17:26:37",
+  "lastExport": "2026-04-09T20:27:17.146Z",
+  "exportedAt": "09/04/2026, 17:27:17",
   "total": 72,
-  "pendentes": 33,
-  "postados": 39,
+  "pendentes": 32,
+  "postados": 40,
   "queue": [
     {
       "posicao": 1,
@@ -680,10 +680,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_965856-MLB103117895835_122025-AB-fogo-cooktop-eletrico-fogareiro-2-bocas-portatil-110-220.webp",
       "horarioProgramado": "17:27",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-09T20:27:09.992Z"
     },
     {
       "posicao": 41,
