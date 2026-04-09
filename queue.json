@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-09T20:44:58.401Z",
-  "exportedAt": "09/04/2026, 17:44:58",
+  "lastExport": "2026-04-09T20:45:24.359Z",
+  "exportedAt": "09/04/2026, 17:45:24",
   "total": 72,
-  "pendentes": 32,
-  "postados": 40,
+  "pendentes": 31,
+  "postados": 41,
   "queue": [
     {
       "posicao": 1,
@@ -697,10 +697,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_671795-MLB99756959670_122025-AB-tnis-aramis-deep-leather.webp",
       "horarioProgramado": "17:45",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-09T20:45:12.230Z"
     },
     {
       "posicao": 42,
