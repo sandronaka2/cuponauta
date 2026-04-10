@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-10T20:57:06.578Z",
-  "exportedAt": "10/04/2026, 17:57:06",
+  "lastExport": "2026-04-10T21:04:50.045Z",
+  "exportedAt": "10/04/2026, 18:04:50",
   "total": 72,
-  "pendentes": 32,
-  "postados": 40,
+  "pendentes": 30,
+  "postados": 42,
   "queue": [
     {
       "posicao": 1,
@@ -714,10 +714,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_626017-MLB95713056174_102025-AB-blusa-feminina-decote-quadrada-suplex-premium-forro-duplo.webp",
       "horarioProgramado": "17:58",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-10T20:58:41.496Z"
     },
     {
       "posicao": 43,
@@ -731,10 +731,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_861968-MLA105990049323_012026-AB.webp",
       "horarioProgramado": "18:01",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-10T21:02:00.791Z"
     },
     {
       "posicao": 44,
