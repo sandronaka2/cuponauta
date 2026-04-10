@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-10T00:17:12.908Z",
-  "exportedAt": "09/04/2026, 21:17:12",
+  "lastExport": "2026-04-10T02:15:17.836Z",
+  "exportedAt": "09/04/2026, 23:15:17",
   "total": 72,
-  "pendentes": 7,
-  "postados": 65,
+  "pendentes": 2,
+  "postados": 70,
   "queue": [
     {
       "posicao": 1,
@@ -1139,10 +1139,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_622005-MLA107431320527_022026-AB.webp",
       "horarioProgramado": "21:17",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-10T00:17:34.352Z"
     },
     {
       "posicao": 68,
@@ -1173,10 +1173,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_883307-MLB108071857417_032026-AB.webp",
       "horarioProgramado": "21:33",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-10T00:33:33.481Z"
     },
     {
       "posicao": 70,
@@ -1190,10 +1190,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_989198-MLB94520356992_102025-AB-kit-3-cuecas-puma-boxer-sem-costura-microfibra-puma-original.webp",
       "horarioProgramado": "21:40",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-10T00:41:02.228Z"
     },
     {
       "posicao": 71,
@@ -1207,10 +1207,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_878339-MLA99936555835_112025-AB.webp",
       "horarioProgramado": "21:49",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-10T00:49:54.504Z"
     },
     {
       "posicao": 72,
@@ -1224,10 +1224,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_668374-MLA100966488282_122025-AB.webp",
       "horarioProgramado": "21:58",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-10T00:58:31.517Z"
     }
   ]
 }
