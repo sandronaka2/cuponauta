@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-10T15:34:49.335Z",
-  "exportedAt": "10/04/2026, 12:34:49",
+  "lastExport": "2026-04-10T15:37:02.915Z",
+  "exportedAt": "10/04/2026, 12:37:02",
   "total": 72,
-  "pendentes": 57,
-  "postados": 15,
+  "pendentes": 56,
+  "postados": 16,
   "queue": [
     {
       "posicao": 1,
@@ -289,10 +289,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_750255-MLB93925152300_102025-AB-kit-4-cuecas-boxer-puma-poliamida-sem-costura-original.webp",
       "horarioProgramado": "12:36",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-10T15:36:46.373Z"
     },
     {
       "posicao": 18,
