@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-10T00:07:57.861Z",
-  "exportedAt": "09/04/2026, 21:07:57",
+  "lastExport": "2026-04-10T00:10:49.746Z",
+  "exportedAt": "09/04/2026, 21:10:49",
   "total": 72,
-  "pendentes": 8,
-  "postados": 64,
+  "pendentes": 7,
+  "postados": 65,
   "queue": [
     {
       "posicao": 1,
@@ -1122,10 +1122,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_683820-MLB100084762567_122025-AB-scarpin-feminino-salto-grosso-verniz-c-laco-strass-elegante.webp",
       "horarioProgramado": "21:09",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-10T00:09:16.505Z"
     },
     {
       "posicao": 67,
