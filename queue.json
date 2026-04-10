@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-10T11:58:08.879Z",
-  "exportedAt": "10/04/2026, 08:58:08",
+  "lastExport": "2026-04-10T12:03:01.064Z",
+  "exportedAt": "10/04/2026, 09:03:01",
   "total": 72,
-  "pendentes": 72,
-  "postados": 0,
+  "pendentes": 71,
+  "postados": 1,
   "queue": [
     {
       "posicao": 1,
@@ -17,10 +17,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_781795-MLB91517715197_092025-AB-vestido-midi-infanto-juvenil-saia-rodada-manga-tule-casual.webp",
       "horarioProgramado": "09:02",
       "janela": "09:00-10:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-10T12:02:46.084Z"
     },
     {
       "posicao": 2,
