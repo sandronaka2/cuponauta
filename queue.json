@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-11T12:27:04.298Z",
-  "exportedAt": "11/04/2026, 09:27:04",
+  "lastExport": "2026-04-11T12:30:12.525Z",
+  "exportedAt": "11/04/2026, 09:30:12",
   "total": 72,
-  "pendentes": 71,
-  "postados": 1,
+  "pendentes": 70,
+  "postados": 2,
   "queue": [
     {
       "posicao": 1,
@@ -34,10 +34,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_776223-MLB89728518318_082025-AB-kit-6-calcinha-feminina-biquini-em-poliamida-leve-trifil.webp",
       "horarioProgramado": "09:28",
       "janela": "09:00-10:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-11T12:28:32.161Z"
     },
     {
       "posicao": 3,
