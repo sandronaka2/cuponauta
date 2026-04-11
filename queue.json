@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-11T23:34:53.771Z",
-  "exportedAt": "11/04/2026, 20:34:53",
+  "lastExport": "2026-04-11T23:37:07.157Z",
+  "exportedAt": "11/04/2026, 20:37:07",
   "total": 72,
-  "pendentes": 12,
-  "postados": 60,
+  "pendentes": 11,
+  "postados": 61,
   "queue": [
     {
       "posicao": 1,
@@ -1037,10 +1037,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_648907-MLB93935288587_102025-AB-depurador-e-exaustor-de-ar-suggar-slim-80cm-3-vel-titanium.webp",
       "horarioProgramado": "20:35",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-11T23:35:31.311Z"
     },
     {
       "posicao": 62,
