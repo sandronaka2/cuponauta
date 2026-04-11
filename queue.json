@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-11T17:30:12.873Z",
-  "exportedAt": "11/04/2026, 14:30:12",
+  "lastExport": "2026-04-11T17:34:51.253Z",
+  "exportedAt": "11/04/2026, 14:34:51",
   "total": 72,
-  "pendentes": 44,
-  "postados": 28,
+  "pendentes": 43,
+  "postados": 29,
   "queue": [
     {
       "posicao": 1,
@@ -493,10 +493,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_994314-MLB98558577737_112025-AB-luminaria-projetor-estrela-360-galaxy-abajur-mesa-infantil.webp",
       "horarioProgramado": "14:34",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-11T17:34:12.506Z"
     },
     {
       "posicao": 30,
