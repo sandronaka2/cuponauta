@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-10T23:57:06.677Z",
-  "exportedAt": "10/04/2026, 20:57:06",
+  "lastExport": "2026-04-11T00:04:50.133Z",
+  "exportedAt": "10/04/2026, 21:04:50",
   "total": 72,
-  "pendentes": 10,
-  "postados": 62,
+  "pendentes": 8,
+  "postados": 64,
   "queue": [
     {
       "posicao": 1,
@@ -1088,10 +1088,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_870757-MLA96071796979_102025-AB.webp",
       "horarioProgramado": "20:58",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-10T23:58:36.771Z"
     },
     {
       "posicao": 65,
@@ -1105,10 +1105,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_957872-MLB97351627901_112025-AB-sapatnis-leve-de-ziper-super-conforto.webp",
       "horarioProgramado": "21:01",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-11T00:01:24.502Z"
     },
     {
       "posicao": 66,
