@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-11T00:43:01.940Z",
-  "exportedAt": "10/04/2026, 21:43:01",
+  "lastExport": "2026-04-11T00:44:50.150Z",
+  "exportedAt": "10/04/2026, 21:44:50",
   "total": 72,
-  "pendentes": 4,
-  "postados": 68,
+  "pendentes": 3,
+  "postados": 69,
   "queue": [
     {
       "posicao": 1,
@@ -1190,10 +1190,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_753390-MLB103514583295_012026-AB-tnis-fila-racer-speedzone-masculino.webp",
       "horarioProgramado": "21:44",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-11T00:44:12.757Z"
     },
     {
       "posicao": 71,
