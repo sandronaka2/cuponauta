@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-12T15:01:13.166Z",
-  "exportedAt": "12/04/2026, 12:01:13",
+  "lastExport": "2026-04-12T15:01:42.176Z",
+  "exportedAt": "12/04/2026, 12:01:42",
   "total": 72,
-  "pendentes": 60,
-  "postados": 12,
+  "pendentes": 59,
+  "postados": 13,
   "queue": [
     {
       "posicao": 1,
@@ -221,10 +221,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_839132-MLA98658899149_112025-AB.webp",
       "horarioProgramado": "12:01",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-12T15:01:16.707Z"
     },
     {
       "posicao": 14,
@@ -722,13 +722,13 @@
     {
       "posicao": 43,
       "id": "wa-1801-42",
-      "titulo": "Fechadura De Sobrepor 231 Soprano Para Portão Cor Preto",
-      "preco": "R$ 35",
-      "precoOriginal": "R$49,90",
-      "desconto": "29% OFF",
+      "titulo": "Creamy Skincare Limpador Facial Antioleosidade 300ml | 24 Horas De Oleosidade Controlada, Desobstrui Poros E Reduz Brilho Excessivo | Indicado Para Todos Os Tipos De Pele, Uso Diário Oleosa Dia/noite",
+      "preco": "R$ 54",
+      "precoOriginal": "R$60,51",
+      "desconto": "9% OFF",
       "cupom": null,
-      "link": "https://meli.la/1uRREJt",
-      "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_772873-MLA99595806410_122025-AB.webp",
+      "link": "https://meli.la/2SH9Ufg",
+      "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_985483-MLA92800995668_092025-AB.webp",
       "horarioProgramado": "18:01",
       "janela": "18:00-21:00",
       "status": "pendente",
