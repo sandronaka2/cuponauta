@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-12T18:50:11.684Z",
-  "exportedAt": "12/04/2026, 15:50:11",
+  "lastExport": "2026-04-12T18:54:54.736Z",
+  "exportedAt": "12/04/2026, 15:54:54",
   "total": 72,
-  "pendentes": 39,
-  "postados": 33,
+  "pendentes": 38,
+  "postados": 34,
   "queue": [
     {
       "posicao": 1,
@@ -578,10 +578,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_741981-MLB108520228939_032026-AB-meia-coxa-feminino-clochar-cor-marrom-azul-com-laco-elastico.webp",
       "horarioProgramado": "15:51",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-12T18:51:19.566Z"
     },
     {
       "posicao": 35,
