@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-12T22:50:13.275Z",
-  "exportedAt": "12/04/2026, 19:50:13",
+  "lastExport": "2026-04-12T22:54:56.383Z",
+  "exportedAt": "12/04/2026, 19:54:56",
   "total": 72,
-  "pendentes": 17,
-  "postados": 55,
+  "pendentes": 16,
+  "postados": 56,
   "queue": [
     {
       "posicao": 1,
@@ -952,10 +952,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_769263-MLB105502227839_012026-AB-kit-10-cuecas-boxer-polo-voker-plus-size-microfibra.webp",
       "horarioProgramado": "19:51",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-12T22:51:59.290Z"
     },
     {
       "posicao": 57,
