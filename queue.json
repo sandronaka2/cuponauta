@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-12T23:24:56.442Z",
-  "exportedAt": "12/04/2026, 20:24:56",
+  "lastExport": "2026-04-12T23:27:09.896Z",
+  "exportedAt": "12/04/2026, 20:27:09",
   "total": 72,
-  "pendentes": 13,
-  "postados": 59,
+  "pendentes": 12,
+  "postados": 60,
   "queue": [
     {
       "posicao": 1,
@@ -1020,10 +1020,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_685875-MLB95486540848_102025-AB-mangueira-led-5050-chata-20m-branco-quente-sancas-144wm.webp",
       "horarioProgramado": "20:26",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-12T23:26:39.262Z"
     },
     {
       "posicao": 61,
