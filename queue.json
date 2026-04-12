@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-12T00:40:15.610Z",
-  "exportedAt": "11/04/2026, 21:40:15",
+  "lastExport": "2026-04-12T00:44:53.828Z",
+  "exportedAt": "11/04/2026, 21:44:53",
   "total": 72,
-  "pendentes": 3,
-  "postados": 69,
+  "pendentes": 2,
+  "postados": 70,
   "queue": [
     {
       "posicao": 1,
@@ -1190,10 +1190,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_813403-MLB103749353012_012026-AB-blusa-basica-feminina-regata-assimetrica-elegante-casual.webp",
       "horarioProgramado": "21:40",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-12T00:40:39.437Z"
     },
     {
       "posicao": 71,
