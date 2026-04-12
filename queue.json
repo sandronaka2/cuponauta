@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-12T00:57:07.242Z",
-  "exportedAt": "11/04/2026, 21:57:07",
+  "lastExport": "2026-04-12T01:00:15.630Z",
+  "exportedAt": "11/04/2026, 22:00:15",
   "total": 72,
-  "pendentes": 1,
-  "postados": 71,
+  "pendentes": 0,
+  "postados": 72,
   "queue": [
     {
       "posicao": 1,
@@ -1224,10 +1224,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_853041-MLB89970337097_082025-AB-vaporizador-quente-frio-facial-cabelos-estetica-anvisa-estek.webp",
       "horarioProgramado": "21:58",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-12T00:58:18.334Z"
     }
   ]
 }
