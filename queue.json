@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-13T12:57:10.325Z",
-  "exportedAt": "13/04/2026, 09:57:10",
+  "lastExport": "2026-04-13T13:00:13.431Z",
+  "exportedAt": "13/04/2026, 10:00:13",
   "total": 72,
-  "pendentes": 70,
-  "postados": 2,
+  "pendentes": 69,
+  "postados": 3,
   "queue": [
     {
       "posicao": 1,
@@ -68,10 +68,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_957712-MLB78736577824_092024-AB-kit-10-cuecas-boxer-infantil-mash-meninos-algodo.webp",
       "horarioProgramado": "09:58",
       "janela": "09:00-10:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-13T12:58:40.676Z"
     },
     {
       "posicao": 5,
