@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-13T21:33:32.214Z",
-  "exportedAt": "13/04/2026, 18:33:32",
+  "lastExport": "2026-04-13T21:34:59.459Z",
+  "exportedAt": "13/04/2026, 18:34:59",
   "total": 72,
-  "pendentes": 27,
-  "postados": 45,
+  "pendentes": 26,
+  "postados": 46,
   "queue": [
     {
       "posicao": 1,
@@ -799,10 +799,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_606136-MLB89823670946_082025-AB-tenis-mormaii-urban-free-skate-casual-masculino-original.webp",
       "horarioProgramado": "18:34",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-13T21:34:11.750Z"
     },
     {
       "posicao": 48,
