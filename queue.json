@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-13T16:20:15.331Z",
-  "exportedAt": "13/04/2026, 13:20:15",
+  "lastExport": "2026-04-13T16:24:58.153Z",
+  "exportedAt": "13/04/2026, 13:24:58",
   "total": 72,
-  "pendentes": 52,
-  "postados": 20,
+  "pendentes": 51,
+  "postados": 21,
   "queue": [
     {
       "posicao": 1,
@@ -374,10 +374,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_959141-MLB85136834471_052025-AB-kit-4-camiseta-masculina-100-algodo-lisa-premier-basica.webp",
       "horarioProgramado": "13:23",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-13T16:23:42.794Z"
     },
     {
       "posicao": 23,
