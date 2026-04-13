@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-13T19:54:58.609Z",
-  "exportedAt": "13/04/2026, 16:54:58",
+  "lastExport": "2026-04-13T19:57:11.920Z",
+  "exportedAt": "13/04/2026, 16:57:11",
   "total": 72,
-  "pendentes": 36,
-  "postados": 36,
+  "pendentes": 35,
+  "postados": 37,
   "queue": [
     {
       "posicao": 1,
@@ -646,10 +646,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_770980-MLB92987274912_092025-AB-cadeira-barbearia-reclinavel-urano-hidraulica-pronta-entrega.webp",
       "horarioProgramado": "16:56",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-13T19:56:41.694Z"
     },
     {
       "posicao": 39,
