@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-13T20:37:11.906Z",
-  "exportedAt": "13/04/2026, 17:37:11",
+  "lastExport": "2026-04-13T20:43:32.113Z",
+  "exportedAt": "13/04/2026, 17:43:32",
   "total": 72,
-  "pendentes": 33,
-  "postados": 39,
+  "pendentes": 32,
+  "postados": 40,
   "queue": [
     {
       "posicao": 1,
@@ -697,10 +697,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_612048-MLB110243237329_042026-AB-kit-com-2-tesouras-jaguar-1-fio-navalha1-desfiadeira-6pol.webp",
       "horarioProgramado": "17:43",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-13T20:43:23.704Z"
     },
     {
       "posicao": 42,
