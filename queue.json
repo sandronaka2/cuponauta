@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-13T12:40:13.328Z",
-  "exportedAt": "13/04/2026, 09:40:13",
+  "lastExport": "2026-04-13T12:44:56.943Z",
+  "exportedAt": "13/04/2026, 09:44:56",
   "total": 72,
-  "pendentes": 71,
-  "postados": 1,
+  "pendentes": 70,
+  "postados": 2,
   "queue": [
     {
       "posicao": 1,
@@ -51,10 +51,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_614488-MLB78069018446_082024-AB-cinta-modeladora-feminina-opta-corpus-750-redutora-cintura.webp",
       "horarioProgramado": "09:41",
       "janela": "09:00-10:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-13T12:41:38.726Z"
     },
     {
       "posicao": 4,
