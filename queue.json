@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-13T00:57:10.059Z",
-  "exportedAt": "12/04/2026, 21:57:10",
+  "lastExport": "2026-04-13T01:00:13.483Z",
+  "exportedAt": "12/04/2026, 22:00:13",
   "total": 72,
-  "pendentes": 1,
-  "postados": 71,
+  "pendentes": 0,
+  "postados": 72,
   "queue": [
     {
       "posicao": 1,
@@ -1224,10 +1224,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_872812-MLB96242190967_102025-AB-calca-sarja-masculina-alfaiataria-sport-fino-bolso-faca.webp",
       "horarioProgramado": "21:58",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-13T00:58:51.574Z"
     }
   ]
 }
