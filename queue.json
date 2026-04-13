@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-13T21:47:12.040Z",
-  "exportedAt": "13/04/2026, 18:47:12",
+  "lastExport": "2026-04-13T21:53:32.350Z",
+  "exportedAt": "13/04/2026, 18:53:32",
   "total": 72,
-  "pendentes": 25,
-  "postados": 47,
+  "pendentes": 24,
+  "postados": 48,
   "queue": [
     {
       "posicao": 1,
@@ -833,10 +833,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_883568-MLB75687141933_042024-AB-kit-6-pares-de-meias-lupo-cano-curto-sport-algodo-feminino.webp",
       "horarioProgramado": "18:50",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-13T21:50:17.134Z"
     },
     {
       "posicao": 50,
