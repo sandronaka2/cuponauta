@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-13T21:07:11.984Z",
-  "exportedAt": "13/04/2026, 18:07:11",
+  "lastExport": "2026-04-13T21:12:51.634Z",
+  "exportedAt": "13/04/2026, 18:12:51",
   "total": 72,
-  "pendentes": 30,
-  "postados": 42,
+  "pendentes": 29,
+  "postados": 43,
   "queue": [
     {
       "posicao": 1,
@@ -748,10 +748,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_854770-MLB83468062653_042025-AB-capa-maquina-lavar-roupas-ziper-10-11-12-13-14-15-16-17-18kg.webp",
       "horarioProgramado": "18:09",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-13T21:09:54.478Z"
     },
     {
       "posicao": 45,
