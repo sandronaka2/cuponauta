@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-14T12:20:12.574Z",
-  "exportedAt": "14/04/2026, 09:20:12",
+  "lastExport": "2026-04-14T12:24:59.713Z",
+  "exportedAt": "14/04/2026, 09:24:59",
   "total": 72,
-  "pendentes": 71,
-  "postados": 1,
+  "pendentes": 70,
+  "postados": 2,
   "queue": [
     {
       "posicao": 1,
@@ -34,10 +34,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_719495-MLB82276932615_022025-AB-kit-3-sutis-com-bojo-rendado-com-alca-reforcada-revenda.webp",
       "horarioProgramado": "09:21",
       "janela": "09:00-10:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-14T12:21:29.135Z"
     },
     {
       "posicao": 3,
