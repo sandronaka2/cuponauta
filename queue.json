@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-14T14:24:59.871Z",
-  "exportedAt": "14/04/2026, 11:24:59",
+  "lastExport": "2026-04-14T14:27:12.862Z",
+  "exportedAt": "14/04/2026, 11:27:12",
   "total": 72,
-  "pendentes": 63,
-  "postados": 9,
+  "pendentes": 62,
+  "postados": 10,
   "queue": [
     {
       "posicao": 1,
@@ -170,10 +170,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_767770-MLB100876249417_122025-AB-tnis-nike-air-max-alpha-trainer-6-masculino.webp",
       "horarioProgramado": "11:26",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-14T14:26:14.267Z"
     },
     {
       "posicao": 11,
