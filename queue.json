@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-14T22:40:14.270Z",
-  "exportedAt": "14/04/2026, 19:40:14",
+  "lastExport": "2026-04-14T22:45:01.087Z",
+  "exportedAt": "14/04/2026, 19:45:01",
   "total": 72,
-  "pendentes": 18,
-  "postados": 54,
+  "pendentes": 17,
+  "postados": 55,
   "queue": [
     {
       "posicao": 1,
@@ -935,10 +935,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_681444-MLB103683141753_012026-AB-smartwatch-bettdow-fb055-185-esportivo-ia-musica-gps-3atm.webp",
       "horarioProgramado": "19:44",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-14T22:44:46.072Z"
     },
     {
       "posicao": 56,
