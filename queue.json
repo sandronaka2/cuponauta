@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-14T13:17:12.780Z",
-  "exportedAt": "14/04/2026, 10:17:12",
+  "lastExport": "2026-04-14T13:20:12.706Z",
+  "exportedAt": "14/04/2026, 10:20:12",
   "total": 72,
-  "pendentes": 67,
-  "postados": 5,
+  "pendentes": 66,
+  "postados": 6,
   "queue": [
     {
       "posicao": 1,
@@ -102,10 +102,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_603329-MLB97813372333_112025-AB-calca-jeans-feminina-cargo-levanta-bumbum-cintura-alta.webp",
       "horarioProgramado": "10:17",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-14T13:17:21.573Z"
     },
     {
       "posicao": 7,
