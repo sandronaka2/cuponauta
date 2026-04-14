@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-14T23:40:13.684Z",
-  "exportedAt": "14/04/2026, 20:40:13",
+  "lastExport": "2026-04-14T23:45:00.993Z",
+  "exportedAt": "14/04/2026, 20:45:00",
   "total": 72,
-  "pendentes": 11,
-  "postados": 61,
+  "pendentes": 10,
+  "postados": 62,
   "queue": [
     {
       "posicao": 1,
@@ -1054,10 +1054,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_841033-MLB107392147933_022026-AB-jaqueta-feminina-bobojaco-puffer-impermeavel-com-capuz-nylon.webp",
       "horarioProgramado": "20:43",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-14T23:43:50.625Z"
     },
     {
       "posicao": 63,
