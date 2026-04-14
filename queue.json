@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-14T14:10:12.731Z",
-  "exportedAt": "14/04/2026, 11:10:12",
+  "lastExport": "2026-04-14T14:14:59.889Z",
+  "exportedAt": "14/04/2026, 11:14:59",
   "total": 72,
-  "pendentes": 64,
-  "postados": 8,
+  "pendentes": 63,
+  "postados": 9,
   "queue": [
     {
       "posicao": 1,
@@ -153,10 +153,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_617792-MLB82989713776_032025-AB-kit-6-cuecas-box-sem-costura-boxer-lupo-microfibra-original.webp",
       "horarioProgramado": "11:10",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-14T14:10:39.933Z"
     },
     {
       "posicao": 10,
