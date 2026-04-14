@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-14T16:10:13.063Z",
-  "exportedAt": "14/04/2026, 13:10:13",
+  "lastExport": "2026-04-14T16:15:00.252Z",
+  "exportedAt": "14/04/2026, 13:15:00",
   "total": 72,
-  "pendentes": 52,
-  "postados": 20,
+  "pendentes": 51,
+  "postados": 21,
   "queue": [
     {
       "posicao": 1,
@@ -357,10 +357,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_890203-MLB84299561384_052025-AB-vestido-infantil-curto-roupa-menina-adolescente.webp",
       "horarioProgramado": "13:11",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-14T16:11:50.969Z"
     },
     {
       "posicao": 22,
