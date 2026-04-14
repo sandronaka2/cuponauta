@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-14T23:30:13.638Z",
-  "exportedAt": "14/04/2026, 20:30:13",
+  "lastExport": "2026-04-14T23:35:00.915Z",
+  "exportedAt": "14/04/2026, 20:35:00",
   "total": 72,
-  "pendentes": 12,
-  "postados": 60,
+  "pendentes": 11,
+  "postados": 61,
   "queue": [
     {
       "posicao": 1,
@@ -1037,10 +1037,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_847927-MLB107566255549_022026-AB-capa-protetor-de-colcho-elastico-queen-impermeavel-matelado.webp",
       "horarioProgramado": "20:34",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-14T23:34:22.525Z"
     },
     {
       "posicao": 62,
