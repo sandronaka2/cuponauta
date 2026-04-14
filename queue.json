@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-14T16:20:12.900Z",
-  "exportedAt": "14/04/2026, 13:20:12",
+  "lastExport": "2026-04-14T16:25:00.101Z",
+  "exportedAt": "14/04/2026, 13:25:00",
   "total": 72,
-  "pendentes": 51,
-  "postados": 21,
+  "pendentes": 50,
+  "postados": 22,
   "queue": [
     {
       "posicao": 1,
@@ -374,10 +374,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_802122-MLB84519314349_052025-AB-tnis-rbd-game-low-puma.webp",
       "horarioProgramado": "13:20",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-14T16:20:32.578Z"
     },
     {
       "posicao": 23,
