@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-15T00:57:13.723Z",
-  "exportedAt": "14/04/2026, 21:57:13",
+  "lastExport": "2026-04-15T01:00:13.726Z",
+  "exportedAt": "14/04/2026, 22:00:13",
   "total": 72,
-  "pendentes": 1,
-  "postados": 71,
+  "pendentes": 0,
+  "postados": 72,
   "queue": [
     {
       "posicao": 1,
@@ -1224,10 +1224,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_801397-MLB109973423235_042026-AB-sandalia-feminina-brilho-strass-tendncia-moda-original.webp",
       "horarioProgramado": "21:58",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-15T00:58:15.785Z"
     }
   ]
 }
