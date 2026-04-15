@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-15T22:10:17.301Z",
-  "exportedAt": "15/04/2026, 19:10:17",
+  "lastExport": "2026-04-15T22:15:05.925Z",
+  "exportedAt": "15/04/2026, 19:15:05",
   "total": 72,
-  "pendentes": 23,
-  "postados": 49,
+  "pendentes": 22,
+  "postados": 50,
   "queue": [
     {
       "posicao": 1,
@@ -867,10 +867,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_759093-MLB106055198563_012026-AB-vestidos-rodado-soltinho-bolso-confortavel-alcinha-lindo.webp",
       "horarioProgramado": "19:10",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-15T22:10:52.053Z"
     },
     {
       "posicao": 52,
