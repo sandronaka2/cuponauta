@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-15T13:15:01.486Z",
-  "exportedAt": "15/04/2026, 10:15:01",
+  "lastExport": "2026-04-15T13:17:14.194Z",
+  "exportedAt": "15/04/2026, 10:17:14",
   "total": 72,
-  "pendentes": 67,
-  "postados": 5,
+  "pendentes": 66,
+  "postados": 6,
   "queue": [
     {
       "posicao": 1,
@@ -102,10 +102,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_932405-MLB77376616776_072024-AB-chinelo-havaianas-masculino-top-max-comfort-anatmica-macia.webp",
       "horarioProgramado": "10:17",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-15T13:17:13.957Z"
     },
     {
       "posicao": 7,
