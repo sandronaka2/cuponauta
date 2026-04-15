@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-15T00:10:13.647Z",
-  "exportedAt": "14/04/2026, 21:10:13",
+  "lastExport": "2026-04-15T00:15:01.067Z",
+  "exportedAt": "14/04/2026, 21:15:01",
   "total": 72,
-  "pendentes": 7,
-  "postados": 65,
+  "pendentes": 6,
+  "postados": 66,
   "queue": [
     {
       "posicao": 1,
@@ -1122,10 +1122,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_736487-MLB84513953865_052025-AB-conjunto-feminino-conjuntos-feminino-conjunto-canelado-3d.webp",
       "horarioProgramado": "21:10",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-15T00:10:58.634Z"
     },
     {
       "posicao": 67,
