@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-15T16:10:13.092Z",
-  "exportedAt": "15/04/2026, 13:10:13",
+  "lastExport": "2026-04-15T16:15:01.697Z",
+  "exportedAt": "15/04/2026, 13:15:01",
   "total": 72,
-  "pendentes": 52,
-  "postados": 20,
+  "pendentes": 51,
+  "postados": 21,
   "queue": [
     {
       "posicao": 1,
@@ -357,10 +357,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_689602-MLB91864098495_092025-AB-camisa-social-casual-preta-masculina-sem-bolso.webp",
       "horarioProgramado": "13:13",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-15T16:13:53.271Z"
     },
     {
       "posicao": 22,
