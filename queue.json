@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-15T17:15:01.782Z",
-  "exportedAt": "15/04/2026, 14:15:01",
+  "lastExport": "2026-04-15T17:17:14.549Z",
+  "exportedAt": "15/04/2026, 14:17:14",
   "total": 72,
-  "pendentes": 45,
-  "postados": 27,
+  "pendentes": 44,
+  "postados": 28,
   "queue": [
     {
       "posicao": 1,
@@ -476,10 +476,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_840597-MLB107109433027_022026-AB-top-fitness-beach-tennis-academia-feminino-para-malhar-snd.webp",
       "horarioProgramado": "14:17",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-15T17:17:10.121Z"
     },
     {
       "posicao": 29,
