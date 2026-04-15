@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-15T22:50:17.338Z",
-  "exportedAt": "15/04/2026, 19:50:17",
+  "lastExport": "2026-04-15T22:55:06.129Z",
+  "exportedAt": "15/04/2026, 19:55:06",
   "total": 72,
-  "pendentes": 18,
-  "postados": 54,
+  "pendentes": 17,
+  "postados": 55,
   "queue": [
     {
       "posicao": 1,
@@ -952,10 +952,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_792057-MLB83437899705_032025-AB-tnis-reserva-masculino-casual-cano-baixo-antiderrapante.webp",
       "horarioProgramado": "19:52",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-15T22:52:16.705Z"
     },
     {
       "posicao": 57,
