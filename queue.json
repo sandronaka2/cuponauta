@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-15T19:07:18.371Z",
-  "exportedAt": "15/04/2026, 16:07:18",
+  "lastExport": "2026-04-15T19:10:17.133Z",
+  "exportedAt": "15/04/2026, 16:10:17",
   "total": 72,
-  "pendentes": 38,
-  "postados": 34,
+  "pendentes": 37,
+  "postados": 35,
   "queue": [
     {
       "posicao": 1,
@@ -595,10 +595,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_735049-MLB105906955292_022026-AB-kit-3-top-suti-sensual-sem-costura-com-alca-ajustavel.webp",
       "horarioProgramado": "16:09",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-15T19:09:49.153Z"
     },
     {
       "posicao": 36,
