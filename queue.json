@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-15T21:50:17.298Z",
-  "exportedAt": "15/04/2026, 18:50:17",
+  "lastExport": "2026-04-15T21:55:05.875Z",
+  "exportedAt": "15/04/2026, 18:55:05",
   "total": 72,
-  "pendentes": 25,
-  "postados": 47,
+  "pendentes": 24,
+  "postados": 48,
   "queue": [
     {
       "posicao": 1,
@@ -833,10 +833,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_631351-MLB75698628830_042024-AB-kit-com-6-pares-de-meias-cano-medio-algodo-atoalhada-trifil.webp",
       "horarioProgramado": "18:52",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-15T21:52:49.094Z"
     },
     {
       "posicao": 50,
