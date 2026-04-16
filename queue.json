@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-16T14:07:19.421Z",
-  "exportedAt": "16/04/2026, 11:07:19",
+  "lastExport": "2026-04-16T14:10:16.308Z",
+  "exportedAt": "16/04/2026, 11:10:16",
   "total": 72,
-  "pendentes": 64,
-  "postados": 8,
+  "pendentes": 63,
+  "postados": 9,
   "queue": [
     {
       "posicao": 1,
@@ -153,10 +153,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_652290-MLB77868683480_072024-AB-cortina-blackout-100-280x230-corta-luz-sala-quarto.webp",
       "horarioProgramado": "11:08",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-16T14:09:01.632Z"
     },
     {
       "posicao": 10,
