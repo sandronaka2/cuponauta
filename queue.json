@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-16T00:37:18.734Z",
-  "exportedAt": "15/04/2026, 21:37:18",
+  "lastExport": "2026-04-16T00:40:17.499Z",
+  "exportedAt": "15/04/2026, 21:40:17",
   "total": 72,
-  "pendentes": 4,
-  "postados": 68,
+  "pendentes": 3,
+  "postados": 69,
   "queue": [
     {
       "posicao": 1,
@@ -1190,10 +1190,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_898386-MLB96919566269_112025-AB-caixa-som-bluetooth-portatil-tws-grave-potente-com-radio-15h.webp",
       "horarioProgramado": "21:39",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-16T00:39:49.347Z"
     },
     {
       "posicao": 71,
