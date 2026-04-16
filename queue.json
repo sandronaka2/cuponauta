@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-15T23:57:18.713Z",
-  "exportedAt": "15/04/2026, 20:57:18",
+  "lastExport": "2026-04-16T00:00:18.188Z",
+  "exportedAt": "15/04/2026, 21:00:18",
   "total": 72,
-  "pendentes": 10,
-  "postados": 62,
+  "pendentes": 9,
+  "postados": 63,
   "queue": [
     {
       "posicao": 1,
@@ -1088,10 +1088,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_684376-MLB106553218766_022026-AB-jaqueta-infantil-pelinho-rovi-kids-rosa.webp",
       "horarioProgramado": "20:58",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-15T23:58:28.552Z"
     },
     {
       "posicao": 65,
