@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-16T20:40:16.654Z",
-  "exportedAt": "16/04/2026, 17:40:16",
+  "lastExport": "2026-04-16T20:45:06.962Z",
+  "exportedAt": "16/04/2026, 17:45:06",
   "total": 72,
-  "pendentes": 32,
-  "postados": 40,
+  "pendentes": 31,
+  "postados": 41,
   "queue": [
     {
       "posicao": 1,
@@ -697,10 +697,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_821957-MLB81650411766_012025-AB-jogo-de-lencol-casal-malha-100-algodo-03-pecas-c-elastico.webp",
       "horarioProgramado": "17:43",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-16T20:43:17.024Z"
     },
     {
       "posicao": 42,
