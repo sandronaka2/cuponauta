@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-16T16:40:16.499Z",
-  "exportedAt": "16/04/2026, 13:40:16",
+  "lastExport": "2026-04-16T16:45:06.759Z",
+  "exportedAt": "16/04/2026, 13:45:06",
   "total": 72,
-  "pendentes": 49,
-  "postados": 23,
+  "pendentes": 48,
+  "postados": 24,
   "queue": [
     {
       "posicao": 1,
@@ -408,10 +408,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_971879-MLB87687576796_072025-AB-kit-4-camisas-dry-fit-academia-esportiva-com-proteco-uv.webp",
       "horarioProgramado": "13:40",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-16T16:40:36.166Z"
     },
     {
       "posicao": 25,
