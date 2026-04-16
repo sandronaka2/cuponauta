@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-16T00:15:05.982Z",
-  "exportedAt": "15/04/2026, 21:15:05",
+  "lastExport": "2026-04-16T00:17:18.730Z",
+  "exportedAt": "15/04/2026, 21:17:18",
   "total": 72,
-  "pendentes": 7,
-  "postados": 65,
+  "pendentes": 6,
+  "postados": 66,
   "queue": [
     {
       "posicao": 1,
@@ -1139,10 +1139,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_739246-MLB86992204079_062025-AB-kit-3-shorts-feminino-basico-cintura-alta-confortavel.webp",
       "horarioProgramado": "21:16",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-16T00:16:33.276Z"
     },
     {
       "posicao": 68,
