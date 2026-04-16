@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-16T22:40:16.757Z",
-  "exportedAt": "16/04/2026, 19:40:16",
+  "lastExport": "2026-04-16T22:45:07.216Z",
+  "exportedAt": "16/04/2026, 19:45:07",
   "total": 72,
-  "pendentes": 18,
-  "postados": 54,
+  "pendentes": 17,
+  "postados": 55,
   "queue": [
     {
       "posicao": 1,
@@ -935,10 +935,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_986206-MLB109920867217_042026-AB-casaco-blusa-masculina-manga-longa-de-tric-para-inverno.webp",
       "horarioProgramado": "19:43",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-16T22:43:14.908Z"
     },
     {
       "posicao": 56,
