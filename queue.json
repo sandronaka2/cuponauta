@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-16T19:55:06.877Z",
-  "exportedAt": "16/04/2026, 16:55:06",
+  "lastExport": "2026-04-16T19:57:19.650Z",
+  "exportedAt": "16/04/2026, 16:57:19",
   "total": 72,
-  "pendentes": 35,
-  "postados": 37,
+  "pendentes": 34,
+  "postados": 38,
   "queue": [
     {
       "posicao": 1,
@@ -646,10 +646,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_658148-MLB89993492671_082025-AB-garrafa-termica-1-litro-com-termmetro-led-para-chas-cafe.webp",
       "horarioProgramado": "16:56",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-16T19:56:36.043Z"
     },
     {
       "posicao": 39,
