@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-16T15:37:19.454Z",
-  "exportedAt": "16/04/2026, 12:37:19",
+  "lastExport": "2026-04-16T15:40:16.428Z",
+  "exportedAt": "16/04/2026, 12:40:16",
   "total": 72,
-  "pendentes": 56,
-  "postados": 16,
+  "pendentes": 55,
+  "postados": 17,
   "queue": [
     {
       "posicao": 1,
@@ -289,10 +289,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_896807-MLB78758536435_082024-AB-kit-com-10-cuecas-slip-mash-basica-masculina-algodo.webp",
       "horarioProgramado": "12:38",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-16T15:38:22.363Z"
     },
     {
       "posicao": 18,
