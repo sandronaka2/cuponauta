@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-16T19:07:19.559Z",
-  "exportedAt": "16/04/2026, 16:07:19",
+  "lastExport": "2026-04-16T19:09:59.827Z",
+  "exportedAt": "16/04/2026, 16:09:59",
   "total": 72,
-  "pendentes": 38,
-  "postados": 34,
+  "pendentes": 37,
+  "postados": 35,
   "queue": [
     {
       "posicao": 1,
@@ -595,10 +595,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_678061-MLB93546758866_102025-AB.webp",
       "horarioProgramado": "16:08",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-16T19:08:13.335Z"
     },
     {
       "posicao": 36,
@@ -756,13 +756,13 @@
     {
       "posicao": 45,
       "id": "wa-1817-44",
-      "titulo": "Detergente Lava Louças Ypê Com 6 Unidades Neutro 500ml",
-      "preco": "R$ 15",
-      "precoOriginal": "R$19,99",
-      "desconto": "20% OFF",
+      "titulo": "Fone De Ouvido Qcy Ht08 Melobuds Pro Anc Conexão Multiponto Cor Preto",
+      "preco": "R$ 349",
+      "precoOriginal": "R$437",
+      "desconto": "19% OFF",
       "cupom": null,
-      "link": "https://meli.la/2QcAFLw",
-      "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_981697-MLA99446675498_112025-AB.webp",
+      "link": "https://meli.la/2jDm9vr",
+      "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_716350-MLA95696281086_102025-AB.webp",
       "horarioProgramado": "18:17",
       "janela": "18:00-21:00",
       "status": "pendente",
