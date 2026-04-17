@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-17T15:50:13.106Z",
-  "exportedAt": "17/04/2026, 12:50:13",
+  "lastExport": "2026-04-17T15:55:07.883Z",
+  "exportedAt": "17/04/2026, 12:55:07",
   "total": 72,
-  "pendentes": 54,
-  "postados": 18,
+  "pendentes": 53,
+  "postados": 19,
   "queue": [
     {
       "posicao": 1,
@@ -323,10 +323,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_711929-MLB108511357943_032026-AB-lampada-retro-vintage-t45-40w-filamento-de-carbono-e27.webp",
       "horarioProgramado": "12:52",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-17T15:52:53.207Z"
     },
     {
       "posicao": 20,
