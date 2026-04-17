@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-17T12:40:12.925Z",
-  "exportedAt": "17/04/2026, 09:40:12",
+  "lastExport": "2026-04-17T12:45:07.666Z",
+  "exportedAt": "17/04/2026, 09:45:07",
   "total": 72,
-  "pendentes": 70,
-  "postados": 2,
+  "pendentes": 69,
+  "postados": 3,
   "queue": [
     {
       "posicao": 1,
@@ -51,10 +51,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_899294-MLB80935924732_122024-AB-olevs-relogio-masculino-a-prova-dagua-quartzo-9931.webp",
       "horarioProgramado": "09:40",
       "janela": "09:00-10:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-17T12:40:38.500Z"
     },
     {
       "posicao": 4,
