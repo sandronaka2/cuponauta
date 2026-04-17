@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-17T21:57:20.925Z",
-  "exportedAt": "17/04/2026, 18:57:20",
+  "lastExport": "2026-04-17T22:00:13.589Z",
+  "exportedAt": "17/04/2026, 19:00:13",
   "total": 72,
-  "pendentes": 23,
-  "postados": 49,
+  "pendentes": 22,
+  "postados": 50,
   "queue": [
     {
       "posicao": 1,
@@ -850,10 +850,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_847704-MLB86285497547_062025-AB-chinelo-kenner-new-summer-masculino-dgx-gel.webp",
       "horarioProgramado": "18:58",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-17T21:58:15.232Z"
     },
     {
       "posicao": 51,
