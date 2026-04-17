@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-17T20:10:13.438Z",
-  "exportedAt": "17/04/2026, 17:10:13",
+  "lastExport": "2026-04-17T20:15:08.193Z",
+  "exportedAt": "17/04/2026, 17:15:08",
   "total": 72,
-  "pendentes": 34,
-  "postados": 38,
+  "pendentes": 33,
+  "postados": 39,
   "queue": [
     {
       "posicao": 1,
@@ -663,10 +663,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_927549-MLB91143514714_092025-AB-headphone-gamer-sem-fio-bluetooth-40h-anc-enc-com-microfone.webp",
       "horarioProgramado": "17:14",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-17T20:14:47.010Z"
     },
     {
       "posicao": 40,
