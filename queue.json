@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-17T19:57:20.935Z",
-  "exportedAt": "17/04/2026, 16:57:20",
+  "lastExport": "2026-04-17T20:00:13.515Z",
+  "exportedAt": "17/04/2026, 17:00:13",
   "total": 72,
-  "pendentes": 35,
-  "postados": 37,
+  "pendentes": 34,
+  "postados": 38,
   "queue": [
     {
       "posicao": 1,
@@ -646,10 +646,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_827019-MLB76939597998_062024-AB-kit-12-pares-meia-infantil-cano-alto-masculina-0-a-10-anos.webp",
       "horarioProgramado": "16:58",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-17T19:58:46.279Z"
     },
     {
       "posicao": 39,
