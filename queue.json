@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-17T18:17:20.787Z",
-  "exportedAt": "17/04/2026, 15:17:20",
+  "lastExport": "2026-04-17T18:20:13.280Z",
+  "exportedAt": "17/04/2026, 15:20:13",
   "total": 72,
-  "pendentes": 41,
-  "postados": 31,
+  "pendentes": 40,
+  "postados": 32,
   "queue": [
     {
       "posicao": 1,
@@ -544,10 +544,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_974738-MLB109228677772_042026-AB-relogio-smartwatch-s10-pro-46mm-serie-10-nfc-chatgpt-gps.webp",
       "horarioProgramado": "15:18",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-17T18:18:47.667Z"
     },
     {
       "posicao": 33,
