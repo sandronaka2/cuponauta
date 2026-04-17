@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-17T16:07:20.730Z",
-  "exportedAt": "17/04/2026, 13:07:20",
+  "lastExport": "2026-04-17T16:10:13.293Z",
+  "exportedAt": "17/04/2026, 13:10:13",
   "total": 72,
-  "pendentes": 52,
-  "postados": 20,
+  "pendentes": 51,
+  "postados": 21,
   "queue": [
     {
       "posicao": 1,
@@ -357,10 +357,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_957483-MLB106052671214_022026-AB-kit-com-2-camisas-polo-basicas-masculinas-hering.webp",
       "horarioProgramado": "13:08",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-17T16:08:21.678Z"
     },
     {
       "posicao": 22,
