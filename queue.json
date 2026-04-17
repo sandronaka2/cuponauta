@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-17T15:00:13.169Z",
-  "exportedAt": "17/04/2026, 12:00:13",
+  "lastExport": "2026-04-17T15:05:07.803Z",
+  "exportedAt": "17/04/2026, 12:05:07",
   "total": 72,
-  "pendentes": 60,
-  "postados": 12,
+  "pendentes": 59,
+  "postados": 13,
   "queue": [
     {
       "posicao": 1,
@@ -221,10 +221,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_730513-MLB80451340719_112024-AB-tnis-flyer-runner-mesh-bdp-puma.webp",
       "horarioProgramado": "12:01",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-17T15:01:15.128Z"
     },
     {
       "posicao": 14,
