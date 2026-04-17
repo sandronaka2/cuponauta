@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-17T13:45:07.767Z",
-  "exportedAt": "17/04/2026, 10:45:07",
+  "lastExport": "2026-04-17T13:47:20.522Z",
+  "exportedAt": "17/04/2026, 10:47:20",
   "total": 72,
-  "pendentes": 65,
-  "postados": 7,
+  "pendentes": 64,
+  "postados": 8,
   "queue": [
     {
       "posicao": 1,
@@ -136,10 +136,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_626928-MLB82004918446_022025-AB-kit-4-camiseta-dry-fit-sandrini-masculina-academia-caminhada.webp",
       "horarioProgramado": "10:47",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-17T13:47:19.132Z"
     },
     {
       "posicao": 9,
