@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-18T00:00:13.960Z",
-  "exportedAt": "17/04/2026, 21:00:13",
+  "lastExport": "2026-04-18T00:05:08.456Z",
+  "exportedAt": "17/04/2026, 21:05:08",
   "total": 72,
-  "pendentes": 8,
-  "postados": 64,
+  "pendentes": 7,
+  "postados": 65,
   "queue": [
     {
       "posicao": 1,
@@ -1105,10 +1105,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_739407-MLB105502227963_012026-AB-kit-c-10-cuecas-boxer-polo-voker-microfibra-atacado.webp",
       "horarioProgramado": "21:01",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-18T00:01:19.189Z"
     },
     {
       "posicao": 66,
