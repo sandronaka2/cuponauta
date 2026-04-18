@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-18T15:37:25.373Z",
-  "exportedAt": "18/04/2026, 12:37:25",
+  "lastExport": "2026-04-18T15:40:17.090Z",
+  "exportedAt": "18/04/2026, 12:40:17",
   "total": 72,
-  "pendentes": 56,
-  "postados": 16,
+  "pendentes": 55,
+  "postados": 17,
   "queue": [
     {
       "posicao": 1,
@@ -289,10 +289,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_635625-MLB85405581270_062025-AB-bone-lacoste-big-croc-em-promoco-original.webp",
       "horarioProgramado": "12:39",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-18T15:39:14.068Z"
     },
     {
       "posicao": 18,
