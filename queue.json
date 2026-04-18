@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-18T00:17:21.155Z",
-  "exportedAt": "17/04/2026, 21:17:21",
+  "lastExport": "2026-04-18T00:25:08.447Z",
+  "exportedAt": "17/04/2026, 21:25:08",
   "total": 72,
-  "pendentes": 5,
-  "postados": 67,
+  "pendentes": 4,
+  "postados": 68,
   "queue": [
     {
       "posicao": 1,
@@ -1156,10 +1156,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_996237-MLB91576387583_092025-AB-jogo-lencol-400-fios-ponto-palito-cama-queen-3-pecas-saldo.webp",
       "horarioProgramado": "21:23",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-18T00:23:30.184Z"
     },
     {
       "posicao": 69,
