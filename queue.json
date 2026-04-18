@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-18T22:52:09.173Z",
-  "exportedAt": "18/04/2026, 19:52:09",
+  "lastExport": "2026-04-18T23:02:09.113Z",
+  "exportedAt": "18/04/2026, 20:02:09",
   "total": 72,
-  "pendentes": 17,
-  "postados": 55,
+  "pendentes": 15,
+  "postados": 57,
   "queue": [
     {
       "posicao": 1,
@@ -952,10 +952,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_958823-MLB96528623711_102025-AB-vestido-lia-benta-plus-size-longo-decote-v-festa-curta.webp",
       "horarioProgramado": "19:52",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-18T22:52:30.464Z"
     },
     {
       "posicao": 57,
@@ -969,10 +969,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_808003-MLA53590943440_022023-E.webp",
       "horarioProgramado": "20:00",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-18T23:00:35.671Z"
     },
     {
       "posicao": 58,
