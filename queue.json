@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-18T16:00:15.634Z",
-  "exportedAt": "18/04/2026, 13:00:15",
+  "lastExport": "2026-04-18T16:05:12.312Z",
+  "exportedAt": "18/04/2026, 13:05:12",
   "total": 72,
-  "pendentes": 53,
-  "postados": 19,
+  "pendentes": 52,
+  "postados": 20,
   "queue": [
     {
       "posicao": 1,
@@ -340,10 +340,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_989767-MLB94321521621_102025-AB-pulseira-para-xiaomi-band-10-9-8-mi-smartwatch-silicona.webp",
       "horarioProgramado": "13:04",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-18T16:04:33.432Z"
     },
     {
       "posicao": 21,
