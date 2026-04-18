@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-18T16:20:15.596Z",
-  "exportedAt": "18/04/2026, 13:20:15",
+  "lastExport": "2026-04-18T16:25:12.301Z",
+  "exportedAt": "18/04/2026, 13:25:12",
   "total": 72,
-  "pendentes": 51,
-  "postados": 21,
+  "pendentes": 50,
+  "postados": 22,
   "queue": [
     {
       "posicao": 1,
@@ -374,10 +374,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_696918-MLB73476182256_122023-AB-kit-4-camisetas-masculina-camisas-slim-voker-100-algodo.webp",
       "horarioProgramado": "13:22",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-18T16:22:47.744Z"
     },
     {
       "posicao": 23,
