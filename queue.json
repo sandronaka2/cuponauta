@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-18T00:15:08.591Z",
-  "exportedAt": "17/04/2026, 21:15:08",
+  "lastExport": "2026-04-18T00:16:13.346Z",
+  "exportedAt": "17/04/2026, 21:16:13",
   "total": 72,
-  "pendentes": 6,
-  "postados": 66,
+  "pendentes": 5,
+  "postados": 67,
   "queue": [
     {
       "posicao": 1,
@@ -1139,10 +1139,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_765153-MLB98197915126_112025-AB-kit-3-calca-jeans-feminina-skinny-c-elastano-cos-alto-lycra.webp",
       "horarioProgramado": "21:15",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-18T00:15:42.965Z"
     },
     {
       "posicao": 68,
