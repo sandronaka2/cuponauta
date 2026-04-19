@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-19T22:30:15.528Z",
-  "exportedAt": "19/04/2026, 19:30:15",
+  "lastExport": "2026-04-19T22:40:15.503Z",
+  "exportedAt": "19/04/2026, 19:40:15",
   "total": 72,
-  "pendentes": 27,
-  "postados": 45,
+  "pendentes": 26,
+  "postados": 46,
   "queue": [
     {
       "posicao": 1,
@@ -918,10 +918,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_715566-MLB88765811856_082025-AB-tapete-tatame-infantil-emborrachado-dobravel-dupla-face-bebe.webp",
       "horarioProgramado": "19:34",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-19T22:35:32.324Z"
     },
     {
       "posicao": 55,
