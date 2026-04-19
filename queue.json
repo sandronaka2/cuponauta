@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-19T16:40:13.331Z",
-  "exportedAt": "19/04/2026, 13:40:13",
+  "lastExport": "2026-04-19T16:42:10.412Z",
+  "exportedAt": "19/04/2026, 13:42:10",
   "total": 72,
-  "pendentes": 57,
-  "postados": 15,
+  "pendentes": 56,
+  "postados": 16,
   "queue": [
     {
       "posicao": 1,
@@ -408,10 +408,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_984960-MLB49997733913_052022-AB-cortina-para-decoraco-festa-400m-x-280m-voal-varias-cores.webp",
       "horarioProgramado": "13:41",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-19T16:41:37.416Z"
     },
     {
       "posicao": 25,
