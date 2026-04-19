@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-19T19:40:15.229Z",
-  "exportedAt": "19/04/2026, 16:40:15",
+  "lastExport": "2026-04-19T19:42:19.506Z",
+  "exportedAt": "19/04/2026, 16:42:19",
   "total": 72,
-  "pendentes": 44,
-  "postados": 28,
+  "pendentes": 43,
+  "postados": 29,
   "queue": [
     {
       "posicao": 1,
@@ -629,10 +629,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_832826-MLB94651721320_102025-AB-kit-2-mantas-microfibra-casal-lisa-200x180-mt.webp",
       "horarioProgramado": "16:42",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-19T19:42:15.630Z"
     },
     {
       "posicao": 38,
