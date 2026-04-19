@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-19T00:52:09.014Z",
-  "exportedAt": "18/04/2026, 21:52:09",
+  "lastExport": "2026-04-19T01:02:09.028Z",
+  "exportedAt": "18/04/2026, 22:02:09",
   "total": 72,
-  "pendentes": 2,
-  "postados": 70,
+  "pendentes": 0,
+  "postados": 72,
   "queue": [
     {
       "posicao": 1,
@@ -1207,10 +1207,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_682585-MLB95488705871_102025-AB-lixeira-automatica-recarregavel-sensor-de-proximidade-16-l.webp",
       "horarioProgramado": "21:52",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-19T00:52:52.132Z"
     },
     {
       "posicao": 72,
@@ -1224,10 +1224,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_741551-MLA99852182417_112025-AB.webp",
       "horarioProgramado": "21:58",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-19T00:58:43.209Z"
     }
   ]
 }
