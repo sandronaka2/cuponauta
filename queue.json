@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-19T14:40:13.186Z",
-  "exportedAt": "19/04/2026, 11:40:13",
+  "lastExport": "2026-04-19T14:42:08.632Z",
+  "exportedAt": "19/04/2026, 11:42:08",
   "total": 72,
-  "pendentes": 70,
-  "postados": 2,
+  "pendentes": 69,
+  "postados": 3,
   "queue": [
     {
       "posicao": 1,
@@ -187,10 +187,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_958781-MLB87425879380_072025-AB-short-masculino-academia-praia-tactel-elastano-treino-fit.webp",
       "horarioProgramado": "11:40",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-19T14:40:38.004Z"
     },
     {
       "posicao": 12,
