@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-19T23:20:16.201Z",
-  "exportedAt": "19/04/2026, 20:20:16",
+  "lastExport": "2026-04-19T23:30:15.543Z",
+  "exportedAt": "19/04/2026, 20:30:15",
   "total": 72,
-  "pendentes": 21,
-  "postados": 51,
+  "pendentes": 20,
+  "postados": 52,
   "queue": [
     {
       "posicao": 1,
@@ -1020,10 +1020,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_670467-MLB108638319193_032026-AB-sapato-fechado-p-trabalho-antiderrapante-enfermagem-cozinha.webp",
       "horarioProgramado": "20:25",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-19T23:25:19.013Z"
     },
     {
       "posicao": 61,
