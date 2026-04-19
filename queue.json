@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-19T18:20:15.176Z",
-  "exportedAt": "19/04/2026, 15:20:15",
+  "lastExport": "2026-04-19T18:30:15.304Z",
+  "exportedAt": "19/04/2026, 15:30:15",
   "total": 72,
-  "pendentes": 49,
-  "postados": 23,
+  "pendentes": 48,
+  "postados": 24,
   "queue": [
     {
       "posicao": 1,
@@ -544,10 +544,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_687132-MLB104884534085_012026-AB-top-selene-alta-sustentaco-sem-costura-fitness-academia.webp",
       "horarioProgramado": "15:24",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-19T18:24:58.076Z"
     },
     {
       "posicao": 33,
