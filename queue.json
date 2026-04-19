@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-19T00:42:08.972Z",
-  "exportedAt": "18/04/2026, 21:42:08",
+  "lastExport": "2026-04-19T00:52:09.014Z",
+  "exportedAt": "18/04/2026, 21:52:09",
   "total": 72,
-  "pendentes": 3,
-  "postados": 69,
+  "pendentes": 2,
+  "postados": 70,
   "queue": [
     {
       "posicao": 1,
@@ -1190,10 +1190,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_822854-MLB107649578711_022026-AB-chapeu-praiana-de-palha-surf-moda-original-proteco-uv-top.webp",
       "horarioProgramado": "21:43",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-19T00:43:48.276Z"
     },
     {
       "posicao": 71,
