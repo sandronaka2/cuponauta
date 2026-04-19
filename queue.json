@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-19T18:40:15.182Z",
-  "exportedAt": "19/04/2026, 15:40:15",
+  "lastExport": "2026-04-19T18:42:16.300Z",
+  "exportedAt": "19/04/2026, 15:42:16",
   "total": 72,
-  "pendentes": 48,
-  "postados": 24,
+  "pendentes": 47,
+  "postados": 25,
   "queue": [
     {
       "posicao": 1,
@@ -561,10 +561,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_963485-MLB94579785063_102025-AB-800mlgarrafa-termica-agua-squeeze-inox-academiaquente-e-frio.webp",
       "horarioProgramado": "15:40",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-19T18:40:21.955Z"
     },
     {
       "posicao": 34,
