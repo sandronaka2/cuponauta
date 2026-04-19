@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-19T22:00:15.396Z",
-  "exportedAt": "19/04/2026, 19:00:15",
+  "lastExport": "2026-04-19T22:10:15.500Z",
+  "exportedAt": "19/04/2026, 19:10:15",
   "total": 72,
-  "pendentes": 30,
-  "postados": 42,
+  "pendentes": 29,
+  "postados": 43,
   "queue": [
     {
       "posicao": 1,
@@ -867,10 +867,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_694031-MLB97700654908_112025-AB-vestido-regata.webp",
       "horarioProgramado": "19:07",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-19T22:07:38.568Z"
     },
     {
       "posicao": 52,
