@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-20T14:20:13.881Z",
-  "exportedAt": "20/04/2026, 11:20:13",
+  "lastExport": "2026-04-20T14:30:13.923Z",
+  "exportedAt": "20/04/2026, 11:30:13",
   "total": 72,
-  "pendentes": 63,
-  "postados": 9,
+  "pendentes": 62,
+  "postados": 10,
   "queue": [
     {
       "posicao": 1,
@@ -170,10 +170,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_607364-MLB107416901009_022026-AB-bone-chapeu-country-kit-10-ajustavel-adulto-preto-e-branco.webp",
       "horarioProgramado": "11:26",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-20T14:26:44.735Z"
     },
     {
       "posicao": 11,
