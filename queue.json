@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-20T22:11:31.771Z",
-  "exportedAt": "20/04/2026, 19:11:31",
+  "lastExport": "2026-04-20T22:21:31.817Z",
+  "exportedAt": "20/04/2026, 19:21:31",
   "total": 72,
-  "pendentes": 22,
-  "postados": 50,
+  "pendentes": 21,
+  "postados": 51,
   "queue": [
     {
       "posicao": 1,
@@ -884,10 +884,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_784030-MLB84560813865_052025-AB-vestido-infantil-longo-menina-infanto-juvenil-cores-lisas.webp",
       "horarioProgramado": "19:17",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-20T22:17:27.947Z"
     },
     {
       "posicao": 53,
