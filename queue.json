@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-20T21:11:32.494Z",
-  "exportedAt": "20/04/2026, 18:11:32",
+  "lastExport": "2026-04-20T21:21:31.690Z",
+  "exportedAt": "20/04/2026, 18:21:31",
   "total": 72,
-  "pendentes": 29,
-  "postados": 43,
+  "pendentes": 28,
+  "postados": 44,
   "queue": [
     {
       "posicao": 1,
@@ -765,10 +765,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_841912-MLB79136618978_092024-AB-kit-com-10-cuecas-boxer-algodo-cotton-masculina-adulto-mash.webp",
       "horarioProgramado": "18:17",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-20T21:17:20.131Z"
     },
     {
       "posicao": 46,
