@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-20T00:00:15.600Z",
-  "exportedAt": "19/04/2026, 21:00:15",
+  "lastExport": "2026-04-20T00:10:15.857Z",
+  "exportedAt": "19/04/2026, 21:10:15",
   "total": 72,
-  "pendentes": 16,
-  "postados": 56,
+  "pendentes": 15,
+  "postados": 57,
   "queue": [
     {
       "posicao": 1,
@@ -1105,10 +1105,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_614740-MLB105434033125_012026-AB-top-puma-academia-fitness-original-nadador-alta-sustentaco.webp",
       "horarioProgramado": "21:01",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-20T00:02:00.060Z"
     },
     {
       "posicao": 66,
