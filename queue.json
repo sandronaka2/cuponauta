@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-20T00:10:15.857Z",
-  "exportedAt": "19/04/2026, 21:10:15",
+  "lastExport": "2026-04-20T00:17:14.425Z",
+  "exportedAt": "19/04/2026, 21:17:14",
   "total": 72,
-  "pendentes": 15,
-  "postados": 57,
+  "pendentes": 14,
+  "postados": 58,
   "queue": [
     {
       "posicao": 1,
@@ -1122,10 +1122,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_914270-MLB84334961208_052025-AB-vestido-festa-plus-size-de-um-ombro-so-laco-envios24h-g1g2g3.webp",
       "horarioProgramado": "21:11",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-20T00:11:55.885Z"
     },
     {
       "posicao": 67,
