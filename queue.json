@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-20T00:17:14.425Z",
-  "exportedAt": "19/04/2026, 21:17:14",
+  "lastExport": "2026-04-20T00:20:15.629Z",
+  "exportedAt": "19/04/2026, 21:20:15",
   "total": 72,
-  "pendentes": 14,
-  "postados": 58,
+  "pendentes": 13,
+  "postados": 59,
   "queue": [
     {
       "posicao": 1,
@@ -1139,10 +1139,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_997276-MLB94366086181_102025-AB-almofada-cabeceira-mel-cama-casal-140cm-encosto-suede.webp",
       "horarioProgramado": "21:18",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-20T00:19:00.574Z"
     },
     {
       "posicao": 68,
