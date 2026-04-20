@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-20T14:50:13.837Z",
-  "exportedAt": "20/04/2026, 11:50:13",
+  "lastExport": "2026-04-20T15:00:13.932Z",
+  "exportedAt": "20/04/2026, 12:00:13",
   "total": 72,
-  "pendentes": 61,
-  "postados": 11,
+  "pendentes": 60,
+  "postados": 12,
   "queue": [
     {
       "posicao": 1,
@@ -204,10 +204,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_771472-MLB98664081976_112025-AB-kit-10-pares-meia-invisivel-soquete-algodo-confortavel-mash.webp",
       "horarioProgramado": "11:58",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-20T14:58:26.787Z"
     },
     {
       "posicao": 13,
