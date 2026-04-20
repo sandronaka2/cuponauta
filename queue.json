@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-20T17:17:36.685Z",
-  "exportedAt": "20/04/2026, 14:17:36",
+  "lastExport": "2026-04-20T17:20:14.058Z",
+  "exportedAt": "20/04/2026, 14:20:14",
   "total": 72,
-  "pendentes": 45,
-  "postados": 27,
+  "pendentes": 44,
+  "postados": 28,
   "queue": [
     {
       "posicao": 1,
@@ -476,10 +476,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_732965-MLB109774076401_032026-AB-relogios-de-pulso-masculino-quartzo-original-aco-calendario.webp",
       "horarioProgramado": "14:17",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-20T17:17:51.001Z"
     },
     {
       "posicao": 29,
