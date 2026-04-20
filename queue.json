@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-20T16:50:13.979Z",
-  "exportedAt": "20/04/2026, 13:50:13",
+  "lastExport": "2026-04-20T17:00:14.001Z",
+  "exportedAt": "20/04/2026, 14:00:14",
   "total": 72,
-  "pendentes": 48,
-  "postados": 24,
+  "pendentes": 46,
+  "postados": 26,
   "queue": [
     {
       "posicao": 1,
@@ -425,10 +425,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_614488-MLB78069018446_082024-AB-cinta-modeladora-feminina-opta-corpus-750-redutora-cintura.webp",
       "horarioProgramado": "13:50",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-20T16:50:54.972Z"
     },
     {
       "posicao": 26,
@@ -442,10 +442,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_859028-MLB81483399441_122024-AB-olevs-relogio-masculino-original-aco-prova-dagua-2892.webp",
       "horarioProgramado": "13:58",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-20T16:58:45.401Z"
     },
     {
       "posicao": 27,
