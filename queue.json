@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-21T22:50:14.275Z",
-  "exportedAt": "21/04/2026, 19:50:14",
+  "lastExport": "2026-04-21T23:00:14.633Z",
+  "exportedAt": "21/04/2026, 20:00:14",
   "total": 72,
-  "pendentes": 17,
-  "postados": 55,
+  "pendentes": 16,
+  "postados": 56,
   "queue": [
     {
       "posicao": 1,
@@ -952,10 +952,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_938711-MLB84288626795_052025-AB-kit-4-calca-jogger-jeans-sarja-infantil-menino-masculino.webp",
       "horarioProgramado": "19:51",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-21T22:51:53.364Z"
     },
     {
       "posicao": 57,
