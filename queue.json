@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-21T23:10:12.986Z",
-  "exportedAt": "21/04/2026, 20:10:12",
+  "lastExport": "2026-04-21T23:20:13.011Z",
+  "exportedAt": "21/04/2026, 20:20:13",
   "total": 72,
-  "pendentes": 14,
-  "postados": 58,
+  "pendentes": 13,
+  "postados": 59,
   "queue": [
     {
       "posicao": 1,
@@ -1003,10 +1003,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_733245-MLB82843791982_032025-AB-tnis-esportivo-tryd-ultimate-sprint-1-corrida-e-fitness.webp",
       "horarioProgramado": "20:16",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-21T23:16:44.783Z"
     },
     {
       "posicao": 60,
