@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-22T14:54:00.513Z",
-  "exportedAt": "22/04/2026, 11:54:00",
+  "lastExport": "2026-04-22T15:04:00.637Z",
+  "exportedAt": "22/04/2026, 12:04:00",
   "total": 72,
-  "pendentes": 61,
-  "postados": 11,
+  "pendentes": 59,
+  "postados": 13,
   "queue": [
     {
       "posicao": 1,
@@ -204,10 +204,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_693897-MLA103757458709_012026-E.webp",
       "horarioProgramado": "11:58",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-22T14:58:20.470Z"
     },
     {
       "posicao": 13,
@@ -221,10 +221,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_612461-MLB109943842215_042026-AB-extenso-5-tomadas-e-1-pd-4-usb-led-bivolt-power-127v220v.webp",
       "horarioProgramado": "12:01",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-22T15:01:36.107Z"
     },
     {
       "posicao": 14,
