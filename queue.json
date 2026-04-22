@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-22T17:14:00.923Z",
-  "exportedAt": "22/04/2026, 14:14:00",
+  "lastExport": "2026-04-22T17:24:00.923Z",
+  "exportedAt": "22/04/2026, 14:24:00",
   "total": 72,
-  "pendentes": 45,
-  "postados": 27,
+  "pendentes": 44,
+  "postados": 28,
   "queue": [
     {
       "posicao": 1,
@@ -476,10 +476,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_890716-MLB108412872577_032026-E.webp",
       "horarioProgramado": "14:16",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-22T17:16:18.594Z"
     },
     {
       "posicao": 29,
