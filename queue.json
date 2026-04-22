@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-22T00:50:13.126Z",
-  "exportedAt": "21/04/2026, 21:50:13",
+  "lastExport": "2026-04-22T01:00:13.187Z",
+  "exportedAt": "21/04/2026, 22:00:13",
   "total": 72,
-  "pendentes": 2,
-  "postados": 70,
+  "pendentes": 0,
+  "postados": 72,
   "queue": [
     {
       "posicao": 1,
@@ -1207,10 +1207,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_764265-MLB95975419796_102025-AB-kit-com-10-cuecas-boxer-microfibra-adulto-usee-brasil.webp",
       "horarioProgramado": "21:50",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-22T00:50:47.690Z"
     },
     {
       "posicao": 72,
@@ -1224,10 +1224,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_833478-MLA99873513811_112025-AB.webp",
       "horarioProgramado": "21:57",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-22T00:57:46.257Z"
     }
   ]
 }
