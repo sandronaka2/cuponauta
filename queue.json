@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-22T22:58:03.293Z",
-  "exportedAt": "22/04/2026, 19:58:03",
+  "lastExport": "2026-04-22T23:08:03.295Z",
+  "exportedAt": "22/04/2026, 20:08:03",
   "total": 72,
-  "pendentes": 16,
-  "postados": 56,
+  "pendentes": 14,
+  "postados": 58,
   "queue": [
     {
       "posicao": 1,
@@ -969,10 +969,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_642252-MLB86352605762_062025-AB-calca-jogger-masculina-em-poliamida-com-bolsos-para-academia.webp",
       "horarioProgramado": "19:59",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-22T22:59:44.112Z"
     },
     {
       "posicao": 58,
@@ -986,10 +986,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_840134-MLA99989589639_112025-AB.webp",
       "horarioProgramado": "20:07",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-22T23:07:18.803Z"
     },
     {
       "posicao": 59,
