@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-22T15:24:46.076Z",
-  "exportedAt": "22/04/2026, 12:24:46",
+  "lastExport": "2026-04-22T15:34:00.580Z",
+  "exportedAt": "22/04/2026, 12:34:00",
   "total": 72,
-  "pendentes": 57,
-  "postados": 15,
+  "pendentes": 56,
+  "postados": 16,
   "queue": [
     {
       "posicao": 1,
@@ -272,10 +272,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_654048-MLB92968318412_092025-AB-200w-caixa-de-som-bluetooth-portatil-36h-tws-ipx6-boombox.webp",
       "horarioProgramado": "12:26",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-22T15:26:48.019Z"
     },
     {
       "posicao": 17,
