@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-23T22:02:09.900Z",
-  "exportedAt": "23/04/2026, 19:02:09",
+  "lastExport": "2026-04-23T22:11:50.181Z",
+  "exportedAt": "23/04/2026, 19:11:50",
   "total": 72,
-  "pendentes": 45,
-  "postados": 27,
+  "pendentes": 44,
+  "postados": 28,
   "queue": [
     {
       "posicao": 1,
@@ -867,10 +867,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_696862-MLB109416763968_042026-AB-kit-10-cuecas-algodo-polo-wear-sortido.webp",
       "horarioProgramado": "19:08",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-23T22:08:37.126Z"
     },
     {
       "posicao": 52,
