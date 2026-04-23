@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-23T21:41:50.148Z",
-  "exportedAt": "23/04/2026, 18:41:50",
+  "lastExport": "2026-04-23T21:51:50.328Z",
+  "exportedAt": "23/04/2026, 18:51:50",
   "total": 72,
-  "pendentes": 48,
-  "postados": 24,
+  "pendentes": 46,
+  "postados": 26,
   "queue": [
     {
       "posicao": 1,
@@ -816,10 +816,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_990028-MLA99859945565_112025-AB.webp",
       "horarioProgramado": "18:43",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-23T21:43:49.490Z"
     },
     {
       "posicao": 49,
@@ -833,10 +833,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_965180-MLB95166690302_102025-AB-kit-6-cuecas-masculinas-boxer-variadas-alta-qualidade-aaa.webp",
       "horarioProgramado": "18:51",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-23T21:51:36.974Z"
     },
     {
       "posicao": 50,
