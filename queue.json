@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-23T12:30:13.486Z",
-  "exportedAt": "23/04/2026, 09:30:13",
+  "lastExport": "2026-04-23T12:37:16.820Z",
+  "exportedAt": "23/04/2026, 09:37:16",
   "total": 72,
-  "pendentes": 70,
-  "postados": 2,
+  "pendentes": 69,
+  "postados": 3,
   "queue": [
     {
       "posicao": 1,
@@ -51,10 +51,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_631908-MLB82036603023_012025-AB-kit-2-pares-sapatenis-casual-esportivo-elastico-confortavel.webp",
       "horarioProgramado": "09:37",
       "janela": "09:00-10:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-23T12:37:12.520Z"
     },
     {
       "posicao": 4,
