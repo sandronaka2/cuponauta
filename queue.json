@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-23T21:21:50.139Z",
-  "exportedAt": "23/04/2026, 18:21:50",
+  "lastExport": "2026-04-23T21:31:50.159Z",
+  "exportedAt": "23/04/2026, 18:31:50",
   "total": 72,
-  "pendentes": 50,
-  "postados": 22,
+  "pendentes": 49,
+  "postados": 23,
   "queue": [
     {
       "posicao": 1,
@@ -782,10 +782,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_700363-MLB102676890007_122025-AB-vestido-infantil-rodado-menina-colorido-vermelho-curto-natal.webp",
       "horarioProgramado": "18:26",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-23T21:26:27.694Z"
     },
     {
       "posicao": 47,
