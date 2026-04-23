@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-23T12:01:05.581Z",
-  "exportedAt": "23/04/2026, 09:01:05",
+  "lastExport": "2026-04-23T12:01:21.671Z",
+  "exportedAt": "23/04/2026, 09:01:21",
   "total": 72,
-  "pendentes": 72,
-  "postados": 0,
+  "pendentes": 71,
+  "postados": 1,
   "queue": [
     {
       "posicao": 1,
@@ -17,10 +17,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_746934-MLA96570636272_112025-AB.webp",
       "horarioProgramado": "09:01",
       "janela": "09:00-10:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-23T12:01:19.605Z"
     },
     {
       "posicao": 2,
@@ -280,13 +280,13 @@
     {
       "posicao": 17,
       "id": "wa-1236-16",
-      "titulo": "Kit24 Gancho Para Boné Organizador Cabide De Chapéu Beisebol Preto",
-      "preco": "R$ 41",
-      "precoOriginal": "R$78,90",
-      "desconto": "47% OFF",
+      "titulo": "Cadeira De Descanso Musical Urso Polar Até 18kgs Cor Cinza E Branco Maxi Baby Cinza/branco",
+      "preco": "R$ 229",
+      "precoOriginal": "R$367,10",
+      "desconto": "37% OFF",
       "cupom": null,
-      "link": "https://meli.la/2WAyGAq",
-      "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_845676-MLB80131716545_102024-AB.webp",
+      "link": "https://meli.la/2roqkGJ",
+      "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_963416-MLA96135271509_102025-AB.webp",
       "horarioProgramado": "12:36",
       "janela": "12:00-14:00",
       "status": "pendente",
