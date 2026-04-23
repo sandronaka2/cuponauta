@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-22T23:58:03.005Z",
-  "exportedAt": "22/04/2026, 20:58:03",
+  "lastExport": "2026-04-23T00:08:03.054Z",
+  "exportedAt": "22/04/2026, 21:08:03",
   "total": 72,
-  "pendentes": 9,
-  "postados": 63,
+  "pendentes": 7,
+  "postados": 65,
   "queue": [
     {
       "posicao": 1,
@@ -1088,10 +1088,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_997805-MLB105330909447_012026-AB.webp",
       "horarioProgramado": "20:58",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-22T23:58:13.122Z"
     },
     {
       "posicao": 65,
@@ -1105,10 +1105,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_682319-MLB102197684846_122025-AB-pulseira-para-samsung-galaxy-watch-8-44mm-40mm-8-classic.webp",
       "horarioProgramado": "21:01",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-23T00:01:18.113Z"
     },
     {
       "posicao": 66,
