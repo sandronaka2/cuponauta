@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-24T00:02:12.925Z",
-  "exportedAt": "23/04/2026, 21:02:12",
+  "lastExport": "2026-04-24T00:11:50.321Z",
+  "exportedAt": "23/04/2026, 21:11:50",
   "total": 72,
-  "pendentes": 30,
-  "postados": 42,
+  "pendentes": 29,
+  "postados": 43,
   "queue": [
     {
       "posicao": 1,
@@ -1122,10 +1122,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_751533-MLB85693801987_062025-AB-scarpin-feminino-verniz-premium-bege-salto-medio-leve-estilo.webp",
       "horarioProgramado": "21:10",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-24T00:10:30.598Z"
     },
     {
       "posicao": 67,
