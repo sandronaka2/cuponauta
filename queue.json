@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-24T21:00:16.038Z",
-  "exportedAt": "24/04/2026, 18:00:16",
+  "lastExport": "2026-04-24T21:10:15.664Z",
+  "exportedAt": "24/04/2026, 18:10:15",
   "total": 72,
-  "pendentes": 37,
-  "postados": 35,
+  "pendentes": 35,
+  "postados": 37,
   "queue": [
     {
       "posicao": 1,
@@ -731,10 +731,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_986471-MLA99264193954_112025-E.webp",
       "horarioProgramado": "18:01",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-24T21:01:43.867Z"
     },
     {
       "posicao": 44,
@@ -748,10 +748,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_713749-MLB31030118278_062019-E-botina-masculina-country-couro-legitimo-bico-quadrado-texana.webp",
       "horarioProgramado": "18:09",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-24T21:09:37.224Z"
     },
     {
       "posicao": 45,
