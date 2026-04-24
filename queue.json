@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-24T21:50:18.436Z",
-  "exportedAt": "24/04/2026, 18:50:18",
+  "lastExport": "2026-04-24T22:00:15.541Z",
+  "exportedAt": "24/04/2026, 19:00:15",
   "total": 72,
-  "pendentes": 31,
-  "postados": 41,
+  "pendentes": 29,
+  "postados": 43,
   "queue": [
     {
       "posicao": 1,
@@ -833,10 +833,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_795812-MLA107587476677_022026-E.webp",
       "horarioProgramado": "18:51",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-24T21:51:15.702Z"
     },
     {
       "posicao": 50,
@@ -850,10 +850,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_938872-MLB97467213451_112025-E-calca-cargo-tatica-militar-masculina-poly-6-bolsos-reforcada.webp",
       "horarioProgramado": "18:59",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-24T21:59:27.157Z"
     },
     {
       "posicao": 51,
