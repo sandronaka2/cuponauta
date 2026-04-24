@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-24T22:10:15.563Z",
-  "exportedAt": "24/04/2026, 19:10:15",
+  "lastExport": "2026-04-24T22:20:15.543Z",
+  "exportedAt": "24/04/2026, 19:20:15",
   "total": 72,
-  "pendentes": 29,
-  "postados": 43,
+  "pendentes": 27,
+  "postados": 45,
   "queue": [
     {
       "posicao": 1,
@@ -867,10 +867,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_879007-MLA107588019293_022026-E.webp",
       "horarioProgramado": "19:11",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-24T22:11:31.411Z"
     },
     {
       "posicao": 52,
@@ -884,10 +884,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_957712-MLB78736577824_092024-E-kit-10-cuecas-boxer-infantil-mash-meninos-algodo.webp",
       "horarioProgramado": "19:19",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-24T22:19:56.456Z"
     },
     {
       "posicao": 53,
