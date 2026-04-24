@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-24T18:20:14.784Z",
-  "exportedAt": "24/04/2026, 15:20:14",
+  "lastExport": "2026-04-24T18:30:14.755Z",
+  "exportedAt": "24/04/2026, 15:30:14",
   "total": 72,
-  "pendentes": 48,
-  "postados": 24,
+  "pendentes": 47,
+  "postados": 25,
   "queue": [
     {
       "posicao": 1,
@@ -544,10 +544,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_968343-MLB96414483271_102025-E-calcas-jeans-camuflada-masculina-jogger-com-punho-elastico.webp",
       "horarioProgramado": "15:22",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-24T18:22:11.291Z"
     },
     {
       "posicao": 33,
