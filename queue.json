@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-24T00:11:50.321Z",
-  "exportedAt": "23/04/2026, 21:11:50",
+  "lastExport": "2026-04-24T00:21:50.318Z",
+  "exportedAt": "23/04/2026, 21:21:50",
   "total": 72,
-  "pendentes": 29,
-  "postados": 43,
+  "pendentes": 28,
+  "postados": 44,
   "queue": [
     {
       "posicao": 1,
@@ -1139,10 +1139,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_734495-MLB89442831887_082025-AB-kit-3-cinto-plus-size-couro-elegante-inspirado-na-moda-paris.webp",
       "horarioProgramado": "21:17",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-24T00:17:29.270Z"
     },
     {
       "posicao": 68,
