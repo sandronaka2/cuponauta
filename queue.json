@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-24T00:55:51.003Z",
-  "exportedAt": "23/04/2026, 21:55:51",
+  "lastExport": "2026-04-24T01:02:14.538Z",
+  "exportedAt": "23/04/2026, 22:02:14",
   "total": 72,
-  "pendentes": 24,
-  "postados": 48,
+  "pendentes": 23,
+  "postados": 49,
   "queue": [
     {
       "posicao": 1,
@@ -1224,10 +1224,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_714383-MLB91603139137_092025-AB-smartwatch-w11-pro-serie-11-amoled-whatsapp-gps-nfc-2026.webp",
       "horarioProgramado": "21:58",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-24T00:58:53.022Z"
     }
   ]
 }
