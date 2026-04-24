@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-24T16:10:12.676Z",
-  "exportedAt": "24/04/2026, 13:10:12",
+  "lastExport": "2026-04-24T16:20:12.507Z",
+  "exportedAt": "24/04/2026, 13:20:12",
   "total": 72,
-  "pendentes": 59,
-  "postados": 13,
+  "pendentes": 58,
+  "postados": 14,
   "queue": [
     {
       "posicao": 1,
@@ -357,10 +357,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_704977-MLB75034086702_032024-E-kit-9-pares-meias-cano-medio-algodo-masculino-original-lupo.webp",
       "horarioProgramado": "13:15",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-24T16:15:49.446Z"
     },
     {
       "posicao": 22,
