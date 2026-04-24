@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-24T14:32:24.047Z",
-  "exportedAt": "24/04/2026, 11:32:24",
+  "lastExport": "2026-04-24T14:40:14.113Z",
+  "exportedAt": "24/04/2026, 11:40:14",
   "total": 72,
-  "pendentes": 69,
-  "postados": 3,
+  "pendentes": 68,
+  "postados": 4,
   "queue": [
     {
       "posicao": 1,
@@ -187,10 +187,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_638898-MLB94044171188_102025-E-langerie-femininas-lingerie-atacado-kit-c-5-conjuntos.webp",
       "horarioProgramado": "11:39",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-24T14:39:10.845Z"
     },
     {
       "posicao": 12,
