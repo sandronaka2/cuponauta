@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-24T22:50:15.612Z",
-  "exportedAt": "24/04/2026, 19:50:15",
+  "lastExport": "2026-04-24T23:00:15.656Z",
+  "exportedAt": "24/04/2026, 20:00:15",
   "total": 72,
-  "pendentes": 24,
-  "postados": 48,
+  "pendentes": 23,
+  "postados": 49,
   "queue": [
     {
       "posicao": 1,
@@ -952,10 +952,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_756748-MLB79675885161_092024-E-kit-6-pares-meias-soquete-invisivel-lupo-algodo-unissex.webp",
       "horarioProgramado": "19:52",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-24T22:52:51.581Z"
     },
     {
       "posicao": 57,
