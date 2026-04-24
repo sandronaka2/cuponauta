@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-24T22:41:16.693Z",
-  "exportedAt": "24/04/2026, 19:41:16",
+  "lastExport": "2026-04-24T22:50:15.612Z",
+  "exportedAt": "24/04/2026, 19:50:15",
   "total": 72,
-  "pendentes": 25,
-  "postados": 47,
+  "pendentes": 24,
+  "postados": 48,
   "queue": [
     {
       "posicao": 1,
@@ -935,10 +935,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_742709-MLB86527981976_062025-E-cortina-jacquard-2-80-x-1-70-para-janela-sala-quarto.webp",
       "horarioProgramado": "19:44",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-24T22:44:25.840Z"
     },
     {
       "posicao": 56,
