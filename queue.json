@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-25T15:53:54.425Z",
-  "exportedAt": "25/04/2026, 12:53:54",
+  "lastExport": "2026-04-25T16:03:55.706Z",
+  "exportedAt": "25/04/2026, 13:03:55",
   "total": 72,
-  "pendentes": 54,
-  "postados": 18,
+  "pendentes": 53,
+  "postados": 19,
   "queue": [
     {
       "posicao": 1,
@@ -323,10 +323,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_933337-MLB107686888084_032026-AB-tnis-fila-rise-up-masculino-confortavel-mesh-leve-esportivo.webp",
       "horarioProgramado": "12:57",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-25T15:57:10.449Z"
     },
     {
       "posicao": 20,
