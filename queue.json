@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-25T15:33:54.178Z",
-  "exportedAt": "25/04/2026, 12:33:54",
+  "lastExport": "2026-04-25T15:41:50.067Z",
+  "exportedAt": "25/04/2026, 12:41:50",
   "total": 72,
-  "pendentes": 56,
-  "postados": 16,
+  "pendentes": 55,
+  "postados": 17,
   "queue": [
     {
       "posicao": 1,
@@ -289,10 +289,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_823050-MLB87381049536_072025-AB-melissa-free-platform-thong-original.webp",
       "horarioProgramado": "12:39",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-25T15:39:24.229Z"
     },
     {
       "posicao": 18,
