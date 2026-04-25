@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-25T21:53:55.013Z",
-  "exportedAt": "25/04/2026, 18:53:55",
+  "lastExport": "2026-04-25T22:03:54.933Z",
+  "exportedAt": "25/04/2026, 19:03:54",
   "total": 72,
-  "pendentes": 23,
-  "postados": 49,
+  "pendentes": 22,
+  "postados": 50,
   "queue": [
     {
       "posicao": 1,
@@ -850,10 +850,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_759294-MLB108874283497_032026-AB-base-liquida-facial-soft-blend-ruby-rose-30g-hbm301.webp",
       "horarioProgramado": "18:58",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-25T21:58:53.237Z"
     },
     {
       "posicao": 51,
