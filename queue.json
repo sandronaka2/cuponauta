@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-25T22:43:55.067Z",
-  "exportedAt": "25/04/2026, 19:43:55",
+  "lastExport": "2026-04-25T22:53:54.984Z",
+  "exportedAt": "25/04/2026, 19:53:54",
   "total": 72,
-  "pendentes": 17,
-  "postados": 55,
+  "pendentes": 16,
+  "postados": 56,
   "queue": [
     {
       "posicao": 1,
@@ -952,10 +952,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_749887-MLB93844774361_092025-AB-camisa-termica-voker-segunda-pele-proteco-solar-uv-dry-fit.webp",
       "horarioProgramado": "19:49",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-25T22:49:33.501Z"
     },
     {
       "posicao": 57,
