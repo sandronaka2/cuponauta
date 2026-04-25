@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-25T15:03:55.649Z",
-  "exportedAt": "25/04/2026, 12:03:55",
+  "lastExport": "2026-04-25T15:13:57.301Z",
+  "exportedAt": "25/04/2026, 12:13:57",
   "total": 72,
-  "pendentes": 59,
-  "postados": 13,
+  "pendentes": 58,
+  "postados": 14,
   "queue": [
     {
       "posicao": 1,
@@ -238,10 +238,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_720013-MLB83835207559_042025-AB-kit-brinquedos-montessori-maleta-educativa-sensorial-crianca.webp",
       "horarioProgramado": "12:12",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-25T15:12:53.165Z"
     },
     {
       "posicao": 15,
