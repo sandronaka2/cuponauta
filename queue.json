@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-25T00:10:15.586Z",
-  "exportedAt": "24/04/2026, 21:10:15",
+  "lastExport": "2026-04-25T00:20:15.643Z",
+  "exportedAt": "24/04/2026, 21:20:15",
   "total": 72,
-  "pendentes": 13,
-  "postados": 59,
+  "pendentes": 12,
+  "postados": 60,
   "queue": [
     {
       "posicao": 1,
@@ -1139,10 +1139,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_738596-MLB86479128419_062025-E-calca-jogger-masculina-sarja-e-jeans-com-lycra.webp",
       "horarioProgramado": "21:15",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-25T00:15:46.990Z"
     },
     {
       "posicao": 68,
