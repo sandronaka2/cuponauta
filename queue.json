@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-25T00:00:15.708Z",
-  "exportedAt": "24/04/2026, 21:00:15",
+  "lastExport": "2026-04-25T00:10:15.586Z",
+  "exportedAt": "24/04/2026, 21:10:15",
   "total": 72,
-  "pendentes": 15,
-  "postados": 57,
+  "pendentes": 13,
+  "postados": 59,
   "queue": [
     {
       "posicao": 1,
@@ -1105,10 +1105,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_679315-MLA101774754713_122025-E.webp",
       "horarioProgramado": "21:01",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-25T00:01:48.103Z"
     },
     {
       "posicao": 66,
@@ -1122,10 +1122,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_744765-MLB49771968690_042022-E-kit-10-cuecas-boxer-box-dorbe-microfibra-conforto-masculina.webp",
       "horarioProgramado": "21:08",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-25T00:08:30.647Z"
     },
     {
       "posicao": 67,
