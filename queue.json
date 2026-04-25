@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-25T00:50:15.730Z",
-  "exportedAt": "24/04/2026, 21:50:15",
+  "lastExport": "2026-04-25T01:00:15.894Z",
+  "exportedAt": "24/04/2026, 22:00:15",
   "total": 72,
-  "pendentes": 9,
-  "postados": 63,
+  "pendentes": 7,
+  "postados": 65,
   "queue": [
     {
       "posicao": 1,
@@ -1207,10 +1207,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_956363-MLB108952333549_032026-E-kit-com-3-bermudas-jeans-masculinas-tradicionais-promoco.webp",
       "horarioProgramado": "21:51",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-25T00:51:56.230Z"
     },
     {
       "posicao": 72,
@@ -1224,10 +1224,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_805750-MLA101175903019_122025-E.webp",
       "horarioProgramado": "21:58",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-25T00:58:25.368Z"
     }
   ]
 }
