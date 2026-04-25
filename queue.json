@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-25T23:43:55.044Z",
-  "exportedAt": "25/04/2026, 20:43:55",
+  "lastExport": "2026-04-25T23:53:55.192Z",
+  "exportedAt": "25/04/2026, 20:53:55",
   "total": 72,
-  "pendentes": 10,
-  "postados": 62,
+  "pendentes": 9,
+  "postados": 63,
   "queue": [
     {
       "posicao": 1,
@@ -1071,10 +1071,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_920208-MLB106964257810_022026-AB-chapeu-panama-praia-aba-curta-gringo-festa-caminhada-promo.webp",
       "horarioProgramado": "20:50",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-25T23:50:29.490Z"
     },
     {
       "posicao": 64,
