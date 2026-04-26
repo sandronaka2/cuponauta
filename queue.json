@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-26T14:53:56.130Z",
-  "exportedAt": "26/04/2026, 11:53:56",
+  "lastExport": "2026-04-26T15:03:56.218Z",
+  "exportedAt": "26/04/2026, 12:03:56",
   "total": 72,
-  "pendentes": 61,
-  "postados": 11,
+  "pendentes": 59,
+  "postados": 13,
   "queue": [
     {
       "posicao": 1,
@@ -204,10 +204,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_741146-MLB107692986886_032026-AB-vestido-curto-plus-size-viscolycra-camiso-casual-moderno.webp",
       "horarioProgramado": "11:58",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-26T14:58:30.149Z"
     },
     {
       "posicao": 13,
@@ -221,10 +221,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_700197-MLA99545072094_122025-AB.webp",
       "horarioProgramado": "12:01",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-26T15:01:54.718Z"
     },
     {
       "posicao": 14,
