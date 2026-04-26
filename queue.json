@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-26T13:33:55.917Z",
-  "exportedAt": "26/04/2026, 10:33:55",
+  "lastExport": "2026-04-26T13:42:28.994Z",
+  "exportedAt": "26/04/2026, 10:42:28",
   "total": 72,
-  "pendentes": 66,
-  "postados": 6,
+  "pendentes": 65,
+  "postados": 7,
   "queue": [
     {
       "posicao": 1,
@@ -119,10 +119,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_764467-MLB82391648898_022025-AB-chapeu-natanzinho-lima-floppy-forro-festa-charmoso-estilo.webp",
       "horarioProgramado": "10:34",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-26T13:34:32.002Z"
     },
     {
       "posicao": 8,
