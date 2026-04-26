@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-26T12:33:55.752Z",
-  "exportedAt": "26/04/2026, 09:33:55",
+  "lastExport": "2026-04-26T12:42:27.801Z",
+  "exportedAt": "26/04/2026, 09:42:27",
   "total": 72,
-  "pendentes": 70,
-  "postados": 2,
+  "pendentes": 69,
+  "postados": 3,
   "queue": [
     {
       "posicao": 1,
@@ -51,10 +51,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_815305-MLB92476379848_092025-AB-tnis-kappa-galaxy-masculino-feminino.webp",
       "horarioProgramado": "09:35",
       "janela": "09:00-10:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-26T12:35:15.135Z"
     },
     {
       "posicao": 4,
