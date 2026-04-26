@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-26T19:05:24.918Z",
-  "exportedAt": "26/04/2026, 16:05:24",
+  "lastExport": "2026-04-26T19:15:24.549Z",
+  "exportedAt": "26/04/2026, 16:15:24",
   "total": 72,
-  "pendentes": 38,
-  "postados": 34,
+  "pendentes": 37,
+  "postados": 35,
   "queue": [
     {
       "posicao": 1,
@@ -595,10 +595,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_750390-MLB87894346877_072025-AB-calca-alfaiataria-feminina-wide-leg-social-cintura-alta.webp",
       "horarioProgramado": "16:08",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-26T19:08:30.607Z"
     },
     {
       "posicao": 36,
