@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-26T21:05:19.777Z",
-  "exportedAt": "26/04/2026, 18:05:19",
+  "lastExport": "2026-04-26T21:13:55.118Z",
+  "exportedAt": "26/04/2026, 18:13:55",
   "total": 72,
-  "pendentes": 29,
-  "postados": 43,
+  "pendentes": 28,
+  "postados": 44,
   "queue": [
     {
       "posicao": 1,
@@ -748,10 +748,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_809278-MLB98679973893_112025-AB-sandalia-feminina-anabela-plataforma-zoe-salto-corda-damannu.webp",
       "horarioProgramado": "18:09",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-26T21:09:42.673Z"
     },
     {
       "posicao": 45,
