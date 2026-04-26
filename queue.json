@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-26T21:53:55.324Z",
-  "exportedAt": "26/04/2026, 18:53:55",
+  "lastExport": "2026-04-26T22:03:55.644Z",
+  "exportedAt": "26/04/2026, 19:03:55",
   "total": 72,
-  "pendentes": 23,
-  "postados": 49,
+  "pendentes": 22,
+  "postados": 50,
   "queue": [
     {
       "posicao": 1,
@@ -850,10 +850,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_781206-MLB78936252980_092024-AB-kit-10-cueca-boxer-zorba-781-original-em-algodo-sem-costura.webp",
       "horarioProgramado": "19:00",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-26T22:00:54.108Z"
     },
     {
       "posicao": 51,
