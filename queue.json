@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-26T23:05:25.831Z",
-  "exportedAt": "26/04/2026, 20:05:25",
+  "lastExport": "2026-04-26T23:13:55.503Z",
+  "exportedAt": "26/04/2026, 20:13:55",
   "total": 72,
-  "pendentes": 15,
-  "postados": 57,
+  "pendentes": 14,
+  "postados": 58,
   "queue": [
     {
       "posicao": 1,
@@ -986,10 +986,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_686685-MLB102906957718_012026-AB-camiseta-basica-masculina-malwee-original-algodo-casual.webp",
       "horarioProgramado": "20:07",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-26T23:07:23.332Z"
     },
     {
       "posicao": 59,
