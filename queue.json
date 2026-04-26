@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-26T22:53:55.423Z",
-  "exportedAt": "26/04/2026, 19:53:55",
+  "lastExport": "2026-04-26T23:03:55.723Z",
+  "exportedAt": "26/04/2026, 20:03:55",
   "total": 72,
-  "pendentes": 16,
-  "postados": 56,
+  "pendentes": 15,
+  "postados": 57,
   "queue": [
     {
       "posicao": 1,
@@ -969,10 +969,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_759644-MLB91943990849_092025-AB-suti-feminino-flex-power-alta-compresso-sem-bojo-duloren.webp",
       "horarioProgramado": "19:59",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-26T22:59:19.012Z"
     },
     {
       "posicao": 58,
