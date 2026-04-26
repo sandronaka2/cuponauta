@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-26T22:43:55.388Z",
-  "exportedAt": "26/04/2026, 19:43:55",
+  "lastExport": "2026-04-26T22:53:55.423Z",
+  "exportedAt": "26/04/2026, 19:53:55",
   "total": 72,
-  "pendentes": 17,
-  "postados": 55,
+  "pendentes": 16,
+  "postados": 56,
   "queue": [
     {
       "posicao": 1,
@@ -952,10 +952,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_765912-MLB96720383925_102025-AB-espelho-lopazzi-orgnico-90-e-70cm-retr-quarto-closet-casa.webp",
       "horarioProgramado": "19:51",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-26T22:51:25.272Z"
     },
     {
       "posicao": 57,
