@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-26T00:43:55.103Z",
-  "exportedAt": "25/04/2026, 21:43:55",
+  "lastExport": "2026-04-26T00:53:55.165Z",
+  "exportedAt": "25/04/2026, 21:53:55",
   "total": 72,
-  "pendentes": 3,
-  "postados": 69,
+  "pendentes": 1,
+  "postados": 71,
   "queue": [
     {
       "posicao": 1,
@@ -1190,10 +1190,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_944970-MLA99949674111_112025-AB.webp",
       "horarioProgramado": "21:44",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-26T00:44:25.654Z"
     },
     {
       "posicao": 71,
@@ -1207,10 +1207,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_668977-MLB106112255238_022026-AB-sapato-scarpin-beira-rio-feminino-salto-baixo-bico-fino.webp",
       "horarioProgramado": "21:52",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-26T00:52:19.750Z"
     },
     {
       "posicao": 72,
