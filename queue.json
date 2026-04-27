@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-27T14:15:49.882Z",
-  "exportedAt": "27/04/2026, 11:15:49",
+  "lastExport": "2026-04-27T14:25:49.915Z",
+  "exportedAt": "27/04/2026, 11:25:49",
   "total": 72,
-  "pendentes": 64,
-  "postados": 8,
+  "pendentes": 63,
+  "postados": 9,
   "queue": [
     {
       "posicao": 1,
@@ -170,10 +170,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_627006-MLB95278560066_102025-AB-chinelo-sandalia-top-praia-vero-cores-original-havaianas.webp",
       "horarioProgramado": "11:24",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-27T14:24:12.701Z"
     },
     {
       "posicao": 11,
