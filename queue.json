@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-27T21:09:26.197Z",
-  "exportedAt": "27/04/2026, 18:09:26",
+  "lastExport": "2026-04-27T21:19:34.098Z",
+  "exportedAt": "27/04/2026, 18:19:34",
   "total": 72,
-  "pendentes": 30,
-  "postados": 42,
+  "pendentes": 28,
+  "postados": 44,
   "queue": [
     {
       "posicao": 1,
@@ -748,10 +748,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_742025-MLB51650170260_092022-AB-kit-5-camiseta-camisa-masculina-basica-algodo-premium-top.webp",
       "horarioProgramado": "18:10",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-27T21:10:53.068Z"
     },
     {
       "posicao": 45,
@@ -765,10 +765,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_861641-MLA100053796807_122025-AB.webp",
       "horarioProgramado": "18:18",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-27T21:18:40.900Z"
     },
     {
       "posicao": 46,
