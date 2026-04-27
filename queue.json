@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-27T12:55:49.794Z",
-  "exportedAt": "27/04/2026, 09:55:49",
+  "lastExport": "2026-04-27T13:05:49.865Z",
+  "exportedAt": "27/04/2026, 10:05:49",
   "total": 72,
-  "pendentes": 69,
-  "postados": 3,
+  "pendentes": 68,
+  "postados": 4,
   "queue": [
     {
       "posicao": 1,
@@ -85,10 +85,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_687012-MLB85498228702_062025-AB-bobojaco-masculino-puffer-impermeavel-forrado-capuz-termico.webp",
       "horarioProgramado": "10:01",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-27T13:01:16.368Z"
     },
     {
       "posicao": 6,
