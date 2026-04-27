@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-27T22:54:27.905Z",
-  "exportedAt": "27/04/2026, 19:54:27",
+  "lastExport": "2026-04-27T23:04:34.224Z",
+  "exportedAt": "27/04/2026, 20:04:34",
   "total": 72,
-  "pendentes": 17,
-  "postados": 55,
+  "pendentes": 16,
+  "postados": 56,
   "queue": [
     {
       "posicao": 1,
@@ -969,10 +969,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_935321-MLB110082913143_042026-AB-cadeira-gamer-profissional-reclinavel-apoio-de-pes-cinza.webp",
       "horarioProgramado": "20:00",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-27T23:00:10.302Z"
     },
     {
       "posicao": 58,
