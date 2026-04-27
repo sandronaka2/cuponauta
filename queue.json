@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-27T20:54:25.922Z",
-  "exportedAt": "27/04/2026, 17:54:25",
+  "lastExport": "2026-04-27T21:04:32.344Z",
+  "exportedAt": "27/04/2026, 18:04:32",
   "total": 72,
-  "pendentes": 32,
-  "postados": 40,
+  "pendentes": 30,
+  "postados": 42,
   "queue": [
     {
       "posicao": 1,
@@ -714,10 +714,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_716645-MLB107673300291_022026-AB-anel-pura-prata-925-eterno-coraco-azul-topazio-exclusivo.webp",
       "horarioProgramado": "17:56",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-27T20:56:40.345Z"
     },
     {
       "posicao": 43,
@@ -731,10 +731,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_890159-MLA99508458050_112025-AB.webp",
       "horarioProgramado": "18:01",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-27T21:01:26.587Z"
     },
     {
       "posicao": 44,
