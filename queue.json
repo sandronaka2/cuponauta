@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-27T22:43:57.686Z",
-  "exportedAt": "27/04/2026, 19:43:57",
+  "lastExport": "2026-04-27T22:54:04.269Z",
+  "exportedAt": "27/04/2026, 19:54:04",
   "total": 72,
-  "pendentes": 18,
-  "postados": 54,
+  "pendentes": 17,
+  "postados": 55,
   "queue": [
     {
       "posicao": 1,
@@ -952,10 +952,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_653004-MLB90943570112_082025-AB-combo-maquiagem-adulto-adolescente-para-uso-diario.webp",
       "horarioProgramado": "19:51",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-27T22:51:56.074Z"
     },
     {
       "posicao": 57,
