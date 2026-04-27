@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-27T12:33:06.904Z",
-  "exportedAt": "27/04/2026, 09:33:06",
+  "lastExport": "2026-04-27T12:33:32.712Z",
+  "exportedAt": "27/04/2026, 09:33:32",
   "total": 72,
-  "pendentes": 71,
-  "postados": 1,
+  "pendentes": 70,
+  "postados": 2,
   "queue": [
     {
       "posicao": 1,
@@ -51,10 +51,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_799364-MLA102612646955_122025-AB.webp",
       "horarioProgramado": "09:33",
       "janela": "09:00-10:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-27T12:33:13.353Z"
     },
     {
       "posicao": 4,
@@ -297,13 +297,13 @@
     {
       "posicao": 18,
       "id": "wa-1246-17",
-      "titulo": "Poltrona Cabeleireiro Reclinável Sofá Monaco -pronta Entrega",
-      "preco": "R$ 1.708",
-      "precoOriginal": "R$2.298",
-      "desconto": "25% OFF",
+      "titulo": "Parafusadeira Furadeira C/ 2 Baterias Maleta Kit Completo Led Eixo Flexível Vários Níveis Torque Amarelo 127/220v 60 Hz",
+      "preco": "R$ 124",
+      "precoOriginal": "R$299",
+      "desconto": "58% OFF",
       "cupom": null,
-      "link": "https://meli.la/17ziskt",
-      "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_927772-MLB108091976308_032026-AB-poltrona-cabeleireiro-reclinavel-sofa-monaco-pronta-entrega.webp",
+      "link": "https://meli.la/2WBLfmp",
+      "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_828436-MLA100007265481_122025-AB.webp",
       "horarioProgramado": "12:46",
       "janela": "12:00-14:00",
       "status": "pendente",
