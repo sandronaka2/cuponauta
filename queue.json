@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-27T19:30:24.786Z",
-  "exportedAt": "27/04/2026, 16:30:24",
+  "lastExport": "2026-04-27T19:40:31.605Z",
+  "exportedAt": "27/04/2026, 16:40:31",
   "total": 72,
-  "pendentes": 37,
-  "postados": 35,
+  "pendentes": 36,
+  "postados": 36,
   "queue": [
     {
       "posicao": 1,
@@ -629,10 +629,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_660742-MLB96598298379_102025-AB-calca-legging-fitness-zero-transparncia-cintura-alta-koenig.webp",
       "horarioProgramado": "16:38",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-27T19:38:12.305Z"
     },
     {
       "posicao": 38,
