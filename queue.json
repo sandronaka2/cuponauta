@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-28T00:30:29.234Z",
-  "exportedAt": "27/04/2026, 21:30:29",
+  "lastExport": "2026-04-28T00:40:35.996Z",
+  "exportedAt": "27/04/2026, 21:40:35",
   "total": 72,
-  "pendentes": 5,
-  "postados": 67,
+  "pendentes": 3,
+  "postados": 69,
   "queue": [
     {
       "posicao": 1,
@@ -1173,10 +1173,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_906913-MLA99920845565_112025-AB.webp",
       "horarioProgramado": "21:31",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-28T00:31:31.973Z"
     },
     {
       "posicao": 70,
@@ -1190,10 +1190,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_781779-MLB108371276181_032026-AB-cobertor-queen-grosso-coberdrom-l-carneiro-dupla-face-manta.webp",
       "horarioProgramado": "21:38",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-28T00:38:29.315Z"
     },
     {
       "posicao": 71,
