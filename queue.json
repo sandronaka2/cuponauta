@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-28T21:05:18.441Z",
-  "exportedAt": "28/04/2026, 18:05:18",
+  "lastExport": "2026-04-28T21:09:20.237Z",
+  "exportedAt": "28/04/2026, 18:09:20",
   "total": 72,
-  "pendentes": 29,
-  "postados": 43,
+  "pendentes": 28,
+  "postados": 44,
   "queue": [
     {
       "posicao": 1,
@@ -748,10 +748,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_923147-MLB109645788790_042026-AB-miniso-x15pro-fone-tws-tradutor-ia-bluetooth-para-esportes.webp",
       "horarioProgramado": "18:08",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-28T21:08:33.985Z"
     },
     {
       "posicao": 45,
