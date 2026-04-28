@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-28T21:44:18.917Z",
-  "exportedAt": "28/04/2026, 18:44:18",
+  "lastExport": "2026-04-28T21:54:27.177Z",
+  "exportedAt": "28/04/2026, 18:54:27",
   "total": 72,
-  "pendentes": 24,
-  "postados": 48,
+  "pendentes": 23,
+  "postados": 49,
   "queue": [
     {
       "posicao": 1,
@@ -833,10 +833,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_866812-MLB78361457239_082024-AB-scarpin-feminino-vizzano-salto-alto-agulha-fino-elegante.webp",
       "horarioProgramado": "18:50",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-28T21:50:44.458Z"
     },
     {
       "posicao": 50,
