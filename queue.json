@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-28T16:55:13.028Z",
-  "exportedAt": "28/04/2026, 13:55:13",
+  "lastExport": "2026-04-28T16:59:40.793Z",
+  "exportedAt": "28/04/2026, 13:59:40",
   "total": 72,
-  "pendentes": 47,
-  "postados": 25,
+  "pendentes": 46,
+  "postados": 26,
   "queue": [
     {
       "posicao": 1,
@@ -442,10 +442,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_890876-MLA99938471091_112025-AB.webp",
       "horarioProgramado": "13:58",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-28T16:58:33.029Z"
     },
     {
       "posicao": 27,
@@ -790,13 +790,13 @@
     {
       "posicao": 47,
       "id": "wa-1833-46",
-      "titulo": "Cadeira Reclinável Cabeleireiro Safira - Pronta Entrega Preto Facto Preto Facto",
-      "preco": "R$ 1.348",
-      "precoOriginal": "R$1.746",
-      "desconto": "22% OFF",
+      "titulo": "Perfume Armaf Club De Nuit Intense 105ml Edt - Masculino",
+      "preco": "R$ 213",
+      "precoOriginal": "R$399,90",
+      "desconto": "46% OFF no Pix",
       "cupom": null,
-      "link": "https://meli.la/1hiuG6Y",
-      "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_930812-MLB96783979438_112025-AB.webp",
+      "link": "https://meli.la/2ZtXEHe",
+      "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_701465-MLA109483577626_042026-AB.webp",
       "horarioProgramado": "18:33",
       "janela": "18:00-21:00",
       "status": "pendente",
