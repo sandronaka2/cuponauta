@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-28T15:44:12.322Z",
-  "exportedAt": "28/04/2026, 12:44:12",
+  "lastExport": "2026-04-28T15:54:20.860Z",
+  "exportedAt": "28/04/2026, 12:54:20",
   "total": 72,
-  "pendentes": 55,
-  "postados": 17,
+  "pendentes": 53,
+  "postados": 19,
   "queue": [
     {
       "posicao": 1,
@@ -306,10 +306,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_945971-MLA105390662440_012026-AB.webp",
       "horarioProgramado": "12:45",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-28T15:45:50.963Z"
     },
     {
       "posicao": 19,
@@ -323,10 +323,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_799324-MLB107656410811_022026-AB-fone-de-ouvido-bluetooth-tp-71-tws-cancelamento-de-ruido.webp",
       "horarioProgramado": "12:53",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-28T15:53:09.578Z"
     },
     {
       "posicao": 20,
