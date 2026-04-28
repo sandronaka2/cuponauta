@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-28T22:20:19.368Z",
-  "exportedAt": "28/04/2026, 19:20:19",
+  "lastExport": "2026-04-28T22:30:27.499Z",
+  "exportedAt": "28/04/2026, 19:30:27",
   "total": 72,
-  "pendentes": 20,
-  "postados": 52,
+  "pendentes": 19,
+  "postados": 53,
   "queue": [
     {
       "posicao": 1,
@@ -901,10 +901,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_817235-MLB86997948141_062025-AB-chinelo-havaianas-masculino-power-20-massageadora-anatmica.webp",
       "horarioProgramado": "19:24",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-28T22:24:49.252Z"
     },
     {
       "posicao": 54,
