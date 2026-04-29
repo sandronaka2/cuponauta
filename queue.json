@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-29T14:51:39.776Z",
-  "exportedAt": "29/04/2026, 11:51:39",
+  "lastExport": "2026-04-29T15:11:39.891Z",
+  "exportedAt": "29/04/2026, 12:11:39",
   "total": 72,
-  "pendentes": 61,
-  "postados": 11,
+  "pendentes": 58,
+  "postados": 14,
   "queue": [
     {
       "posicao": 1,
@@ -204,10 +204,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_955486-MLA95700719112_102025-AB.webp",
       "horarioProgramado": "11:58",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-29T14:58:26.509Z"
     },
     {
       "posicao": 13,
@@ -221,10 +221,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_752734-MLA108656126160_032026-AB.webp",
       "horarioProgramado": "12:02",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-29T15:02:31.321Z"
     },
     {
       "posicao": 14,
@@ -238,10 +238,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_735553-MLB98622254933_112025-AB-jaqueta-forrada-masculina-puffer-bobojaco-com-pelo-pelucia.webp",
       "horarioProgramado": "12:11",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-29T15:11:21.161Z"
     },
     {
       "posicao": 15,
