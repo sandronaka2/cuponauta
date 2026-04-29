@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-29T00:30:51.176Z",
-  "exportedAt": "28/04/2026, 21:30:51",
+  "lastExport": "2026-04-29T00:40:58.938Z",
+  "exportedAt": "28/04/2026, 21:40:58",
   "total": 72,
-  "pendentes": 4,
-  "postados": 68,
+  "pendentes": 3,
+  "postados": 69,
   "queue": [
     {
       "posicao": 1,
@@ -1173,10 +1173,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_920709-MLB84522482709_052025-AB-conjunto-linho-feminino-camisa-e-short-linha-premium.webp",
       "horarioProgramado": "21:35",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-29T00:35:31.287Z"
     },
     {
       "posicao": 70,
