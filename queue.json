@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-29T12:54:59.919Z",
-  "exportedAt": "29/04/2026, 09:54:59",
+  "lastExport": "2026-04-29T13:04:59.955Z",
+  "exportedAt": "29/04/2026, 10:04:59",
   "total": 72,
-  "pendentes": 69,
-  "postados": 3,
+  "pendentes": 67,
+  "postados": 5,
   "queue": [
     {
       "posicao": 1,
@@ -68,10 +68,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_633867-MLA100268848652_122025-AB.webp",
       "horarioProgramado": "09:56",
       "janela": "09:00-10:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-29T12:56:08.602Z"
     },
     {
       "posicao": 5,
@@ -85,10 +85,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_899229-MLB95052800434_102025-AB.webp",
       "horarioProgramado": "10:01",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-29T13:01:51.562Z"
     },
     {
       "posicao": 6,
