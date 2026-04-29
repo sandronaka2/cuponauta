@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-29T18:44:37.868Z",
-  "exportedAt": "29/04/2026, 15:44:37",
+  "lastExport": "2026-04-29T18:54:44.520Z",
+  "exportedAt": "29/04/2026, 15:54:44",
   "total": 72,
-  "pendentes": 39,
-  "postados": 33,
+  "pendentes": 38,
+  "postados": 34,
   "queue": [
     {
       "posicao": 1,
@@ -578,10 +578,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_872071-MLB91746760832_092025-AB-bicicleta-aro-29-aco-carbono-freios-a-disco-suspenso-21-vel.webp",
       "horarioProgramado": "15:52",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-29T18:52:25.252Z"
     },
     {
       "posicao": 35,
