@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-29T23:41:11.910Z",
-  "exportedAt": "29/04/2026, 20:41:11",
+  "lastExport": "2026-04-29T23:44:24.755Z",
+  "exportedAt": "29/04/2026, 20:44:24",
   "total": 72,
-  "pendentes": 11,
-  "postados": 61,
+  "pendentes": 10,
+  "postados": 62,
   "queue": [
     {
       "posicao": 1,
@@ -1054,10 +1054,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_787066-MLB96747239684_112025-AB-calca-jeans-feminina-cos-alto-empina-bumbum-patria-brasil.webp",
       "horarioProgramado": "20:43",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-29T23:43:50.480Z"
     },
     {
       "posicao": 63,
