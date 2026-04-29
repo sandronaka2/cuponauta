@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-29T00:41:21.339Z",
-  "exportedAt": "28/04/2026, 21:41:21",
+  "lastExport": "2026-04-29T00:44:07.694Z",
+  "exportedAt": "28/04/2026, 21:44:07",
   "total": 72,
-  "pendentes": 3,
-  "postados": 69,
+  "pendentes": 2,
+  "postados": 70,
   "queue": [
     {
       "posicao": 1,
@@ -1190,10 +1190,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_634296-MLB105658790880_012026-AB-vestido-feminino-plus-size-soltinho-babado-manga-curta.webp",
       "horarioProgramado": "21:43",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-29T00:43:46.029Z"
     },
     {
       "posicao": 71,
