@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-29T17:12:34.983Z",
-  "exportedAt": "29/04/2026, 14:12:34",
+  "lastExport": "2026-04-29T17:22:41.604Z",
+  "exportedAt": "29/04/2026, 14:22:41",
   "total": 72,
-  "pendentes": 45,
-  "postados": 27,
+  "pendentes": 44,
+  "postados": 28,
   "queue": [
     {
       "posicao": 1,
@@ -476,10 +476,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_803698-MLB96471963616_112025-AB-3-pulseira-para-redmi-watch-5-active-lite-minimalista.webp",
       "horarioProgramado": "14:18",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-29T17:18:28.716Z"
     },
     {
       "posicao": 29,
