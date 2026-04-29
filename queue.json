@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-29T22:09:17.189Z",
-  "exportedAt": "29/04/2026, 19:09:17",
+  "lastExport": "2026-04-29T22:09:43.666Z",
+  "exportedAt": "29/04/2026, 19:09:43",
   "total": 72,
-  "pendentes": 22,
-  "postados": 50,
+  "pendentes": 21,
+  "postados": 51,
   "queue": [
     {
       "posicao": 1,
@@ -867,10 +867,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_906724-MLB75371075175_032024-AB-kit-6-pares-meias-lupo-cano-medio-esportivas-academia.webp",
       "horarioProgramado": "19:09",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-29T22:09:17.433Z"
     },
     {
       "posicao": 52,
