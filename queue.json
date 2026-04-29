@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-29T14:41:32.558Z",
-  "exportedAt": "29/04/2026, 11:41:32",
+  "lastExport": "2026-04-29T14:44:16.121Z",
+  "exportedAt": "29/04/2026, 11:44:16",
   "total": 72,
-  "pendentes": 62,
-  "postados": 10,
+  "pendentes": 61,
+  "postados": 11,
   "queue": [
     {
       "posicao": 1,
@@ -187,10 +187,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_910438-MLB81481678923_122024-AB-olevs-relogio-masculino-original-aco-prova-dagua-2892.webp",
       "horarioProgramado": "11:43",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-29T14:43:34.769Z"
     },
     {
       "posicao": 12,
