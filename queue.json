@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-29T22:20:12.570Z",
-  "exportedAt": "29/04/2026, 19:20:12",
+  "lastExport": "2026-04-29T22:30:19.384Z",
+  "exportedAt": "29/04/2026, 19:30:19",
   "total": 72,
-  "pendentes": 20,
-  "postados": 52,
+  "pendentes": 19,
+  "postados": 53,
   "queue": [
     {
       "posicao": 1,
@@ -901,10 +901,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_605031-MLB84048976524_052025-AB-kit-2-scarpin-verniz-salto-baixo-bico-fino-confortavel.webp",
       "horarioProgramado": "19:27",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-29T22:27:53.852Z"
     },
     {
       "posicao": 54,
