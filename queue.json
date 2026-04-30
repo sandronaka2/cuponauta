@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-30T22:19:31.906Z",
-  "exportedAt": "30/04/2026, 19:19:31",
+  "lastExport": "2026-04-30T22:29:40.123Z",
+  "exportedAt": "30/04/2026, 19:29:40",
   "total": 72,
-  "pendentes": 22,
-  "postados": 50,
+  "pendentes": 21,
+  "postados": 51,
   "queue": [
     {
       "posicao": 1,
@@ -901,10 +901,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_890914-MLB95430694974_102025-AB-extenso-5-tomadas-e-2-usb-1-pd-led-bivolt-power-110v220v.webp",
       "horarioProgramado": "19:26",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-30T22:26:18.601Z"
     },
     {
       "posicao": 54,
