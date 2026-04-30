@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-30T21:59:58.931Z",
-  "exportedAt": "30/04/2026, 18:59:58",
+  "lastExport": "2026-04-30T22:08:39.692Z",
+  "exportedAt": "30/04/2026, 19:08:39",
   "total": 72,
-  "pendentes": 25,
-  "postados": 47,
+  "pendentes": 24,
+  "postados": 48,
   "queue": [
     {
       "posicao": 1,
@@ -850,10 +850,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_635007-MLB88696475616_072025-AB-pulseira-22mm-para-redmi-watch-5-lite-5-active-silicona.webp",
       "horarioProgramado": "19:01",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-30T22:01:30.948Z"
     },
     {
       "posicao": 51,
