@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-30T23:09:02.698Z",
-  "exportedAt": "30/04/2026, 20:09:02",
+  "lastExport": "2026-04-30T23:19:11.203Z",
+  "exportedAt": "30/04/2026, 20:19:11",
   "total": 72,
-  "pendentes": 16,
-  "postados": 56,
+  "pendentes": 15,
+  "postados": 57,
   "queue": [
     {
       "posicao": 1,
@@ -1003,10 +1003,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_857337-MLB110276078629_042026-AB-calca-camuflada-cargo-pelos-carneiro-peluciada-moda-inverno.webp",
       "horarioProgramado": "20:17",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-30T23:17:45.621Z"
     },
     {
       "posicao": 60,
