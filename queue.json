@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-30T14:58:23.267Z",
-  "exportedAt": "30/04/2026, 11:58:23",
+  "lastExport": "2026-04-30T14:59:46.735Z",
+  "exportedAt": "30/04/2026, 11:59:46",
   "total": 72,
-  "pendentes": 63,
-  "postados": 9,
+  "pendentes": 62,
+  "postados": 10,
   "queue": [
     {
       "posicao": 1,
@@ -204,10 +204,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_717676-MLB77743487723_072024-AB-jogo-de-toalhas-c-4-pecas-para-mesa-de-santa-ceia.webp",
       "horarioProgramado": "11:58",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-30T14:58:57.416Z"
     },
     {
       "posicao": 13,
