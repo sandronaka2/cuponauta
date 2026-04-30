@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-30T17:59:54.822Z",
-  "exportedAt": "30/04/2026, 14:59:54",
+  "lastExport": "2026-04-30T18:08:34.953Z",
+  "exportedAt": "30/04/2026, 15:08:34",
   "total": 72,
-  "pendentes": 44,
-  "postados": 28,
+  "pendentes": 43,
+  "postados": 29,
   "queue": [
     {
       "posicao": 1,
@@ -527,10 +527,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_687352-MLB88206843074_072025-AB-pulseira-para-huawei-watch-fit-4-pro-fit-4-fit-3.webp",
       "horarioProgramado": "15:05",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-30T18:05:46.816Z"
     },
     {
       "posicao": 32,
