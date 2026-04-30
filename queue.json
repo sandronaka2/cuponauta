@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-30T00:20:12.478Z",
-  "exportedAt": "29/04/2026, 21:20:12",
+  "lastExport": "2026-04-30T00:30:20.648Z",
+  "exportedAt": "29/04/2026, 21:30:20",
   "total": 72,
-  "pendentes": 6,
-  "postados": 66,
+  "pendentes": 4,
+  "postados": 68,
   "queue": [
     {
       "posicao": 1,
@@ -1139,10 +1139,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_749314-MLA99871143329_112025-AB.webp",
       "horarioProgramado": "21:21",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-30T00:21:16.997Z"
     },
     {
       "posicao": 68,
@@ -1156,10 +1156,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_957103-MLB104857051533_012026-AB-meias-dhalishop-cano-curto-esportivas-12-pares.webp",
       "horarioProgramado": "21:29",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-30T00:29:26.495Z"
     },
     {
       "posicao": 69,
