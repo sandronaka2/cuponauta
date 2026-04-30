@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-30T22:51:02.488Z",
-  "exportedAt": "30/04/2026, 19:51:02",
+  "lastExport": "2026-04-30T22:58:05.740Z",
+  "exportedAt": "30/04/2026, 19:58:05",
   "total": 72,
-  "pendentes": 19,
-  "postados": 53,
+  "pendentes": 18,
+  "postados": 54,
   "queue": [
     {
       "posicao": 1,
@@ -952,10 +952,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_701423-MLB88049208723_072025-AB-veronz-conjunto-6-pares-meias-alta-qualidade-adultos.webp",
       "horarioProgramado": "19:52",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-30T22:52:43.338Z"
     },
     {
       "posicao": 57,
