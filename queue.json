@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-04-30T00:30:42.932Z",
-  "exportedAt": "29/04/2026, 21:30:42",
+  "lastExport": "2026-04-30T00:40:49.905Z",
+  "exportedAt": "29/04/2026, 21:40:49",
   "total": 72,
-  "pendentes": 4,
-  "postados": 68,
+  "pendentes": 3,
+  "postados": 69,
   "queue": [
     {
       "posicao": 1,
@@ -1173,10 +1173,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_687797-MLB94469026067_102025-AB-sandalia-infantil-feminina-papete-menina-presente-macia-leve.webp",
       "horarioProgramado": "21:37",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-04-30T00:37:32.762Z"
     },
     {
       "posicao": 70,
