@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-01T16:40:17.505Z",
-  "exportedAt": "01/05/2026, 13:40:17",
+  "lastExport": "2026-05-01T16:50:27.738Z",
+  "exportedAt": "01/05/2026, 13:50:27",
   "total": 72,
-  "pendentes": 49,
-  "postados": 23,
+  "pendentes": 48,
+  "postados": 24,
   "queue": [
     {
       "posicao": 1,
@@ -408,10 +408,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_823794-MLB109040281883_032026-AB-vestido-soltinho-midi-longuete-rodado-regata-fesquinho-plus.webp",
       "horarioProgramado": "13:43",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-01T16:43:40.522Z"
     },
     {
       "posicao": 25,
