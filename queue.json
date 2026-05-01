@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-01T22:16:52.442Z",
-  "exportedAt": "01/05/2026, 19:16:52",
+  "lastExport": "2026-05-01T22:27:04.200Z",
+  "exportedAt": "01/05/2026, 19:27:04",
   "total": 72,
-  "pendentes": 21,
-  "postados": 51,
+  "pendentes": 19,
+  "postados": 53,
   "queue": [
     {
       "posicao": 1,
@@ -884,10 +884,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_834004-MLB108122538645_032026-AB-jaqueta-de-couro-feminina-perfecto-rock-motoqueira.webp",
       "horarioProgramado": "19:16",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-01T22:16:53.087Z"
     },
     {
       "posicao": 53,
@@ -901,10 +901,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_958370-MLB110141729235_042026-AB-vestido-feminino-midi-fenda-lateral-fivela-luxo-chic-natal.webp",
       "horarioProgramado": "19:25",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-01T22:25:31.262Z"
     },
     {
       "posicao": 54,
