@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-01T21:48:21.928Z",
-  "exportedAt": "01/05/2026, 18:48:21",
+  "lastExport": "2026-05-01T21:58:29.371Z",
+  "exportedAt": "01/05/2026, 18:58:29",
   "total": 72,
-  "pendentes": 24,
-  "postados": 48,
+  "pendentes": 22,
+  "postados": 50,
   "queue": [
     {
       "posicao": 1,
@@ -833,10 +833,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_639887-MLB97428377554_112025-AB-jaqueta-masculina-de-couro-slim-fit.webp",
       "horarioProgramado": "18:50",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-01T21:50:35.398Z"
     },
     {
       "posicao": 50,
@@ -850,10 +850,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_799814-MLB75528155900_042024-AB-pacote-com-8-bandejas-de-veludo-para-joias-organizadors-luxo.webp",
       "horarioProgramado": "18:58",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-01T21:58:09.912Z"
     },
     {
       "posicao": 51,
