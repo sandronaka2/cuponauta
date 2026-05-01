@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-01T21:16:51.503Z",
-  "exportedAt": "01/05/2026, 18:16:51",
+  "lastExport": "2026-05-01T21:27:05.344Z",
+  "exportedAt": "01/05/2026, 18:27:05",
   "total": 72,
-  "pendentes": 28,
-  "postados": 44,
+  "pendentes": 26,
+  "postados": 46,
   "queue": [
     {
       "posicao": 1,
@@ -765,10 +765,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_896807-MLB78758536435_082024-AB-kit-com-10-cuecas-slip-mash-basica-masculina-algodo.webp",
       "horarioProgramado": "18:17",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-01T21:17:12.850Z"
     },
     {
       "posicao": 46,
@@ -782,10 +782,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_976125-MLB106511359855_022026-AB-calca-feminina-social-alfaiataria-elegante-com-cinto-forrado.webp",
       "horarioProgramado": "18:25",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-01T21:25:40.301Z"
     },
     {
       "posicao": 47,
