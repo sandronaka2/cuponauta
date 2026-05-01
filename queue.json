@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-01T00:19:33.845Z",
-  "exportedAt": "30/04/2026, 21:19:33",
+  "lastExport": "2026-05-01T00:29:42.819Z",
+  "exportedAt": "30/04/2026, 21:29:42",
   "total": 72,
-  "pendentes": 8,
-  "postados": 64,
+  "pendentes": 6,
+  "postados": 66,
   "queue": [
     {
       "posicao": 1,
@@ -1139,10 +1139,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_826993-MLB98057200584_112025-AB-jaqueta-corta-vento-blusa-feminino-tecido-resistente-agua.webp",
       "horarioProgramado": "21:20",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-01T00:20:22.974Z"
     },
     {
       "posicao": 68,
@@ -1156,10 +1156,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_722244-MLA110991525943_042026-AB.webp",
       "horarioProgramado": "21:27",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-01T00:27:56.906Z"
     },
     {
       "posicao": 69,
