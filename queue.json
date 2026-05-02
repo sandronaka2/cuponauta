@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-02T16:19:09.253Z",
-  "exportedAt": "02/05/2026, 13:19:09",
+  "lastExport": "2026-05-02T16:25:30.085Z",
+  "exportedAt": "02/05/2026, 13:25:30",
   "total": 72,
-  "pendentes": 51,
-  "postados": 21,
+  "pendentes": 50,
+  "postados": 22,
   "queue": [
     {
       "posicao": 1,
@@ -374,10 +374,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_856339-MLB80116921687_102024-AB-colcha-premium-casal-3-pecas-percal-400-fios-toque-macio-top.webp",
       "horarioProgramado": "13:20",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-02T16:20:41.592Z"
     },
     {
       "posicao": 23,
