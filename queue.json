@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-02T00:17:55.430Z",
-  "exportedAt": "01/05/2026, 21:17:55",
+  "lastExport": "2026-05-02T00:25:06.894Z",
+  "exportedAt": "01/05/2026, 21:25:06",
   "total": 72,
-  "pendentes": 6,
-  "postados": 66,
+  "pendentes": 5,
+  "postados": 67,
   "queue": [
     {
       "posicao": 1,
@@ -1139,10 +1139,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_784403-MLB99918236841_112025-AB-kit-6-cuecas-polo-wear-boxer-masculina-sem-costura-original.webp",
       "horarioProgramado": "21:18",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-02T00:18:13.026Z"
     },
     {
       "posicao": 68,
