@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-02T00:25:26.804Z",
-  "exportedAt": "01/05/2026, 21:25:26",
+  "lastExport": "2026-05-02T00:35:55.919Z",
+  "exportedAt": "01/05/2026, 21:35:55",
   "total": 72,
-  "pendentes": 5,
-  "postados": 67,
+  "pendentes": 3,
+  "postados": 69,
   "queue": [
     {
       "posicao": 1,
@@ -1156,10 +1156,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_899151-MLB108577964533_032026-AB-top-faixa-plus-size-tomara-que-caia-forrado-confortavel.webp",
       "horarioProgramado": "21:26",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-02T00:26:41.924Z"
     },
     {
       "posicao": 69,
@@ -1173,10 +1173,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_987868-MLB84711293713_052025-AB.webp",
       "horarioProgramado": "21:34",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-02T00:34:23.968Z"
     },
     {
       "posicao": 70,
