@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-02T20:38:13.735Z",
-  "exportedAt": "02/05/2026, 17:38:13",
+  "lastExport": "2026-05-02T20:48:23.558Z",
+  "exportedAt": "02/05/2026, 17:48:23",
   "total": 72,
-  "pendentes": 32,
-  "postados": 40,
+  "pendentes": 31,
+  "postados": 41,
   "queue": [
     {
       "posicao": 1,
@@ -697,10 +697,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_652705-MLB94342966115_102025-AB-sandalia-feminina-rasteirinha-casual-elegante-para-passeios.webp",
       "horarioProgramado": "17:44",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-02T20:44:33.630Z"
     },
     {
       "posicao": 42,
