@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-01T23:58:54.019Z",
-  "exportedAt": "01/05/2026, 20:58:54",
+  "lastExport": "2026-05-02T00:05:53.360Z",
+  "exportedAt": "01/05/2026, 21:05:53",
   "total": 72,
-  "pendentes": 8,
-  "postados": 64,
+  "pendentes": 7,
+  "postados": 65,
   "queue": [
     {
       "posicao": 1,
@@ -1105,10 +1105,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_851542-MLB109527027311_032026-AB-jogo-lencol-elastico-casal-queen-size-box-4-pecas-400-fios.webp",
       "horarioProgramado": "21:02",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-02T00:02:52.211Z"
     },
     {
       "posicao": 66,
