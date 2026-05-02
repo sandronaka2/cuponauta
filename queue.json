@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-02T14:59:09.123Z",
-  "exportedAt": "02/05/2026, 11:59:09",
+  "lastExport": "2026-05-02T15:09:09.123Z",
+  "exportedAt": "02/05/2026, 12:09:09",
   "total": 72,
-  "pendentes": 60,
-  "postados": 12,
+  "pendentes": 59,
+  "postados": 13,
   "queue": [
     {
       "posicao": 1,
@@ -221,10 +221,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_850451-MLB84813335021_052025-AB-kit-3-calcas-jogger-masculina-jeans-com-punho-elastico.webp",
       "horarioProgramado": "12:02",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-02T15:02:23.263Z"
     },
     {
       "posicao": 14,
