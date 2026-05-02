@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-02T14:09:11.614Z",
-  "exportedAt": "02/05/2026, 11:09:11",
+  "lastExport": "2026-05-02T14:19:09.139Z",
+  "exportedAt": "02/05/2026, 11:19:09",
   "total": 72,
-  "pendentes": 64,
-  "postados": 8,
+  "pendentes": 63,
+  "postados": 9,
   "queue": [
     {
       "posicao": 1,
@@ -153,10 +153,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_861999-MLB71393983945_082023-AB-combo-2-pares-sapatnis-leve-de-ziper-super-conforto.webp",
       "horarioProgramado": "11:13",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-02T14:13:24.207Z"
     },
     {
       "posicao": 10,
