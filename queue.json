@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-02T21:08:20.116Z",
-  "exportedAt": "02/05/2026, 18:08:20",
+  "lastExport": "2026-05-02T21:18:20.157Z",
+  "exportedAt": "02/05/2026, 18:18:20",
   "total": 72,
-  "pendentes": 29,
-  "postados": 43,
+  "pendentes": 27,
+  "postados": 45,
   "queue": [
     {
       "posicao": 1,
@@ -748,10 +748,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_882487-MLA92677639078_092025-AB.webp",
       "horarioProgramado": "18:08",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-02T21:08:58.481Z"
     },
     {
       "posicao": 45,
@@ -765,10 +765,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_833685-MLB99684366772_122025-AB-kit-adesivo-anti-rugas-para-rosto-skin-care-colo-pescoco.webp",
       "horarioProgramado": "18:17",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-02T21:17:28.874Z"
     },
     {
       "posicao": 46,
