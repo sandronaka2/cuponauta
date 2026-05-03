@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-03T00:36:45.759Z",
-  "exportedAt": "02/05/2026, 21:36:45",
+  "lastExport": "2026-05-03T00:46:51.884Z",
+  "exportedAt": "02/05/2026, 21:46:51",
   "total": 72,
-  "pendentes": 3,
-  "postados": 69,
+  "pendentes": 2,
+  "postados": 70,
   "queue": [
     {
       "posicao": 1,
@@ -1190,10 +1190,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_797944-MLB82978249605_032025-AB-kit-6-cuecas-boxer-lupo-poliamida-sem-costura-box-original.webp",
       "horarioProgramado": "21:43",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-03T00:43:34.808Z"
     },
     {
       "posicao": 71,
