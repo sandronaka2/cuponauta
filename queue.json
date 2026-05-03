@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-03T00:20:15.554Z",
-  "exportedAt": "02/05/2026, 21:20:15",
+  "lastExport": "2026-05-03T00:25:55.105Z",
+  "exportedAt": "02/05/2026, 21:25:55",
   "total": 72,
-  "pendentes": 6,
-  "postados": 66,
+  "pendentes": 5,
+  "postados": 67,
   "queue": [
     {
       "posicao": 1,
@@ -1139,10 +1139,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_679078-MLB51817886782_102022-AB-tenis-feminino-casual-kolosh-macio-confortavel-calce-facil.webp",
       "horarioProgramado": "21:20",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-03T00:20:48.606Z"
     },
     {
       "posicao": 68,
