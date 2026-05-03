@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-03T16:09:25.220Z",
-  "exportedAt": "03/05/2026, 13:09:25",
+  "lastExport": "2026-05-03T16:19:25.196Z",
+  "exportedAt": "03/05/2026, 13:19:25",
   "total": 72,
-  "pendentes": 52,
-  "postados": 20,
+  "pendentes": 51,
+  "postados": 21,
   "queue": [
     {
       "posicao": 1,
@@ -357,10 +357,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_655882-MLB80054981856_102024-AB-kit-3-bermudas-masculinas-academia-treino-praia-vero-fit.webp",
       "horarioProgramado": "13:17",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-03T16:17:42.202Z"
     },
     {
       "posicao": 22,
