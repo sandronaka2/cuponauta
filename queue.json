@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-02T23:59:15.232Z",
-  "exportedAt": "02/05/2026, 20:59:15",
+  "lastExport": "2026-05-03T00:09:24.185Z",
+  "exportedAt": "02/05/2026, 21:09:24",
   "total": 72,
-  "pendentes": 8,
-  "postados": 64,
+  "pendentes": 6,
+  "postados": 66,
   "queue": [
     {
       "posicao": 1,
@@ -1105,10 +1105,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_993677-MLB70472340730_072023-AB-sandalia-chinelo-kenner-rakka-ultra-force-original-masculino.webp",
       "horarioProgramado": "21:01",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-03T00:01:19.253Z"
     },
     {
       "posicao": 66,
@@ -1122,10 +1122,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_662369-MLA99422748970_112025-AB.webp",
       "horarioProgramado": "21:09",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-03T00:09:22.299Z"
     },
     {
       "posicao": 67,
