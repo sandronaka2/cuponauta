@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-03T23:26:32.591Z",
-  "exportedAt": "03/05/2026, 20:26:32",
+  "lastExport": "2026-05-03T23:36:39.219Z",
+  "exportedAt": "03/05/2026, 20:36:39",
   "total": 72,
-  "pendentes": 13,
-  "postados": 59,
+  "pendentes": 11,
+  "postados": 61,
   "queue": [
     {
       "posicao": 1,
@@ -1020,10 +1020,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_890028-MLB90617180340_082025-AB-kit-tnis-feminino-under-armour-charged-slight-3-se-e-meia.webp",
       "horarioProgramado": "20:26",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-03T23:26:36.937Z"
     },
     {
       "posicao": 61,
@@ -1037,10 +1037,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_700197-MLA99545072094_122025-AB.webp",
       "horarioProgramado": "20:34",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-03T23:34:18.366Z"
     },
     {
       "posicao": 62,
