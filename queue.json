@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-03T15:39:25.200Z",
-  "exportedAt": "03/05/2026, 12:39:25",
+  "lastExport": "2026-05-03T15:49:25.267Z",
+  "exportedAt": "03/05/2026, 12:49:25",
   "total": 72,
-  "pendentes": 56,
-  "postados": 16,
+  "pendentes": 54,
+  "postados": 18,
   "queue": [
     {
       "posicao": 1,
@@ -289,10 +289,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_918085-MLB87166930906_072025-AB-pijama-de-inverno-masculino-flanelado.webp",
       "horarioProgramado": "12:40",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-03T15:40:44.352Z"
     },
     {
       "posicao": 18,
@@ -306,10 +306,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_794466-MLB79350821332_092024-AB.webp",
       "horarioProgramado": "12:49",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-03T15:49:20.908Z"
     },
     {
       "posicao": 19,
