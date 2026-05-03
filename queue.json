@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-03T15:19:25.198Z",
-  "exportedAt": "03/05/2026, 12:19:25",
+  "lastExport": "2026-05-03T15:26:07.068Z",
+  "exportedAt": "03/05/2026, 12:26:07",
   "total": 72,
-  "pendentes": 58,
-  "postados": 14,
+  "pendentes": 57,
+  "postados": 15,
   "queue": [
     {
       "posicao": 1,
@@ -255,10 +255,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_846273-MLB108653772131_032026-AB-cobertor-queen-kacyumara-blanket-300-soft-liso-220x240m.webp",
       "horarioProgramado": "12:24",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-03T15:24:21.346Z"
     },
     {
       "posicao": 16,
