@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-04T22:07:23.395Z",
-  "exportedAt": "04/05/2026, 19:07:23",
+  "lastExport": "2026-05-04T22:17:30.046Z",
+  "exportedAt": "04/05/2026, 19:17:30",
   "total": 72,
-  "pendentes": 22,
-  "postados": 50,
+  "pendentes": 20,
+  "postados": 52,
   "queue": [
     {
       "posicao": 1,
@@ -867,10 +867,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_898121-MLB99266183232_112025-AB.webp",
       "horarioProgramado": "19:08",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-04T22:08:34.008Z"
     },
     {
       "posicao": 52,
@@ -884,10 +884,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_847927-MLB107566255549_022026-AB-capa-protetor-de-colcho-elastico-queen-impermeavel-matelado.webp",
       "horarioProgramado": "19:17",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-04T22:17:28.431Z"
     },
     {
       "posicao": 53,
