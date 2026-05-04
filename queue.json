@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-04T21:07:27.296Z",
-  "exportedAt": "04/05/2026, 18:07:27",
+  "lastExport": "2026-05-04T21:17:35.391Z",
+  "exportedAt": "04/05/2026, 18:17:35",
   "total": 72,
-  "pendentes": 29,
-  "postados": 43,
+  "pendentes": 27,
+  "postados": 45,
   "queue": [
     {
       "posicao": 1,
@@ -748,10 +748,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_738813-MLB83279416363_032025-AB-kit-6-cuecas-lupo-boxer-box-sem-costura-basic-microfibra.webp",
       "horarioProgramado": "18:09",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-04T21:09:32.898Z"
     },
     {
       "posicao": 45,
@@ -765,10 +765,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_838154-MLB89347284536_082025-AB-sandalia-dakota-y9152-feminina-salto-grosso-7cm.webp",
       "horarioProgramado": "18:17",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-04T21:17:09.315Z"
     },
     {
       "posicao": 46,
