@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-04T22:38:53.133Z",
-  "exportedAt": "04/05/2026, 19:38:53",
+  "lastExport": "2026-05-04T22:49:00.249Z",
+  "exportedAt": "04/05/2026, 19:49:00",
   "total": 72,
-  "pendentes": 18,
-  "postados": 54,
+  "pendentes": 17,
+  "postados": 55,
   "queue": [
     {
       "posicao": 1,
@@ -935,10 +935,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_972179-MLB108651133255_032026-AB-jaqueta-jeans-feminina-plus-size-com-moletom-e-capuz-eg.webp",
       "horarioProgramado": "19:41",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-04T22:41:21.657Z"
     },
     {
       "posicao": 56,
