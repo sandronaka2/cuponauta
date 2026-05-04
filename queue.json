@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-04T15:48:14.418Z",
-  "exportedAt": "04/05/2026, 12:48:14",
+  "lastExport": "2026-05-04T15:58:14.445Z",
+  "exportedAt": "04/05/2026, 12:58:14",
   "total": 72,
-  "pendentes": 55,
-  "postados": 17,
+  "pendentes": 53,
+  "postados": 19,
   "queue": [
     {
       "posicao": 1,
@@ -306,10 +306,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_883681-MLB82707279381_022025-AB-kit-2-sapato-scarpin-salto-baixo-bloco-fivela-salome.webp",
       "horarioProgramado": "12:48",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-04T15:48:55.428Z"
     },
     {
       "posicao": 19,
@@ -323,10 +323,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_798903-MLA95579597211_102025-AB.webp",
       "horarioProgramado": "12:57",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-04T15:57:21.971Z"
     },
     {
       "posicao": 20,
