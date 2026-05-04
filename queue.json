@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-04T14:38:14.351Z",
-  "exportedAt": "04/05/2026, 11:38:14",
+  "lastExport": "2026-05-04T14:48:14.340Z",
+  "exportedAt": "04/05/2026, 11:48:14",
   "total": 72,
-  "pendentes": 62,
-  "postados": 10,
+  "pendentes": 61,
+  "postados": 11,
   "queue": [
     {
       "posicao": 1,
@@ -187,10 +187,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_645378-MLB90025428963_082025-AB-meio-penalty-futebol-futsal-adulto-matis-original-promoco.webp",
       "horarioProgramado": "11:43",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-04T14:43:11.342Z"
     },
     {
       "posicao": 12,
