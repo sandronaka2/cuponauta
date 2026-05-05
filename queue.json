@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-05T16:37:37.134Z",
-  "exportedAt": "05/05/2026, 13:37:37",
+  "lastExport": "2026-05-05T16:47:45.269Z",
+  "exportedAt": "05/05/2026, 13:47:45",
   "total": 72,
-  "pendentes": 50,
-  "postados": 22,
+  "pendentes": 49,
+  "postados": 23,
   "queue": [
     {
       "posicao": 1,
@@ -408,10 +408,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_985776-MLB83904063818_042025-AB-chinelo-nuvem-slide-infantil-menino-tigor-t-tigre-original.webp",
       "horarioProgramado": "13:43",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-05T16:43:52.195Z"
     },
     {
       "posicao": 25,
