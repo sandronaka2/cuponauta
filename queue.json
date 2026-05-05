@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-05T00:39:24.883Z",
-  "exportedAt": "04/05/2026, 21:39:24",
+  "lastExport": "2026-05-05T00:49:31.645Z",
+  "exportedAt": "04/05/2026, 21:49:31",
   "total": 72,
-  "pendentes": 3,
-  "postados": 69,
+  "pendentes": 2,
+  "postados": 70,
   "queue": [
     {
       "posicao": 1,
@@ -1190,10 +1190,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_607704-MLB81302019261_122024-AB-kit-6-pares-de-meias-cano-medio-adulto-algodo-olympikus.webp",
       "horarioProgramado": "21:44",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-05T00:44:42.393Z"
     },
     {
       "posicao": 71,
