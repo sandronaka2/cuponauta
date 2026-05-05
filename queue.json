@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-05T13:12:34.378Z",
-  "exportedAt": "05/05/2026, 10:12:34",
+  "lastExport": "2026-05-05T13:22:43.782Z",
+  "exportedAt": "05/05/2026, 10:22:43",
   "total": 72,
-  "pendentes": 67,
-  "postados": 5,
+  "pendentes": 66,
+  "postados": 6,
   "queue": [
     {
       "posicao": 1,
@@ -102,10 +102,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_656269-MLB111033981651_042026-AB-calca-pantalona-feminina-alfaitaria-wide-leg-social.webp",
       "horarioProgramado": "10:19",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-05T13:19:37.678Z"
     },
     {
       "posicao": 7,
