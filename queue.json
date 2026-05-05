@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-05T21:23:11.044Z",
-  "exportedAt": "05/05/2026, 18:23:11",
+  "lastExport": "2026-05-05T21:33:19.142Z",
+  "exportedAt": "05/05/2026, 18:33:19",
   "total": 72,
-  "pendentes": 28,
-  "postados": 44,
+  "pendentes": 27,
+  "postados": 45,
   "queue": [
     {
       "posicao": 1,
@@ -782,10 +782,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_754812-MLB110225931659_042026-AB-chapeu-bucket-crianca-modelo-pequeno-praia-menina-menino-sol.webp",
       "horarioProgramado": "18:26",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-05T21:26:13.746Z"
     },
     {
       "posicao": 47,
