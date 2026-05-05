@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-05T18:46:17.991Z",
-  "exportedAt": "05/05/2026, 15:46:17",
+  "lastExport": "2026-05-05T18:56:17.975Z",
+  "exportedAt": "05/05/2026, 15:56:17",
   "total": 72,
-  "pendentes": 40,
-  "postados": 32,
+  "pendentes": 39,
+  "postados": 33,
   "queue": [
     {
       "posicao": 1,
@@ -578,10 +578,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_853819-MLB102685927867_122025-AB-tnis-casual-kappa-zenit-masculino-unissex-conforto.webp",
       "horarioProgramado": "15:54",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-05T18:54:05.209Z"
     },
     {
       "posicao": 35,
