@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-05T22:35:49.769Z",
-  "exportedAt": "05/05/2026, 19:35:49",
+  "lastExport": "2026-05-05T22:45:49.740Z",
+  "exportedAt": "05/05/2026, 19:45:49",
   "total": 72,
-  "pendentes": 19,
-  "postados": 53,
+  "pendentes": 18,
+  "postados": 54,
   "queue": [
     {
       "posicao": 1,
@@ -935,10 +935,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_795097-MLB106807453789_022026-AB-smartwatch-series-11-ip68-com-2-pulseiras-e-modo-esportivo.webp",
       "horarioProgramado": "19:43",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-05T22:43:46.333Z"
     },
     {
       "posicao": 56,
