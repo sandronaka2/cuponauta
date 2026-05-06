@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-06T21:37:02.507Z",
-  "exportedAt": "06/05/2026, 18:37:02",
+  "lastExport": "2026-05-06T21:47:12.780Z",
+  "exportedAt": "06/05/2026, 18:47:12",
   "total": 72,
-  "pendentes": 25,
-  "postados": 47,
+  "pendentes": 24,
+  "postados": 48,
   "queue": [
     {
       "posicao": 1,
@@ -816,10 +816,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_693315-MLB97221519107_112025-AB-chapeu-de-praia-bucket-hat-infantil.webp",
       "horarioProgramado": "18:44",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-06T21:44:22.897Z"
     },
     {
       "posicao": 49,
