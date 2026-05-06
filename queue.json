@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-06T22:16:33.054Z",
-  "exportedAt": "06/05/2026, 19:16:33",
+  "lastExport": "2026-05-06T22:26:45.109Z",
+  "exportedAt": "06/05/2026, 19:26:45",
   "total": 72,
-  "pendentes": 21,
-  "postados": 51,
+  "pendentes": 19,
+  "postados": 53,
   "queue": [
     {
       "posicao": 1,
@@ -884,10 +884,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_953980-MLB97796191746_112025-AB-calca-pantalona-wide-leg-feminina-com-bolso-cargo.webp",
       "horarioProgramado": "19:17",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-06T22:17:20.099Z"
     },
     {
       "posicao": 53,
@@ -901,10 +901,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_664007-MLB111131938609_052026-AB-kit-colar-feminino-pulseira-conjunto-brinco-p-presente.webp",
       "horarioProgramado": "19:26",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-06T22:26:43.854Z"
     },
     {
       "posicao": 54,
