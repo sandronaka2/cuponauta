@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-06T21:02:20.161Z",
-  "exportedAt": "06/05/2026, 18:02:20",
+  "lastExport": "2026-05-06T21:02:37.463Z",
+  "exportedAt": "06/05/2026, 18:02:37",
   "total": 72,
-  "pendentes": 30,
-  "postados": 42,
+  "pendentes": 29,
+  "postados": 43,
   "queue": [
     {
       "posicao": 1,
@@ -731,10 +731,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_842632-MLB88303049965_072025-AB-kit-2-blusas-plus-size-gola-role-malha-alta-elasticidade-g3.webp",
       "horarioProgramado": "18:02",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-06T21:02:31.926Z"
     },
     {
       "posicao": 44,
