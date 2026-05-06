@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-06T17:14:28.486Z",
-  "exportedAt": "06/05/2026, 14:14:28",
+  "lastExport": "2026-05-06T17:24:36.799Z",
+  "exportedAt": "06/05/2026, 14:24:36",
   "total": 72,
-  "pendentes": 45,
-  "postados": 27,
+  "pendentes": 44,
+  "postados": 28,
   "queue": [
     {
       "posicao": 1,
@@ -476,10 +476,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_972875-MLB78050028674_082024-AB-melissa-free-platform-slide-ad.webp",
       "horarioProgramado": "14:16",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-06T17:16:46.359Z"
     },
     {
       "posicao": 29,
