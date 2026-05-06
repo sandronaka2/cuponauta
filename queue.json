@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-06T15:17:05.448Z",
-  "exportedAt": "06/05/2026, 12:17:05",
+  "lastExport": "2026-05-06T15:27:05.580Z",
+  "exportedAt": "06/05/2026, 12:27:05",
   "total": 72,
-  "pendentes": 58,
-  "postados": 14,
+  "pendentes": 57,
+  "postados": 15,
   "queue": [
     {
       "posicao": 1,
@@ -255,10 +255,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_688186-MLB109943095435_042026-AB-bobojaco-jaqueta-puffer-nylon-acolchoada-masculina.webp",
       "horarioProgramado": "12:19",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-06T15:19:28.339Z"
     },
     {
       "posicao": 16,
