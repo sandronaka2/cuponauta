@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-06T21:05:32.214Z",
-  "exportedAt": "06/05/2026, 18:05:32",
+  "lastExport": "2026-05-06T21:15:41.744Z",
+  "exportedAt": "06/05/2026, 18:15:41",
   "total": 72,
-  "pendentes": 29,
-  "postados": 43,
+  "pendentes": 28,
+  "postados": 44,
   "queue": [
     {
       "posicao": 1,
@@ -748,10 +748,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_885859-MLB105255323763_012026-T-bota-coturno-militar-masculino-areia-adventure-confortavel.webp",
       "horarioProgramado": "18:11",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-06T21:11:28.346Z"
     },
     {
       "posicao": 45,
