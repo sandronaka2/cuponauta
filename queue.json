@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-06T12:01:41.229Z",
-  "exportedAt": "06/05/2026, 09:01:41",
+  "lastExport": "2026-05-06T12:04:35.034Z",
+  "exportedAt": "06/05/2026, 09:04:35",
   "total": 72,
-  "pendentes": 72,
-  "postados": 0,
+  "pendentes": 71,
+  "postados": 1,
   "queue": [
     {
       "posicao": 1,
@@ -17,10 +17,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_976760-MLB96649612010_112025-AB-bermuda-alfaiataria-sarja-masculino-social-slim-com-elastano.webp",
       "horarioProgramado": "09:02",
       "janela": "09:00-10:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-06T12:02:32.927Z"
     },
     {
       "posicao": 2,
