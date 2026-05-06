@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-06T17:54:59.209Z",
-  "exportedAt": "06/05/2026, 14:54:59",
+  "lastExport": "2026-05-06T18:02:02.382Z",
+  "exportedAt": "06/05/2026, 15:02:02",
   "total": 72,
-  "pendentes": 42,
-  "postados": 30,
+  "pendentes": 41,
+  "postados": 31,
   "queue": [
     {
       "posicao": 1,
@@ -527,10 +527,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_700711-MLB71387290981_082023-AB-kit-2-sutis-trifil-daily-reforcado-com-bojo-soutien-sem-aro.webp",
       "horarioProgramado": "15:01",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-06T18:01:22.210Z"
     },
     {
       "posicao": 32,
