@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-06T12:35:34.913Z",
-  "exportedAt": "06/05/2026, 09:35:34",
+  "lastExport": "2026-05-06T12:45:34.919Z",
+  "exportedAt": "06/05/2026, 09:45:34",
   "total": 72,
-  "pendentes": 70,
-  "postados": 2,
+  "pendentes": 69,
+  "postados": 3,
   "queue": [
     {
       "posicao": 1,
@@ -51,10 +51,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_637976-MLB97492056306_112025-AB-jaqueta-de-couro-masculina-slim-promoco-frio-inverno.webp",
       "horarioProgramado": "09:39",
       "janela": "09:00-10:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-06T12:39:54.704Z"
     },
     {
       "posicao": 4,
