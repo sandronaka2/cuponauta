@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-06T23:16:05.124Z",
-  "exportedAt": "06/05/2026, 20:16:05",
+  "lastExport": "2026-05-06T23:26:13.451Z",
+  "exportedAt": "06/05/2026, 20:26:13",
   "total": 72,
-  "pendentes": 14,
-  "postados": 58,
+  "pendentes": 12,
+  "postados": 60,
   "queue": [
     {
       "posicao": 1,
@@ -1003,10 +1003,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_818690-MLB110985342251_042026-AB-vestido-infantil-para-congresso-menina-adolescente-casual.webp",
       "horarioProgramado": "20:18",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-06T23:18:35.033Z"
     },
     {
       "posicao": 60,
@@ -1020,10 +1020,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_658374-MLA99957214369_112025-AB.webp",
       "horarioProgramado": "20:26",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-06T23:26:10.783Z"
     },
     {
       "posicao": 61,
