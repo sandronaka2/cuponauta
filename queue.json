@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-07T16:16:54.244Z",
-  "exportedAt": "07/05/2026, 13:16:54",
+  "lastExport": "2026-05-07T16:26:53.670Z",
+  "exportedAt": "07/05/2026, 13:26:53",
   "total": 72,
-  "pendentes": 51,
-  "postados": 21,
+  "pendentes": 50,
+  "postados": 22,
   "queue": [
     {
       "posicao": 1,
@@ -374,10 +374,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_762726-MLB86100002594_062025-AB-kit-touca-frio-luva-infantil-inverno-menina-gorro-promoco.webp",
       "horarioProgramado": "13:25",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-07T16:25:26.065Z"
     },
     {
       "posicao": 23,
