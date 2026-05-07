@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-07T15:17:15.643Z",
-  "exportedAt": "07/05/2026, 12:17:15",
+  "lastExport": "2026-05-07T15:26:53.636Z",
+  "exportedAt": "07/05/2026, 12:26:53",
   "total": 72,
-  "pendentes": 58,
-  "postados": 14,
+  "pendentes": 56,
+  "postados": 16,
   "queue": [
     {
       "posicao": 1,
@@ -255,10 +255,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_834070-MLA109797164301_032026-AB.webp",
       "horarioProgramado": "12:17",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-07T15:17:23.482Z"
     },
     {
       "posicao": 16,
@@ -272,10 +272,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_927140-MLB89589520279_082025-AB-borrifador-continuo-nevoa-200ml.webp",
       "horarioProgramado": "12:25",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-07T15:25:55.542Z"
     },
     {
       "posicao": 17,
