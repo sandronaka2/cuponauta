@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-07T15:38:15.941Z",
-  "exportedAt": "07/05/2026, 12:38:15",
+  "lastExport": "2026-05-07T15:46:53.822Z",
+  "exportedAt": "07/05/2026, 12:46:53",
   "total": 72,
-  "pendentes": 55,
-  "postados": 17,
+  "pendentes": 54,
+  "postados": 18,
   "queue": [
     {
       "posicao": 1,
@@ -306,10 +306,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_728542-MLB79907322198_102024-AB-blusa-t-shirt-plus-size-tamanho-grande-5-cores.webp",
       "horarioProgramado": "12:44",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-07T15:44:10.021Z"
     },
     {
       "posicao": 19,
