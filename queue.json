@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-07T18:46:55.644Z",
-  "exportedAt": "07/05/2026, 15:46:55",
+  "lastExport": "2026-05-07T18:48:59.800Z",
+  "exportedAt": "07/05/2026, 15:48:59",
   "total": 72,
-  "pendentes": 39,
-  "postados": 33,
+  "pendentes": 38,
+  "postados": 34,
   "queue": [
     {
       "posicao": 1,
@@ -578,10 +578,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_747366-MLB81576226783_122024-AB-sapato-feminino-anabela-modare-conforto-joanetes.webp",
       "horarioProgramado": "15:48",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-07T18:48:50.464Z"
     },
     {
       "posicao": 35,
