@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-07T23:48:23.754Z",
-  "exportedAt": "07/05/2026, 20:48:23",
+  "lastExport": "2026-05-07T23:56:56.050Z",
+  "exportedAt": "07/05/2026, 20:56:56",
   "total": 72,
-  "pendentes": 10,
-  "postados": 62,
+  "pendentes": 9,
+  "postados": 63,
   "queue": [
     {
       "posicao": 1,
@@ -1071,10 +1071,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_683523-MLB110998617793_042026-AB-vestido-feminino-curto-envelope-manga-longa-com-amarraco.webp",
       "horarioProgramado": "20:51",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-07T23:51:25.052Z"
     },
     {
       "posicao": 64,
