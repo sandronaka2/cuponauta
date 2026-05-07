@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-07T00:05:38.413Z",
-  "exportedAt": "06/05/2026, 21:05:38",
+  "lastExport": "2026-05-07T00:15:47.975Z",
+  "exportedAt": "06/05/2026, 21:15:47",
   "total": 72,
-  "pendentes": 7,
-  "postados": 65,
+  "pendentes": 6,
+  "postados": 66,
   "queue": [
     {
       "posicao": 1,
@@ -1122,10 +1122,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_816196-MLB110514784809_042026-AB-jaqueta-masculina-casaco-bobojaco-forrado-com-pelinho-capuz.webp",
       "horarioProgramado": "21:09",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-07T00:09:54.336Z"
     },
     {
       "posicao": 67,
