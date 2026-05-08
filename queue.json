@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-08T19:56:58.315Z",
-  "exportedAt": "08/05/2026, 16:56:58",
+  "lastExport": "2026-05-08T19:58:53.569Z",
+  "exportedAt": "08/05/2026, 16:58:53",
   "total": 72,
-  "pendentes": 35,
-  "postados": 37,
+  "pendentes": 34,
+  "postados": 38,
   "queue": [
     {
       "posicao": 1,
@@ -646,10 +646,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_625480-MLB100505533911_122025-AB-mochila-viagem-reforcada-impermeavel-executiva-resistente.webp",
       "horarioProgramado": "16:58",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-08T19:58:39.378Z"
     },
     {
       "posicao": 39,
