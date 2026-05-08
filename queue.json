@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-08T18:38:09.741Z",
-  "exportedAt": "08/05/2026, 15:38:09",
+  "lastExport": "2026-05-08T18:46:58.385Z",
+  "exportedAt": "08/05/2026, 15:46:58",
   "total": 72,
-  "pendentes": 40,
-  "postados": 32,
+  "pendentes": 39,
+  "postados": 33,
   "queue": [
     {
       "posicao": 1,
@@ -561,10 +561,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_855180-MLB87747467219_072025-AB-pulseira-aco-milanesa-para-apple-watch-se-ultra-10-9-8-7-6-5.webp",
       "horarioProgramado": "15:40",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-08T18:40:37.054Z"
     },
     {
       "posicao": 34,
