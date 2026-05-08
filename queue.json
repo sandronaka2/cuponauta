@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-08T18:48:40.029Z",
-  "exportedAt": "08/05/2026, 15:48:40",
+  "lastExport": "2026-05-08T18:56:58.358Z",
+  "exportedAt": "08/05/2026, 15:56:58",
   "total": 72,
-  "pendentes": 39,
-  "postados": 33,
+  "pendentes": 38,
+  "postados": 34,
   "queue": [
     {
       "posicao": 1,
@@ -578,10 +578,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_677244-MLB82556338551_022025-AB-tapete-redondo-90cm-para-sala-100-algodo-lavavel-a-maquina.webp",
       "horarioProgramado": "15:55",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-08T18:55:57.391Z"
     },
     {
       "posicao": 35,
