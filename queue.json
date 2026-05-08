@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-08T22:27:42.923Z",
-  "exportedAt": "08/05/2026, 19:27:42",
+  "lastExport": "2026-05-08T22:36:58.988Z",
+  "exportedAt": "08/05/2026, 19:36:58",
   "total": 72,
-  "pendentes": 20,
-  "postados": 52,
+  "pendentes": 18,
+  "postados": 54,
   "queue": [
     {
       "posicao": 1,
@@ -901,10 +901,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_645378-MLB90025428963_082025-AB-meio-penalty-futebol-futsal-adulto-matis-original-promoco.webp",
       "horarioProgramado": "19:27",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-08T22:27:50.609Z"
     },
     {
       "posicao": 54,
@@ -918,10 +918,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_706697-MLB100267904229_122025-AB-tenis-democrata-625101-vibe-casual-masculino-couro.webp",
       "horarioProgramado": "19:36",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-08T22:36:53.979Z"
     },
     {
       "posicao": 55,
