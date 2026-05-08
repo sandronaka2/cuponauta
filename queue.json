@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-08T20:59:11.757Z",
-  "exportedAt": "08/05/2026, 17:59:11",
+  "lastExport": "2026-05-08T21:04:32.039Z",
+  "exportedAt": "08/05/2026, 18:04:32",
   "total": 72,
-  "pendentes": 30,
-  "postados": 42,
+  "pendentes": 29,
+  "postados": 43,
   "queue": [
     {
       "posicao": 1,
@@ -731,10 +731,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_963187-MLB82234750815_022025-AB-kit-4-cuecas-boxer-lupo-sem-costura-microfibra-masculino-box.webp",
       "horarioProgramado": "18:02",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-08T21:02:13.124Z"
     },
     {
       "posicao": 44,
