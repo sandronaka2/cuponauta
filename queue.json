@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-08T23:48:43.756Z",
-  "exportedAt": "08/05/2026, 20:48:43",
+  "lastExport": "2026-05-08T23:56:58.835Z",
+  "exportedAt": "08/05/2026, 20:56:58",
   "total": 72,
-  "pendentes": 10,
-  "postados": 62,
+  "pendentes": 9,
+  "postados": 63,
   "queue": [
     {
       "posicao": 1,
@@ -1071,10 +1071,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_759376-MLB103566718315_012026-T-mochila-viagem-impermeavel-executiva-grande-para-notebook.webp",
       "horarioProgramado": "20:52",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-08T23:52:36.754Z"
     },
     {
       "posicao": 64,
