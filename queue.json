@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-08T14:06:56.874Z",
-  "exportedAt": "08/05/2026, 11:06:56",
+  "lastExport": "2026-05-08T14:15:17.134Z",
+  "exportedAt": "08/05/2026, 11:15:17",
   "total": 72,
-  "pendentes": 64,
-  "postados": 8,
+  "pendentes": 63,
+  "postados": 9,
   "queue": [
     {
       "posicao": 1,
@@ -153,10 +153,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_840981-MLB109597643006_042026-AB-porta-retrato-8-fotos-10x15-vidro-painel-parede-premium.webp",
       "horarioProgramado": "11:07",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-08T14:07:58.190Z"
     },
     {
       "posicao": 10,
