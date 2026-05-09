@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-09T22:07:00.845Z",
-  "exportedAt": "09/05/2026, 19:07:00",
+  "lastExport": "2026-05-09T22:15:40.253Z",
+  "exportedAt": "09/05/2026, 19:15:40",
   "total": 72,
-  "pendentes": 23,
-  "postados": 49,
+  "pendentes": 22,
+  "postados": 50,
   "queue": [
     {
       "posicao": 1,
@@ -867,10 +867,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_927772-MLB108091976308_032026-AB-poltrona-cabeleireiro-reclinavel-sofa-monaco-pronta-entrega.webp",
       "horarioProgramado": "19:09",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-09T22:09:17.401Z"
     },
     {
       "posicao": 52,
