@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-09T23:26:10.146Z",
-  "exportedAt": "09/05/2026, 20:26:10",
+  "lastExport": "2026-05-09T23:26:31.372Z",
+  "exportedAt": "09/05/2026, 20:26:31",
   "total": 72,
-  "pendentes": 14,
-  "postados": 58,
+  "pendentes": 13,
+  "postados": 59,
   "queue": [
     {
       "posicao": 1,
@@ -1020,10 +1020,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_725990-MLB88090247832_072025-AB-cobre-leito-colcha-lisboa-bordado-dupla-face-padro-3-pecas.webp",
       "horarioProgramado": "20:26",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-09T23:26:23.177Z"
     },
     {
       "posicao": 61,
