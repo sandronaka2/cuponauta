@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-09T20:37:00.322Z",
-  "exportedAt": "09/05/2026, 17:37:00",
+  "lastExport": "2026-05-09T20:47:00.157Z",
+  "exportedAt": "09/05/2026, 17:47:00",
   "total": 72,
-  "pendentes": 33,
-  "postados": 39,
+  "pendentes": 32,
+  "postados": 40,
   "queue": [
     {
       "posicao": 1,
@@ -697,10 +697,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_664298-MLB84404233326_052025-AB-tnis-masculino-feminino-kappa-park-20-original.webp",
       "horarioProgramado": "17:44",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-09T20:44:35.186Z"
     },
     {
       "posicao": 42,
