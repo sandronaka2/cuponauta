@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-09T23:27:00.753Z",
-  "exportedAt": "09/05/2026, 20:27:00",
+  "lastExport": "2026-05-09T23:36:39.678Z",
+  "exportedAt": "09/05/2026, 20:36:39",
   "total": 72,
-  "pendentes": 13,
-  "postados": 59,
+  "pendentes": 12,
+  "postados": 60,
   "queue": [
     {
       "posicao": 1,
@@ -1037,10 +1037,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_683225-MLB100382923917_122025-AB-kit-3-camisetas-algodo-dia-dia-sandrini-basica-conforto.webp",
       "horarioProgramado": "20:34",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-09T23:34:20.731Z"
     },
     {
       "posicao": 62,
