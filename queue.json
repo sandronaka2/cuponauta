@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-09T17:46:59.867Z",
-  "exportedAt": "09/05/2026, 14:46:59",
+  "lastExport": "2026-05-09T17:48:35.096Z",
+  "exportedAt": "09/05/2026, 14:48:35",
   "total": 72,
-  "pendentes": 44,
-  "postados": 28,
+  "pendentes": 43,
+  "postados": 29,
   "queue": [
     {
       "posicao": 1,
@@ -510,10 +510,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_716271-MLB107445063347_022026-AB-lavatorio-para-cabeleireiro-monaco-cuba-de-louca.webp",
       "horarioProgramado": "14:48",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-09T17:48:30.215Z"
     },
     {
       "posicao": 31,
