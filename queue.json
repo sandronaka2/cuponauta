@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-09T15:36:28.318Z",
-  "exportedAt": "09/05/2026, 12:36:28",
+  "lastExport": "2026-05-09T15:36:59.541Z",
+  "exportedAt": "09/05/2026, 12:36:59",
   "total": 72,
-  "pendentes": 57,
-  "postados": 15,
+  "pendentes": 56,
+  "postados": 16,
   "queue": [
     {
       "posicao": 1,
@@ -289,10 +289,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_799787-MLB85664619217_062025-AB-calca-mom-jeans-feminina-cintura-alta-marmorizada.webp",
       "horarioProgramado": "12:36",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-09T15:36:35.315Z"
     },
     {
       "posicao": 18,
