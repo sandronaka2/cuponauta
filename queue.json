@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-09T00:07:00.998Z",
-  "exportedAt": "08/05/2026, 21:07:00",
+  "lastExport": "2026-05-09T00:17:00.072Z",
+  "exportedAt": "08/05/2026, 21:17:00",
   "total": 72,
-  "pendentes": 7,
-  "postados": 65,
+  "pendentes": 6,
+  "postados": 66,
   "queue": [
     {
       "posicao": 1,
@@ -1122,10 +1122,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_956436-MLA105686524713_012026-AB-tamanco-feminino-salto-grosso-bloco-medio-confortavel-macio.webp",
       "horarioProgramado": "21:12",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-09T00:12:29.658Z"
     },
     {
       "posicao": 67,
