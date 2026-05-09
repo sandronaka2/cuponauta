@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-09T00:48:44.605Z",
-  "exportedAt": "08/05/2026, 21:48:44",
+  "lastExport": "2026-05-09T00:56:59.231Z",
+  "exportedAt": "08/05/2026, 21:56:59",
   "total": 72,
-  "pendentes": 2,
-  "postados": 70,
+  "pendentes": 1,
+  "postados": 71,
   "queue": [
     {
       "posicao": 1,
@@ -1207,10 +1207,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_628802-MLB99772488156_122025-AB-blusa-feminina-listrada-manga-curta-100-algodo-premium.webp",
       "horarioProgramado": "21:52",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-09T00:52:36.398Z"
     },
     {
       "posicao": 72,
