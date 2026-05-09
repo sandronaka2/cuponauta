@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-09T16:06:59.676Z",
-  "exportedAt": "09/05/2026, 13:06:59",
+  "lastExport": "2026-05-09T16:16:28.388Z",
+  "exportedAt": "09/05/2026, 13:16:28",
   "total": 72,
-  "pendentes": 53,
-  "postados": 19,
+  "pendentes": 52,
+  "postados": 20,
   "queue": [
     {
       "posicao": 1,
@@ -357,10 +357,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_881631-MLB109190399926_042026-AB-jaqueta-de-couro-masculino-slim-resistente.webp",
       "horarioProgramado": "13:11",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-09T16:11:24.179Z"
     },
     {
       "posicao": 22,
