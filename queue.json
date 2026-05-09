@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-09T18:26:59.979Z",
-  "exportedAt": "09/05/2026, 15:26:59",
+  "lastExport": "2026-05-09T18:36:33.826Z",
+  "exportedAt": "09/05/2026, 15:36:33",
   "total": 72,
-  "pendentes": 41,
-  "postados": 31,
+  "pendentes": 40,
+  "postados": 32,
   "queue": [
     {
       "posicao": 1,
@@ -561,10 +561,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_646958-MLB108036498036_032026-AB-lustre-de-teto-preto-led-p-banheiro-24x20x125cm.webp",
       "horarioProgramado": "15:34",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-09T18:34:41.509Z"
     },
     {
       "posicao": 34,
