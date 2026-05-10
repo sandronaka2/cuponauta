@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-10T13:02:55.545Z",
-  "exportedAt": "10/05/2026, 10:02:55",
+  "lastExport": "2026-05-10T13:05:46.965Z",
+  "exportedAt": "10/05/2026, 10:05:46",
   "total": 72,
-  "pendentes": 68,
-  "postados": 4,
+  "pendentes": 67,
+  "postados": 5,
   "queue": [
     {
       "posicao": 1,
@@ -77,18 +77,18 @@
       "posicao": 5,
       "id": "wa-1004-4",
       "titulo": "Kit 3 T-shirts Básicas Feminino Algodão Preto Marrom Off",
-      "preco": "R$ 193",
+      "preco": "R$ 154,40",
       "precoOriginal": "R$387",
       "desconto": "50% OFF",
-      "cupom": null,
+      "cupom": "VOCEMELIMAIS",
       "link": "https://meli.la/1uK1TLW",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_967821-MLB106425794651_022026-AB-kit-3-t-shirts-basicas-feminino-algodo-preto-marrom-off.webp",
       "horarioProgramado": "10:04",
       "janela": "10:00-12:00",
-      "status": "pendente",
-      "fonte": "OFERTA",
+      "status": "postado",
+      "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-10T13:04:51.823Z"
     },
     {
       "posicao": 6,
