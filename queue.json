@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-10T22:07:02.106Z",
-  "exportedAt": "10/05/2026, 19:07:02",
+  "lastExport": "2026-05-10T22:16:25.597Z",
+  "exportedAt": "10/05/2026, 19:16:25",
   "total": 72,
-  "pendentes": 22,
-  "postados": 50,
+  "pendentes": 21,
+  "postados": 51,
   "queue": [
     {
       "posicao": 1,
@@ -859,18 +859,18 @@
       "posicao": 51,
       "id": "wa-1909-50",
       "titulo": "Vaso Sanitário Monobloco Caixa Acoplada Completo Privada Cor Branco Tubrax - Vab0003",
-      "preco": "R$ 505",
+      "preco": "R$ 425,00",
       "precoOriginal": "R$1.084",
       "desconto": "53% OFF",
-      "cupom": null,
+      "cupom": "VOCEMELIMAIS",
       "link": "https://meli.la/31EpBch",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_746046-MLA96084254075_102025-AB.webp",
       "horarioProgramado": "19:09",
       "janela": "18:00-21:00",
-      "status": "pendente",
-      "fonte": "OFERTA",
+      "status": "postado",
+      "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-10T22:09:28.836Z"
     },
     {
       "posicao": 52,
