@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-10T21:17:01.995Z",
-  "exportedAt": "10/05/2026, 18:17:01",
+  "lastExport": "2026-05-10T21:26:54.580Z",
+  "exportedAt": "10/05/2026, 18:26:54",
   "total": 72,
-  "pendentes": 28,
-  "postados": 44,
+  "pendentes": 26,
+  "postados": 46,
   "queue": [
     {
       "posicao": 1,
@@ -765,27 +765,27 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_801397-MLB109973423235_042026-AB-sandalia-feminina-brilho-strass-tendncia-moda-original.webp",
       "horarioProgramado": "18:17",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-10T21:17:51.990Z"
     },
     {
       "posicao": 46,
       "id": "wa-1825-45",
       "titulo": "Jogo De Panelas Antiaderente Cerâmica Mimo Style 10 Peças Grafite",
-      "preco": "R$ 469",
+      "preco": "R$ 389,00",
       "precoOriginal": "R$645,15",
       "desconto": "27% OFF",
-      "cupom": null,
+      "cupom": "VOCEMELIMAIS",
       "link": "https://meli.la/2BBFwZw",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_883567-MLB81968591092_022025-AB.webp",
       "horarioProgramado": "18:25",
       "janela": "18:00-21:00",
-      "status": "pendente",
-      "fonte": "OFERTA",
+      "status": "postado",
+      "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-10T21:25:57.293Z"
     },
     {
       "posicao": 47,
