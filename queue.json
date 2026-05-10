@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-10T16:47:01.446Z",
-  "exportedAt": "10/05/2026, 13:47:01",
+  "lastExport": "2026-05-10T16:55:47.167Z",
+  "exportedAt": "10/05/2026, 13:55:47",
   "total": 72,
-  "pendentes": 48,
-  "postados": 24,
+  "pendentes": 47,
+  "postados": 25,
   "queue": [
     {
       "posicao": 1,
@@ -417,18 +417,18 @@
       "posicao": 25,
       "id": "wa-1352-24",
       "titulo": "Short Curto Masculino Dry-fit Academia, Crossfit E Corrida",
-      "preco": "R$ 132",
+      "preco": "R$ 105,60",
       "precoOriginal": "R$209,90",
       "desconto": "36% OFF no Pix",
-      "cupom": null,
+      "cupom": "VOCEMELIMAIS",
       "link": "https://meli.la/2nbYx6R",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_822063-MLB84764580665_052025-AB-short-curto-masculino-dry-fit-academia-crossfit-e-corrida.webp",
       "horarioProgramado": "13:52",
       "janela": "12:00-14:00",
-      "status": "pendente",
-      "fonte": "OFERTA",
+      "status": "postado",
+      "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-10T16:52:11.952Z"
     },
     {
       "posicao": 26,
