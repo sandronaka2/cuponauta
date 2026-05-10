@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-10T00:07:00.552Z",
-  "exportedAt": "09/05/2026, 21:07:00",
+  "lastExport": "2026-05-10T00:15:39.090Z",
+  "exportedAt": "09/05/2026, 21:15:39",
   "total": 72,
-  "pendentes": 8,
-  "postados": 64,
+  "pendentes": 7,
+  "postados": 65,
   "queue": [
     {
       "posicao": 1,
@@ -1122,10 +1122,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_681608-MLB97113491366_112025-AB-sapatnis-casual-masculino-slip-on-to-3004-palmilha-pu-gel.webp",
       "horarioProgramado": "21:10",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-10T00:10:27.185Z"
     },
     {
       "posicao": 67,
