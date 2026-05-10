@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-10T16:07:01.423Z",
-  "exportedAt": "10/05/2026, 13:07:01",
+  "lastExport": "2026-05-10T16:15:47.186Z",
+  "exportedAt": "10/05/2026, 13:15:47",
   "total": 72,
-  "pendentes": 52,
-  "postados": 20,
+  "pendentes": 51,
+  "postados": 21,
   "queue": [
     {
       "posicao": 1,
@@ -349,18 +349,18 @@
       "posicao": 21,
       "id": "wa-1314-20",
       "titulo": "Fone De Ouvido Bluetooth 5.4 Soundcore P30i Da Anker, Cancelamento De Ruído Adaptativo, Graves Poderosos, 45h De Reprodução, Estojo 2-em-1 Com Suporte Para Celular, Ip54, Fone Sem Fio Tws, Preto",
-      "preco": "R$ 208",
+      "preco": "R$ 166,40",
       "precoOriginal": "R$389",
       "desconto": "46% OFF",
-      "cupom": null,
+      "cupom": "VOCEMELIMAIS",
       "link": "https://meli.la/2a9PEpN",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_760745-MLA95700724020_102025-AB.webp",
       "horarioProgramado": "13:14",
       "janela": "12:00-14:00",
-      "status": "pendente",
-      "fonte": "OFERTA",
+      "status": "postado",
+      "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-10T16:14:28.062Z"
     },
     {
       "posicao": 22,
