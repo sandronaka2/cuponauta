@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-10T16:57:01.446Z",
-  "exportedAt": "10/05/2026, 13:57:01",
+  "lastExport": "2026-05-10T17:02:57.450Z",
+  "exportedAt": "10/05/2026, 14:02:57",
   "total": 72,
-  "pendentes": 47,
-  "postados": 25,
+  "pendentes": 45,
+  "postados": 27,
   "queue": [
     {
       "posicao": 1,
@@ -442,27 +442,27 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_720143-MLA87571996226_072025-AB.webp",
       "horarioProgramado": "13:58",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-10T16:58:32.589Z"
     },
     {
       "posicao": 27,
       "id": "wa-1401-26",
       "titulo": "Caminhão Rampa Dinossauro Cegonha Devorador De Carrinhos Hot Dinossauro Azul",
-      "preco": "R$ 148",
+      "preco": "R$ 118,40",
       "precoOriginal": "R$259,90",
       "desconto": "42% OFF",
-      "cupom": null,
+      "cupom": "VOCEMELIMAIS",
       "link": "https://meli.la/1o9AZtt",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_650999-MLB105235367754_012026-AB.webp",
       "horarioProgramado": "14:01",
       "janela": "14:00-18:00",
-      "status": "pendente",
-      "fonte": "OFERTA",
+      "status": "postado",
+      "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-10T17:01:53.755Z"
     },
     {
       "posicao": 28,
