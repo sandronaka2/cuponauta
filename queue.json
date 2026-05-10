@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-10T20:59:17.635Z",
-  "exportedAt": "10/05/2026, 17:59:17",
+  "lastExport": "2026-05-10T21:02:59.707Z",
+  "exportedAt": "10/05/2026, 18:02:59",
   "total": 72,
-  "pendentes": 30,
-  "postados": 42,
+  "pendentes": 29,
+  "postados": 43,
   "queue": [
     {
       "posicao": 1,
@@ -731,10 +731,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_730142-MLB106878117671_022026-AB-porta-400-cards-pokemon-capa-album-fichario-com-ziper.webp",
       "horarioProgramado": "18:01",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-10T21:01:35.846Z"
     },
     {
       "posicao": 44,
