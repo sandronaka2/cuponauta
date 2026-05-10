@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-10T12:27:01.112Z",
-  "exportedAt": "10/05/2026, 09:27:01",
+  "lastExport": "2026-05-10T12:35:46.949Z",
+  "exportedAt": "10/05/2026, 09:35:46",
   "total": 72,
-  "pendentes": 70,
-  "postados": 2,
+  "pendentes": 69,
+  "postados": 3,
   "queue": [
     {
       "posicao": 1,
@@ -43,18 +43,18 @@
       "posicao": 3,
       "id": "wa-0932-2",
       "titulo": "Conjunto De Panelas Sartin Champ 7 Peças Cerâmica Mimo Style Champanhe",
-      "preco": "R$ 339",
+      "preco": "R$ 271,20",
       "precoOriginal": "R$596,39",
       "desconto": "43% OFF no Pix",
-      "cupom": null,
+      "cupom": "VOCEMELIMAIS",
       "link": "https://meli.la/2KKYZXA",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_621492-MLA99502976516_112025-AB.webp",
       "horarioProgramado": "09:32",
       "janela": "09:00-10:00",
-      "status": "pendente",
-      "fonte": "OFERTA",
+      "status": "postado",
+      "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-10T12:32:19.978Z"
     },
     {
       "posicao": 4,
