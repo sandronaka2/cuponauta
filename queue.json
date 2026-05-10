@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-10T20:57:01.711Z",
-  "exportedAt": "10/05/2026, 17:57:01",
+  "lastExport": "2026-05-10T20:58:53.428Z",
+  "exportedAt": "10/05/2026, 17:58:53",
   "total": 72,
-  "pendentes": 31,
-  "postados": 41,
+  "pendentes": 30,
+  "postados": 42,
   "queue": [
     {
       "posicao": 1,
@@ -706,18 +706,18 @@
       "posicao": 42,
       "id": "wa-1758-41",
       "titulo": "Óculos De Sol Ray-ban Justin Masculino Rb4165l 6018g 57 Quadrado Preto Grey Matte Black",
-      "preco": "R$ 580",
+      "preco": "R$ 500,00",
       "precoOriginal": "R$890",
       "desconto": "34% OFF",
-      "cupom": null,
+      "cupom": "VOCEMELIMAIS",
       "link": "https://meli.la/1GeLhej",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_988535-MLA99928909689_112025-AB.webp",
       "horarioProgramado": "17:58",
       "janela": "14:00-18:00",
-      "status": "pendente",
-      "fonte": "OFERTA",
+      "status": "postado",
+      "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-10T20:58:51.403Z"
     },
     {
       "posicao": 43,
