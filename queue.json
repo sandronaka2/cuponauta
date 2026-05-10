@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-10T21:27:17.859Z",
-  "exportedAt": "10/05/2026, 18:27:17",
+  "lastExport": "2026-05-10T21:37:01.839Z",
+  "exportedAt": "10/05/2026, 18:37:01",
   "total": 72,
-  "pendentes": 26,
-  "postados": 46,
+  "pendentes": 25,
+  "postados": 47,
   "queue": [
     {
       "posicao": 1,
@@ -791,18 +791,18 @@
       "posicao": 47,
       "id": "wa-1836-46",
       "titulo": "Combo 4 Camiseta Longa Juvenil Infantil Básica Estampada",
-      "preco": "R$ 117",
+      "preco": "R$ 93,60",
       "precoOriginal": "R$163,30",
       "desconto": "28% OFF no Pix",
-      "cupom": null,
+      "cupom": "VOCEMELIMAIS",
       "link": "https://meli.la/22mBwNK",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_988720-MLB99397407385_112025-AB-combo-4-camiseta-longa-juvenil-infantil-basica-estampada.webp",
       "horarioProgramado": "18:36",
       "janela": "18:00-21:00",
-      "status": "pendente",
-      "fonte": "OFERTA",
+      "status": "postado",
+      "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-10T21:36:48.207Z"
     },
     {
       "posicao": 48,
