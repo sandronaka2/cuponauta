@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-10T18:27:01.627Z",
-  "exportedAt": "10/05/2026, 15:27:01",
+  "lastExport": "2026-05-10T18:35:47.417Z",
+  "exportedAt": "10/05/2026, 15:35:47",
   "total": 72,
-  "pendentes": 40,
-  "postados": 32,
+  "pendentes": 39,
+  "postados": 33,
   "queue": [
     {
       "posicao": 1,
@@ -553,18 +553,18 @@
       "posicao": 33,
       "id": "wa-1535-32",
       "titulo": "Ventilador De Teto Arno Ultimate Preto Vx14 Corpo Preto Com Pás Transparentes. 127/220v Pás: Acrílico / Globo: Vidro 3",
-      "preco": "R$ 606",
+      "preco": "R$ 526,00",
       "precoOriginal": "R$799,99",
       "desconto": "24% OFF no Pix",
-      "cupom": null,
+      "cupom": "VOCEMELIMAIS",
       "link": "https://meli.la/24hSg29",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_985493-MLA99898163787_112025-AB.webp",
       "horarioProgramado": "15:35",
       "janela": "14:00-18:00",
-      "status": "pendente",
-      "fonte": "OFERTA",
+      "status": "postado",
+      "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-10T18:35:21.387Z"
     },
     {
       "posicao": 34,
