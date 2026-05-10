@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-10T19:37:01.777Z",
-  "exportedAt": "10/05/2026, 16:37:01",
+  "lastExport": "2026-05-10T19:45:47.330Z",
+  "exportedAt": "10/05/2026, 16:45:47",
   "total": 72,
-  "pendentes": 36,
-  "postados": 36,
+  "pendentes": 35,
+  "postados": 37,
   "queue": [
     {
       "posicao": 1,
@@ -621,18 +621,18 @@
       "posicao": 37,
       "id": "wa-1638-36",
       "titulo": "Oculos De Sol Oakley Briza Matte Black / Matte Black Cor Preto Armação Preto Haste Preto Lente Cinza Desenho Cor Sólida",
-      "preco": "R$ 549",
+      "preco": "R$ 469,00",
       "precoOriginal": "R$830",
       "desconto": "33% OFF",
-      "cupom": null,
+      "cupom": "VOCEMELIMAIS",
       "link": "https://meli.la/2H3C9f3",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_739367-MLA108656123998_032026-AB.webp",
       "horarioProgramado": "16:38",
       "janela": "14:00-18:00",
-      "status": "pendente",
-      "fonte": "OFERTA",
+      "status": "postado",
+      "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-10T19:38:38.321Z"
     },
     {
       "posicao": 38,
