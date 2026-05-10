@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-10T19:17:01.642Z",
-  "exportedAt": "10/05/2026, 16:17:01",
+  "lastExport": "2026-05-10T19:25:47.387Z",
+  "exportedAt": "10/05/2026, 16:25:47",
   "total": 72,
-  "pendentes": 37,
-  "postados": 35,
+  "pendentes": 36,
+  "postados": 36,
   "queue": [
     {
       "posicao": 1,
@@ -604,18 +604,18 @@
       "posicao": 36,
       "id": "wa-1622-35",
       "titulo": "Caixa De Som Bluetooth Portátil 100w 10000mah Boombox 12hrs",
-      "preco": "R$ 387",
+      "preco": "R$ 309,60",
       "precoOriginal": "R$624,19",
       "desconto": "37% OFF",
-      "cupom": null,
+      "cupom": "VOCEMELIMAIS",
       "link": "https://meli.la/1G9EnHh",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_600873-MLB95736319293_102025-AB-caixa-de-som-bluetooth-portatil-100w-10000mah-boombox-12hrs.webp",
       "horarioProgramado": "16:22",
       "janela": "14:00-18:00",
-      "status": "pendente",
-      "fonte": "OFERTA",
+      "status": "postado",
+      "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-10T19:22:53.627Z"
     },
     {
       "posicao": 37,
