@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-10T20:17:16.774Z",
-  "exportedAt": "10/05/2026, 17:17:16",
+  "lastExport": "2026-05-10T20:27:01.714Z",
+  "exportedAt": "10/05/2026, 17:27:01",
   "total": 72,
-  "pendentes": 33,
-  "postados": 39,
+  "pendentes": 32,
+  "postados": 40,
   "queue": [
     {
       "posicao": 1,
@@ -672,18 +672,18 @@
       "posicao": 40,
       "id": "wa-1726-39",
       "titulo": "Bota Bull Terrier Bruce Masculina Original Couro Resistente",
-      "preco": "R$ 261",
+      "preco": "R$ 208,80",
       "precoOriginal": "R$429",
       "desconto": "39% OFF no Pix",
-      "cupom": "OFERTASML",
+      "cupom": "VOCEMELIMAIS",
       "link": "https://meli.la/2T2Pvc6",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_856845-MLB78789224991_082024-T-bota-bull-terrier-bruce-masculina-original-couro-resistente.webp",
       "horarioProgramado": "17:26",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-10T20:26:10.732Z"
     },
     {
       "posicao": 41,
