@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-10T22:48:18.983Z",
-  "exportedAt": "10/05/2026, 19:48:18",
+  "lastExport": "2026-05-10T22:57:01.873Z",
+  "exportedAt": "10/05/2026, 19:57:01",
   "total": 72,
-  "pendentes": 17,
-  "postados": 55,
+  "pendentes": 16,
+  "postados": 56,
   "queue": [
     {
       "posicao": 1,
@@ -944,18 +944,18 @@
       "posicao": 56,
       "id": "wa-1952-55",
       "titulo": "Kit 2 Scarpin Verniz Salto Baixo Bico Fino Confortável",
-      "preco": "R$ 159",
+      "preco": "R$ 127,20",
       "precoOriginal": "R$299,90",
       "desconto": "46% OFF",
-      "cupom": null,
+      "cupom": "VOCEMELIMAIS",
       "link": "https://meli.la/32ReroM",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_605031-MLB84048976524_052025-AB-kit-2-scarpin-verniz-salto-baixo-bico-fino-confortavel.webp",
       "horarioProgramado": "19:52",
       "janela": "18:00-21:00",
-      "status": "pendente",
-      "fonte": "OFERTA",
+      "status": "postado",
+      "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-10T22:52:13.455Z"
     },
     {
       "posicao": 57,
