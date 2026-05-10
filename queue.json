@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-10T18:47:01.695Z",
-  "exportedAt": "10/05/2026, 15:47:01",
+  "lastExport": "2026-05-10T18:55:47.370Z",
+  "exportedAt": "10/05/2026, 15:55:47",
   "total": 72,
-  "pendentes": 39,
-  "postados": 33,
+  "pendentes": 38,
+  "postados": 34,
   "queue": [
     {
       "posicao": 1,
@@ -570,18 +570,18 @@
       "posicao": 34,
       "id": "wa-1551-33",
       "titulo": "Celular Samsung Galaxy A07 256gb, 8gb, Câmera 50mp, Tela 6.7 , Proteção Ip54, Processador 6nm - Preto",
-      "preco": "R$ 827",
+      "preco": "R$ 747,00",
       "precoOriginal": "R$1.164",
       "desconto": "28% OFF no Pix",
-      "cupom": null,
+      "cupom": "VOCEMELIMAIS",
       "link": "https://meli.la/2TJAiX1",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_895724-MLA91526198522_092025-AB.webp",
       "horarioProgramado": "15:51",
       "janela": "14:00-18:00",
-      "status": "pendente",
-      "fonte": "OFERTA",
+      "status": "postado",
+      "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-10T18:51:52.053Z"
     },
     {
       "posicao": 35,
