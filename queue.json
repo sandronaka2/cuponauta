@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-10T15:37:01.473Z",
-  "exportedAt": "10/05/2026, 12:37:01",
+  "lastExport": "2026-05-10T15:45:47.078Z",
+  "exportedAt": "10/05/2026, 12:45:47",
   "total": 72,
-  "pendentes": 56,
-  "postados": 16,
+  "pendentes": 55,
+  "postados": 17,
   "queue": [
     {
       "posicao": 1,
@@ -281,18 +281,18 @@
       "posicao": 17,
       "id": "wa-1237-16",
       "titulo": "Óculos De Sol Oakley Sylas Matte Black Lentes Prizm Black Oo9448-0357",
-      "preco": "R$ 552",
+      "preco": "R$ 472,00",
       "precoOriginal": "R$900",
       "desconto": "38% OFF",
-      "cupom": null,
+      "cupom": "VOCEMELIMAIS",
       "link": "https://meli.la/1dzsfqk",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_802433-MLA109465041363_032026-AB.webp",
       "horarioProgramado": "12:37",
       "janela": "12:00-14:00",
-      "status": "pendente",
-      "fonte": "OFERTA",
+      "status": "postado",
+      "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-10T15:37:34.341Z"
     },
     {
       "posicao": 18,
