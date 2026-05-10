@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-10T15:07:01.325Z",
-  "exportedAt": "10/05/2026, 12:07:01",
+  "lastExport": "2026-05-10T15:15:47.075Z",
+  "exportedAt": "10/05/2026, 12:15:47",
   "total": 72,
-  "pendentes": 59,
-  "postados": 13,
+  "pendentes": 58,
+  "postados": 14,
   "queue": [
     {
       "posicao": 1,
@@ -238,10 +238,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_712267-MLB77602745682_072024-AB-pulseira-para-apple-watch-series-9-45mm-silicone.webp",
       "horarioProgramado": "12:09",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-10T15:09:52.947Z"
     },
     {
       "posicao": 15,
