@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-10T22:27:18.633Z",
-  "exportedAt": "10/05/2026, 19:27:18",
+  "lastExport": "2026-05-10T22:37:02.004Z",
+  "exportedAt": "10/05/2026, 19:37:02",
   "total": 72,
-  "pendentes": 19,
-  "postados": 53,
+  "pendentes": 18,
+  "postados": 54,
   "queue": [
     {
       "posicao": 1,
@@ -910,18 +910,18 @@
       "posicao": 54,
       "id": "wa-1935-53",
       "titulo": "Chapinha Prancha Taiff Cerâmica Preta 110v/220v Bivolt Nf Preto 127/220v",
-      "preco": "R$ 114",
+      "preco": "R$ 91,20",
       "precoOriginal": "R$186,25",
       "desconto": "38% OFF",
-      "cupom": null,
+      "cupom": "VOCEMELIMAIS",
       "link": "https://meli.la/1CbvjS5",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_730650-MLB89542315071_082025-AB.webp",
       "horarioProgramado": "19:35",
       "janela": "18:00-21:00",
-      "status": "pendente",
-      "fonte": "OFERTA",
+      "status": "postado",
+      "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-10T22:35:39.846Z"
     },
     {
       "posicao": 55,
