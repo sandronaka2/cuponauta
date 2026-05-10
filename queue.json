@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-10T14:27:01.364Z",
-  "exportedAt": "10/05/2026, 11:27:01",
+  "lastExport": "2026-05-10T14:35:47.061Z",
+  "exportedAt": "10/05/2026, 11:35:47",
   "total": 72,
-  "pendentes": 63,
-  "postados": 9,
+  "pendentes": 62,
+  "postados": 10,
   "queue": [
     {
       "posicao": 1,
@@ -162,18 +162,18 @@
       "posicao": 10,
       "id": "wa-1127-9",
       "titulo": "Câmera Digital Infantil Com Cartão De Memória Sd 4gb Rosa",
-      "preco": "R$ 97",
+      "preco": "R$ 77,60",
       "precoOriginal": "R$129",
       "desconto": "24% OFF",
-      "cupom": null,
+      "cupom": "VOCEMELIMAIS",
       "link": "https://meli.la/1P4fsb2",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_606724-MLB94703069761_102025-AB.webp",
       "horarioProgramado": "11:27",
       "janela": "10:00-12:00",
-      "status": "pendente",
-      "fonte": "OFERTA",
+      "status": "postado",
+      "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-10T14:27:16.595Z"
     },
     {
       "posicao": 11,
