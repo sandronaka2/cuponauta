@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-10T22:17:02.027Z",
-  "exportedAt": "10/05/2026, 19:17:02",
+  "lastExport": "2026-05-10T22:26:55.271Z",
+  "exportedAt": "10/05/2026, 19:26:55",
   "total": 72,
-  "pendentes": 21,
-  "postados": 51,
+  "pendentes": 19,
+  "postados": 53,
   "queue": [
     {
       "posicao": 1,
@@ -876,18 +876,18 @@
       "posicao": 52,
       "id": "wa-1917-51",
       "titulo": "Console Playstation® 5 Slim Edição Digital 825 Gb Branco - Sony",
-      "preco": "R$ 3.799",
+      "preco": "R$ 3719,00",
       "precoOriginal": "R$4.945",
       "desconto": "23% OFF",
-      "cupom": null,
+      "cupom": "VOCEMELIMAIS",
       "link": "https://meli.la/2vESg4H",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_756435-MLA95500672926_102025-AB.webp",
       "horarioProgramado": "19:17",
       "janela": "18:00-21:00",
-      "status": "pendente",
-      "fonte": "OFERTA",
+      "status": "postado",
+      "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-10T22:17:28.337Z"
     },
     {
       "posicao": 53,
@@ -901,10 +901,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_897046-MLB98663774114_112025-AB-kit-10-pares-meia-invisivel-soquete-algodo-confortavel-mash.webp",
       "horarioProgramado": "19:26",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-10T22:26:07.074Z"
     },
     {
       "posicao": 54,
