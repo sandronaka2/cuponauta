@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-10T16:17:01.849Z",
-  "exportedAt": "10/05/2026, 13:17:01",
+  "lastExport": "2026-05-10T16:25:47.161Z",
+  "exportedAt": "10/05/2026, 13:25:47",
   "total": 72,
-  "pendentes": 51,
-  "postados": 21,
+  "pendentes": 50,
+  "postados": 22,
   "queue": [
     {
       "posicao": 1,
@@ -366,18 +366,18 @@
       "posicao": 22,
       "id": "wa-1323-21",
       "titulo": "Boné Five Panel Corrida Performance Airtech Preto Aba Curta Esportivo Dust Company Strapback Ajustável Ultraleve Ventilado",
-      "preco": "R$ 176",
+      "preco": "R$ 140,80",
       "precoOriginal": "R$277,57",
       "desconto": "36% OFF",
-      "cupom": "OFERTASML",
+      "cupom": "VOCEMELIMAIS",
       "link": "https://meli.la/2WpYCXE",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_781476-MLA108879716941_032026-T.webp",
       "horarioProgramado": "13:23",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-10T16:23:26.313Z"
     },
     {
       "posicao": 23,
