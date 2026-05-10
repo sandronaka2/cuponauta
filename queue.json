@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-10T23:07:02.133Z",
-  "exportedAt": "10/05/2026, 20:07:02",
+  "lastExport": "2026-05-10T23:16:25.958Z",
+  "exportedAt": "10/05/2026, 20:16:25",
   "total": 72,
-  "pendentes": 15,
-  "postados": 57,
+  "pendentes": 14,
+  "postados": 58,
   "queue": [
     {
       "posicao": 1,
@@ -978,18 +978,18 @@
       "posicao": 58,
       "id": "wa-2008-57",
       "titulo": "Kit 2x Creatina 300g Max Titanium Monohidratada Em Pó Sem Sabor",
-      "preco": "R$ 89",
+      "preco": "R$ 71,20",
       "precoOriginal": "R$179",
       "desconto": "49% OFF",
-      "cupom": null,
+      "cupom": "VOCEMELIMAIS",
       "link": "https://meli.la/2xkNzNg",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_776821-MLA99365251528_112025-AB.webp",
       "horarioProgramado": "20:08",
       "janela": "18:00-21:00",
-      "status": "pendente",
-      "fonte": "OFERTA",
+      "status": "postado",
+      "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-10T23:08:32.009Z"
     },
     {
       "posicao": 59,
