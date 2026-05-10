@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-10T15:27:47.596Z",
-  "exportedAt": "10/05/2026, 12:27:47",
+  "lastExport": "2026-05-10T15:35:47.072Z",
+  "exportedAt": "10/05/2026, 12:35:47",
   "total": 72,
-  "pendentes": 57,
-  "postados": 15,
+  "pendentes": 56,
+  "postados": 16,
   "queue": [
     {
       "posicao": 1,
@@ -264,18 +264,18 @@
       "posicao": 16,
       "id": "wa-1228-15",
       "titulo": "Barbeador Eletrico 4 Em 1 A Prova D'agua Uso Até No Chuveiro Preto 5v",
-      "preco": "R$ 143",
+      "preco": "R$ 114,40",
       "precoOriginal": "R$269",
       "desconto": "46% OFF",
-      "cupom": null,
+      "cupom": "VOCEMELIMAIS",
       "link": "https://meli.la/1SEmbnE",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_762720-MLB93588648484_102025-AB.webp",
       "horarioProgramado": "12:28",
       "janela": "12:00-14:00",
-      "status": "pendente",
-      "fonte": "OFERTA",
+      "status": "postado",
+      "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-10T15:28:50.101Z"
     },
     {
       "posicao": 17,
