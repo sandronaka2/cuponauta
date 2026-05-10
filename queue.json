@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-10T12:15:46.924Z",
-  "exportedAt": "10/05/2026, 09:15:46",
+  "lastExport": "2026-05-10T12:17:01.220Z",
+  "exportedAt": "10/05/2026, 09:17:01",
   "total": 72,
-  "pendentes": 71,
-  "postados": 1,
+  "pendentes": 70,
+  "postados": 2,
   "queue": [
     {
       "posicao": 1,
@@ -26,18 +26,18 @@
       "posicao": 2,
       "id": "wa-0916-1",
       "titulo": "Jogo De Toalhas Buddemeyer Brisa Banho 5 Peças",
-      "preco": "R$ 169",
+      "preco": "R$ 135,20",
       "precoOriginal": "R$248",
       "desconto": "31% OFF no Pix",
-      "cupom": null,
+      "cupom": "VOCEMELIMAIS",
       "link": "https://meli.la/1vPJCcQ",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_661923-MLB83679720328_042025-AB-jogo-de-toalhas-buddemeyer-brisa-banho-5-pecas.webp",
       "horarioProgramado": "09:16",
       "janela": "09:00-10:00",
-      "status": "pendente",
-      "fonte": "OFERTA",
+      "status": "postado",
+      "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-10T12:16:44.590Z"
     },
     {
       "posicao": 3,
