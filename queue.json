@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-10T20:38:17.194Z",
-  "exportedAt": "10/05/2026, 17:38:17",
+  "lastExport": "2026-05-10T20:47:01.827Z",
+  "exportedAt": "10/05/2026, 17:47:01",
   "total": 72,
-  "pendentes": 32,
-  "postados": 40,
+  "pendentes": 31,
+  "postados": 41,
   "queue": [
     {
       "posicao": 1,
@@ -689,18 +689,18 @@
       "posicao": 41,
       "id": "wa-1741-40",
       "titulo": "Smart Tv Tcl 40 Polegadas Full Hd Qled S5k Wifi Bluetooth Google Tv 2 Hdmi Hdr10 Dolby Audio 40s5k",
-      "preco": "R$ 1.379",
+      "preco": "R$ 1299,00",
       "precoOriginal": "R$2.389",
       "desconto": "42% OFF",
-      "cupom": null,
+      "cupom": "VOCEMELIMAIS",
       "link": "https://meli.la/1g1pD2q",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_960083-MLA103757070263_012026-AB.webp",
       "horarioProgramado": "17:41",
       "janela": "14:00-18:00",
-      "status": "pendente",
-      "fonte": "OFERTA",
+      "status": "postado",
+      "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-10T20:41:34.290Z"
     },
     {
       "posicao": 42,
