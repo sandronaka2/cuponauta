@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-10T18:17:01.572Z",
-  "exportedAt": "10/05/2026, 15:17:01",
+  "lastExport": "2026-05-10T18:25:47.314Z",
+  "exportedAt": "10/05/2026, 15:25:47",
   "total": 72,
-  "pendentes": 41,
-  "postados": 31,
+  "pendentes": 40,
+  "postados": 32,
   "queue": [
     {
       "posicao": 1,
@@ -536,18 +536,18 @@
       "posicao": 32,
       "id": "wa-1519-31",
       "titulo": "Perfume Rabane 1 Million Eau De Toilette 200 Ml Masculino",
-      "preco": "R$ 524",
+      "preco": "R$ 444,00",
       "precoOriginal": "R$997,70",
       "desconto": "47% OFF no Pix",
-      "cupom": null,
+      "cupom": "VOCEMELIMAIS",
       "link": "https://meli.la/2n8p3Ju",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_702638-MLA74652687496_022024-AB.webp",
       "horarioProgramado": "15:19",
       "janela": "14:00-18:00",
-      "status": "pendente",
-      "fonte": "OFERTA",
+      "status": "postado",
+      "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-10T18:19:51.451Z"
     },
     {
       "posicao": 33,
