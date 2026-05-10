@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-10T16:37:01.481Z",
-  "exportedAt": "10/05/2026, 13:37:01",
+  "lastExport": "2026-05-10T16:45:47.176Z",
+  "exportedAt": "10/05/2026, 13:45:47",
   "total": 72,
-  "pendentes": 49,
-  "postados": 23,
+  "pendentes": 48,
+  "postados": 24,
   "queue": [
     {
       "posicao": 1,
@@ -400,18 +400,18 @@
       "posicao": 24,
       "id": "wa-1343-23",
       "titulo": "Cooktop Mueller 5 Bocas Preto Com Queimador Tripla Chama 127/220v",
-      "preco": "R$ 591",
+      "preco": "R$ 511,00",
       "precoOriginal": "R$850",
       "desconto": "30% OFF no Pix",
-      "cupom": null,
+      "cupom": "VOCEMELIMAIS",
       "link": "https://meli.la/2KKWcdj",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_837927-MLA100055734091_122025-AB.webp",
       "horarioProgramado": "13:43",
       "janela": "12:00-14:00",
-      "status": "pendente",
-      "fonte": "OFERTA",
+      "status": "postado",
+      "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-10T16:43:26.943Z"
     },
     {
       "posicao": 25,
