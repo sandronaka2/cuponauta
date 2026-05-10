@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-10T17:27:01.494Z",
-  "exportedAt": "10/05/2026, 14:27:01",
+  "lastExport": "2026-05-10T17:35:47.456Z",
+  "exportedAt": "10/05/2026, 14:35:47",
   "total": 72,
-  "pendentes": 44,
-  "postados": 28,
+  "pendentes": 43,
+  "postados": 29,
   "queue": [
     {
       "posicao": 1,
@@ -485,18 +485,18 @@
       "posicao": 29,
       "id": "wa-1430-28",
       "titulo": "Penteadeira Ditália Pe80 com Kit Luz Branco Cor Branco",
-      "preco": "R$ 772",
+      "preco": "R$ 692,00",
       "precoOriginal": "R$1.099",
       "desconto": "29% OFF no Pix",
-      "cupom": "PEGAESSAPROMO",
+      "cupom": "VOCEMELIMAIS",
       "link": "https://meli.la/15Y4FUe",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_775782-MLA95668641716_102025-E.webp",
       "horarioProgramado": "14:30",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-10T17:30:31.859Z"
     },
     {
       "posicao": 30,
