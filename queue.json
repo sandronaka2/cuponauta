@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-10T21:58:48.486Z",
-  "exportedAt": "10/05/2026, 18:58:48",
+  "lastExport": "2026-05-10T22:03:00.692Z",
+  "exportedAt": "10/05/2026, 19:03:00",
   "total": 72,
-  "pendentes": 23,
-  "postados": 49,
+  "pendentes": 22,
+  "postados": 50,
   "queue": [
     {
       "posicao": 1,
@@ -842,18 +842,18 @@
       "posicao": 50,
       "id": "wa-1901-49",
       "titulo": "Notebook Lenovo Ideapad 1 15iru7 Intel Core I3-1315u 8gb 256gb Ssd Windows 11 15.6 - 83qj0001bo Cloud Grey",
-      "preco": "R$ 3.219",
+      "preco": "R$ 3139,00",
       "precoOriginal": "R$6.199",
       "desconto": "48% OFF no Pix",
-      "cupom": null,
+      "cupom": "VOCEMELIMAIS",
       "link": "https://meli.la/2hCLBPe",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_718154-MLA99988492837_112025-AB.webp",
       "horarioProgramado": "19:01",
       "janela": "18:00-21:00",
-      "status": "pendente",
-      "fonte": "OFERTA",
+      "status": "postado",
+      "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-10T22:01:12.923Z"
     },
     {
       "posicao": 51,
