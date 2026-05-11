@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-11T13:03:28.013Z",
-  "exportedAt": "11/05/2026, 10:03:28",
+  "lastExport": "2026-05-11T13:06:26.414Z",
+  "exportedAt": "11/05/2026, 10:06:26",
   "total": 72,
-  "pendentes": 68,
-  "postados": 4,
+  "pendentes": 67,
+  "postados": 5,
   "queue": [
     {
       "posicao": 1,
@@ -77,18 +77,18 @@
       "posicao": 5,
       "id": "wa-1003-4",
       "titulo": "Notebook Gamer Acer Nitro V15 Anv15-52-737p Intel® Core I7-13620h 13ªg 16gb Ram 512gb Ssd Rtx4050 Fhd 15.6",
-      "preco": "R$ 6.459",
+      "preco": "R$ 6379,00",
       "precoOriginal": "R$8.999",
       "desconto": "28% OFF no Pix",
-      "cupom": null,
+      "cupom": "VOCEMELIMAIS",
       "link": "https://meli.la/1EGnZnE",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_840134-MLA99989589639_112025-AB.webp",
       "horarioProgramado": "10:03",
       "janela": "10:00-12:00",
-      "status": "pendente",
-      "fonte": "OFERTA",
+      "status": "postado",
+      "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-11T13:03:54.759Z"
     },
     {
       "posicao": 6,
