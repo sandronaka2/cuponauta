@@ -1,26 +1,26 @@
 {
-  "lastExport": "2026-05-11T12:07:31.257Z",
-  "exportedAt": "11/05/2026, 09:07:31",
+  "lastExport": "2026-05-11T12:17:05.859Z",
+  "exportedAt": "11/05/2026, 09:17:05",
   "total": 72,
-  "pendentes": 72,
-  "postados": 0,
+  "pendentes": 71,
+  "postados": 1,
   "queue": [
     {
       "posicao": 1,
       "id": "wa-0909-0",
       "titulo": "Box Os Instrumentos Mortais De Cassandra Clare Editora Galera Record",
-      "preco": "R$ 268",
+      "preco": "R$ 214,40",
       "precoOriginal": "R$399,90",
       "desconto": "32% OFF",
-      "cupom": null,
+      "cupom": "VOCEMELIMAIS",
       "link": "https://meli.la/17B5SGG",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_883180-MLU77447320751_072024-AB.webp",
       "horarioProgramado": "09:09",
       "janela": "09:00-10:00",
-      "status": "pendente",
-      "fonte": "OFERTA",
+      "status": "postado",
+      "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-11T12:09:52.622Z"
     },
     {
       "posicao": 2,
