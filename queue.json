@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-11T20:57:16.522Z",
-  "exportedAt": "11/05/2026, 17:57:16",
+  "lastExport": "2026-05-11T21:07:07.024Z",
+  "exportedAt": "11/05/2026, 18:07:07",
   "total": 72,
-  "pendentes": 31,
-  "postados": 41,
+  "pendentes": 29,
+  "postados": 43,
   "queue": [
     {
       "posicao": 1,
@@ -714,10 +714,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_660312-MLB101438010487_122025-L-conjunto-mesa-eames-90cm-4-cadeiras-kaila-dsw-la-mobilia.webp",
       "horarioProgramado": "17:58",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-11T20:58:16.300Z"
     },
     {
       "posicao": 43,
@@ -731,10 +731,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_812811-MLB73620365158_122023-AB.webp",
       "horarioProgramado": "18:01",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-11T21:01:51.378Z"
     },
     {
       "posicao": 44,
