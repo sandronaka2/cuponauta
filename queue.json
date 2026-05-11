@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-11T13:27:37.580Z",
-  "exportedAt": "11/05/2026, 10:27:37",
+  "lastExport": "2026-05-11T13:37:06.046Z",
+  "exportedAt": "11/05/2026, 10:37:06",
   "total": 72,
-  "pendentes": 66,
-  "postados": 6,
+  "pendentes": 65,
+  "postados": 7,
   "queue": [
     {
       "posicao": 1,
@@ -111,18 +111,18 @@
       "posicao": 7,
       "id": "wa-1033-6",
       "titulo": "Tênis Nike Precision 7 Unissex",
-      "preco": "R$ 379",
+      "preco": "R$ 303,20",
       "precoOriginal": "R$599,99",
       "desconto": "36% OFF",
-      "cupom": null,
+      "cupom": "VOCEMELIMAIS",
       "link": "https://meli.la/1imFwHt",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_684652-MLB100874871493_122025-AB-tnis-nike-precision-7-unissex.webp",
       "horarioProgramado": "10:33",
       "janela": "10:00-12:00",
-      "status": "pendente",
-      "fonte": "OFERTA",
+      "status": "postado",
+      "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-11T13:33:25.845Z"
     },
     {
       "posicao": 8,
