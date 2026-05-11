@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-11T00:27:20.049Z",
-  "exportedAt": "10/05/2026, 21:27:20",
+  "lastExport": "2026-05-11T00:37:02.228Z",
+  "exportedAt": "10/05/2026, 21:37:02",
   "total": 72,
-  "pendentes": 4,
-  "postados": 68,
+  "pendentes": 3,
+  "postados": 69,
   "queue": [
     {
       "posicao": 1,
@@ -1165,18 +1165,18 @@
       "posicao": 69,
       "id": "wa-2133-68",
       "titulo": "Jaqueta Bobojaco Impermeável Forrado Peluciado Frio Inverno",
-      "preco": "R$ 174",
+      "preco": "R$ 139,20",
       "precoOriginal": "R$298,75",
       "desconto": "41% OFF no Pix",
-      "cupom": "PROMONOMELI",
+      "cupom": "VOCEMELIMAIS",
       "link": "https://meli.la/313cuB5",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_906563-MLB110704687761_042026-AB-jaqueta-bobojaco-impermeavel-forrado-peluciado-frio-inverno.webp",
       "horarioProgramado": "21:33",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-11T00:33:52.591Z"
     },
     {
       "posicao": 70,
