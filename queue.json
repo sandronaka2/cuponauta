@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-11T15:47:37.694Z",
-  "exportedAt": "11/05/2026, 12:47:37",
+  "lastExport": "2026-05-11T15:57:06.145Z",
+  "exportedAt": "11/05/2026, 12:57:06",
   "total": 72,
-  "pendentes": 54,
-  "postados": 18,
+  "pendentes": 53,
+  "postados": 19,
   "queue": [
     {
       "posicao": 1,
@@ -315,18 +315,18 @@
       "posicao": 19,
       "id": "wa-1255-18",
       "titulo": "Celular Samsung Galaxy A56 5g 128gb 8gb Ram Preto",
-      "preco": "R$ 1.940",
+      "preco": "R$ 1860,00",
       "precoOriginal": "R$3.199",
       "desconto": "39% OFF",
-      "cupom": null,
+      "cupom": "VOCEMELIMAIS",
       "link": "https://meli.la/2ZqjxPi",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_638445-MLA100187155155_122025-AB.webp",
       "horarioProgramado": "12:55",
       "janela": "12:00-14:00",
-      "status": "pendente",
-      "fonte": "OFERTA",
+      "status": "postado",
+      "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-11T15:55:29.915Z"
     },
     {
       "posicao": 20,
