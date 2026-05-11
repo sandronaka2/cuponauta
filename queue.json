@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-11T15:17:37.762Z",
-  "exportedAt": "11/05/2026, 12:17:37",
+  "lastExport": "2026-05-11T15:27:06.159Z",
+  "exportedAt": "11/05/2026, 12:27:06",
   "total": 72,
-  "pendentes": 58,
-  "postados": 14,
+  "pendentes": 57,
+  "postados": 15,
   "queue": [
     {
       "posicao": 1,
@@ -247,18 +247,18 @@
       "posicao": 15,
       "id": "wa-1219-14",
       "titulo": "Kit 5 Bermudas Moletom Masculina Sortidas Academia Full Lote Sortido Lisa G",
-      "preco": "R$ 82",
+      "preco": "R$ 65,60",
       "precoOriginal": "R$138,90",
       "desconto": "40% OFF",
-      "cupom": null,
+      "cupom": "VOCEMELIMAIS",
       "link": "https://meli.la/1Swcp3A",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_989825-MLB97352305661_112025-AB.webp",
       "horarioProgramado": "12:19",
       "janela": "12:00-14:00",
-      "status": "pendente",
-      "fonte": "OFERTA",
+      "status": "postado",
+      "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-11T15:19:32.293Z"
     },
     {
       "posicao": 16,
