@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-11T13:17:37.527Z",
-  "exportedAt": "11/05/2026, 10:17:37",
+  "lastExport": "2026-05-11T13:27:06.035Z",
+  "exportedAt": "11/05/2026, 10:27:06",
   "total": 72,
-  "pendentes": 67,
-  "postados": 5,
+  "pendentes": 66,
+  "postados": 6,
   "queue": [
     {
       "posicao": 1,
@@ -94,18 +94,18 @@
       "posicao": 6,
       "id": "wa-1018-5",
       "titulo": "Proteína Isolada Beef Protein 900g Shark Pro Zero Lactose",
-      "preco": "R$ 130",
+      "preco": "R$ 104,00",
       "precoOriginal": "R$190,90",
       "desconto": "31% OFF",
-      "cupom": null,
+      "cupom": "VOCEMELIMAIS",
       "link": "https://meli.la/2jcjVem",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_892896-MLB90072283622_082025-AB-proteina-isolada-beef-protein-900g-shark-pro-zero-lactose.webp",
       "horarioProgramado": "10:18",
       "janela": "10:00-12:00",
-      "status": "pendente",
-      "fonte": "OFERTA",
+      "status": "postado",
+      "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-11T13:18:57.405Z"
     },
     {
       "posicao": 7,
