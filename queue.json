@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-11T15:27:37.835Z",
-  "exportedAt": "11/05/2026, 12:27:37",
+  "lastExport": "2026-05-11T15:37:06.240Z",
+  "exportedAt": "11/05/2026, 12:37:06",
   "total": 72,
-  "pendentes": 57,
-  "postados": 15,
+  "pendentes": 56,
+  "postados": 16,
   "queue": [
     {
       "posicao": 1,
@@ -264,18 +264,18 @@
       "posicao": 16,
       "id": "wa-1229-15",
       "titulo": "Bicicleta Ergométrica Fitness Para Cardio E Musculação Com Base Cor Preto E Amarelo 6kg Inercia Marca Sevenfit Preto-amarelo",
-      "preco": "R$ 588",
+      "preco": "R$ 508,00",
       "precoOriginal": "R$1.094",
       "desconto": "46% OFF",
-      "cupom": null,
+      "cupom": "VOCEMELIMAIS",
       "link": "https://meli.la/2AP7cek",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_949141-MLA108959742424_032026-AB.webp",
       "horarioProgramado": "12:29",
       "janela": "12:00-14:00",
-      "status": "pendente",
-      "fonte": "OFERTA",
+      "status": "postado",
+      "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-11T15:29:38.429Z"
     },
     {
       "posicao": 17,
