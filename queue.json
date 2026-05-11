@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-11T14:27:06.107Z",
-  "exportedAt": "11/05/2026, 11:27:06",
+  "lastExport": "2026-05-11T14:27:37.725Z",
+  "exportedAt": "11/05/2026, 11:27:37",
   "total": 72,
-  "pendentes": 63,
-  "postados": 9,
+  "pendentes": 62,
+  "postados": 10,
   "queue": [
     {
       "posicao": 1,
@@ -162,18 +162,18 @@
       "posicao": 10,
       "id": "wa-1127-9",
       "titulo": "Hub Lemorele 7 En 2 Usb-c 3.0 Hdmi 4k 1080p Tf/sd Type-c 40gpbs Pd 100w Carga Rápida Cinza-escuro",
-      "preco": "R$ 116",
+      "preco": "R$ 92,80",
       "precoOriginal": "R$253,17",
       "desconto": "53% OFF no Pix",
-      "cupom": null,
+      "cupom": "VOCEMELIMAIS",
       "link": "https://meli.la/1tnzryn",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_999053-MLA99849457481_112025-AB.webp",
       "horarioProgramado": "11:27",
       "janela": "10:00-12:00",
-      "status": "pendente",
-      "fonte": "OFERTA",
+      "status": "postado",
+      "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-11T14:27:36.382Z"
     },
     {
       "posicao": 11,
