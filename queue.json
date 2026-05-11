@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-11T16:27:37.813Z",
-  "exportedAt": "11/05/2026, 13:27:37",
+  "lastExport": "2026-05-11T16:37:06.159Z",
+  "exportedAt": "11/05/2026, 13:37:06",
   "total": 72,
-  "pendentes": 50,
-  "postados": 22,
+  "pendentes": 49,
+  "postados": 23,
   "queue": [
     {
       "posicao": 1,
@@ -391,10 +391,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_756054-MLB90729158096_082025-AB-blusa-suplex-feminina-decote-quadrado-basica-elegante-moda.webp",
       "horarioProgramado": "13:31",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-11T16:31:16.232Z"
     },
     {
       "posicao": 24,
