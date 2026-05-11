@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-11T00:07:02.226Z",
-  "exportedAt": "10/05/2026, 21:07:02",
+  "lastExport": "2026-05-11T00:16:27.115Z",
+  "exportedAt": "10/05/2026, 21:16:27",
   "total": 72,
-  "pendentes": 7,
-  "postados": 65,
+  "pendentes": 6,
+  "postados": 66,
   "queue": [
     {
       "posicao": 1,
@@ -1114,18 +1114,18 @@
       "posicao": 66,
       "id": "wa-2109-65",
       "titulo": "Suporte Articulado De Mesa F80n Com Pistão A Gás Para Monitores De 17'' A 35'' Preto ELG",
-      "preco": "R$ 156",
+      "preco": "R$ 124,80",
       "precoOriginal": "R$240",
       "desconto": "34% OFF",
-      "cupom": null,
+      "cupom": "VOCEMELIMAIS",
       "link": "https://meli.la/1Z1jxoo",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_798010-MLA109557852399_032026-AB.webp",
       "horarioProgramado": "21:09",
       "janela": "21:00-22:00",
-      "status": "pendente",
-      "fonte": "OFERTA",
+      "status": "postado",
+      "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-11T00:09:29.387Z"
     },
     {
       "posicao": 67,
