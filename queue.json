@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-11T12:17:37.426Z",
-  "exportedAt": "11/05/2026, 09:17:37",
+  "lastExport": "2026-05-11T12:27:05.866Z",
+  "exportedAt": "11/05/2026, 09:27:05",
   "total": 72,
-  "pendentes": 71,
-  "postados": 1,
+  "pendentes": 70,
+  "postados": 2,
   "queue": [
     {
       "posicao": 1,
@@ -26,18 +26,18 @@
       "posicao": 2,
       "id": "wa-0925-1",
       "titulo": "Cooktop Itatiaia Essencial 5 Bocas Preto 127/220v",
-      "preco": "R$ 343",
+      "preco": "R$ 274,40",
       "precoOriginal": "R$592,04",
       "desconto": "41% OFF no Pix",
-      "cupom": null,
+      "cupom": "VOCEMELIMAIS",
       "link": "https://meli.la/1mCJMGT",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_714775-MLA99507479710_112025-AB.webp",
       "horarioProgramado": "09:25",
       "janela": "09:00-10:00",
-      "status": "pendente",
-      "fonte": "OFERTA",
+      "status": "postado",
+      "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-11T12:25:17.320Z"
     },
     {
       "posicao": 3,
