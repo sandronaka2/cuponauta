@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-11T22:37:06.747Z",
-  "exportedAt": "11/05/2026, 19:37:06",
+  "lastExport": "2026-05-11T22:46:21.738Z",
+  "exportedAt": "11/05/2026, 19:46:21",
   "total": 72,
-  "pendentes": 18,
-  "postados": 54,
+  "pendentes": 17,
+  "postados": 55,
   "queue": [
     {
       "posicao": 1,
@@ -935,10 +935,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_828922-MLB91520533559_092025-AB-headphone-bluetooth-reduco-de-ruido-do-anc-com-microfone-f5.webp",
       "horarioProgramado": "19:42",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-11T22:42:29.017Z"
     },
     {
       "posicao": 56,
