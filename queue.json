@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-11T12:57:37.451Z",
-  "exportedAt": "11/05/2026, 09:57:37",
+  "lastExport": "2026-05-11T13:03:28.013Z",
+  "exportedAt": "11/05/2026, 10:03:28",
   "total": 72,
-  "pendentes": 69,
-  "postados": 3,
+  "pendentes": 68,
+  "postados": 4,
   "queue": [
     {
       "posicao": 1,
@@ -68,10 +68,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_925399-MLB92271986216_092025-AB-pijamas-de-frio-camisa-e-calca-de-malha-xadrez-masculino.webp",
       "horarioProgramado": "09:58",
       "janela": "09:00-10:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-11T12:58:19.667Z"
     },
     {
       "posicao": 5,
