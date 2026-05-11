@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-11T21:17:39.481Z",
-  "exportedAt": "11/05/2026, 18:17:39",
+  "lastExport": "2026-05-11T21:27:06.570Z",
+  "exportedAt": "11/05/2026, 18:27:06",
   "total": 72,
-  "pendentes": 28,
-  "postados": 44,
+  "pendentes": 27,
+  "postados": 45,
   "queue": [
     {
       "posicao": 1,
@@ -765,10 +765,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_826873-MLB107635135544_032026-AB-tnis-fila-maxxi-lite-masculino-leve-confortavel-original.webp",
       "horarioProgramado": "18:18",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-11T21:18:51.014Z"
     },
     {
       "posicao": 46,
