@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-10T23:58:49.841Z",
-  "exportedAt": "10/05/2026, 20:58:49",
+  "lastExport": "2026-05-11T00:03:02.323Z",
+  "exportedAt": "10/05/2026, 21:03:02",
   "total": 72,
-  "pendentes": 8,
-  "postados": 64,
+  "pendentes": 7,
+  "postados": 65,
   "queue": [
     {
       "posicao": 1,
@@ -1097,18 +1097,18 @@
       "posicao": 65,
       "id": "wa-2102-64",
       "titulo": "Kit 10 Cuecas Zorba Boxer Sem Costura Algodão 781",
-      "preco": "R$ 151",
+      "preco": "R$ 120,80",
       "precoOriginal": "R$294,90",
       "desconto": "48% OFF no Pix",
-      "cupom": null,
+      "cupom": "VOCEMELIMAIS",
       "link": "https://meli.la/11ZGLp6",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_703858-MLB96063226963_102025-AB-kit-10-cuecas-zorba-boxer-sem-costura-algodo-781.webp",
       "horarioProgramado": "21:02",
       "janela": "21:00-22:00",
-      "status": "pendente",
-      "fonte": "OFERTA",
+      "status": "postado",
+      "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-11T00:02:08.421Z"
     },
     {
       "posicao": 66,
