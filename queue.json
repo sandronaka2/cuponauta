@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-11T16:37:37.966Z",
-  "exportedAt": "11/05/2026, 13:37:37",
+  "lastExport": "2026-05-11T16:47:06.177Z",
+  "exportedAt": "11/05/2026, 13:47:06",
   "total": 72,
-  "pendentes": 49,
-  "postados": 23,
+  "pendentes": 48,
+  "postados": 24,
   "queue": [
     {
       "posicao": 1,
@@ -408,10 +408,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_618160-MLB109459829110_042026-AB-vestido-tric-tranca-quadrada-fenda-manga-longa-tendncia.webp",
       "horarioProgramado": "13:40",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-11T16:40:26.184Z"
     },
     {
       "posicao": 25,
