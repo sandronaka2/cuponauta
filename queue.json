@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-11T22:57:06.798Z",
-  "exportedAt": "11/05/2026, 19:57:06",
+  "lastExport": "2026-05-11T23:06:51.254Z",
+  "exportedAt": "11/05/2026, 20:06:51",
   "total": 72,
-  "pendentes": 16,
-  "postados": 56,
+  "pendentes": 15,
+  "postados": 57,
   "queue": [
     {
       "posicao": 1,
@@ -969,10 +969,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_605660-MLB86360815416_062025-AB-kit-10-cuecas-microfibra-boxer-masculina-com-lycra-box.webp",
       "horarioProgramado": "19:59",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-11T22:59:24.406Z"
     },
     {
       "posicao": 58,
