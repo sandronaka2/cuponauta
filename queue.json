@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-11T14:07:38.594Z",
-  "exportedAt": "11/05/2026, 11:07:38",
+  "lastExport": "2026-05-11T14:17:06.056Z",
+  "exportedAt": "11/05/2026, 11:17:06",
   "total": 72,
-  "pendentes": 64,
-  "postados": 8,
+  "pendentes": 63,
+  "postados": 9,
   "queue": [
     {
       "posicao": 1,
@@ -153,10 +153,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_781341-MLB77055833210_062024-AB-kit-6-cuecas-boxer-polo-wear-microfibra-sem-costura-original.webp",
       "horarioProgramado": "11:12",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-11T14:12:49.647Z"
     },
     {
       "posicao": 10,
