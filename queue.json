@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-11T15:37:37.772Z",
-  "exportedAt": "11/05/2026, 12:37:37",
+  "lastExport": "2026-05-11T15:47:06.078Z",
+  "exportedAt": "11/05/2026, 12:47:06",
   "total": 72,
-  "pendentes": 55,
-  "postados": 17,
+  "pendentes": 54,
+  "postados": 18,
   "queue": [
     {
       "posicao": 1,
@@ -298,18 +298,18 @@
       "posicao": 18,
       "id": "wa-1246-17",
       "titulo": "Bicicleta Ergométrica Spinning 20kg Wct Fitness Cor Preto/verde",
-      "preco": "R$ 1.699",
+      "preco": "R$ 1619,00",
       "precoOriginal": "R$2.600",
       "desconto": "34% OFF",
-      "cupom": null,
+      "cupom": "VOCEMELIMAIS",
       "link": "https://meli.la/2Mo168Q",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_791118-MLA106601417062_022026-AB.webp",
       "horarioProgramado": "12:46",
       "janela": "12:00-14:00",
-      "status": "pendente",
-      "fonte": "OFERTA",
+      "status": "postado",
+      "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-11T15:46:19.574Z"
     },
     {
       "posicao": 19,
