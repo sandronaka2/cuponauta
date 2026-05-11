@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-11T15:07:37.743Z",
-  "exportedAt": "11/05/2026, 12:07:37",
+  "lastExport": "2026-05-11T15:17:06.221Z",
+  "exportedAt": "11/05/2026, 12:17:06",
   "total": 72,
-  "pendentes": 59,
-  "postados": 13,
+  "pendentes": 58,
+  "postados": 14,
   "queue": [
     {
       "posicao": 1,
@@ -230,18 +230,18 @@
       "posicao": 14,
       "id": "wa-1211-13",
       "titulo": "Vestido Tricô Longo Trança Fenda Inverno Manga Longa Tricot",
-      "preco": "R$ 115",
+      "preco": "R$ 92,00",
       "precoOriginal": "R$177,88",
       "desconto": "35% OFF",
-      "cupom": null,
+      "cupom": "VOCEMELIMAIS",
       "link": "https://meli.la/2EmmXej",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_936539-MLB109880894851_032026-AB-vestido-tric-longo-tranca-fenda-inverno-manga-longa-tricot.webp",
       "horarioProgramado": "12:11",
       "janela": "12:00-14:00",
-      "status": "pendente",
-      "fonte": "OFERTA",
+      "status": "postado",
+      "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-11T15:11:19.494Z"
     },
     {
       "posicao": 15,
