@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-11T14:57:37.840Z",
-  "exportedAt": "11/05/2026, 11:57:37",
+  "lastExport": "2026-05-11T15:03:32.754Z",
+  "exportedAt": "11/05/2026, 12:03:32",
   "total": 72,
-  "pendentes": 61,
-  "postados": 11,
+  "pendentes": 59,
+  "postados": 13,
   "queue": [
     {
       "posicao": 1,
@@ -196,35 +196,35 @@
       "posicao": 12,
       "id": "wa-1158-11",
       "titulo": "Notebook Asus Vivobook Go 15, Intel Core I3 N305, 8gb Ram, 512gb Ssd, Windows 11 Home, Tela Nanoedge 15,6  Fhd, Cool Silver - E1504ga-nj435w",
-      "preco": "R$ 3.274",
+      "preco": "R$ 3194,00",
       "precoOriginal": "R$4.099",
       "desconto": "20% OFF no Pix",
-      "cupom": null,
+      "cupom": "VOCEMELIMAIS",
       "link": "https://meli.la/2Mfszgq",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_792275-MLA99470991702_112025-AB.webp",
       "horarioProgramado": "11:58",
       "janela": "10:00-12:00",
-      "status": "pendente",
-      "fonte": "OFERTA",
+      "status": "postado",
+      "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-11T14:58:53.875Z"
     },
     {
       "posicao": 13,
       "id": "wa-1201-12",
       "titulo": "Kit Relógio Feminino Champion Dourado Analógico CN27652W Pulseira em Aço Inoxidável Prova D´Agua 50 Metros + Colar e Brincos Presente Perfeito",
-      "preco": "R$ 222",
+      "preco": "R$ 177,60",
       "precoOriginal": "R$399",
       "desconto": "44% OFF no Pix",
-      "cupom": "OFERTASML",
+      "cupom": "VOCEMELIMAIS",
       "link": "https://meli.la/2zqoQZi",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_667948-MLU77405351931_072024-V.webp",
       "horarioProgramado": "12:01",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-11T15:01:59.548Z"
     },
     {
       "posicao": 14,
