@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-11T16:03:34.966Z",
-  "exportedAt": "11/05/2026, 13:03:34",
+  "lastExport": "2026-05-11T16:06:34.286Z",
+  "exportedAt": "11/05/2026, 13:06:34",
   "total": 72,
-  "pendentes": 53,
-  "postados": 19,
+  "pendentes": 52,
+  "postados": 20,
   "queue": [
     {
       "posicao": 1,
@@ -332,18 +332,18 @@
       "posicao": 20,
       "id": "wa-1306-19",
       "titulo": "Cadeira Gamer Wells Preta Healer Preto Couro Sintético",
-      "preco": "R$ 440",
+      "preco": "R$ 360,00",
       "precoOriginal": "R$755,45",
       "desconto": "41% OFF no Pix",
-      "cupom": "MELIPROMOS",
+      "cupom": "VOCEMELIMAIS",
       "link": "https://meli.la/1hYTf2E",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_859282-MLA105409191484_012026-AB.webp",
       "horarioProgramado": "13:06",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-11T16:06:27.696Z"
     },
     {
       "posicao": 21,
