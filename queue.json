@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-12T22:57:09.582Z",
-  "exportedAt": "12/05/2026, 19:57:09",
+  "lastExport": "2026-05-12T23:03:25.640Z",
+  "exportedAt": "12/05/2026, 20:03:25",
   "total": 72,
-  "pendentes": 16,
-  "postados": 56,
+  "pendentes": 15,
+  "postados": 57,
   "queue": [
     {
       "posicao": 1,
@@ -969,10 +969,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_645139-MLB110495977695_042026-AB-mochila-viagem-feminina-masculina-para-notebook-executiva.webp",
       "horarioProgramado": "20:00",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-12T23:00:25.635Z"
     },
     {
       "posicao": 58,
