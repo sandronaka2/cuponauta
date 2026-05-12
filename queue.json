@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-12T15:07:07.598Z",
-  "exportedAt": "12/05/2026, 12:07:07",
+  "lastExport": "2026-05-12T15:15:09.345Z",
+  "exportedAt": "12/05/2026, 12:15:09",
   "total": 72,
-  "pendentes": 59,
-  "postados": 13,
+  "pendentes": 58,
+  "postados": 14,
   "queue": [
     {
       "posicao": 1,
@@ -238,10 +238,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_781495-MLB105499678831_012026-AB-kit-5-cuecas-boxer-lisas-voker-original.webp",
       "horarioProgramado": "12:11",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-12T15:11:48.454Z"
     },
     {
       "posicao": 15,
