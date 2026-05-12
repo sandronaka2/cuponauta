@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-12T17:57:09.227Z",
-  "exportedAt": "12/05/2026, 14:57:09",
+  "lastExport": "2026-05-12T18:03:20.759Z",
+  "exportedAt": "12/05/2026, 15:03:20",
   "total": 72,
-  "pendentes": 42,
-  "postados": 30,
+  "pendentes": 41,
+  "postados": 31,
   "queue": [
     {
       "posicao": 1,
@@ -527,10 +527,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_693075-MLB97095351791_112025-AB-kit-colcha-super-king-3pc-cobre-leito-150-fios-liso-matelado.webp",
       "horarioProgramado": "15:02",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-12T18:02:17.811Z"
     },
     {
       "posicao": 32,
