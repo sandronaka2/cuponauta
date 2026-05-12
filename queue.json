@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-12T19:37:09.350Z",
-  "exportedAt": "12/05/2026, 16:37:09",
+  "lastExport": "2026-05-12T19:46:03.514Z",
+  "exportedAt": "12/05/2026, 16:46:03",
   "total": 72,
-  "pendentes": 36,
-  "postados": 36,
+  "pendentes": 35,
+  "postados": 37,
   "queue": [
     {
       "posicao": 1,
@@ -629,10 +629,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_808530-MLB99370250446_112025-AB-vestido-longo-feminino-viscose-moda-frete-gratis.webp",
       "horarioProgramado": "16:38",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-12T19:38:49.835Z"
     },
     {
       "posicao": 38,
