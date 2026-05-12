@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-12T21:47:09.506Z",
-  "exportedAt": "12/05/2026, 18:47:09",
+  "lastExport": "2026-05-12T21:56:03.547Z",
+  "exportedAt": "12/05/2026, 18:56:03",
   "total": 72,
-  "pendentes": 24,
-  "postados": 48,
+  "pendentes": 23,
+  "postados": 49,
   "queue": [
     {
       "posicao": 1,
@@ -833,10 +833,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_906506-MLB109961520833_042026-AB-kit-6-pares-meias-puma-de-cano-medio-sport-original-algodo.webp",
       "horarioProgramado": "18:51",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-12T21:51:52.938Z"
     },
     {
       "posicao": 50,
