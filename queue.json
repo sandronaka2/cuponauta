@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-12T00:31:12.838Z",
-  "exportedAt": "11/05/2026, 21:31:12",
+  "lastExport": "2026-05-12T00:37:06.837Z",
+  "exportedAt": "11/05/2026, 21:37:06",
   "total": 72,
-  "pendentes": 4,
-  "postados": 68,
+  "pendentes": 3,
+  "postados": 69,
   "queue": [
     {
       "posicao": 1,
@@ -1173,10 +1173,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_983614-MLB96851712438_112025-AB-casaco-feminino-parka-de-sarja-forrado-pelucia-moda-inverno.webp",
       "horarioProgramado": "21:32",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-12T00:32:22.931Z"
     },
     {
       "posicao": 70,
