@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-12T21:07:09.499Z",
-  "exportedAt": "12/05/2026, 18:07:09",
+  "lastExport": "2026-05-12T21:15:17.314Z",
+  "exportedAt": "12/05/2026, 18:15:17",
   "total": 72,
-  "pendentes": 29,
-  "postados": 43,
+  "pendentes": 28,
+  "postados": 44,
   "queue": [
     {
       "posicao": 1,
@@ -748,10 +748,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_642175-MLB106427151147_022026-AB-calca-cargo-jogger-jeans-feminina-cintura-alta-com-lycra.webp",
       "horarioProgramado": "18:09",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-12T21:09:46.806Z"
     },
     {
       "posicao": 45,
