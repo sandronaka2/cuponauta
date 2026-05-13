@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-13T23:21:20.619Z",
-  "exportedAt": "13/05/2026, 20:21:20",
+  "lastExport": "2026-05-13T23:31:19.209Z",
+  "exportedAt": "13/05/2026, 20:31:19",
   "total": 72,
-  "pendentes": 15,
-  "postados": 57,
+  "pendentes": 14,
+  "postados": 58,
   "queue": [
     {
       "posicao": 1,
@@ -1012,18 +1012,18 @@
       "posicao": 60,
       "id": "wa-2026-59",
       "titulo": "Notebook Acer Vero Av15-53p-56hm Intel® Core I5  1335u 15.6 Full Hd Intel® Iris® Xe 512 Gb Ssd 8 Gb Ram Windows 11 Home Verde",
-      "preco": "R$ 3141,60",
+      "preco": "R$ 3.696",
       "precoOriginal": "R$4.511",
       "desconto": "18% OFF",
-      "cupom": "ELUX15OFF",
+      "cupom": null,
       "link": "https://meli.la/2wh58pP",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_735174-MLA99551684478_122025-AB.webp",
       "horarioProgramado": "20:26",
       "janela": "18:00-21:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-13T23:26:47.268Z"
     },
     {
       "posicao": 61,
