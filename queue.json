@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-13T21:17:13.028Z",
-  "exportedAt": "13/05/2026, 18:17:13",
+  "lastExport": "2026-05-13T21:19:40.106Z",
+  "exportedAt": "13/05/2026, 18:19:40",
   "total": 72,
-  "pendentes": 28,
-  "postados": 44,
+  "pendentes": 27,
+  "postados": 45,
   "queue": [
     {
       "posicao": 1,
@@ -757,18 +757,18 @@
       "posicao": 45,
       "id": "wa-1818-44",
       "titulo": "Caixa De Som Jbl Boombox 4 Bluetooth Portátil 210w Bivolt Azul",
-      "preco": "R$ 2124,15",
+      "preco": "R$ 2.499",
       "precoOriginal": "R$3.421",
       "desconto": "26% OFF",
-      "cupom": "ELUX15OFF",
+      "cupom": null,
       "link": "https://meli.la/1uZDm3E",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_674627-MLA100016786223_122025-AB.webp",
       "horarioProgramado": "18:18",
       "janela": "18:00-21:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-13T21:18:27.470Z"
     },
     {
       "posicao": 46,
