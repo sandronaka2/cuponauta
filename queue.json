@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-13T15:25:44.643Z",
-  "exportedAt": "13/05/2026, 12:25:44",
+  "lastExport": "2026-05-13T15:27:10.957Z",
+  "exportedAt": "13/05/2026, 12:27:10",
   "total": 72,
-  "pendentes": 57,
-  "postados": 15,
+  "pendentes": 56,
+  "postados": 16,
   "queue": [
     {
       "posicao": 1,
@@ -272,10 +272,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_983168-MLB89037865907_072025-AB-pulseira-para-samsung-galaxy-watch-7-40mm-44mm-fe-6-5-4.webp",
       "horarioProgramado": "12:26",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-13T15:26:55.744Z"
     },
     {
       "posicao": 17,
