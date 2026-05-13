@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-13T21:47:13.206Z",
-  "exportedAt": "13/05/2026, 18:47:13",
+  "lastExport": "2026-05-13T23:06:20.447Z",
+  "exportedAt": "13/05/2026, 20:06:20",
   "total": 72,
-  "pendentes": 24,
-  "postados": 48,
+  "pendentes": 17,
+  "postados": 55,
   "queue": [
     {
       "posicao": 1,
@@ -833,10 +833,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_868396-MLA100104373471_122025-AB.webp",
       "horarioProgramado": "18:52",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-13T21:52:29.078Z"
     },
     {
       "posicao": 50,
@@ -850,61 +850,61 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_742882-MLB76454647572_052024-AB-salva-oculos-cordo-segura-boho-cordinha-praia-kit-5-unid.webp",
       "horarioProgramado": "19:01",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-13T22:01:43.622Z"
     },
     {
       "posicao": 51,
       "id": "wa-1909-50",
       "titulo": "Colchão Emma Queen - Tecnologia Alemã Cor Branco/cinza",
-      "preco": "R$ 2209,15",
+      "preco": "R$ 2.599",
       "precoOriginal": "R$5.909",
       "desconto": "56% OFF",
-      "cupom": "ELUX15OFF",
+      "cupom": null,
       "link": "https://meli.la/1L8MUCJ",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_734791-MLA107665706897_022026-AB.webp",
       "horarioProgramado": "19:09",
       "janela": "18:00-21:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-13T22:09:46.195Z"
     },
     {
       "posicao": 52,
       "id": "wa-1918-51",
       "titulo": "Python Fly Cadeira Gamer Estilo Futebol Com Apoio Lombar E Cabeça Couro Sintético",
-      "preco": "R$ 849,15",
+      "preco": "R$ 999",
       "precoOriginal": "R$1.448",
       "desconto": "31% OFF",
-      "cupom": "ELUX15OFF",
+      "cupom": null,
       "link": "https://meli.la/1eURdLp",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_941445-MLA110256601359_042026-AB.webp",
       "horarioProgramado": "19:18",
       "janela": "18:00-21:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-13T22:18:24.195Z"
     },
     {
       "posicao": 53,
       "id": "wa-1927-52",
       "titulo": "Cooktop Anafe 5 Bocas Mueller Branco Com Queimador Tripla Chama 127/220v",
-      "preco": "R$ 530,40",
+      "preco": "R$ 624",
       "precoOriginal": "R$869",
       "desconto": "28% OFF no Pix",
-      "cupom": "ELUX15OFF",
+      "cupom": null,
       "link": "https://meli.la/2LvMeKf",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_777480-MLA99445788658_112025-AB.webp",
       "horarioProgramado": "19:27",
       "janela": "18:00-21:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-13T22:27:37.220Z"
     },
     {
       "posicao": 54,
@@ -918,10 +918,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_992937-MLB109516316750_042026-AB.webp",
       "horarioProgramado": "19:35",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-13T22:35:12.422Z"
     },
     {
       "posicao": 55,
@@ -935,10 +935,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_805733-MLB105255737899_012026-AB-tenis-casual-beira-rio-conforto-lancamento-original.webp",
       "horarioProgramado": "19:44",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-13T22:44:50.206Z"
     },
     {
       "posicao": 56,
