@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-13T12:47:11.525Z",
-  "exportedAt": "13/05/2026, 09:47:11",
+  "lastExport": "2026-05-13T12:56:22.683Z",
+  "exportedAt": "13/05/2026, 09:56:22",
   "total": 72,
-  "pendentes": 69,
-  "postados": 3,
+  "pendentes": 68,
+  "postados": 4,
   "queue": [
     {
       "posicao": 1,
@@ -68,10 +68,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_624544-MLB106133061374_022026-AB-camisa-feminina-bordada-strass-plus-size-manu-ellas.webp",
       "horarioProgramado": "09:55",
       "janela": "09:00-10:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-13T12:55:51.502Z"
     },
     {
       "posicao": 5,
