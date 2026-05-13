@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-13T00:37:09.772Z",
-  "exportedAt": "12/05/2026, 21:37:09",
+  "lastExport": "2026-05-13T00:46:03.923Z",
+  "exportedAt": "12/05/2026, 21:46:03",
   "total": 72,
-  "pendentes": 3,
-  "postados": 69,
+  "pendentes": 2,
+  "postados": 70,
   "queue": [
     {
       "posicao": 1,
@@ -1190,10 +1190,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_612316-MLB77795668835_072024-AB-cobertor-coberta-manta-ultrasoft-fluffy-queen-240m-x220m.webp",
       "horarioProgramado": "21:39",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-13T00:39:45.124Z"
     },
     {
       "posicao": 71,
