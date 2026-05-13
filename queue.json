@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-13T21:00:13.674Z",
-  "exportedAt": "13/05/2026, 18:00:13",
+  "lastExport": "2026-05-13T21:07:13.211Z",
+  "exportedAt": "13/05/2026, 18:07:13",
   "total": 72,
-  "pendentes": 30,
-  "postados": 42,
+  "pendentes": 29,
+  "postados": 43,
   "queue": [
     {
       "posicao": 1,
@@ -723,18 +723,18 @@
       "posicao": 43,
       "id": "wa-1801-42",
       "titulo": "Smartwatch Haylou Solar Ultra Ls23 Solar Ultra 1.6 Chamadas Bluetooth Cor Preto",
-      "preco": "R$ 273,70",
+      "preco": "R$ 322",
       "precoOriginal": "R$339,99",
       "desconto": "5% OFF",
-      "cupom": "ELUX15OFF",
+      "cupom": null,
       "link": "https://meli.la/1veGXoq",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_983980-MLA99937063901_112025-AB.webp",
       "horarioProgramado": "18:01",
       "janela": "18:00-21:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-13T21:01:14.239Z"
     },
     {
       "posicao": 44,
