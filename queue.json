@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-13T15:37:11.086Z",
-  "exportedAt": "13/05/2026, 12:37:11",
+  "lastExport": "2026-05-13T15:46:26.539Z",
+  "exportedAt": "13/05/2026, 12:46:26",
   "total": 72,
-  "pendentes": 56,
-  "postados": 16,
+  "pendentes": 54,
+  "postados": 18,
   "queue": [
     {
       "posicao": 1,
@@ -289,10 +289,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_974150-MLA105600164524_012026-AB.webp",
       "horarioProgramado": "12:37",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-13T15:37:57.529Z"
     },
     {
       "posicao": 18,
@@ -306,10 +306,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_732638-MLB107431006689_022026-AB-casaco-sobretudo-feminino-alongado-preto-caramelo-azul-verm.webp",
       "horarioProgramado": "12:45",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-13T15:45:38.963Z"
     },
     {
       "posicao": 19,
