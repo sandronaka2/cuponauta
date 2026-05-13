@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-13T14:25:46.772Z",
-  "exportedAt": "13/05/2026, 11:25:46",
+  "lastExport": "2026-05-13T14:27:11.664Z",
+  "exportedAt": "13/05/2026, 11:27:11",
   "total": 72,
-  "pendentes": 63,
-  "postados": 9,
+  "pendentes": 62,
+  "postados": 10,
   "queue": [
     {
       "posicao": 1,
@@ -170,10 +170,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_950321-MLB80980407740_122024-V-chapeu-pralana-cross-coton-com-aba-de-12-cm-country-unissex.webp",
       "horarioProgramado": "11:26",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-13T14:26:32.465Z"
     },
     {
       "posicao": 11,
