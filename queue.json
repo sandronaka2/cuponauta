@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-13T21:36:21.291Z",
-  "exportedAt": "13/05/2026, 18:36:21",
+  "lastExport": "2026-05-13T21:36:38.374Z",
+  "exportedAt": "13/05/2026, 18:36:38",
   "total": 72,
-  "pendentes": 26,
-  "postados": 46,
+  "pendentes": 25,
+  "postados": 47,
   "queue": [
     {
       "posicao": 1,
@@ -791,18 +791,18 @@
       "posicao": 47,
       "id": "wa-1836-46",
       "titulo": "Melissa Cross M-lover Platform",
-      "preco": "R$ 204,00",
+      "preco": "R$ 240",
       "precoOriginal": "R$279",
       "desconto": "13% OFF",
-      "cupom": "ELUX15OFF",
+      "cupom": null,
       "link": "https://meli.la/2ht1V3h",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_928515-MLB85612220884_062025-AB-melissa-cross-m-lover-platform.webp",
       "horarioProgramado": "18:36",
       "janela": "18:00-21:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-13T21:36:28.201Z"
     },
     {
       "posicao": 48,
