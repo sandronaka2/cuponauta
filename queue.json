@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-14T21:50:33.541Z",
-  "exportedAt": "14/05/2026, 18:50:33",
+  "lastExport": "2026-05-14T21:52:50.061Z",
+  "exportedAt": "14/05/2026, 18:52:50",
   "total": 72,
-  "pendentes": 26,
-  "postados": 46,
+  "pendentes": 25,
+  "postados": 47,
   "queue": [
     {
       "posicao": 1,
@@ -833,10 +833,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_641086-MLB100970202889_122025-AB-cabo-de-rede-cat-5e-cca-aluminio-acobreado-caixa-com-305m.webp",
       "horarioProgramado": "18:50",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-14T21:50:40.538Z"
     },
     {
       "posicao": 50,
