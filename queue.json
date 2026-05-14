@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-14T13:43:28.174Z",
-  "exportedAt": "14/05/2026, 10:43:28",
+  "lastExport": "2026-05-14T13:53:01.627Z",
+  "exportedAt": "14/05/2026, 10:53:01",
   "total": 72,
-  "pendentes": 66,
-  "postados": 6,
+  "pendentes": 65,
+  "postados": 7,
   "queue": [
     {
       "posicao": 1,
@@ -136,10 +136,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_898555-MLB107514274969_022026-AB-conjunto-legging-top-canelado-fitness-feminino-academia.webp",
       "horarioProgramado": "10:51",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-14T13:51:14.132Z"
     },
     {
       "posicao": 9,
