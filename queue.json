@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-14T14:25:29.596Z",
-  "exportedAt": "14/05/2026, 11:25:29",
+  "lastExport": "2026-05-14T14:35:38.780Z",
+  "exportedAt": "14/05/2026, 11:35:38",
   "total": 72,
-  "pendentes": 64,
-  "postados": 8,
+  "pendentes": 63,
+  "postados": 9,
   "queue": [
     {
       "posicao": 1,
@@ -170,10 +170,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_904012-MLB84529988579_052025-AB-kit-2-pares-tnis-feminino-olimp-caminhada-original-vili.webp",
       "horarioProgramado": "11:28",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-14T14:28:26.314Z"
     },
     {
       "posicao": 11,
