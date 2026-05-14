@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-14T20:56:46.346Z",
-  "exportedAt": "14/05/2026, 17:56:46",
+  "lastExport": "2026-05-14T21:06:55.967Z",
+  "exportedAt": "14/05/2026, 18:06:55",
   "total": 72,
-  "pendentes": 33,
-  "postados": 39,
+  "pendentes": 31,
+  "postados": 41,
   "queue": [
     {
       "posicao": 1,
@@ -714,10 +714,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_885444-MLB106498247103_022026-AB-conjunto-feminino-calca-jogger-forrada-blusa-plus-size-basic.webp",
       "horarioProgramado": "17:58",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-14T20:58:12.433Z"
     },
     {
       "posicao": 43,
@@ -731,10 +731,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_973400-MLA109846476288_042026-AB.webp",
       "horarioProgramado": "18:01",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-14T21:01:36.530Z"
     },
     {
       "posicao": 44,
