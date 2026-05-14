@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-14T00:56:01.606Z",
-  "exportedAt": "13/05/2026, 21:56:01",
+  "lastExport": "2026-05-14T01:01:10.315Z",
+  "exportedAt": "13/05/2026, 22:01:10",
   "total": 72,
-  "pendentes": 3,
-  "postados": 69,
+  "pendentes": 2,
+  "postados": 70,
   "queue": [
     {
       "posicao": 1,
@@ -1216,18 +1216,18 @@
       "posicao": 72,
       "id": "wa-2158-71",
       "titulo": "Console Playstation® 5 Slim Edição Digital 825 Gb Branco - Sony",
-      "preco": "R$ 3145,00",
+      "preco": "R$ 3.700",
       "precoOriginal": "R$4.890",
       "desconto": "24% OFF no Pix",
-      "cupom": "ELUX15OFF",
+      "cupom": null,
       "link": "https://meli.la/2vESg4H",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_756435-MLA95500672926_102025-AB.webp",
       "horarioProgramado": "21:58",
       "janela": "21:00-22:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-14T00:58:49.227Z"
     }
   ]
 }
