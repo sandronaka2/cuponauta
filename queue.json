@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-14T00:09:29.842Z",
-  "exportedAt": "13/05/2026, 21:09:29",
+  "lastExport": "2026-05-14T00:14:12.882Z",
+  "exportedAt": "13/05/2026, 21:14:12",
   "total": 72,
-  "pendentes": 9,
-  "postados": 63,
+  "pendentes": 8,
+  "postados": 64,
   "queue": [
     {
       "posicao": 1,
@@ -1122,10 +1122,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_956266-MLB97092562948_112025-AB-vestido-infantil-tematico-minnie-pink-festa-luxo-e-tiara.webp",
       "horarioProgramado": "21:11",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-14T00:11:22.724Z"
     },
     {
       "posicao": 67,
