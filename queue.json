@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-14T16:48:14.270Z",
-  "exportedAt": "14/05/2026, 13:48:14",
+  "lastExport": "2026-05-14T16:59:24.527Z",
+  "exportedAt": "14/05/2026, 13:59:24",
   "total": 72,
-  "pendentes": 50,
-  "postados": 22,
+  "pendentes": 48,
+  "postados": 24,
   "queue": [
     {
       "posicao": 1,
@@ -425,10 +425,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_987510-MLB107445095247_022026-AB-colete-social-masculino-cregulagem-executivo-pronta-entrega.webp",
       "horarioProgramado": "13:51",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-14T16:51:52.930Z"
     },
     {
       "posicao": 26,
@@ -442,10 +442,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_950909-MLB101233271448_122025-AB.webp",
       "horarioProgramado": "13:58",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-14T16:58:31.568Z"
     },
     {
       "posicao": 27,
