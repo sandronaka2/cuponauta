@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-14T00:14:50.122Z",
-  "exportedAt": "13/05/2026, 21:14:50",
+  "lastExport": "2026-05-14T00:24:39.635Z",
+  "exportedAt": "13/05/2026, 21:24:39",
   "total": 72,
-  "pendentes": 8,
-  "postados": 64,
+  "pendentes": 7,
+  "postados": 65,
   "queue": [
     {
       "posicao": 1,
@@ -1131,18 +1131,18 @@
       "posicao": 67,
       "id": "wa-2118-66",
       "titulo": "Perfume Carolina Herrera 212 Vip Rosé Eau De Parfum 125ml Feminino",
-      "preco": "R$ 594,15",
+      "preco": "R$ 699",
       "precoOriginal": "R$1.028",
       "desconto": "32% OFF",
-      "cupom": "ELUX15OFF",
+      "cupom": null,
       "link": "https://meli.la/1tEZ8aw",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_958247-MLA87096599851_072025-AB.webp",
       "horarioProgramado": "21:18",
       "janela": "21:00-22:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-14T00:18:44.509Z"
     },
     {
       "posicao": 68,
