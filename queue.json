@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-15T22:32:58.565Z",
-  "exportedAt": "15/05/2026, 19:32:58",
+  "lastExport": "2026-05-15T22:36:54.529Z",
+  "exportedAt": "15/05/2026, 19:36:54",
   "total": 72,
-  "pendentes": 24,
-  "postados": 48,
+  "pendentes": 23,
+  "postados": 49,
   "queue": [
     {
       "posicao": 1,
@@ -918,10 +918,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_744012-MLB96453952929_102025-AB-kit6-jogo-americano-oferta-roupa-de-mesa-e-sousplats-facil.webp",
       "horarioProgramado": "19:33",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-15T22:33:42.325Z"
     },
     {
       "posicao": 55,
