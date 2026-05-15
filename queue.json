@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-15T22:06:45.237Z",
-  "exportedAt": "15/05/2026, 19:06:45",
+  "lastExport": "2026-05-15T22:12:24.525Z",
+  "exportedAt": "15/05/2026, 19:12:24",
   "total": 72,
-  "pendentes": 27,
-  "postados": 45,
+  "pendentes": 26,
+  "postados": 46,
   "queue": [
     {
       "posicao": 1,
@@ -859,18 +859,18 @@
       "posicao": 51,
       "id": "wa-1908-50",
       "titulo": "Kit 3 Calças Country Masculina Tradicional Elastano Rodeio",
-      "preco": "R$ 147,60",
+      "preco": "R$ 180",
       "precoOriginal": "R$288,96",
       "desconto": "37% OFF no Pix",
-      "cupom": "SUPERPROMO",
+      "cupom": null,
       "link": "https://meli.la/2U5pqsK",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_974532-MLB80162061905_102024-AB-kit-3-calcas-country-masculina-tradicional-elastano-rodeio.webp",
       "horarioProgramado": "19:08",
       "janela": "18:00-21:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-15T22:08:19.820Z"
     },
     {
       "posicao": 52,
