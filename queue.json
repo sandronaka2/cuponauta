@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-15T21:15:13.336Z",
-  "exportedAt": "15/05/2026, 18:15:13",
+  "lastExport": "2026-05-15T21:17:46.580Z",
+  "exportedAt": "15/05/2026, 18:17:46",
   "total": 72,
-  "pendentes": 33,
-  "postados": 39,
+  "pendentes": 32,
+  "postados": 40,
   "queue": [
     {
       "posicao": 1,
@@ -757,18 +757,18 @@
       "posicao": 45,
       "id": "wa-1816-44",
       "titulo": "Fogão Cooktop Com Alimentação Gás - Consul Cd060be Cor Preto - 4 Queimadores 127/220v",
-      "preco": "R$ 326,36",
+      "preco": "R$ 398",
       "precoOriginal": "R$789",
       "desconto": "49% OFF no Pix",
-      "cupom": "SUPERPROMO",
+      "cupom": null,
       "link": "https://meli.la/1pKE3gW",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_624905-MLA92506995990_092025-AB.webp",
       "horarioProgramado": "18:16",
       "janela": "18:00-21:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-15T21:16:42.807Z"
     },
     {
       "posicao": 46,
