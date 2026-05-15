@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-15T15:18:48.011Z",
-  "exportedAt": "15/05/2026, 12:18:48",
+  "lastExport": "2026-05-15T15:27:24.666Z",
+  "exportedAt": "15/05/2026, 12:27:24",
   "total": 72,
-  "pendentes": 62,
-  "postados": 10,
+  "pendentes": 61,
+  "postados": 11,
   "queue": [
     {
       "posicao": 1,
@@ -255,10 +255,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_705464-MLB87747452021_072025-AB-pulseira-para-xiaomi-mi-band-10-9-8-smartwatch-trail-loop.webp",
       "horarioProgramado": "12:21",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-15T15:21:10.878Z"
     },
     {
       "posicao": 16,
