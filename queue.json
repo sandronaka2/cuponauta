@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-15T17:27:24.649Z",
-  "exportedAt": "15/05/2026, 14:27:24",
+  "lastExport": "2026-05-15T17:35:30.058Z",
+  "exportedAt": "15/05/2026, 14:35:30",
   "total": 72,
-  "pendentes": 48,
-  "postados": 24,
+  "pendentes": 47,
+  "postados": 25,
   "queue": [
     {
       "posicao": 1,
@@ -485,18 +485,18 @@
       "posicao": 29,
       "id": "wa-1432-28",
       "titulo": "Kit 10 Lâmpadas Led 40w Bulbo E27 6500k Branco Frio Bivolt 127/220v Branco-frio",
-      "preco": "R$ 131,20",
+      "preco": "R$ 160",
       "precoOriginal": "R$264,90",
       "desconto": "39% OFF",
-      "cupom": "SUPERPROMO",
+      "cupom": null,
       "link": "https://meli.la/18EP1PD",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_647985-MLB93964541745_102025-AB.webp",
       "horarioProgramado": "14:32",
       "janela": "14:00-18:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-15T17:32:27.198Z"
     },
     {
       "posicao": 30,
