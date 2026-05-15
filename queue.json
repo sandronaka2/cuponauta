@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-15T16:39:19.267Z",
-  "exportedAt": "15/05/2026, 13:39:19",
+  "lastExport": "2026-05-15T16:47:24.617Z",
+  "exportedAt": "15/05/2026, 13:47:24",
   "total": 72,
-  "pendentes": 53,
-  "postados": 19,
+  "pendentes": 52,
+  "postados": 20,
   "queue": [
     {
       "posicao": 1,
@@ -400,18 +400,18 @@
       "posicao": 24,
       "id": "wa-1343-23",
       "titulo": "Camiseta Oversized Streetwear Algodão Blusão Treino E Casual",
-      "preco": "R$ 39,36",
+      "preco": "R$ 48",
       "precoOriginal": "R$69,90",
       "desconto": "31% OFF",
-      "cupom": "SUPERPROMO",
+      "cupom": null,
       "link": "https://meli.la/1YRY799",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_846510-MLB94496220415_102025-AB-camiseta-oversized-streetwear-algodo-bluso-treino-e-casual.webp",
       "horarioProgramado": "13:43",
       "janela": "12:00-14:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-15T16:43:52.214Z"
     },
     {
       "posicao": 25,
