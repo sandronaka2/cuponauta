@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-15T21:23:44.219Z",
-  "exportedAt": "15/05/2026, 18:23:44",
+  "lastExport": "2026-05-15T21:32:24.392Z",
+  "exportedAt": "15/05/2026, 18:32:24",
   "total": 72,
-  "pendentes": 32,
-  "postados": 40,
+  "pendentes": 31,
+  "postados": 41,
   "queue": [
     {
       "posicao": 1,
@@ -774,18 +774,18 @@
       "posicao": 46,
       "id": "wa-1826-45",
       "titulo": "Cera De Bigode Barba Modeladora Barba Robusta 120g",
-      "preco": "R$ 34,44",
+      "preco": "R$ 42",
       "precoOriginal": "R$60",
       "desconto": "28% OFF",
-      "cupom": "SUPERPROMO",
+      "cupom": null,
       "link": "https://meli.la/1Gvoybv",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_726205-MLB111041226605_042026-AB.webp",
       "horarioProgramado": "18:26",
       "janela": "18:00-21:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-15T21:26:16.828Z"
     },
     {
       "posicao": 47,
