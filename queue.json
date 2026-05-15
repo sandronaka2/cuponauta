@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-15T15:37:24.781Z",
-  "exportedAt": "15/05/2026, 12:37:24",
+  "lastExport": "2026-05-15T15:43:28.578Z",
+  "exportedAt": "15/05/2026, 12:43:28",
   "total": 72,
-  "pendentes": 60,
-  "postados": 12,
+  "pendentes": 59,
+  "postados": 13,
   "queue": [
     {
       "posicao": 1,
@@ -281,18 +281,18 @@
       "posicao": 17,
       "id": "wa-1239-16",
       "titulo": "Tapete Capacho 100x60 Personalizado Loja Comércio 1 M 60 Cm",
-      "preco": "R$ 58,22",
+      "preco": "R$ 71",
       "precoOriginal": "R$94",
       "desconto": "24% OFF no Pix",
-      "cupom": "SUPERPROMO",
+      "cupom": null,
       "link": "https://meli.la/1GQo9hA",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_662604-MLB69438837359_052023-AB.webp",
       "horarioProgramado": "12:39",
       "janela": "12:00-14:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-15T15:39:39.183Z"
     },
     {
       "posicao": 18,
