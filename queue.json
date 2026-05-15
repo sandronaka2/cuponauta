@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-15T22:58:15.200Z",
-  "exportedAt": "15/05/2026, 19:58:15",
+  "lastExport": "2026-05-15T23:00:32.612Z",
+  "exportedAt": "15/05/2026, 20:00:32",
   "total": 72,
-  "pendentes": 21,
-  "postados": 51,
+  "pendentes": 20,
+  "postados": 52,
   "queue": [
     {
       "posicao": 1,
@@ -961,18 +961,18 @@
       "posicao": 57,
       "id": "wa-1958-56",
       "titulo": "Tênis Esportivo Masculino Voa 2 Olympikus Lunmho Lisa 40 Br",
-      "preco": "R$ 180,40",
+      "preco": "R$ 220",
       "precoOriginal": "R$329,99",
       "desconto": "33% OFF no Pix",
-      "cupom": "SUPERPROMO",
+      "cupom": null,
       "link": "https://meli.la/2DQmAhE",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_758819-MLB82785016095_022025-AB.webp",
       "horarioProgramado": "19:58",
       "janela": "18:00-21:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-15T22:58:51.813Z"
     },
     {
       "posicao": 58,
