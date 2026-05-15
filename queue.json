@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-15T14:58:57.497Z",
-  "exportedAt": "15/05/2026, 11:58:57",
+  "lastExport": "2026-05-15T15:05:30.128Z",
+  "exportedAt": "15/05/2026, 12:05:30",
   "total": 72,
-  "pendentes": 64,
-  "postados": 8,
+  "pendentes": 63,
+  "postados": 9,
   "queue": [
     {
       "posicao": 1,
@@ -213,18 +213,18 @@
       "posicao": 13,
       "id": "wa-1203-12",
       "titulo": "Top Esportivo Max Lupo Up Sustentação Sem Costura Original",
-      "preco": "R$ 93,48",
+      "preco": "R$ 114",
       "precoOriginal": "R$179",
       "desconto": "35% OFF no Pix",
-      "cupom": "SUPERPROMO",
+      "cupom": null,
       "link": "https://meli.la/2ZLHpG6",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_934373-MLB99151547794_112025-AB-top-esportivo-max-lupo-up-sustentaco-sem-costura-original.webp",
       "horarioProgramado": "12:03",
       "janela": "12:00-14:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-15T15:03:44.193Z"
     },
     {
       "posicao": 14,
