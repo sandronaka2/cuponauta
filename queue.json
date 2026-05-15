@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-15T21:06:43.368Z",
-  "exportedAt": "15/05/2026, 18:06:43",
+  "lastExport": "2026-05-15T21:12:24.172Z",
+  "exportedAt": "15/05/2026, 18:12:24",
   "total": 72,
-  "pendentes": 34,
-  "postados": 38,
+  "pendentes": 33,
+  "postados": 39,
   "queue": [
     {
       "posicao": 1,
@@ -740,18 +740,18 @@
       "posicao": 44,
       "id": "wa-1808-43",
       "titulo": "Cinta Modeladora Feminina Com Barbatana Redutora Cintura 750",
-      "preco": "R$ 92,66",
+      "preco": "R$ 113",
       "precoOriginal": "R$179,90",
       "desconto": "37% OFF no Pix",
-      "cupom": "SUPERPROMO",
+      "cupom": null,
       "link": "https://meli.la/1GJB6hb",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_614488-MLB78069018446_082024-AB-cinta-modeladora-feminina-com-barbatana-redutora-cintura-750.webp",
       "horarioProgramado": "18:08",
       "janela": "18:00-21:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-15T21:08:33.801Z"
     },
     {
       "posicao": 45,
