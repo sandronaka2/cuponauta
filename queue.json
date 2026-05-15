@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-15T18:05:52.710Z",
-  "exportedAt": "15/05/2026, 15:05:52",
+  "lastExport": "2026-05-15T18:06:19.716Z",
+  "exportedAt": "15/05/2026, 15:06:19",
   "total": 72,
-  "pendentes": 46,
-  "postados": 26,
+  "pendentes": 45,
+  "postados": 27,
   "queue": [
     {
       "posicao": 1,
@@ -519,18 +519,18 @@
       "posicao": 31,
       "id": "wa-1506-30",
       "titulo": "Mop Nybc Mop Giratório Plus Com Balde Centrífuga Cinza",
-      "preco": "R$ 108,24",
+      "preco": "R$ 132",
       "precoOriginal": "R$174,55",
       "desconto": "24% OFF",
-      "cupom": "SUPERPROMO",
+      "cupom": null,
       "link": "https://meli.la/1CseUGD",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_945246-MLA99435838876_112025-AB.webp",
       "horarioProgramado": "15:06",
       "janela": "14:00-18:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-15T18:06:15.189Z"
     },
     {
       "posicao": 32,
