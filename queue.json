@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-15T21:57:40.057Z",
-  "exportedAt": "15/05/2026, 18:57:40",
+  "lastExport": "2026-05-15T22:02:24.948Z",
+  "exportedAt": "15/05/2026, 19:02:24",
   "total": 72,
-  "pendentes": 28,
-  "postados": 44,
+  "pendentes": 27,
+  "postados": 45,
   "queue": [
     {
       "posicao": 1,
@@ -842,18 +842,18 @@
       "posicao": 50,
       "id": "wa-1858-49",
       "titulo": "Vestido Festa Infantil De Tule High Low Com Flores E Renda",
-      "preco": "R$ 122,18",
+      "preco": "R$ 149",
       "precoOriginal": "R$259,90",
       "desconto": "42% OFF",
-      "cupom": "SUPERPROMO",
+      "cupom": null,
       "link": "https://meli.la/1QKNt8h",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_688310-MLB97184227034_112025-AB-vestido-festa-infantil-de-tule-high-low-com-flores-e-renda.webp",
       "horarioProgramado": "18:58",
       "janela": "18:00-21:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-15T21:58:38.839Z"
     },
     {
       "posicao": 51,
