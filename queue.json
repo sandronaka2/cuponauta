@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-15T22:22:58.539Z",
-  "exportedAt": "15/05/2026, 19:22:58",
+  "lastExport": "2026-05-15T22:26:20.826Z",
+  "exportedAt": "15/05/2026, 19:26:20",
   "total": 72,
-  "pendentes": 25,
-  "postados": 47,
+  "pendentes": 24,
+  "postados": 48,
   "queue": [
     {
       "posicao": 1,
@@ -893,18 +893,18 @@
       "posicao": 53,
       "id": "wa-1925-52",
       "titulo": "Barberpro Íntimos Aparador De Pelos A Prova Dágua Pro Max Preto 127/220v",
-      "preco": "R$ 146,78",
+      "preco": "R$ 179",
       "precoOriginal": "R$410",
       "desconto": "56% OFF",
-      "cupom": "SUPERPROMO",
+      "cupom": null,
       "link": "https://meli.la/1Hf3UFb",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_735776-MLB92289513296_092025-AB.webp",
       "horarioProgramado": "19:25",
       "janela": "18:00-21:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-15T22:25:51.804Z"
     },
     {
       "posicao": 54,
