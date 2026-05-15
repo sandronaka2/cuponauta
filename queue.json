@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-15T18:37:25.838Z",
-  "exportedAt": "15/05/2026, 15:37:25",
+  "lastExport": "2026-05-15T18:41:29.982Z",
+  "exportedAt": "15/05/2026, 15:41:29",
   "total": 72,
-  "pendentes": 44,
-  "postados": 28,
+  "pendentes": 43,
+  "postados": 29,
   "queue": [
     {
       "posicao": 1,
@@ -553,18 +553,18 @@
       "posicao": 33,
       "id": "wa-1537-32",
       "titulo": "Bolsa Cabos E Carregadores Eletrônicos Organizadora Case Bag Cinza",
-      "preco": "R$ 24,60",
+      "preco": "R$ 30",
       "precoOriginal": "R$79,90",
       "desconto": "62% OFF",
-      "cupom": "SUPERPROMO",
+      "cupom": null,
       "link": "https://meli.la/2CMDf7B",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_917198-MLB109737385482_042026-AB.webp",
       "horarioProgramado": "15:37",
       "janela": "14:00-18:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-15T18:37:37.197Z"
     },
     {
       "posicao": 34,
