@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-15T15:57:24.570Z",
-  "exportedAt": "15/05/2026, 12:57:24",
+  "lastExport": "2026-05-15T16:03:16.017Z",
+  "exportedAt": "15/05/2026, 13:03:16",
   "total": 72,
-  "pendentes": 58,
-  "postados": 14,
+  "pendentes": 57,
+  "postados": 15,
   "queue": [
     {
       "posicao": 1,
@@ -315,18 +315,18 @@
       "posicao": 19,
       "id": "wa-1258-18",
       "titulo": "Opk Relógio Masculino Original Aço Inoxidável Quartzo 8135",
-      "preco": "R$ 97,58",
+      "preco": "R$ 119",
       "precoOriginal": "R$225,72",
       "desconto": "47% OFF",
-      "cupom": "SUPERPROMO",
+      "cupom": null,
       "link": "https://meli.la/1B5Ay4Y",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_949688-MLB97262014051_112025-AB-opk-relogio-masculino-original-aco-inoxidavel-quartzo-8135.webp",
       "horarioProgramado": "12:58",
       "janela": "12:00-14:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-15T15:58:18.203Z"
     },
     {
       "posicao": 20,
