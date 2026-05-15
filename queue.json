@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-15T16:19:48.988Z",
-  "exportedAt": "15/05/2026, 13:19:48",
+  "lastExport": "2026-05-15T16:27:24.657Z",
+  "exportedAt": "15/05/2026, 13:27:24",
   "total": 72,
-  "pendentes": 55,
-  "postados": 17,
+  "pendentes": 54,
+  "postados": 18,
   "queue": [
     {
       "posicao": 1,
@@ -366,18 +366,18 @@
       "posicao": 22,
       "id": "wa-1324-21",
       "titulo": "Edredom Queen Percal 400 Fios Grosso Super Casal Hotel Size",
-      "preco": "R$ 109,88",
+      "preco": "R$ 134",
       "precoOriginal": "R$153,20",
       "desconto": "12% OFF",
-      "cupom": "SUPERPROMO",
+      "cupom": null,
       "link": "https://meli.la/2W8sQCY",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_778288-MLB95932913610_102025-AB-edredom-queen-percal-400-fios-grosso-super-casal-hotel-size.webp",
       "horarioProgramado": "13:24",
       "janela": "12:00-14:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-15T16:24:27.202Z"
     },
     {
       "posicao": 23,
