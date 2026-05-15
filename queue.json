@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-15T19:06:04.629Z",
-  "exportedAt": "15/05/2026, 16:06:04",
+  "lastExport": "2026-05-15T19:11:50.613Z",
+  "exportedAt": "15/05/2026, 16:11:50",
   "total": 72,
-  "pendentes": 43,
-  "postados": 29,
+  "pendentes": 42,
+  "postados": 30,
   "queue": [
     {
       "posicao": 1,
@@ -587,18 +587,18 @@
       "posicao": 35,
       "id": "wa-1608-34",
       "titulo": "Forno De Bancada Elétrico Philco Pfe40i 40l Aço Inox 220v",
-      "preco": "R$ 540,38",
+      "preco": "R$ 659",
       "precoOriginal": "R$1.099",
       "desconto": "39% OFF",
-      "cupom": "SUPERPROMO",
+      "cupom": null,
       "link": "https://meli.la/2EuaLz4",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_668620-MLA99937548053_112025-AB.webp",
       "horarioProgramado": "16:08",
       "janela": "14:00-18:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-15T19:08:12.224Z"
     },
     {
       "posicao": 36,
