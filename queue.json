@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-15T21:34:14.315Z",
-  "exportedAt": "15/05/2026, 18:34:14",
+  "lastExport": "2026-05-15T21:42:24.559Z",
+  "exportedAt": "15/05/2026, 18:42:24",
   "total": 72,
-  "pendentes": 31,
-  "postados": 41,
+  "pendentes": 30,
+  "postados": 42,
   "queue": [
     {
       "posicao": 1,
@@ -791,18 +791,18 @@
       "posicao": 47,
       "id": "wa-1834-46",
       "titulo": "Smartwatch Huawei Watch Gt 6 Pro 46mm Gps Ecg Safira Titânio Prateado-escuro Fluoroelastômero Preto",
-      "preco": "R$ 1475,18",
+      "preco": "R$ 1.799",
       "precoOriginal": "R$2.999",
       "desconto": "40% OFF",
-      "cupom": "SUPERPROMO",
+      "cupom": null,
       "link": "https://meli.la/1gM2fPm",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_681278-MLA103632118572_012026-AB.webp",
       "horarioProgramado": "18:34",
       "janela": "18:00-21:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-15T21:34:19.824Z"
     },
     {
       "posicao": 48,
