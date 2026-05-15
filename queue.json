@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-15T23:12:58.508Z",
-  "exportedAt": "15/05/2026, 20:12:58",
+  "lastExport": "2026-05-15T23:16:55.165Z",
+  "exportedAt": "15/05/2026, 20:16:55",
   "total": 72,
-  "pendentes": 19,
-  "postados": 53,
+  "pendentes": 18,
+  "postados": 54,
   "queue": [
     {
       "posicao": 1,
@@ -995,18 +995,18 @@
       "posicao": 59,
       "id": "wa-2014-58",
       "titulo": "Escrivaninha Gamer Tokyo MDF Mesa Para Computador Home Office E Estudos Com Suporte Para CPU E Prateleira Lateral Estrutura Em Aço Estilo Industrial Design Moderno Amplo Cor Canela Preto",
-      "preco": "R$ 154,16",
+      "preco": "R$ 188",
       "precoOriginal": "R$399,90",
       "desconto": "52% OFF no Pix",
-      "cupom": "SUPERPROMO",
+      "cupom": null,
       "link": "https://meli.la/2bkn9Z2",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_758486-MLA99472512452_112025-L.webp",
       "horarioProgramado": "20:14",
       "janela": "18:00-21:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-15T23:14:34.813Z"
     },
     {
       "posicao": 60,
