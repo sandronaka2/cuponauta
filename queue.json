@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-15T22:47:45.188Z",
-  "exportedAt": "15/05/2026, 19:47:45",
+  "lastExport": "2026-05-15T22:52:24.467Z",
+  "exportedAt": "15/05/2026, 19:52:24",
   "total": 72,
-  "pendentes": 22,
-  "postados": 50,
+  "pendentes": 21,
+  "postados": 51,
   "queue": [
     {
       "posicao": 1,
@@ -944,18 +944,18 @@
       "posicao": 56,
       "id": "wa-1949-55",
       "titulo": "Guarda-chuva Automático Altomex Azul Dobrável Com Led Proteção Uv Varetas Fibra Vidro Liso",
-      "preco": "R$ 45,10",
+      "preco": "R$ 55",
       "precoOriginal": "R$96,80",
       "desconto": "43% OFF",
-      "cupom": "SUPERPROMO",
+      "cupom": null,
       "link": "https://meli.la/1gcTpR9",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_702111-MLA100189289059_122025-AB.webp",
       "horarioProgramado": "19:49",
       "janela": "18:00-21:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-15T22:49:17.816Z"
     },
     {
       "posicao": 57,
