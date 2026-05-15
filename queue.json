@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-15T20:22:57.856Z",
-  "exportedAt": "15/05/2026, 17:22:57",
+  "lastExport": "2026-05-15T20:28:02.939Z",
+  "exportedAt": "15/05/2026, 17:28:02",
   "total": 72,
-  "pendentes": 38,
-  "postados": 34,
+  "pendentes": 37,
+  "postados": 35,
   "queue": [
     {
       "posicao": 1,
@@ -672,18 +672,18 @@
       "posicao": 40,
       "id": "wa-1725-39",
       "titulo": "Moletom Com Capuz Flanelado New York Brooklyn Lançamento",
-      "preco": "R$ 54,12",
+      "preco": "R$ 66",
       "precoOriginal": "R$119,90",
       "desconto": "44% OFF",
-      "cupom": "SUPERPROMO",
+      "cupom": null,
       "link": "https://meli.la/2jFfL8F",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_926283-MLB83068586778_032025-AB-moletom-com-capuz-flanelado-new-york-brooklyn-lancamento.webp",
       "horarioProgramado": "17:25",
       "janela": "14:00-18:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-15T20:25:48.030Z"
     },
     {
       "posicao": 41,
