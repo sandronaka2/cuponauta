@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-15T20:44:19.964Z",
-  "exportedAt": "15/05/2026, 17:44:19",
+  "lastExport": "2026-05-15T20:44:42.882Z",
+  "exportedAt": "15/05/2026, 17:44:42",
   "total": 72,
-  "pendentes": 37,
-  "postados": 35,
+  "pendentes": 36,
+  "postados": 36,
   "queue": [
     {
       "posicao": 1,
@@ -689,18 +689,18 @@
       "posicao": 41,
       "id": "wa-1744-40",
       "titulo": "Placa-mãe Asus P/amd Am4 B550m-plus Tuf Gaming 4xddr4 Matx Preto",
-      "preco": "R$ 626,48",
+      "preco": "R$ 764",
       "precoOriginal": "R$1.321",
       "desconto": "42% OFF no Pix",
-      "cupom": "SUPERPROMO",
+      "cupom": null,
       "link": "https://meli.la/28aB9TN",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_666926-MLA99989580013_112025-AB.webp",
       "horarioProgramado": "17:44",
       "janela": "14:00-18:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-15T20:44:42.818Z"
     },
     {
       "posicao": 42,
