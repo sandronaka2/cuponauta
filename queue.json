@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-15T16:07:56.221Z",
-  "exportedAt": "15/05/2026, 13:07:56",
+  "lastExport": "2026-05-15T16:17:24.695Z",
+  "exportedAt": "15/05/2026, 13:17:24",
   "total": 72,
-  "pendentes": 56,
-  "postados": 16,
+  "pendentes": 55,
+  "postados": 17,
   "queue": [
     {
       "posicao": 1,
@@ -349,18 +349,18 @@
       "posicao": 21,
       "id": "wa-1316-20",
       "titulo": "Aquecedor Domestico A1-01/02 Premium Ventisol Branco 127v",
-      "preco": "R$ 91,84",
+      "preco": "R$ 112",
       "precoOriginal": "R$209,99",
       "desconto": "46% OFF",
-      "cupom": "SUPERPROMO",
+      "cupom": null,
       "link": "https://meli.la/1NM3GEW",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_796831-MLA99943219731_112025-AB.webp",
       "horarioProgramado": "13:16",
       "janela": "12:00-14:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-15T16:16:37.210Z"
     },
     {
       "posicao": 22,
