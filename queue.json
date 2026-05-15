@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-15T22:16:40.506Z",
-  "exportedAt": "15/05/2026, 19:16:40",
+  "lastExport": "2026-05-15T22:19:10.376Z",
+  "exportedAt": "15/05/2026, 19:19:10",
   "total": 72,
-  "pendentes": 26,
-  "postados": 46,
+  "pendentes": 25,
+  "postados": 47,
   "queue": [
     {
       "posicao": 1,
@@ -876,18 +876,18 @@
       "posicao": 52,
       "id": "wa-1916-51",
       "titulo": "Kit 3 Oversized Masculina Stretwear Básica Lisa Premium",
-      "preco": "R$ 58,22",
+      "preco": "R$ 71",
       "precoOriginal": "R$159",
       "desconto": "54% OFF",
-      "cupom": "SUPERPROMO",
+      "cupom": null,
       "link": "https://meli.la/2oT4isD",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_951727-MLB88466120628_072025-AB-kit-3-oversized-masculina-stretwear-basica-lisa-premium.webp",
       "horarioProgramado": "19:16",
       "janela": "18:00-21:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-15T22:16:51.816Z"
     },
     {
       "posicao": 53,
