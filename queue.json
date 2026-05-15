@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-15T18:20:50.033Z",
-  "exportedAt": "15/05/2026, 15:20:50",
+  "lastExport": "2026-05-15T18:27:24.895Z",
+  "exportedAt": "15/05/2026, 15:27:24",
   "total": 72,
-  "pendentes": 45,
-  "postados": 27,
+  "pendentes": 44,
+  "postados": 28,
   "queue": [
     {
       "posicao": 1,
@@ -536,18 +536,18 @@
       "posicao": 32,
       "id": "wa-1521-31",
       "titulo": "Secador Com Difusor Cachos Philco Super Potênte 2200w Oferta Rosa 110v/220v",
-      "preco": "R$ 143,50",
+      "preco": "R$ 175",
       "precoOriginal": "R$282,97",
       "desconto": "37% OFF",
-      "cupom": "SUPERPROMO",
+      "cupom": null,
       "link": "https://meli.la/1bfFxr2",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_957684-MLB91915203250_092025-AB.webp",
       "horarioProgramado": "15:21",
       "janela": "14:00-18:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-15T18:21:26.200Z"
     },
     {
       "posicao": 33,
