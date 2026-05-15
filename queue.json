@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-15T23:06:26.211Z",
-  "exportedAt": "15/05/2026, 20:06:26",
+  "lastExport": "2026-05-15T23:06:46.118Z",
+  "exportedAt": "15/05/2026, 20:06:46",
   "total": 72,
-  "pendentes": 20,
-  "postados": 52,
+  "pendentes": 19,
+  "postados": 53,
   "queue": [
     {
       "posicao": 1,
@@ -978,18 +978,18 @@
       "posicao": 58,
       "id": "wa-2006-57",
       "titulo": "Notebook Positivo Vision R15m Amd Ryzen 5-5625u Windows 11 Home 16gb Ram 512gb Ssd Wi-fi 6 Tela 15 Full Hd Ips Antirreflexo - Tecla Copilot - Permite Upgrade De Memória Ram E Ssd - Preto",
-      "preco": "R$ 3115,18",
+      "preco": "R$ 3.799",
       "precoOriginal": "R$5.699",
       "desconto": "33% OFF",
-      "cupom": "SUPERPROMO",
+      "cupom": null,
       "link": "https://meli.la/2xG17Dm",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_712945-MLA101087086634_122025-AB.webp",
       "horarioProgramado": "20:06",
       "janela": "18:00-21:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-15T23:06:33.829Z"
     },
     {
       "posicao": 59,
