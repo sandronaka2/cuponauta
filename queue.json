@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-15T17:00:19.741Z",
-  "exportedAt": "15/05/2026, 14:00:19",
+  "lastExport": "2026-05-15T17:05:36.996Z",
+  "exportedAt": "15/05/2026, 14:05:36",
   "total": 72,
-  "pendentes": 50,
-  "postados": 22,
+  "pendentes": 49,
+  "postados": 23,
   "queue": [
     {
       "posicao": 1,
@@ -451,18 +451,18 @@
       "posicao": 27,
       "id": "wa-1401-26",
       "titulo": "Kit 3 Bloqueador Odores Free Co Eliminador Freeco Sanitário",
-      "preco": "R$ 51,66",
+      "preco": "R$ 63",
       "precoOriginal": "R$78,90",
       "desconto": "19% OFF",
-      "cupom": "SUPERPROMO",
+      "cupom": null,
       "link": "https://meli.la/33UJnKo",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_859768-MLB70500996096_072023-AB.webp",
       "horarioProgramado": "14:01",
       "janela": "14:00-18:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-15T17:01:32.194Z"
     },
     {
       "posicao": 28,
