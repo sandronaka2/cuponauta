@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-15T19:39:17.730Z",
-  "exportedAt": "15/05/2026, 16:39:17",
+  "lastExport": "2026-05-15T19:39:42.579Z",
+  "exportedAt": "15/05/2026, 16:39:42",
   "total": 72,
-  "pendentes": 41,
-  "postados": 31,
+  "pendentes": 40,
+  "postados": 32,
   "queue": [
     {
       "posicao": 1,
@@ -621,18 +621,18 @@
       "posicao": 37,
       "id": "wa-1639-36",
       "titulo": "Ar-condicionado Electrolux Split Inverter 9.000 Btus Color Adapt Wi-fi Só Frio Cor Branco 220v",
-      "preco": "R$ 1360,38",
+      "preco": "R$ 1.659",
       "precoOriginal": "R$2.879",
       "desconto": "42% OFF",
-      "cupom": "SUPERPROMO",
+      "cupom": null,
       "link": "https://meli.la/1gGWXoW",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_644152-MLA99477090492_112025-AB.webp",
       "horarioProgramado": "16:39",
       "janela": "14:00-18:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-15T19:39:22.206Z"
     },
     {
       "posicao": 38,
