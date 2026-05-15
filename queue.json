@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-15T14:57:24.900Z",
-  "exportedAt": "15/05/2026, 11:57:24",
+  "lastExport": "2026-05-15T14:58:57.497Z",
+  "exportedAt": "15/05/2026, 11:58:57",
   "total": 72,
-  "pendentes": 65,
-  "postados": 7,
+  "pendentes": 64,
+  "postados": 8,
   "queue": [
     {
       "posicao": 1,
@@ -196,18 +196,18 @@
       "posicao": 12,
       "id": "wa-1158-11",
       "titulo": "Sapato Scarpin Feminino Bico Fino Slingback Salto Baixo",
-      "preco": "R$ 31,98",
+      "preco": "R$ 39",
       "precoOriginal": "R$78,90",
       "desconto": "49% OFF",
-      "cupom": "SUPERPROMO",
+      "cupom": null,
       "link": "https://meli.la/1irZhq7",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_933347-MLB100493255885_122025-AB-sapato-scarpin-feminino-bico-fino-slingback-salto-baixo.webp",
       "horarioProgramado": "11:58",
       "janela": "10:00-12:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-15T14:58:48.191Z"
     },
     {
       "posicao": 13,
