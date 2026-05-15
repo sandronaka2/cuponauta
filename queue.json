@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-15T21:42:24.559Z",
-  "exportedAt": "15/05/2026, 18:42:24",
+  "lastExport": "2026-05-15T21:42:58.237Z",
+  "exportedAt": "15/05/2026, 18:42:58",
   "total": 72,
-  "pendentes": 30,
-  "postados": 42,
+  "pendentes": 29,
+  "postados": 43,
   "queue": [
     {
       "posicao": 1,
@@ -808,18 +808,18 @@
       "posicao": 48,
       "id": "wa-1842-47",
       "titulo": "Sapateira Armário Organizador Dobrável 9 Prateleiras Estocasa Preto",
-      "preco": "R$ 60,68",
+      "preco": "R$ 74",
       "precoOriginal": "R$197",
       "desconto": "62% OFF",
-      "cupom": "SUPERPROMO",
+      "cupom": null,
       "link": "https://meli.la/19nXZu5",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_643907-MLA99966341477_112025-AB.webp",
       "horarioProgramado": "18:42",
       "janela": "18:00-21:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-15T21:42:28.332Z"
     },
     {
       "posicao": 49,
