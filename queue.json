@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-15T15:30:48.980Z",
-  "exportedAt": "15/05/2026, 12:30:48",
+  "lastExport": "2026-05-15T15:32:04.320Z",
+  "exportedAt": "15/05/2026, 12:32:04",
   "total": 72,
-  "pendentes": 61,
-  "postados": 11,
+  "pendentes": 60,
+  "postados": 12,
   "queue": [
     {
       "posicao": 1,
@@ -264,18 +264,18 @@
       "posicao": 16,
       "id": "wa-1231-15",
       "titulo": "Relógio Suiço Old Money Luxo Minialista C/caixa E Ajustador",
-      "preco": "R$ 85,28",
+      "preco": "R$ 104",
       "precoOriginal": "R$229,90",
       "desconto": "54% OFF",
-      "cupom": "SUPERPROMO",
+      "cupom": null,
       "link": "https://meli.la/1cDSCgN",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_910052-MLB87306091722_072025-AB-relogio-suico-old-money-luxo-minialista-ccaixa-e-ajustador.webp",
       "horarioProgramado": "12:31",
       "janela": "12:00-14:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-15T15:31:35.196Z"
     },
     {
       "posicao": 17,
