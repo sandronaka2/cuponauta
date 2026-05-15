@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-15T17:14:49.416Z",
-  "exportedAt": "15/05/2026, 14:14:49",
+  "lastExport": "2026-05-15T17:17:24.768Z",
+  "exportedAt": "15/05/2026, 14:17:24",
   "total": 72,
-  "pendentes": 49,
-  "postados": 23,
+  "pendentes": 48,
+  "postados": 24,
   "queue": [
     {
       "posicao": 1,
@@ -468,18 +468,18 @@
       "posicao": 28,
       "id": "wa-1416-27",
       "titulo": "Blusinha Flanelada Gola Redonda Liquidação P Ao Gg 603a",
-      "preco": "R$ 29,52",
+      "preco": "R$ 36",
       "precoOriginal": "R$51,90",
       "desconto": "30% OFF",
-      "cupom": "SUPERPROMO",
+      "cupom": null,
       "link": "https://meli.la/2rbVbvm",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_786773-MLB84617170453_052025-AB-blusinha-flanelada-gola-redonda-liquidaco-p-ao-gg-603a.webp",
       "horarioProgramado": "14:16",
       "janela": "14:00-18:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-15T17:16:11.209Z"
     },
     {
       "posicao": 29,
