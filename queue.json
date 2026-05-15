@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-15T16:05:47.663Z",
-  "exportedAt": "15/05/2026, 13:05:47",
+  "lastExport": "2026-05-15T16:07:24.774Z",
+  "exportedAt": "15/05/2026, 13:07:24",
   "total": 72,
-  "pendentes": 57,
-  "postados": 15,
+  "pendentes": 56,
+  "postados": 16,
   "queue": [
     {
       "posicao": 1,
@@ -332,18 +332,18 @@
       "posicao": 20,
       "id": "wa-1307-19",
       "titulo": "Fone De Nubwo® N16 Headset Gamer Surround 7.1 Ouvido Para Pc",
-      "preco": "R$ 127,92",
+      "preco": "R$ 156",
       "precoOriginal": "R$300",
       "desconto": "47% OFF",
-      "cupom": "SUPERPROMO",
+      "cupom": null,
       "link": "https://meli.la/2onV7wx",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_653897-MLB99024709731_112025-AB-fone-de-nubwo-n16-headset-gamer-surround-71-ouvido-para-pc.webp",
       "horarioProgramado": "13:07",
       "janela": "12:00-14:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-15T16:07:21.205Z"
     },
     {
       "posicao": 21,
