@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-15T17:45:49.876Z",
-  "exportedAt": "15/05/2026, 14:45:49",
+  "lastExport": "2026-05-15T17:47:24.825Z",
+  "exportedAt": "15/05/2026, 14:47:24",
   "total": 72,
-  "pendentes": 47,
-  "postados": 25,
+  "pendentes": 46,
+  "postados": 26,
   "queue": [
     {
       "posicao": 1,
@@ -502,18 +502,18 @@
       "posicao": 30,
       "id": "wa-1447-29",
       "titulo": "Blocos De Montar Em Madeira Engenheiro 300 Peças - Xalingo",
-      "preco": "R$ 38,54",
+      "preco": "R$ 47",
       "precoOriginal": "R$129,90",
       "desconto": "63% OFF",
-      "cupom": "SUPERPROMO",
+      "cupom": null,
       "link": "https://meli.la/1yLgepq",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_897283-MLA107178373021_022026-AB.webp",
       "horarioProgramado": "14:47",
       "janela": "14:00-18:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-15T17:47:15.228Z"
     },
     {
       "posicao": 31,
