@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-16T18:52:27.463Z",
-  "exportedAt": "16/05/2026, 15:52:27",
+  "lastExport": "2026-05-16T18:53:01.103Z",
+  "exportedAt": "16/05/2026, 15:53:01",
   "total": 72,
-  "pendentes": 39,
-  "postados": 33,
+  "pendentes": 38,
+  "postados": 34,
   "queue": [
     {
       "posicao": 1,
@@ -578,10 +578,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_880488-MLB106040037106_022026-AB-kit-3-calca-jeans-masculina-slim-com-lycra-elastano-original.webp",
       "horarioProgramado": "15:52",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-16T18:52:44.313Z"
     },
     {
       "posicao": 35,
