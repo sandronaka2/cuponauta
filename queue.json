@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-16T00:17:36.502Z",
-  "exportedAt": "15/05/2026, 21:17:36",
+  "lastExport": "2026-05-16T00:18:16.490Z",
+  "exportedAt": "15/05/2026, 21:18:16",
   "total": 72,
-  "pendentes": 11,
-  "postados": 61,
+  "pendentes": 10,
+  "postados": 62,
   "queue": [
     {
       "posicao": 1,
@@ -1131,18 +1131,18 @@
       "posicao": 67,
       "id": "wa-2118-66",
       "titulo": "Sapato Babuche Enfermagem Cozinha Hospital Antiderrapante Preto 39-40",
-      "preco": "R$ 31,16",
+      "preco": "R$ 38",
       "precoOriginal": "R$42,99",
       "desconto": "9% OFF",
-      "cupom": "SUPERPROMO",
+      "cupom": null,
       "link": "https://meli.la/2Rnp6sZ",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_969731-MLB106798728764_022026-AB.webp",
       "horarioProgramado": "21:18",
       "janela": "21:00-22:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-16T00:18:12.811Z"
     },
     {
       "posicao": 68,
