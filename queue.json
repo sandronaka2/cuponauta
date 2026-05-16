@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-16T14:57:31.957Z",
-  "exportedAt": "16/05/2026, 11:57:31",
+  "lastExport": "2026-05-16T15:02:26.475Z",
+  "exportedAt": "16/05/2026, 12:02:26",
   "total": 72,
-  "pendentes": 61,
-  "postados": 11,
+  "pendentes": 59,
+  "postados": 13,
   "queue": [
     {
       "posicao": 1,
@@ -204,10 +204,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_961492-MLB106508320251_022026-AB.webp",
       "horarioProgramado": "11:57",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-16T14:57:33.056Z"
     },
     {
       "posicao": 13,
@@ -221,10 +221,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_924185-MLB95610328164_102025-AB-jaqueta-juvenil-masculina-em-microfibra-minty-verde.webp",
       "horarioProgramado": "12:01",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-16T15:01:52.206Z"
     },
     {
       "posicao": 14,
