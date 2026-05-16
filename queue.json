@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-16T16:57:29.213Z",
-  "exportedAt": "16/05/2026, 13:57:29",
+  "lastExport": "2026-05-16T17:02:28.220Z",
+  "exportedAt": "16/05/2026, 14:02:28",
   "total": 72,
-  "pendentes": 47,
-  "postados": 25,
+  "pendentes": 45,
+  "postados": 27,
   "queue": [
     {
       "posicao": 1,
@@ -442,10 +442,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_818348-MLB81547852593_122024-AB-olevs-relogio-masculino-original-aco-do-correia-dourado-6898.webp",
       "horarioProgramado": "13:58",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-16T16:58:47.797Z"
     },
     {
       "posicao": 27,
@@ -459,10 +459,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_629075-MLA104879398469_012026-AB.webp",
       "horarioProgramado": "14:01",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-16T17:01:21.885Z"
     },
     {
       "posicao": 28,
