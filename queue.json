@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-16T00:11:45.941Z",
-  "exportedAt": "15/05/2026, 21:11:45",
+  "lastExport": "2026-05-16T00:11:56.279Z",
+  "exportedAt": "15/05/2026, 21:11:56",
   "total": 72,
-  "pendentes": 12,
-  "postados": 60,
+  "pendentes": 11,
+  "postados": 61,
   "queue": [
     {
       "posicao": 1,
@@ -1114,18 +1114,18 @@
       "posicao": 66,
       "id": "wa-2111-65",
       "titulo": "Moletom Feminino Canguru Liso Com Capuz Blusa De Frio Casaco",
-      "preco": "R$ 56,58",
+      "preco": "R$ 69",
       "precoOriginal": "R$78,90",
       "desconto": "12% OFF",
-      "cupom": "SUPERPROMO",
+      "cupom": null,
       "link": "https://meli.la/21quWna",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_879653-MLB84650840109_052025-AB-moletom-feminino-canguru-liso-com-capuz-blusa-de-frio-casaco.webp",
       "horarioProgramado": "21:11",
       "janela": "21:00-22:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-16T00:11:49.894Z"
     },
     {
       "posicao": 67,
