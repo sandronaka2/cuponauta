@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-16T00:47:26.071Z",
-  "exportedAt": "15/05/2026, 21:47:26",
+  "lastExport": "2026-05-16T00:52:24.396Z",
+  "exportedAt": "15/05/2026, 21:52:24",
   "total": 72,
-  "pendentes": 7,
-  "postados": 65,
+  "pendentes": 6,
+  "postados": 66,
   "queue": [
     {
       "posicao": 1,
@@ -1199,18 +1199,18 @@
       "posicao": 71,
       "id": "wa-2149-70",
       "titulo": "Monitor Gamer Samsung Odyssey G5 34  Ultrawide 165hz 1ms Hdr10 Hdmi Freesync Premium Preto 127/220v",
-      "preco": "R$ 1557,18",
+      "preco": "R$ 1.899",
       "precoOriginal": "R$3.429",
       "desconto": "44% OFF",
-      "cupom": "SUPERPROMO",
+      "cupom": null,
       "link": "https://meli.la/1q5Qm8j",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_896862-MLA99948617421_112025-AB.webp",
       "horarioProgramado": "21:49",
       "janela": "21:00-22:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-16T00:49:53.819Z"
     },
     {
       "posicao": 72,
