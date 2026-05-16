@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-16T00:22:58.599Z",
-  "exportedAt": "15/05/2026, 21:22:58",
+  "lastExport": "2026-05-16T00:27:25.998Z",
+  "exportedAt": "15/05/2026, 21:27:25",
   "total": 72,
-  "pendentes": 10,
-  "postados": 62,
+  "pendentes": 9,
+  "postados": 63,
   "queue": [
     {
       "posicao": 1,
@@ -1148,18 +1148,18 @@
       "posicao": 68,
       "id": "wa-2125-67",
       "titulo": "Kit 2 Blusinhas Cropped Básico Verão Dia A Dia Meia Manga",
-      "preco": "R$ 27,06",
+      "preco": "R$ 33",
       "precoOriginal": "R$59,90",
       "desconto": "44% OFF",
-      "cupom": "SUPERPROMO",
+      "cupom": null,
       "link": "https://meli.la/2cg2njD",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_814532-MLB79716399246_102024-AB-kit-2-blusinhas-cropped-basico-vero-dia-a-dia-meia-manga.webp",
       "horarioProgramado": "21:25",
       "janela": "21:00-22:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-16T00:25:23.830Z"
     },
     {
       "posicao": 69,
