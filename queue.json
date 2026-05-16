@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-16T00:42:24.542Z",
-  "exportedAt": "15/05/2026, 21:42:24",
+  "lastExport": "2026-05-16T00:42:58.583Z",
+  "exportedAt": "15/05/2026, 21:42:58",
   "total": 72,
-  "pendentes": 8,
-  "postados": 64,
+  "pendentes": 7,
+  "postados": 65,
   "queue": [
     {
       "posicao": 1,
@@ -1182,18 +1182,18 @@
       "posicao": 70,
       "id": "wa-2142-69",
       "titulo": "Scarpin Vizzano Feminino Salto Alto 9cm Elegante",
-      "preco": "R$ 89,38",
+      "preco": "R$ 109",
       "precoOriginal": "R$152,97",
       "desconto": "28% OFF no Pix",
-      "cupom": "SUPERPROMO",
+      "cupom": null,
       "link": "https://meli.la/32HuZPf",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_643715-MLB110592083447_042026-AB-scarpin-vizzano-feminino-salto-alto-9cm-elegante.webp",
       "horarioProgramado": "21:42",
       "janela": "21:00-22:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-16T00:42:28.306Z"
     },
     {
       "posicao": 71,
