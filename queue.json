@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-16T00:32:24.591Z",
-  "exportedAt": "15/05/2026, 21:32:24",
+  "lastExport": "2026-05-16T00:32:58.415Z",
+  "exportedAt": "15/05/2026, 21:32:58",
   "total": 72,
-  "pendentes": 9,
-  "postados": 63,
+  "pendentes": 8,
+  "postados": 64,
   "queue": [
     {
       "posicao": 1,
@@ -1165,18 +1165,18 @@
       "posicao": 69,
       "id": "wa-2132-68",
       "titulo": "Caixa De Som Bluetooth 200w 39000mah Eq Ipx6 Sabala Dra-909 Cor Preto 127/220v",
-      "preco": "R$ 1046,32",
+      "preco": "R$ 1.276",
       "precoOriginal": "R$1.995",
       "desconto": "36% OFF",
-      "cupom": "SUPERPROMO",
+      "cupom": null,
       "link": "https://meli.la/2imTw1r",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_689164-MLA110001239576_042026-AB.webp",
       "horarioProgramado": "21:32",
       "janela": "21:00-22:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-16T00:32:37.879Z"
     },
     {
       "posicao": 70,
