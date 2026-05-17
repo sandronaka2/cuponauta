@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-17T20:57:55.713Z",
-  "exportedAt": "17/05/2026, 17:57:55",
+  "lastExport": "2026-05-17T21:02:33.063Z",
+  "exportedAt": "17/05/2026, 18:02:33",
   "total": 72,
-  "pendentes": 31,
-  "postados": 41,
+  "pendentes": 29,
+  "postados": 43,
   "queue": [
     {
       "posicao": 1,
@@ -714,10 +714,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_712967-MLA96969981644_112025-AB.webp",
       "horarioProgramado": "17:58",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-17T20:58:43.256Z"
     },
     {
       "posicao": 43,
@@ -731,10 +731,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_780833-MLB98911551623_112025-AB-opk-relogio-masculino-quartz-original-em-aco-inoxidavel-6026.webp",
       "horarioProgramado": "18:01",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-17T21:01:43.329Z"
     },
     {
       "posicao": 44,
