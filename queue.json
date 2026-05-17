@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-17T21:23:02.883Z",
-  "exportedAt": "17/05/2026, 18:23:02",
+  "lastExport": "2026-05-17T21:27:32.031Z",
+  "exportedAt": "17/05/2026, 18:27:32",
   "total": 72,
-  "pendentes": 27,
-  "postados": 45,
+  "pendentes": 26,
+  "postados": 46,
   "queue": [
     {
       "posicao": 1,
@@ -782,10 +782,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_764404-MLB82393592668_022025-AB-kit-3-calca-jeans-feminina-skinny-cintura-alta-com-lycra.webp",
       "horarioProgramado": "18:25",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-17T21:25:52.200Z"
     },
     {
       "posicao": 47,
