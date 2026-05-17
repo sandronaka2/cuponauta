@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-17T13:33:02.028Z",
-  "exportedAt": "17/05/2026, 10:33:02",
+  "lastExport": "2026-05-17T13:34:26.686Z",
+  "exportedAt": "17/05/2026, 10:34:26",
   "total": 72,
-  "pendentes": 66,
-  "postados": 6,
+  "pendentes": 65,
+  "postados": 7,
   "queue": [
     {
       "posicao": 1,
@@ -119,10 +119,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_964859-MLB96645078709_102025-AB-kit-de-extensoes-de-cilios-diy-keyyou-3d-80d100d.webp",
       "horarioProgramado": "10:33",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-17T13:33:09.062Z"
     },
     {
       "posicao": 8,
