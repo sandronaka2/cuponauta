@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-17T14:57:30.693Z",
-  "exportedAt": "17/05/2026, 11:57:30",
+  "lastExport": "2026-05-17T15:02:29.196Z",
+  "exportedAt": "17/05/2026, 12:02:29",
   "total": 72,
-  "pendentes": 61,
-  "postados": 11,
+  "pendentes": 59,
+  "postados": 13,
   "queue": [
     {
       "posicao": 1,
@@ -204,10 +204,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_786367-MLB88249905663_072025-AB-bone-lacoste-gabardine-em-promoco.webp",
       "horarioProgramado": "11:58",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-17T14:58:42.838Z"
     },
     {
       "posicao": 13,
@@ -221,10 +221,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_828215-MLB70484978117_072023-AB.webp",
       "horarioProgramado": "12:02",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-17T15:02:09.432Z"
     },
     {
       "posicao": 14,
