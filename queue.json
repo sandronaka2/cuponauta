@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-17T18:53:02.294Z",
-  "exportedAt": "17/05/2026, 15:53:02",
+  "lastExport": "2026-05-17T18:55:48.038Z",
+  "exportedAt": "17/05/2026, 15:55:48",
   "total": 72,
-  "pendentes": 39,
-  "postados": 33,
+  "pendentes": 38,
+  "postados": 34,
   "queue": [
     {
       "posicao": 1,
@@ -578,10 +578,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_692261-MLB97742913875_112025-AB-jaqueta-jeans-masculina-branca-slim-casaco-homem-basico.webp",
       "horarioProgramado": "15:53",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-17T18:53:48.467Z"
     },
     {
       "posicao": 35,
