@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-17T20:44:28.897Z",
-  "exportedAt": "17/05/2026, 17:44:28",
+  "lastExport": "2026-05-17T20:45:39.027Z",
+  "exportedAt": "17/05/2026, 17:45:39",
   "total": 72,
-  "pendentes": 32,
-  "postados": 40,
+  "pendentes": 31,
+  "postados": 41,
   "queue": [
     {
       "posicao": 1,
@@ -697,10 +697,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_980960-MLB110530128156_052026-AB-jaqueta-masculina-blusa-de-frio-casaco-agasalho-bobojaco.webp",
       "horarioProgramado": "17:44",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-17T20:44:30.998Z"
     },
     {
       "posicao": 42,
