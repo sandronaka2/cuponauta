@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-18T14:38:24.302Z",
-  "exportedAt": "18/05/2026, 11:38:24",
+  "lastExport": "2026-05-18T14:42:33.540Z",
+  "exportedAt": "18/05/2026, 11:42:33",
   "total": 72,
-  "pendentes": 62,
-  "postados": 10,
+  "pendentes": 61,
+  "postados": 11,
   "queue": [
     {
       "posicao": 1,
@@ -187,10 +187,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_673537-MLB109930552435_042026-AB-jaqueta-feminina-puffer-bobojaco-com-capuz-nylon-forrada-top.webp",
       "horarioProgramado": "11:41",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-18T14:41:44.154Z"
     },
     {
       "posicao": 12,
