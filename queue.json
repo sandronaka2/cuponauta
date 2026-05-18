@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-18T15:38:24.224Z",
-  "exportedAt": "18/05/2026, 12:38:24",
+  "lastExport": "2026-05-18T15:42:33.876Z",
+  "exportedAt": "18/05/2026, 12:42:33",
   "total": 72,
-  "pendentes": 56,
-  "postados": 16,
+  "pendentes": 55,
+  "postados": 17,
   "queue": [
     {
       "posicao": 1,
@@ -289,10 +289,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_875756-MLB91240836518_092025-AB-kit-4-calcas-jeans-masculina-tradicional-atacado-reforcada.webp",
       "horarioProgramado": "12:39",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-18T15:39:57.118Z"
     },
     {
       "posicao": 18,
