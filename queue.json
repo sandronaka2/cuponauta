@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-18T16:58:29.855Z",
-  "exportedAt": "18/05/2026, 13:58:29",
+  "lastExport": "2026-05-18T16:58:39.049Z",
+  "exportedAt": "18/05/2026, 13:58:39",
   "total": 72,
-  "pendentes": 47,
-  "postados": 25,
+  "pendentes": 46,
+  "postados": 26,
   "queue": [
     {
       "posicao": 1,
@@ -442,10 +442,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_970617-MLB106588228209_022026-AB-jaqueta-puffer-infantil-masculino-pelinhos-touca-frio-luxo.webp",
       "horarioProgramado": "13:58",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-18T16:58:35.729Z"
     },
     {
       "posicao": 27,
