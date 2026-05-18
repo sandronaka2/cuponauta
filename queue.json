@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-18T15:19:03.639Z",
-  "exportedAt": "18/05/2026, 12:19:03",
+  "lastExport": "2026-05-18T15:22:34.098Z",
+  "exportedAt": "18/05/2026, 12:22:34",
   "total": 72,
-  "pendentes": 58,
-  "postados": 14,
+  "pendentes": 57,
+  "postados": 15,
   "queue": [
     {
       "posicao": 1,
@@ -255,10 +255,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_944832-MLB110745499282_052026-AB-varal-de-luz-festao-20-mts-com-lampadas-inclusas-barato.webp",
       "horarioProgramado": "12:21",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-18T15:21:32.813Z"
     },
     {
       "posicao": 16,
