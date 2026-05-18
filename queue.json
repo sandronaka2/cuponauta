@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-18T15:53:06.860Z",
-  "exportedAt": "18/05/2026, 12:53:06",
+  "lastExport": "2026-05-18T15:57:35.475Z",
+  "exportedAt": "18/05/2026, 12:57:35",
   "total": 72,
-  "pendentes": 54,
-  "postados": 18,
+  "pendentes": 53,
+  "postados": 19,
   "queue": [
     {
       "posicao": 1,
@@ -323,10 +323,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_625274-MLB93295557005_092025-AB-saida-praia-longa-fenda-feminino-canga-quimono-vestido-midi.webp",
       "horarioProgramado": "12:56",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-18T15:56:07.907Z"
     },
     {
       "posicao": 20,
