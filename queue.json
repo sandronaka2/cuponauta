@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-18T18:23:07.264Z",
-  "exportedAt": "18/05/2026, 15:23:07",
+  "lastExport": "2026-05-18T18:23:25.716Z",
+  "exportedAt": "18/05/2026, 15:23:25",
   "total": 72,
-  "pendentes": 42,
-  "postados": 30,
+  "pendentes": 41,
+  "postados": 31,
   "queue": [
     {
       "posicao": 1,
@@ -544,10 +544,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_868101-MLB94437358846_102025-AB-micro-short-kickoff-micro-levanta-bumbum-feminino-sexy.webp",
       "horarioProgramado": "15:23",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-18T18:23:08.447Z"
     },
     {
       "posicao": 33,
