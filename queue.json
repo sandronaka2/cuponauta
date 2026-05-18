@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-18T18:37:38.720Z",
-  "exportedAt": "18/05/2026, 15:37:38",
+  "lastExport": "2026-05-18T18:42:34.303Z",
+  "exportedAt": "18/05/2026, 15:42:34",
   "total": 72,
-  "pendentes": 41,
-  "postados": 31,
+  "pendentes": 40,
+  "postados": 32,
   "queue": [
     {
       "posicao": 1,
@@ -553,18 +553,18 @@
       "posicao": 33,
       "id": "wa-1540-32",
       "titulo": "Notebook Acer Aspire Go 15 Ag15-51p-55c8 Intel Core I5 13ª Ger. 8gb Ram 512gb Ssd W11 15.3 Ips Full Hd Cinza",
-      "preco": "R$ 3819,00",
+      "preco": "R$ 3.899",
       "precoOriginal": "R$6.199",
       "desconto": "37% OFF",
-      "cupom": "ESQUENTA",
+      "cupom": null,
       "link": "https://meli.la/1aiGgB2",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_662213-MLA101901594510_122025-AB.webp",
       "horarioProgramado": "15:40",
       "janela": "14:00-18:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-18T18:40:31.207Z"
     },
     {
       "posicao": 34,
