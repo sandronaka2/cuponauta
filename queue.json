@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-19T23:43:43.880Z",
-  "exportedAt": "19/05/2026, 20:43:43",
+  "lastExport": "2026-05-19T23:45:32.192Z",
+  "exportedAt": "19/05/2026, 20:45:32",
   "total": 72,
-  "pendentes": 11,
-  "postados": 61,
+  "pendentes": 10,
+  "postados": 62,
   "queue": [
     {
       "posicao": 1,
@@ -1054,10 +1054,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_771989-MLB108191042861_032026-AB-kit-4-short-tactel-masculino-academia-praia-corrida-bermuda.webp",
       "horarioProgramado": "20:43",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-19T23:43:51.293Z"
     },
     {
       "posicao": 63,
