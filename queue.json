@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-19T00:09:21.970Z",
-  "exportedAt": "18/05/2026, 21:09:21",
+  "lastExport": "2026-05-19T00:09:30.727Z",
+  "exportedAt": "18/05/2026, 21:09:30",
   "total": 72,
-  "pendentes": 8,
-  "postados": 64,
+  "pendentes": 7,
+  "postados": 65,
   "queue": [
     {
       "posicao": 1,
@@ -1122,10 +1122,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_684464-MLB88034445593_072025-AB-vestido-longo-liso-plus-size-soltinho-elegante-moda-vero.webp",
       "horarioProgramado": "21:09",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-19T00:09:29.255Z"
     },
     {
       "posicao": 67,
