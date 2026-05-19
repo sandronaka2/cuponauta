@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-19T14:10:10.033Z",
-  "exportedAt": "19/05/2026, 11:10:10",
+  "lastExport": "2026-05-19T14:11:30.034Z",
+  "exportedAt": "19/05/2026, 11:11:30",
   "total": 72,
-  "pendentes": 64,
-  "postados": 8,
+  "pendentes": 63,
+  "postados": 9,
   "queue": [
     {
       "posicao": 1,
@@ -153,10 +153,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_932773-MLB109478888460_042026-AB-tenis-feminino-chunky-ramarim-casual-conforto-original.webp",
       "horarioProgramado": "11:10",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-19T14:10:15.259Z"
     },
     {
       "posicao": 10,
