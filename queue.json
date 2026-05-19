@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-19T13:17:37.747Z",
-  "exportedAt": "19/05/2026, 10:17:37",
+  "lastExport": "2026-05-19T13:19:19.109Z",
+  "exportedAt": "19/05/2026, 10:19:19",
   "total": 72,
-  "pendentes": 67,
-  "postados": 5,
+  "pendentes": 66,
+  "postados": 6,
   "queue": [
     {
       "posicao": 1,
@@ -102,10 +102,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_922252-MLB89424882565_082025-AB-smartwatch-feminino-esportivo-relogio-inteligente-ouro-rosa.webp",
       "horarioProgramado": "10:18",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-19T13:18:13.981Z"
     },
     {
       "posicao": 7,
