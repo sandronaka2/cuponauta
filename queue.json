@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-19T23:47:40.287Z",
-  "exportedAt": "19/05/2026, 20:47:40",
+  "lastExport": "2026-05-19T23:52:38.118Z",
+  "exportedAt": "19/05/2026, 20:52:38",
   "total": 72,
-  "pendentes": 10,
-  "postados": 62,
+  "pendentes": 9,
+  "postados": 63,
   "queue": [
     {
       "posicao": 1,
@@ -1071,10 +1071,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_826913-MLB111439734479_052026-AB-copo-termico-gigante-12l-inox-com-tampa-e-inox-canudo.webp",
       "horarioProgramado": "20:51",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-19T23:51:40.093Z"
     },
     {
       "posicao": 64,
