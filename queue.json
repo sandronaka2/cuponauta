@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-19T19:37:39.451Z",
-  "exportedAt": "19/05/2026, 16:37:39",
+  "lastExport": "2026-05-19T19:42:37.753Z",
+  "exportedAt": "19/05/2026, 16:42:37",
   "total": 72,
-  "pendentes": 36,
-  "postados": 36,
+  "pendentes": 35,
+  "postados": 37,
   "queue": [
     {
       "posicao": 1,
@@ -629,10 +629,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_729685-MLB111397919667_052026-AB-kit-10-cuecas-boxer-reebok-sem-costura-microfibra.webp",
       "horarioProgramado": "16:39",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-19T19:39:11.634Z"
     },
     {
       "posicao": 38,
