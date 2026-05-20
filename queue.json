@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-20T17:08:29.616Z",
-  "exportedAt": "20/05/2026, 14:08:29",
+  "lastExport": "2026-05-20T17:59:54.296Z",
+  "exportedAt": "20/05/2026, 14:59:54",
   "total": 72,
-  "pendentes": 47,
-  "postados": 25,
+  "pendentes": 44,
+  "postados": 28,
   "queue": [
     {
       "posicao": 1,
@@ -476,10 +476,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_605031-MLB84048976524_052025-AB-kit-2-scarpin-verniz-salto-baixo-bico-fino-confortavel.webp",
       "horarioProgramado": "14:16",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-20T17:16:47.262Z"
     },
     {
       "posicao": 29,
@@ -493,10 +493,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_841379-MLA101767974710_122025-AB.webp",
       "horarioProgramado": "14:31",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-20T17:31:37.152Z"
     },
     {
       "posicao": 30,
@@ -510,10 +510,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_694037-MLB110254235971_042026-AB.webp",
       "horarioProgramado": "14:49",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-20T17:49:49.039Z"
     },
     {
       "posicao": 31,
