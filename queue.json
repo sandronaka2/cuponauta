@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-20T21:58:34.974Z",
-  "exportedAt": "20/05/2026, 18:58:34",
+  "lastExport": "2026-05-20T22:26:01.572Z",
+  "exportedAt": "20/05/2026, 19:26:01",
   "total": 72,
-  "pendentes": 31,
-  "postados": 41,
+  "pendentes": 27,
+  "postados": 45,
   "queue": [
     {
       "posicao": 1,
@@ -850,10 +850,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_898004-MLA111276379527_052026-AB.webp",
       "horarioProgramado": "18:59",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-20T21:59:25.044Z"
     },
     {
       "posicao": 51,
@@ -867,10 +867,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_756452-MLB110120493830_042026-AB-sapato-boneca-meia-pata-salto-alto-fino-super-confortavel.webp",
       "horarioProgramado": "19:07",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-20T22:07:26.889Z"
     },
     {
       "posicao": 52,
@@ -884,10 +884,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_697051-MLA99485578968_112025-AB.webp",
       "horarioProgramado": "19:16",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-20T22:16:48.042Z"
     },
     {
       "posicao": 53,
@@ -901,10 +901,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_865352-MLA99448833158_112025-AB.webp",
       "horarioProgramado": "19:24",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-20T22:24:32.943Z"
     },
     {
       "posicao": 54,
