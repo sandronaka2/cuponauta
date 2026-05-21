@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-21T23:49:02.861Z",
-  "exportedAt": "21/05/2026, 20:49:02",
+  "lastExport": "2026-05-21T23:55:35.955Z",
+  "exportedAt": "21/05/2026, 20:55:35",
   "total": 72,
-  "pendentes": 14,
-  "postados": 58,
+  "pendentes": 13,
+  "postados": 59,
   "queue": [
     {
       "posicao": 1,
@@ -1071,10 +1071,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_628427-MLB100268149412_122025-AB-kit-10-pares-meias-lupo-masculina-cano-medio-algodo-walk.webp",
       "horarioProgramado": "20:52",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-21T23:52:12.924Z"
     },
     {
       "posicao": 64,
