@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-21T00:14:06.080Z",
-  "exportedAt": "20/05/2026, 21:14:06",
+  "lastExport": "2026-05-21T00:18:36.385Z",
+  "exportedAt": "20/05/2026, 21:18:36",
   "total": 72,
-  "pendentes": 15,
-  "postados": 57,
+  "pendentes": 14,
+  "postados": 58,
   "queue": [
     {
       "posicao": 1,
@@ -1122,10 +1122,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_967821-MLB106425794651_022026-AB-kit-3-t-shirts-basicas-feminino-algodo-preto-marrom-off.webp",
       "horarioProgramado": "21:14",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-21T00:14:26.872Z"
     },
     {
       "posicao": 67,
