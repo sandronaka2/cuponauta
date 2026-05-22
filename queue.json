@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-22T00:47:33.987Z",
-  "exportedAt": "21/05/2026, 21:47:33",
+  "lastExport": "2026-05-22T01:37:40.996Z",
+  "exportedAt": "21/05/2026, 22:37:40",
   "total": 72,
-  "pendentes": 6,
-  "postados": 66,
+  "pendentes": 4,
+  "postados": 68,
   "queue": [
     {
       "posicao": 1,
@@ -1207,10 +1207,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_601437-MLB104623389425_012026-AB.webp",
       "horarioProgramado": "21:49",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-22T00:49:33.037Z"
     },
     {
       "posicao": 72,
@@ -1224,10 +1224,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_789185-MLB84434609049_052025-AB-vestido-festa-longo-plus-size-decote-quadrado-manga-princesa.webp",
       "horarioProgramado": "21:56",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-22T00:56:33.060Z"
     }
   ]
 }
