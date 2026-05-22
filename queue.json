@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-22T14:03:00.531Z",
-  "exportedAt": "22/05/2026, 11:03:00",
+  "lastExport": "2026-05-22T14:47:11.758Z",
+  "exportedAt": "22/05/2026, 11:47:11",
   "total": 72,
-  "pendentes": 64,
-  "postados": 8,
+  "pendentes": 61,
+  "postados": 11,
   "queue": [
     {
       "posicao": 1,
@@ -145,18 +145,18 @@
       "posicao": 9,
       "id": "wa-1109-8",
       "titulo": "Smart TV TCL 65 Polegadas QLED 4K P7K WiFi Bluetooth Google TV HDR10+ Dolby Atmos Dolby Vision 65P7K",
-      "preco": "R$ 3.355",
+      "preco": "R$ 2952,40",
       "precoOriginal": "R$3.459",
       "desconto": "no Pix",
-      "cupom": "TVCASASBAHIA",
+      "cupom": "ESQUENTA",
       "link": "https://meli.la/2KAJGuA",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_681302-MLA103364086954_012026-V.webp",
       "horarioProgramado": "11:09",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-22T14:09:18.781Z"
     },
     {
       "posicao": 10,
@@ -170,27 +170,27 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_896769-MLB88119652307_072025-AB-pijama-de-frio-feminino-adulto-longo-inverno-manga-longa.webp",
       "horarioProgramado": "11:24",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-22T14:24:41.443Z"
     },
     {
       "posicao": 11,
       "id": "wa-1139-10",
       "titulo": "Conjunto Alfaiataria Feminino Moda Social Lycra Pantalona Bege Gg",
-      "preco": "R$ 89",
+      "preco": "R$ 78,32",
       "precoOriginal": "R$138,99",
       "desconto": "35% OFF",
-      "cupom": null,
+      "cupom": "ESQUENTA",
       "link": "https://meli.la/24HeWA5",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_861342-MLB109278015835_032026-AB.webp",
       "horarioProgramado": "11:39",
       "janela": "10:00-12:00",
-      "status": "pendente",
-      "fonte": "OFERTA",
+      "status": "postado",
+      "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-22T14:39:24.000Z"
     },
     {
       "posicao": 12,
