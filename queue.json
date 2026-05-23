@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-23T15:38:28.461Z",
-  "exportedAt": "23/05/2026, 12:38:28",
+  "lastExport": "2026-05-23T16:13:08.298Z",
+  "exportedAt": "23/05/2026, 13:13:08",
   "total": 72,
-  "pendentes": 56,
-  "postados": 16,
+  "pendentes": 52,
+  "postados": 20,
   "queue": [
     {
       "posicao": 1,
@@ -281,18 +281,18 @@
       "posicao": 17,
       "id": "wa-1241-16",
       "titulo": "Chinelo Masculino Under Armour Ignite Vi Sl - Adulto",
-      "preco": "R$ 134,64",
+      "preco": "R$ 153",
       "precoOriginal": "R$222,50",
       "desconto": "31% OFF",
-      "cupom": "ESQUENTA",
+      "cupom": null,
       "link": "https://meli.la/2qqQcs5",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_936663-MLB92394146540_092025-AB-chinelo-masculino-under-armour-ignite-vi-sl-adulto.webp",
       "horarioProgramado": "12:41",
       "janela": "12:00-14:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-23T15:41:40.920Z"
     },
     {
       "posicao": 18,
@@ -306,27 +306,27 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_938011-MLB99358589290_112025-AB-kit-irrigador-bucal-dental-escova-de-dente-eletrica-snica.webp",
       "horarioProgramado": "12:49",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-23T15:49:38.053Z"
     },
     {
       "posicao": 19,
       "id": "wa-1257-18",
       "titulo": "Colar Eu Te Amo Em 100 Idiomas Coração Banhado A Ouro 18k  Dourado",
-      "preco": "R$ 99,44",
+      "preco": "R$ 113",
       "precoOriginal": "R$129",
       "desconto": "11% OFF",
-      "cupom": "ESQUENTA",
+      "cupom": null,
       "link": "https://meli.la/1EHiroo",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_756159-MLB84720478404_052025-AB.webp",
       "horarioProgramado": "12:57",
       "janela": "12:00-14:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-23T15:57:45.947Z"
     },
     {
       "posicao": 20,
@@ -340,10 +340,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_945958-MLA100297313496_122025-AB.webp",
       "horarioProgramado": "13:06",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-23T16:06:51.620Z"
     },
     {
       "posicao": 21,
