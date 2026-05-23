@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-23T15:25:12.072Z",
-  "exportedAt": "23/05/2026, 12:25:12",
+  "lastExport": "2026-05-23T15:38:28.461Z",
+  "exportedAt": "23/05/2026, 12:38:28",
   "total": 72,
-  "pendentes": 57,
-  "postados": 15,
+  "pendentes": 56,
+  "postados": 16,
   "queue": [
     {
       "posicao": 1,
@@ -264,18 +264,18 @@
       "posicao": 16,
       "id": "wa-1232-15",
       "titulo": "Secadora De Roupa Fischer 8kg Suspensa - Silver Cor Cinza Voltagem 127v",
-      "preco": "R$ 502,48",
+      "preco": "R$ 513,90",
       "precoOriginal": "R$704,71",
       "desconto": "18% OFF",
-      "cupom": "ESQUENTA",
+      "cupom": "PROMOCABELO",
       "link": "https://meli.la/1rs7yk5",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_707425-MLA99473305296_112025-AB.webp",
       "horarioProgramado": "12:32",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-23T15:32:29.249Z"
     },
     {
       "posicao": 17,
