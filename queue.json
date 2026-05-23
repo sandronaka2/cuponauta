@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-23T16:13:08.298Z",
-  "exportedAt": "23/05/2026, 13:13:08",
+  "lastExport": "2026-05-23T16:23:08.282Z",
+  "exportedAt": "23/05/2026, 13:23:08",
   "total": 72,
-  "pendentes": 52,
-  "postados": 20,
+  "pendentes": 51,
+  "postados": 21,
   "queue": [
     {
       "posicao": 1,
@@ -349,18 +349,18 @@
       "posicao": 21,
       "id": "wa-1315-20",
       "titulo": "Câmera De Segurança Inteligente Intelbras Im3 C Branca Branco",
-      "preco": "R$ 180,40",
+      "preco": "R$ 205",
       "precoOriginal": "R$401",
       "desconto": "48% OFF no Pix",
-      "cupom": "ESQUENTA",
+      "cupom": null,
       "link": "https://meli.la/2rf7tkY",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_798191-MLA99474077760_112025-AB.webp",
       "horarioProgramado": "13:15",
       "janela": "12:00-14:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-23T16:15:16.039Z"
     },
     {
       "posicao": 22,
