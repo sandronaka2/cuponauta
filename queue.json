@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-23T16:23:08.282Z",
-  "exportedAt": "23/05/2026, 13:23:08",
+  "lastExport": "2026-05-23T16:33:08.289Z",
+  "exportedAt": "23/05/2026, 13:33:08",
   "total": 72,
-  "pendentes": 51,
-  "postados": 21,
+  "pendentes": 49,
+  "postados": 23,
   "queue": [
     {
       "posicao": 1,
@@ -374,27 +374,27 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_999271-MLB94137441752_102025-AB.webp",
       "horarioProgramado": "13:23",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-23T16:23:49.761Z"
     },
     {
       "posicao": 23,
       "id": "wa-1331-22",
       "titulo": "Perfume Árabe Feminino Yara Lattafa Eau De Parfum 100 Ml",
-      "preco": "R$ 155,76",
+      "preco": "R$ 177",
       "precoOriginal": "R$249,90",
       "desconto": "29% OFF",
-      "cupom": "ESQUENTA",
+      "cupom": null,
       "link": "https://meli.la/2azsy3V",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_904984-MLB89160280950_082025-AB.webp",
       "horarioProgramado": "13:31",
       "janela": "12:00-14:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-23T16:31:51.852Z"
     },
     {
       "posicao": 24,
