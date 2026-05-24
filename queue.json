@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-24T23:05:06.480Z",
-  "exportedAt": "24/05/2026, 20:05:06",
+  "lastExport": "2026-05-24T23:18:14.598Z",
+  "exportedAt": "24/05/2026, 20:18:14",
   "total": 72,
-  "pendentes": 20,
-  "postados": 52,
+  "pendentes": 18,
+  "postados": 54,
   "queue": [
     {
       "posicao": 1,
@@ -986,10 +986,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_722829-MLA109681584581_032026-AB.webp",
       "horarioProgramado": "20:06",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-24T23:06:39.011Z"
     },
     {
       "posicao": 59,
@@ -1003,10 +1003,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_666105-MLB104900368894_012026-AB-hipercalorico-captain-gainer-under-labz-3kg-creatina-coq10.webp",
       "horarioProgramado": "20:15",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-24T23:15:24.173Z"
     },
     {
       "posicao": 60,
