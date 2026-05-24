@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-23T22:56:31.473Z",
-  "exportedAt": "23/05/2026, 19:56:31",
+  "lastExport": "2026-05-24T00:26:36.173Z",
+  "exportedAt": "23/05/2026, 21:26:36",
   "total": 72,
-  "pendentes": 16,
-  "postados": 56,
+  "pendentes": 10,
+  "postados": 62,
   "queue": [
     {
       "posicao": 1,
@@ -961,35 +961,35 @@
       "posicao": 57,
       "id": "wa-2001-56",
       "titulo": "Nível Laser 12 Linhas Verde 40m Controle Pro Recarregável C",
-      "preco": "R$ 157,52",
+      "preco": "R$ 179",
       "precoOriginal": "R$382,55",
       "desconto": "53% OFF no Pix",
-      "cupom": "ESQUENTA",
+      "cupom": null,
       "link": "https://meli.la/1EsF3ix",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_908201-MLB87612582400_072025-AB.webp",
       "horarioProgramado": "20:01",
       "janela": "18:00-21:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-23T23:01:21.996Z"
     },
     {
       "posicao": 58,
       "id": "wa-2010-57",
       "titulo": "Casaco De Couro Masculino Slim Resistente",
-      "preco": "R$ 132,88",
+      "preco": "R$ 151",
       "precoOriginal": "R$309,83",
       "desconto": "50% OFF no Pix",
-      "cupom": "ESQUENTA",
+      "cupom": null,
       "link": "https://meli.la/1dXhV3h",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_899985-MLB106517687937_022026-AB-casaco-de-couro-masculino-slim-resistente.webp",
       "horarioProgramado": "20:10",
       "janela": "18:00-21:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-23T23:10:47.654Z"
     },
     {
       "posicao": 59,
@@ -1003,10 +1003,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_933547-MLB51957453581_102022-AB-chapeu-panama-pagodeiro-chapeu-unissex-praia-aba-curta.webp",
       "horarioProgramado": "20:19",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-23T23:19:43.809Z"
     },
     {
       "posicao": 60,
@@ -1020,27 +1020,27 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_922017-MLA110773072631_042026-AB.webp",
       "horarioProgramado": "20:27",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-23T23:27:24.530Z"
     },
     {
       "posicao": 61,
       "id": "wa-2035-60",
       "titulo": "Mala De Bordo 10kg Pequena Londres Swiss Move Preto",
-      "preco": "R$ 166,32",
+      "preco": "R$ 189",
       "precoOriginal": "R$360,87",
       "desconto": "47% OFF",
-      "cupom": "ESQUENTA",
+      "cupom": null,
       "link": "https://meli.la/1eUUv6u",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_699637-MLA105241923207_012026-AB.webp",
       "horarioProgramado": "20:35",
       "janela": "18:00-21:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-23T23:35:49.527Z"
     },
     {
       "posicao": 62,
@@ -1054,10 +1054,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_693241-MLB107387935901_022026-AB.webp",
       "horarioProgramado": "20:43",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-23T23:43:55.300Z"
     },
     {
       "posicao": 63,
