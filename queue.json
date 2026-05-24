@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-24T17:43:38.475Z",
-  "exportedAt": "24/05/2026, 14:43:38",
+  "lastExport": "2026-05-24T18:04:58.955Z",
+  "exportedAt": "24/05/2026, 15:04:58",
   "total": 72,
-  "pendentes": 47,
-  "postados": 25,
+  "pendentes": 45,
+  "postados": 27,
   "queue": [
     {
       "posicao": 1,
@@ -510,10 +510,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_995873-MLB109088065512_042026-AB.webp",
       "horarioProgramado": "14:48",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-24T17:48:33.655Z"
     },
     {
       "posicao": 31,
@@ -527,10 +527,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_926154-MLB89171064353_082025-AB-suporte-de-parede-playstation-5-ps5-slim-midia-fisica-digita.webp",
       "horarioProgramado": "15:04",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-24T18:04:30.109Z"
     },
     {
       "posicao": 32,
