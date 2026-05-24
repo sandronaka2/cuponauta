@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-24T12:35:53.941Z",
-  "exportedAt": "24/05/2026, 09:35:53",
+  "lastExport": "2026-05-24T14:02:54.514Z",
+  "exportedAt": "24/05/2026, 11:02:54",
   "total": 72,
-  "pendentes": 70,
-  "postados": 2,
+  "pendentes": 68,
+  "postados": 4,
   "queue": [
     {
       "posicao": 1,
@@ -51,10 +51,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_626837-MLB109671976324_042026-AB-kit-100-20-brinde-adesivo-protetor-mamilo-tapa-seio-peito.webp",
       "horarioProgramado": "09:37",
       "janela": "09:00-10:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-24T12:37:30.751Z"
     },
     {
       "posicao": 4,
@@ -136,10 +136,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_789185-MLB84434609049_052025-AB-vestido-festa-longo-plus-size-decote-quadrado-manga-princesa.webp",
       "horarioProgramado": "10:51",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-24T13:51:41.522Z"
     },
     {
       "posicao": 9,
