@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-24T14:54:36.239Z",
-  "exportedAt": "24/05/2026, 11:54:36",
+  "lastExport": "2026-05-24T15:15:56.256Z",
+  "exportedAt": "24/05/2026, 12:15:56",
   "total": 72,
-  "pendentes": 65,
-  "postados": 7,
+  "pendentes": 62,
+  "postados": 10,
   "queue": [
     {
       "posicao": 1,
@@ -204,10 +204,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_869201-MLA96608367971_102025-B.webp",
       "horarioProgramado": "11:58",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-24T14:58:22.691Z"
     },
     {
       "posicao": 13,
@@ -221,10 +221,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_814724-MLB105405192178_012026-AB-kit-5-blusas-feminina-tapa-bumbum-sobre-legging-fitness.webp",
       "horarioProgramado": "12:01",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-24T15:01:40.477Z"
     },
     {
       "posicao": 14,
@@ -238,10 +238,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_817405-MLB79430776440_092024-AB.webp",
       "horarioProgramado": "12:11",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-24T15:11:12.468Z"
     },
     {
       "posicao": 15,
