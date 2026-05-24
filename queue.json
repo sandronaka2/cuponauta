@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-24T15:27:36.177Z",
-  "exportedAt": "24/05/2026, 12:27:36",
+  "lastExport": "2026-05-24T15:37:57.993Z",
+  "exportedAt": "24/05/2026, 12:37:57",
   "total": 72,
-  "pendentes": 61,
-  "postados": 11,
+  "pendentes": 59,
+  "postados": 13,
   "queue": [
     {
       "posicao": 1,
@@ -272,10 +272,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_985707-MLB82670682642_032025-AB-oculos-olhamor-round-metal-lente-cristal-unissex-vintage.webp",
       "horarioProgramado": "12:28",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-24T15:28:57.611Z"
     },
     {
       "posicao": 17,
@@ -289,10 +289,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_893539-MLA107404130406_032026-AB.webp",
       "horarioProgramado": "12:36",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-24T15:36:48.473Z"
     },
     {
       "posicao": 18,
