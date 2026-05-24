@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-24T19:35:06.522Z",
-  "exportedAt": "24/05/2026, 16:35:06",
+  "lastExport": "2026-05-24T19:45:06.294Z",
+  "exportedAt": "24/05/2026, 16:45:06",
   "total": 72,
-  "pendentes": 41,
-  "postados": 31,
+  "pendentes": 40,
+  "postados": 32,
   "queue": [
     {
       "posicao": 1,
@@ -621,18 +621,18 @@
       "posicao": 37,
       "id": "wa-1636-36",
       "titulo": "Cinta Modeladora Redutora Feminina Mb 33 Barbatanas",
-      "preco": "R$ 182,16",
+      "preco": "R$ 207",
       "precoOriginal": "R$307,90",
       "desconto": "32% OFF",
-      "cupom": "FONEDEOUVIDO",
+      "cupom": null,
       "link": "https://meli.la/22U8Y6k",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_859014-MLB107833879506_032026-AB-cinta-modeladora-redutora-feminina-mb-33-barbatanas.webp",
       "horarioProgramado": "16:36",
       "janela": "14:00-18:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-24T19:36:37.111Z"
     },
     {
       "posicao": 38,
