@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-24T19:11:11.253Z",
-  "exportedAt": "24/05/2026, 16:11:11",
+  "lastExport": "2026-05-24T19:28:11.027Z",
+  "exportedAt": "24/05/2026, 16:28:11",
   "total": 72,
-  "pendentes": 42,
-  "postados": 30,
+  "pendentes": 41,
+  "postados": 31,
   "queue": [
     {
       "posicao": 1,
@@ -612,10 +612,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_816204-MLB89348232202_082025-AB-chinelo-sandalia-feminino-macio-confortavel-moda-coca-cola.webp",
       "horarioProgramado": "16:21",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-24T19:21:47.553Z"
     },
     {
       "posicao": 37,
