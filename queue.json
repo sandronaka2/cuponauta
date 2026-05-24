@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-24T22:55:06.741Z",
-  "exportedAt": "24/05/2026, 19:55:06",
+  "lastExport": "2026-05-24T23:01:30.183Z",
+  "exportedAt": "24/05/2026, 20:01:30",
   "total": 72,
-  "pendentes": 21,
-  "postados": 51,
+  "pendentes": 20,
+  "postados": 52,
   "queue": [
     {
       "posicao": 1,
@@ -969,10 +969,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_926906-MLB93698350477_092025-C-beiermei-creme-anti-idade-e-hidratante-retinol-ultra-30ml.webp",
       "horarioProgramado": "19:58",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-24T22:58:35.013Z"
     },
     {
       "posicao": 58,
