@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-24T16:51:37.697Z",
-  "exportedAt": "24/05/2026, 13:51:37",
+  "lastExport": "2026-05-24T17:02:00.703Z",
+  "exportedAt": "24/05/2026, 14:02:00",
   "total": 72,
-  "pendentes": 51,
-  "postados": 21,
+  "pendentes": 49,
+  "postados": 23,
   "queue": [
     {
       "posicao": 1,
@@ -442,10 +442,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_691660-MLA95835577453_102025-AB.webp",
       "horarioProgramado": "13:58",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-24T16:58:56.513Z"
     },
     {
       "posicao": 27,
@@ -459,10 +459,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_941080-MLB87441707003_072025-AB-blusinha-divinna-plus-size-feminina-decote-v-curta.webp",
       "horarioProgramado": "14:01",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-24T17:01:52.987Z"
     },
     {
       "posicao": 28,
