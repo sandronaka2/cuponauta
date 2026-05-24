@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-24T00:26:36.173Z",
-  "exportedAt": "23/05/2026, 21:26:36",
+  "lastExport": "2026-05-24T01:23:10.677Z",
+  "exportedAt": "23/05/2026, 22:23:10",
   "total": 72,
-  "pendentes": 10,
-  "postados": 62,
+  "pendentes": 6,
+  "postados": 66,
   "queue": [
     {
       "posicao": 1,
@@ -1165,18 +1165,18 @@
       "posicao": 69,
       "id": "wa-2134-68",
       "titulo": "Notebook Lenovo Ideapad Slim 3 15irh10 Intel Core I5-13420h 8gb 512gb Ssd Windows 11 15.3  - 83ns0002br Luna Grey",
-      "preco": "R$ 3426,72",
+      "preco": "R$ 3.894",
       "precoOriginal": "R$4.999",
       "desconto": "22% OFF no Pix",
-      "cupom": "ESQUENTA",
+      "cupom": null,
       "link": "https://meli.la/1qfGhBU",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_721945-MLA85788494302_062025-AB.webp",
       "horarioProgramado": "21:34",
       "janela": "21:00-22:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-24T00:34:35.268Z"
     },
     {
       "posicao": 70,
@@ -1190,44 +1190,44 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_695211-MLB105765632497_012026-AB-oculos-de-sol-masculino-general-demolidor-original-militar.webp",
       "horarioProgramado": "21:42",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-24T00:42:11.100Z"
     },
     {
       "posicao": 71,
       "id": "wa-2150-70",
       "titulo": "Esmerilhadeira Angular Bosch Professional Gws 700 Azul 710 W 220v 60 Hz",
-      "preco": "R$ 212,96",
+      "preco": "R$ 242",
       "precoOriginal": "R$417,15",
       "desconto": "41% OFF no Pix",
-      "cupom": "ESQUENTA",
+      "cupom": null,
       "link": "https://meli.la/1NWzEFP",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_670719-MLA99986706915_112025-AB.webp",
       "horarioProgramado": "21:50",
       "janela": "21:00-22:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-24T00:50:33.952Z"
     },
     {
       "posicao": 72,
       "id": "wa-2158-71",
       "titulo": "Cadeira Salao De Beleza Reclinável Safira - Pronta Entrega",
-      "preco": "R$ 1161,60",
+      "preco": "R$ 1.320",
       "precoOriginal": "R$1.627",
       "desconto": "18% OFF",
-      "cupom": "ESQUENTA",
+      "cupom": null,
       "link": "https://meli.la/1DeU2oL",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_926788-MLB93852157245_092025-AB-cadeira-salao-de-beleza-reclinavel-safira-pronta-entrega.webp",
       "horarioProgramado": "21:58",
       "janela": "21:00-22:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-24T00:58:31.848Z"
     }
   ]
 }
