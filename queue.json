@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-24T22:16:43.690Z",
-  "exportedAt": "24/05/2026, 19:16:43",
+  "lastExport": "2026-05-24T22:18:14.651Z",
+  "exportedAt": "24/05/2026, 19:18:14",
   "total": 72,
-  "pendentes": 26,
-  "postados": 46,
+  "pendentes": 25,
+  "postados": 47,
   "queue": [
     {
       "posicao": 1,
@@ -876,18 +876,18 @@
       "posicao": 52,
       "id": "wa-1917-51",
       "titulo": "Lava-louça Electrolux 8 Serviços Inox Com Programa Lava & Seca 50 Minutos Ls08e Display Digital Prateado 127v",
-      "preco": "R$ 2267,00",
+      "preco": "R$ 2.327",
       "precoOriginal": "R$3.179",
       "desconto": "26% OFF no Pix ou Saldo no Mercado Pago",
-      "cupom": "FONEDEOUVIDO",
+      "cupom": null,
       "link": "https://meli.la/1aa4i8c",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_888971-MLA95503120756_102025-AB.webp",
       "horarioProgramado": "19:17",
       "janela": "18:00-21:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-24T22:17:38.343Z"
     },
     {
       "posicao": 53,
