@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-25T21:05:24.722Z",
-  "exportedAt": "25/05/2026, 18:05:24",
+  "lastExport": "2026-05-25T21:08:48.838Z",
+  "exportedAt": "25/05/2026, 18:08:48",
   "total": 72,
-  "pendentes": 30,
-  "postados": 42,
+  "pendentes": 29,
+  "postados": 43,
   "queue": [
     {
       "posicao": 1,
@@ -740,18 +740,18 @@
       "posicao": 44,
       "id": "wa-1808-43",
       "titulo": "Kit Cueca Slip Básicas Com Elástico 10 Peças Mash St00 - 2 Azul Marinho 2 Brancas 2 Mescla 2 Chumbo 2 Pretas Liso M",
-      "preco": "R$ 104,72",
+      "preco": "R$ 119",
       "precoOriginal": "R$149,90",
       "desconto": "20% OFF no Pix ou Saldo no Mercado Pago",
-      "cupom": "FONEDEOUVIDO",
+      "cupom": null,
       "link": "https://meli.la/1NNFdhA",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_738508-MLB76124851139_052024-AB.webp",
       "horarioProgramado": "18:08",
       "janela": "18:00-21:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-25T21:08:07.122Z"
     },
     {
       "posicao": 45,
