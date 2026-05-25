@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-25T16:41:36.180Z",
-  "exportedAt": "25/05/2026, 13:41:36",
+  "lastExport": "2026-05-25T16:45:07.922Z",
+  "exportedAt": "25/05/2026, 13:45:07",
   "total": 72,
-  "pendentes": 50,
-  "postados": 22,
+  "pendentes": 49,
+  "postados": 23,
   "queue": [
     {
       "posicao": 1,
@@ -408,10 +408,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_667948-MLB91116322560_092025-AB-camiseta-reserva-masculina-estampada-selo-onda-branca.webp",
       "horarioProgramado": "13:42",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-25T16:42:11.733Z"
     },
     {
       "posicao": 25,
