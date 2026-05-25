@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-25T19:39:26.489Z",
-  "exportedAt": "25/05/2026, 16:39:26",
+  "lastExport": "2026-05-25T19:45:09.592Z",
+  "exportedAt": "25/05/2026, 16:45:09",
   "total": 72,
-  "pendentes": 37,
-  "postados": 35,
+  "pendentes": 36,
+  "postados": 36,
   "queue": [
     {
       "posicao": 1,
@@ -629,10 +629,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_790818-MLB79749281399_102024-AB-kit-2-blusas-t-shirt-plus-size-feminina-casual-7-estampas.webp",
       "horarioProgramado": "16:40",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-25T19:40:17.492Z"
     },
     {
       "posicao": 38,
