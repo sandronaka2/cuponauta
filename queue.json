@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-25T14:41:24.262Z",
-  "exportedAt": "25/05/2026, 11:41:24",
+  "lastExport": "2026-05-25T14:42:03.670Z",
+  "exportedAt": "25/05/2026, 11:42:03",
   "total": 72,
-  "pendentes": 63,
-  "postados": 9,
+  "pendentes": 62,
+  "postados": 10,
   "queue": [
     {
       "posicao": 1,
@@ -187,10 +187,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_984855-MLB85635884054_062025-AB-tenis-masculino-sapatenis-polo-feet-sapato-casual-promoco.webp",
       "horarioProgramado": "11:41",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-25T14:41:43.510Z"
     },
     {
       "posicao": 12,
