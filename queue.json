@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-25T16:58:01.784Z",
-  "exportedAt": "25/05/2026, 13:58:01",
+  "lastExport": "2026-05-25T16:58:36.549Z",
+  "exportedAt": "25/05/2026, 13:58:36",
   "total": 72,
-  "pendentes": 48,
-  "postados": 24,
+  "pendentes": 47,
+  "postados": 25,
   "queue": [
     {
       "posicao": 1,
@@ -442,10 +442,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_942093-MLB105060465133_012026-AB-olevs-relogio-masculino-a-prova-dagua-couro-6898.webp",
       "horarioProgramado": "13:58",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-25T16:58:18.874Z"
     },
     {
       "posicao": 27,
