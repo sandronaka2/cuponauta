@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-25T23:15:09.852Z",
-  "exportedAt": "25/05/2026, 20:15:09",
+  "lastExport": "2026-05-25T23:18:48.962Z",
+  "exportedAt": "25/05/2026, 20:18:48",
   "total": 72,
-  "pendentes": 15,
-  "postados": 57,
+  "pendentes": 14,
+  "postados": 58,
   "queue": [
     {
       "posicao": 1,
@@ -995,18 +995,18 @@
       "posicao": 59,
       "id": "wa-2017-58",
       "titulo": "Notebook Asus Vivobook Go 15 Amd Ryzen 5 7520u 16gb 512ssd Mixed Black Preto",
-      "preco": "R$ 3232,00",
+      "preco": "R$ 3.292",
       "precoOriginal": "R$3.899",
       "desconto": "15% OFF no Pix",
-      "cupom": "FONEDEOUVIDO",
+      "cupom": null,
       "link": "https://meli.la/1fGKgRJ",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_722728-MLA110061030541_042026-AB.webp",
       "horarioProgramado": "20:17",
       "janela": "18:00-21:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-25T23:17:35.977Z"
     },
     {
       "posicao": 60,
