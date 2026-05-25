@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-25T21:34:12.204Z",
-  "exportedAt": "25/05/2026, 18:34:12",
+  "lastExport": "2026-05-25T21:35:09.906Z",
+  "exportedAt": "25/05/2026, 18:35:09",
   "total": 72,
-  "pendentes": 27,
-  "postados": 45,
+  "pendentes": 26,
+  "postados": 46,
   "queue": [
     {
       "posicao": 1,
@@ -791,18 +791,18 @@
       "posicao": 47,
       "id": "wa-1834-46",
       "titulo": "Secadora De Roupas Healthguard Lunardial 11,2kg Branca Midea Cor Branco 127v",
-      "preco": "R$ 2039,00",
+      "preco": "R$ 2.099",
       "precoOriginal": "R$2.564",
       "desconto": "18% OFF",
-      "cupom": "FONEDEOUVIDO",
+      "cupom": null,
       "link": "https://meli.la/2Gr5CWM",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_963015-MLA84555821594_052025-AB.webp",
       "horarioProgramado": "18:34",
       "janela": "18:00-21:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-25T21:34:30.113Z"
     },
     {
       "posicao": 48,
