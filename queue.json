@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-25T22:47:32.979Z",
-  "exportedAt": "25/05/2026, 19:47:32",
+  "lastExport": "2026-05-25T22:55:09.592Z",
+  "exportedAt": "25/05/2026, 19:55:09",
   "total": 72,
-  "pendentes": 18,
-  "postados": 54,
+  "pendentes": 17,
+  "postados": 55,
   "queue": [
     {
       "posicao": 1,
@@ -944,18 +944,18 @@
       "posicao": 56,
       "id": "wa-1950-55",
       "titulo": "Barbeador Elétrico Power Adapt Auto Afiável, À Prova Dágua, Bivolt  S5880/20, Philips Cinza-escuro",
-      "preco": "R$ 484,00",
+      "preco": "R$ 544",
       "precoOriginal": "R$787,38",
       "desconto": "30% OFF no Pix",
-      "cupom": "FONEDEOUVIDO",
+      "cupom": null,
       "link": "https://meli.la/1jCMrxC",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_662469-MLA99520091700_112025-AB.webp",
       "horarioProgramado": "19:50",
       "janela": "18:00-21:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-25T22:50:20.134Z"
     },
     {
       "posicao": 57,
