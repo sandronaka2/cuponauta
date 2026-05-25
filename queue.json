@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-25T21:15:09.708Z",
-  "exportedAt": "25/05/2026, 18:15:09",
+  "lastExport": "2026-05-25T21:18:48.874Z",
+  "exportedAt": "25/05/2026, 18:18:48",
   "total": 72,
-  "pendentes": 29,
-  "postados": 43,
+  "pendentes": 28,
+  "postados": 44,
   "queue": [
     {
       "posicao": 1,
@@ -757,18 +757,18 @@
       "posicao": 45,
       "id": "wa-1817-44",
       "titulo": "Jogo De Panelas Tramontina Inox Allegra 10p Com Pegador Plata",
-      "preco": "R$ 699,00",
+      "preco": "R$ 759",
       "precoOriginal": "R$1.466",
       "desconto": "48% OFF",
-      "cupom": "FONEDEOUVIDO",
+      "cupom": null,
       "link": "https://meli.la/1fAvCfQ",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_977849-MLA95706346906_102025-AB.webp",
       "horarioProgramado": "18:17",
       "janela": "18:00-21:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-25T21:17:24.131Z"
     },
     {
       "posicao": 46,
