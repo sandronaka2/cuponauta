@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-25T23:23:42.894Z",
-  "exportedAt": "25/05/2026, 20:23:42",
+  "lastExport": "2026-05-25T23:25:09.918Z",
+  "exportedAt": "25/05/2026, 20:25:09",
   "total": 72,
-  "pendentes": 14,
-  "postados": 58,
+  "pendentes": 13,
+  "postados": 59,
   "queue": [
     {
       "posicao": 1,
@@ -1012,18 +1012,18 @@
       "posicao": 60,
       "id": "wa-2025-59",
       "titulo": "Kit Relógio Lady + Feminino Dourado Dumont Dourado Champanhe",
-      "preco": "R$ 166,32",
+      "preco": "R$ 189",
       "precoOriginal": "R$299",
       "desconto": "36% OFF no Pix ou Saldo no Mercado Pago",
-      "cupom": "FONEDEOUVIDO",
+      "cupom": null,
       "link": "https://meli.la/1jBG7mQ",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_917720-MLA99956255723_112025-AB.webp",
       "horarioProgramado": "20:25",
       "janela": "18:00-21:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-25T23:25:07.193Z"
     },
     {
       "posicao": 61,
