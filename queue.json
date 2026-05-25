@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-25T19:05:09.510Z",
-  "exportedAt": "25/05/2026, 16:05:09",
+  "lastExport": "2026-05-25T19:07:29.261Z",
+  "exportedAt": "25/05/2026, 16:07:29",
   "total": 72,
-  "pendentes": 39,
-  "postados": 33,
+  "pendentes": 38,
+  "postados": 34,
   "queue": [
     {
       "posicao": 1,
@@ -587,18 +587,18 @@
       "posicao": 35,
       "id": "wa-1607-34",
       "titulo": "Corrente Masculina Grumet Folheado Ouro 18k + Pingente Cruz",
-      "preco": "R$ 103,84",
+      "preco": "R$ 118",
       "precoOriginal": "R$135,41",
       "desconto": "12% OFF no Pix",
-      "cupom": "FONEDEOUVIDO",
+      "cupom": null,
       "link": "https://meli.la/2KQXd4C",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_651864-MLB81403336710_122024-V-corrente-masculina-grumet-folheado-ouro-18k-pingente-cruz.webp",
       "horarioProgramado": "16:07",
       "janela": "14:00-18:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-25T19:07:21.121Z"
     },
     {
       "posicao": 36,
