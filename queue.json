@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-25T00:55:06.660Z",
-  "exportedAt": "24/05/2026, 21:55:06",
+  "lastExport": "2026-05-25T01:02:12.541Z",
+  "exportedAt": "24/05/2026, 22:02:12",
   "total": 72,
-  "pendentes": 6,
-  "postados": 66,
+  "pendentes": 5,
+  "postados": 67,
   "queue": [
     {
       "posicao": 1,
@@ -1224,10 +1224,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_881571-MLA106760157752_022026-AB-max-colete-feminino-alfaiataria-luxo-e-elegncia.webp",
       "horarioProgramado": "21:58",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-25T00:58:26.178Z"
     }
   ]
 }
