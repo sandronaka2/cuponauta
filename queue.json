@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-25T19:25:24.749Z",
-  "exportedAt": "25/05/2026, 16:25:24",
+  "lastExport": "2026-05-25T19:28:48.684Z",
+  "exportedAt": "25/05/2026, 16:28:48",
   "total": 72,
-  "pendentes": 38,
-  "postados": 34,
+  "pendentes": 37,
+  "postados": 35,
   "queue": [
     {
       "posicao": 1,
@@ -604,18 +604,18 @@
       "posicao": 36,
       "id": "wa-1625-35",
       "titulo": "Tênis Ramarim Feminino Chunky Dad Sneaker Casual Lançamento",
-      "preco": "R$ 113,52",
+      "preco": "R$ 129",
       "precoOriginal": "R$279,99",
       "desconto": "53% OFF",
-      "cupom": "FONEDEOUVIDO",
+      "cupom": null,
       "link": "https://meli.la/2nJF6b4",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_889929-MLB81181849025_122024-AB-tnis-ramarim-feminino-chunky-dad-sneaker-casual-lancamento.webp",
       "horarioProgramado": "16:25",
       "janela": "14:00-18:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-25T19:25:26.188Z"
     },
     {
       "posicao": 37,
