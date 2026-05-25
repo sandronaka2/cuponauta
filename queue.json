@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-25T15:09:24.824Z",
-  "exportedAt": "25/05/2026, 12:09:24",
+  "lastExport": "2026-05-25T15:19:25.004Z",
+  "exportedAt": "25/05/2026, 12:19:25",
   "total": 72,
-  "pendentes": 59,
-  "postados": 13,
+  "pendentes": 58,
+  "postados": 14,
   "queue": [
     {
       "posicao": 1,
@@ -255,10 +255,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_824535-MLB106714184984_022026-AB-calca-balo-jeans-masculina-marmorizada-streetwear-larga-bag.webp",
       "horarioProgramado": "12:17",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-25T15:17:13.305Z"
     },
     {
       "posicao": 16,
