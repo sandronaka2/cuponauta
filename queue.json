@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-25T20:09:41.626Z",
-  "exportedAt": "25/05/2026, 17:09:41",
+  "lastExport": "2026-05-25T20:15:09.456Z",
+  "exportedAt": "25/05/2026, 17:15:09",
   "total": 72,
-  "pendentes": 35,
-  "postados": 37,
+  "pendentes": 34,
+  "postados": 38,
   "queue": [
     {
       "posicao": 1,
@@ -655,18 +655,18 @@
       "posicao": 39,
       "id": "wa-1713-38",
       "titulo": "Celular Smartphone Realme C73 256gb 8gb Ram Dual Sim 120hz 6000mah Violeta",
-      "preco": "R$ 1089,00",
+      "preco": "R$ 1.149",
       "precoOriginal": "R$1.599",
       "desconto": "28% OFF no Pix",
-      "cupom": "FONEDEOUVIDO",
+      "cupom": null,
       "link": "https://meli.la/1Q8jG23",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_653269-MLA102616675647_122025-AB.webp",
       "horarioProgramado": "17:13",
       "janela": "14:00-18:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-25T20:13:13.363Z"
     },
     {
       "posicao": 40,
