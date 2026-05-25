@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-25T21:58:01.991Z",
-  "exportedAt": "25/05/2026, 18:58:01",
+  "lastExport": "2026-05-25T22:05:09.783Z",
+  "exportedAt": "25/05/2026, 19:05:09",
   "total": 72,
-  "pendentes": 24,
-  "postados": 48,
+  "pendentes": 23,
+  "postados": 49,
   "queue": [
     {
       "posicao": 1,
@@ -850,10 +850,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_754511-MLB87288305150_072025-AB-jaqueta-bobojaco-forrado-peluciado-frio-inverno-impermeavel.webp",
       "horarioProgramado": "18:58",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-25T21:58:13.435Z"
     },
     {
       "posicao": 51,
