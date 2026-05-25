@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-25T23:00:07.466Z",
-  "exportedAt": "25/05/2026, 20:00:07",
+  "lastExport": "2026-05-25T23:05:29.617Z",
+  "exportedAt": "25/05/2026, 20:05:29",
   "total": 72,
-  "pendentes": 17,
-  "postados": 55,
+  "pendentes": 16,
+  "postados": 56,
   "queue": [
     {
       "posicao": 1,
@@ -961,18 +961,18 @@
       "posicao": 57,
       "id": "wa-2000-56",
       "titulo": "Extratora De Sujeira Portátil Wap Spot Cleaner W3 Borrifa Esfrega E Extrai 1450w De Potência E Bico De Autolimpeza Cinza/roxo 220v",
-      "preco": "R$ 432,08",
+      "preco": "R$ 491",
       "precoOriginal": "R$899,86",
       "desconto": "45% OFF no Pix",
-      "cupom": "FONEDEOUVIDO",
+      "cupom": null,
       "link": "https://meli.la/1Egk1rR",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_865352-MLA99448833158_112025-AB.webp",
       "horarioProgramado": "20:00",
       "janela": "18:00-21:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-25T23:00:39.687Z"
     },
     {
       "posicao": 58,
