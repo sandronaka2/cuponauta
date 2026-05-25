@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-25T19:55:09.557Z",
-  "exportedAt": "25/05/2026, 16:55:09",
+  "lastExport": "2026-05-25T20:05:09.766Z",
+  "exportedAt": "25/05/2026, 17:05:09",
   "total": 72,
-  "pendentes": 36,
-  "postados": 36,
+  "pendentes": 35,
+  "postados": 37,
   "queue": [
     {
       "posicao": 1,
@@ -638,18 +638,18 @@
       "posicao": 38,
       "id": "wa-1657-37",
       "titulo": "Varal De Chão Reforçado Com Abas Dobrável Retrátil Slim Mor Branco",
-      "preco": "R$ 78,32",
+      "preco": "R$ 89",
       "precoOriginal": "R$143,13",
       "desconto": "37% OFF",
-      "cupom": "FONEDEOUVIDO",
+      "cupom": null,
       "link": "https://meli.la/1yy44Ee",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_896922-MLA95936711469_102025-AB.webp",
       "horarioProgramado": "16:57",
       "janela": "14:00-18:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-25T19:57:41.992Z"
     },
     {
       "posicao": 39,
