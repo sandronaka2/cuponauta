@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-25T15:59:25.027Z",
-  "exportedAt": "25/05/2026, 12:59:25",
+  "lastExport": "2026-05-25T16:05:08.105Z",
+  "exportedAt": "25/05/2026, 13:05:08",
   "total": 72,
-  "pendentes": 54,
-  "postados": 18,
+  "pendentes": 53,
+  "postados": 19,
   "queue": [
     {
       "posicao": 1,
@@ -340,10 +340,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_801754-MLB84162924207_042025-AB-vestido-feminino-casual-longo-sem-manga-com-fenda-lateral.webp",
       "horarioProgramado": "13:04",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-25T16:04:51.669Z"
     },
     {
       "posicao": 21,
