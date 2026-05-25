@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-25T20:25:09.598Z",
-  "exportedAt": "25/05/2026, 17:25:09",
+  "lastExport": "2026-05-25T20:28:48.778Z",
+  "exportedAt": "25/05/2026, 17:28:48",
   "total": 72,
-  "pendentes": 34,
-  "postados": 38,
+  "pendentes": 33,
+  "postados": 39,
   "queue": [
     {
       "posicao": 1,
@@ -672,18 +672,18 @@
       "posicao": 40,
       "id": "wa-1728-39",
       "titulo": "Relógio Smartwatch Aurafit Trek2 Com Gps, À Prova D'água Preto Sport Preto/verde",
-      "preco": "R$ 322,96",
+      "preco": "R$ 367",
       "precoOriginal": "R$439",
       "desconto": "16% OFF",
-      "cupom": "FONEDEOUVIDO",
+      "cupom": null,
       "link": "https://meli.la/15fgvTE",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_719143-MLB97561200700_112025-AB.webp",
       "horarioProgramado": "17:28",
       "janela": "14:00-18:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-25T20:28:19.005Z"
     },
     {
       "posicao": 41,
