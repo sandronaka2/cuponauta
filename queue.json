@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-25T23:40:11.769Z",
-  "exportedAt": "25/05/2026, 20:40:11",
+  "lastExport": "2026-05-25T23:42:35.666Z",
+  "exportedAt": "25/05/2026, 20:42:35",
   "total": 72,
-  "pendentes": 12,
-  "postados": 60,
+  "pendentes": 11,
+  "postados": 61,
   "queue": [
     {
       "posicao": 1,
@@ -1046,18 +1046,18 @@
       "posicao": 62,
       "id": "wa-2042-61",
       "titulo": "Smart TV TCL 65 Polegadas QLED 4K P7K WiFi Bluetooth Google TV HDR10+ Dolby Atmos Dolby Vision 65P7K",
-      "preco": "R$ 3295,00",
+      "preco": "R$ 3.355",
       "precoOriginal": "R$3.459",
       "desconto": "no Pix",
-      "cupom": "FONEDEOUVIDO",
+      "cupom": null,
       "link": "https://meli.la/2KAJGuA",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_681302-MLA103364086954_012026-V.webp",
       "horarioProgramado": "20:42",
       "janela": "18:00-21:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-25T23:42:11.160Z"
     },
     {
       "posicao": 63,
