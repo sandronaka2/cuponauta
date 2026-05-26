@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-26T15:25:43.297Z",
-  "exportedAt": "26/05/2026, 12:25:43",
+  "lastExport": "2026-05-26T15:32:07.459Z",
+  "exportedAt": "26/05/2026, 12:32:07",
   "total": 72,
-  "pendentes": 63,
-  "postados": 9,
+  "pendentes": 62,
+  "postados": 10,
   "queue": [
     {
       "posicao": 1,
@@ -272,10 +272,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_793191-MLB109574677861_032026-AB-kit-4-sutis-com-bojo-alca-reforcada-cores-lisas-revenda.webp",
       "horarioProgramado": "12:31",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-26T15:31:31.296Z"
     },
     {
       "posicao": 17,
