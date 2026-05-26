@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-26T16:05:43.337Z",
-  "exportedAt": "26/05/2026, 13:05:43",
+  "lastExport": "2026-05-26T16:15:43.341Z",
+  "exportedAt": "26/05/2026, 13:15:43",
   "total": 72,
-  "pendentes": 59,
-  "postados": 13,
+  "pendentes": 58,
+  "postados": 14,
   "queue": [
     {
       "posicao": 1,
@@ -340,10 +340,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_886726-MLB82249465201_022025-AB-oculos-de-sol-aviador-preto-armaco-metal-lente-cristal-full.webp",
       "horarioProgramado": "13:08",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-26T16:08:22.070Z"
     },
     {
       "posicao": 21,
