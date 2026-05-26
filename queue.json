@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-25T23:55:09.926Z",
-  "exportedAt": "25/05/2026, 20:55:09",
+  "lastExport": "2026-05-26T00:02:35.581Z",
+  "exportedAt": "25/05/2026, 21:02:35",
   "total": 72,
-  "pendentes": 10,
-  "postados": 62,
+  "pendentes": 8,
+  "postados": 64,
   "queue": [
     {
       "posicao": 1,
@@ -1088,27 +1088,27 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_825156-MLB96355516734_102025-AB.webp",
       "horarioProgramado": "20:58",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-25T23:58:25.090Z"
     },
     {
       "posicao": 65,
       "id": "wa-2102-64",
       "titulo": "Whey Protein Dr. Peanut 100% Whey 900g Max Titanium - Sabor Avelã",
-      "preco": "R$ 118,80",
+      "preco": "R$ 135",
       "precoOriginal": "R$229",
       "desconto": "41% OFF",
-      "cupom": "FONEDEOUVIDO",
+      "cupom": null,
       "link": "https://meli.la/2GwHZmr",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_852540-MLA100008037495_122025-AB.webp",
       "horarioProgramado": "21:02",
       "janela": "21:00-22:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-26T00:02:20.129Z"
     },
     {
       "posicao": 66,
