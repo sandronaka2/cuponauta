@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-26T15:55:43.318Z",
-  "exportedAt": "26/05/2026, 12:55:43",
+  "lastExport": "2026-05-26T16:05:43.337Z",
+  "exportedAt": "26/05/2026, 13:05:43",
   "total": 72,
-  "pendentes": 60,
-  "postados": 12,
+  "pendentes": 59,
+  "postados": 13,
   "queue": [
     {
       "posicao": 1,
@@ -323,10 +323,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_879653-MLB84650840109_052025-AB-moletom-feminino-canguru-liso-com-capuz-blusa-de-frio-casaco.webp",
       "horarioProgramado": "12:59",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-26T15:59:22.625Z"
     },
     {
       "posicao": 20,
