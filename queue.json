@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-26T00:09:29.732Z",
-  "exportedAt": "25/05/2026, 21:09:29",
+  "lastExport": "2026-05-26T00:10:00.477Z",
+  "exportedAt": "25/05/2026, 21:10:00",
   "total": 72,
-  "pendentes": 8,
-  "postados": 64,
+  "pendentes": 7,
+  "postados": 65,
   "queue": [
     {
       "posicao": 1,
@@ -1114,18 +1114,18 @@
       "posicao": 66,
       "id": "wa-2109-65",
       "titulo": "Conjunto Alfaiataria Feminino Moda Social Lycra Pantalona Azul-marinho G",
-      "preco": "R$ 91,52",
+      "preco": "R$ 104",
       "precoOriginal": "R$138,99",
       "desconto": "24% OFF",
-      "cupom": "FONEDEOUVIDO",
+      "cupom": null,
       "link": "https://meli.la/2ZEJFFH",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_694381-MLB109278074447_032026-AB.webp",
       "horarioProgramado": "21:09",
       "janela": "21:00-22:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-26T00:09:31.089Z"
     },
     {
       "posicao": 67,
