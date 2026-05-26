@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-26T00:35:10.165Z",
-  "exportedAt": "25/05/2026, 21:35:10",
+  "lastExport": "2026-05-26T00:36:52.082Z",
+  "exportedAt": "25/05/2026, 21:36:52",
   "total": 72,
-  "pendentes": 5,
-  "postados": 67,
+  "pendentes": 4,
+  "postados": 68,
   "queue": [
     {
       "posicao": 1,
@@ -1173,10 +1173,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_896620-MLB84882933907_052025-AB-lixeira-basculante-12-litros-escritorio-cho-pia-cozinha.webp",
       "horarioProgramado": "21:36",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-26T00:36:25.693Z"
     },
     {
       "posicao": 70,
