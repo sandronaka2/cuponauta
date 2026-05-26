@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-26T15:35:43.311Z",
-  "exportedAt": "26/05/2026, 12:35:43",
+  "lastExport": "2026-05-26T15:45:43.313Z",
+  "exportedAt": "26/05/2026, 12:45:43",
   "total": 72,
-  "pendentes": 62,
-  "postados": 10,
+  "pendentes": 61,
+  "postados": 11,
   "queue": [
     {
       "posicao": 1,
@@ -289,10 +289,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_828156-MLB104242975239_012026-AB-teclado-mecnico-gamer-60-61-teclas-rgb-azul-hot-swappable.webp",
       "horarioProgramado": "12:41",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-26T15:41:25.273Z"
     },
     {
       "posicao": 18,
