@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-26T00:50:00.545Z",
-  "exportedAt": "25/05/2026, 21:50:00",
+  "lastExport": "2026-05-26T00:51:56.523Z",
+  "exportedAt": "25/05/2026, 21:51:56",
   "total": 72,
-  "pendentes": 3,
-  "postados": 69,
+  "pendentes": 2,
+  "postados": 70,
   "queue": [
     {
       "posicao": 1,
@@ -1199,18 +1199,18 @@
       "posicao": 71,
       "id": "wa-2151-70",
       "titulo": "Fones Ouvido Esportivo Bluetooth Sem Fio Bateria Super Longa Preto",
-      "preco": "R$ 110,00",
+      "preco": "R$ 125",
       "precoOriginal": "R$199",
       "desconto": "36% OFF",
-      "cupom": "FONEDEOUVIDO",
+      "cupom": null,
       "link": "https://meli.la/1pLGVvh",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_692441-MLB101825039122_122025-AB.webp",
       "horarioProgramado": "21:51",
       "janela": "21:00-22:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-26T00:51:09.969Z"
     },
     {
       "posicao": 72,
