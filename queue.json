@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-27T00:45:45.220Z",
-  "exportedAt": "26/05/2026, 21:45:45",
+  "lastExport": "2026-05-27T00:55:45.234Z",
+  "exportedAt": "26/05/2026, 21:55:45",
   "total": 72,
-  "pendentes": 8,
-  "postados": 64,
+  "pendentes": 7,
+  "postados": 65,
   "queue": [
     {
       "posicao": 1,
@@ -1207,10 +1207,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_829005-MLB75341834634_032024-AB-brincos-de-presso-folheado-de-zircnia-delicados-luxo.webp",
       "horarioProgramado": "21:52",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-27T00:52:16.266Z"
     },
     {
       "posicao": 72,
