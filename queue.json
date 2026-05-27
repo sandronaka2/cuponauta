@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-27T15:00:10.345Z",
-  "exportedAt": "27/05/2026, 12:00:10",
+  "lastExport": "2026-05-27T15:28:24.823Z",
+  "exportedAt": "27/05/2026, 12:28:24",
   "total": 72,
-  "pendentes": 60,
-  "postados": 12,
+  "pendentes": 57,
+  "postados": 15,
   "queue": [
     {
       "posicao": 1,
@@ -221,10 +221,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_913741-MLA98100127469_112025-AB.webp",
       "horarioProgramado": "12:01",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-27T15:01:12.257Z"
     },
     {
       "posicao": 14,
@@ -238,10 +238,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_982197-MLA99599655222_122025-AB.webp",
       "horarioProgramado": "12:10",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-27T15:10:54.012Z"
     },
     {
       "posicao": 15,
@@ -255,10 +255,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_991896-MLB72360330813_102023-AB-kit-2-par-tnis-olymp-masculino-academia-caminhada-confort-3.webp",
       "horarioProgramado": "12:20",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-27T15:20:21.572Z"
     },
     {
       "posicao": 16,
