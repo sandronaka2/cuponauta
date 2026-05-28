@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-28T12:26:34.924Z",
-  "exportedAt": "28/05/2026, 09:26:34",
+  "lastExport": "2026-05-28T12:36:34.924Z",
+  "exportedAt": "28/05/2026, 09:36:34",
   "total": 72,
-  "pendentes": 70,
-  "postados": 2,
+  "pendentes": 69,
+  "postados": 3,
   "queue": [
     {
       "posicao": 1,
@@ -51,10 +51,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_628915-MLB100760430927_122025-AB-sandalia-vizzano-feminina-casual-dia-a-dia-conforto-original.webp",
       "horarioProgramado": "09:35",
       "janela": "09:00-10:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-28T12:35:22.535Z"
     },
     {
       "posicao": 4,
