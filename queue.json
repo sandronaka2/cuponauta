@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-28T00:16:46.583Z",
-  "exportedAt": "27/05/2026, 21:16:46",
+  "lastExport": "2026-05-28T00:38:36.468Z",
+  "exportedAt": "27/05/2026, 21:38:36",
   "total": 72,
-  "pendentes": 6,
-  "postados": 66,
+  "pendentes": 3,
+  "postados": 69,
   "queue": [
     {
       "posicao": 1,
@@ -1139,10 +1139,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_612185-MLA93461919705_092025-AB.webp",
       "horarioProgramado": "21:17",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-28T00:17:24.637Z"
     },
     {
       "posicao": 68,
@@ -1156,10 +1156,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_779172-MLB99396598895_112025-AB-conjunto-suplex-blackout-zero-transparncia-legging-e-croppe.webp",
       "horarioProgramado": "21:24",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-28T00:24:21.803Z"
     },
     {
       "posicao": 69,
@@ -1173,10 +1173,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_986083-MLA100032442235_122025-AB.webp",
       "horarioProgramado": "21:32",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-28T00:32:17.302Z"
     },
     {
       "posicao": 70,
