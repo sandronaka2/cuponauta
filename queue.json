@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-28T20:57:10.342Z",
-  "exportedAt": "28/05/2026, 17:57:10",
+  "lastExport": "2026-05-28T20:59:39.052Z",
+  "exportedAt": "28/05/2026, 17:59:39",
   "total": 72,
-  "pendentes": 31,
-  "postados": 41,
+  "pendentes": 30,
+  "postados": 42,
   "queue": [
     {
       "posicao": 1,
@@ -706,18 +706,18 @@
       "posicao": 42,
       "id": "wa-1757-41",
       "titulo": "Jipe Elétrico Bang Toys Iron Climber 12v Amarelo 3 A 5 Anos Com Controle 127/220v",
-      "preco": "R$ 1158,00",
+      "preco": "R$ 1.218",
       "precoOriginal": "R$2.258",
       "desconto": "46% OFF",
-      "cupom": "PARAVC",
+      "cupom": null,
       "link": "https://meli.la/185JL9v",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_747774-MLA112211856717_052026-AB.webp",
       "horarioProgramado": "17:57",
       "janela": "14:00-18:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-28T20:57:30.119Z"
     },
     {
       "posicao": 43,
