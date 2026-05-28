@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-28T16:16:35.204Z",
-  "exportedAt": "28/05/2026, 13:16:35",
+  "lastExport": "2026-05-28T16:23:58.112Z",
+  "exportedAt": "28/05/2026, 13:23:58",
   "total": 72,
-  "pendentes": 52,
-  "postados": 20,
+  "pendentes": 51,
+  "postados": 21,
   "queue": [
     {
       "posicao": 1,
@@ -357,10 +357,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_788610-MLB90556691173_082025-AB-chinelo-petite-jolie-feminino-leve-macio-original-pj6515.webp",
       "horarioProgramado": "13:18",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-28T16:18:17.495Z"
     },
     {
       "posicao": 22,
