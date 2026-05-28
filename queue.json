@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-28T18:45:28.196Z",
-  "exportedAt": "28/05/2026, 15:45:28",
+  "lastExport": "2026-05-28T18:55:21.308Z",
+  "exportedAt": "28/05/2026, 15:55:21",
   "total": 72,
-  "pendentes": 39,
-  "postados": 33,
+  "pendentes": 38,
+  "postados": 34,
   "queue": [
     {
       "posicao": 1,
@@ -570,18 +570,18 @@
       "posicao": 34,
       "id": "wa-1552-33",
       "titulo": "Kit 6 Cuecas Boxer Lupo Poliamida Sem Costura Box Original",
-      "preco": "R$ 109,65",
+      "preco": "R$ 129",
       "precoOriginal": "R$299,99",
       "desconto": "56% OFF",
-      "cupom": "PARAVC",
+      "cupom": null,
       "link": "https://meli.la/1zdUvDf",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_628190-MLB106929969799_022026-AB-kit-6-cuecas-boxer-lupo-poliamida-sem-costura-box-original.webp",
       "horarioProgramado": "15:52",
       "janela": "14:00-18:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-28T18:52:08.076Z"
     },
     {
       "posicao": 35,
