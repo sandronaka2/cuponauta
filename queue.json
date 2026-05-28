@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-28T19:21:08.664Z",
-  "exportedAt": "28/05/2026, 16:21:08",
+  "lastExport": "2026-05-28T19:31:22.181Z",
+  "exportedAt": "28/05/2026, 16:31:22",
   "total": 72,
-  "pendentes": 37,
-  "postados": 35,
+  "pendentes": 36,
+  "postados": 36,
   "queue": [
     {
       "posicao": 1,
@@ -604,18 +604,18 @@
       "posicao": 36,
       "id": "wa-1622-35",
       "titulo": "Kit Completo Mesa 2 Cadeiras Carrinho Auxiliar Prateleira",
-      "preco": "R$ 418,00",
+      "preco": "R$ 478",
       "precoOriginal": "R$510",
       "desconto": "6% OFF",
-      "cupom": "PARAVC",
+      "cupom": null,
       "link": "https://meli.la/2fCqk5h",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_979994-MLB100956924873_122025-AB-kit-completo-mesa-2-cadeiras-carrinho-auxiliar-prateleira.webp",
       "horarioProgramado": "16:22",
       "janela": "14:00-18:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-28T19:22:06.072Z"
     },
     {
       "posicao": 37,
