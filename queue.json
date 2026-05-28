@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-28T00:39:16.559Z",
-  "exportedAt": "27/05/2026, 21:39:16",
+  "lastExport": "2026-05-28T01:00:36.873Z",
+  "exportedAt": "27/05/2026, 22:00:36",
   "total": 72,
-  "pendentes": 3,
-  "postados": 69,
+  "pendentes": 0,
+  "postados": 72,
   "queue": [
     {
       "posicao": 1,
@@ -1190,10 +1190,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_626044-MLB107830888060_032026-AB-kit-10-cuecas-boxer-polo-fit-algodo-masculina-confortavel.webp",
       "horarioProgramado": "21:40",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-28T00:40:22.475Z"
     },
     {
       "posicao": 71,
@@ -1207,10 +1207,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_994631-MLA99592093086_122025-AB.webp",
       "horarioProgramado": "21:49",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-28T00:49:16.087Z"
     },
     {
       "posicao": 72,
@@ -1224,10 +1224,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_892568-MLA99939109103_112025-AB.webp",
       "horarioProgramado": "21:58",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-28T00:58:19.295Z"
     }
   ]
 }
