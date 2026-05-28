@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-28T19:00:08.353Z",
-  "exportedAt": "28/05/2026, 16:00:08",
+  "lastExport": "2026-05-28T19:10:24.211Z",
+  "exportedAt": "28/05/2026, 16:10:24",
   "total": 72,
-  "pendentes": 38,
-  "postados": 34,
+  "pendentes": 37,
+  "postados": 35,
   "queue": [
     {
       "posicao": 1,
@@ -587,18 +587,18 @@
       "posicao": 35,
       "id": "wa-1607-34",
       "titulo": "Caixa Som Bluetooth Jbl Go 4 Portátil Original Prova D'água Preto 127/220v",
-      "preco": "R$ 234,60",
+      "preco": "R$ 276",
       "precoOriginal": "R$420",
       "desconto": "34% OFF no Pix",
-      "cupom": "PARAVC",
+      "cupom": null,
       "link": "https://meli.la/1Ba2yBc",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_923415-MLB88102844162_072025-AB.webp",
       "horarioProgramado": "16:07",
       "janela": "14:00-18:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-28T19:07:08.032Z"
     },
     {
       "posicao": 36,
