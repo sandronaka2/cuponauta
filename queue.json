@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-28T20:33:10.049Z",
-  "exportedAt": "28/05/2026, 17:33:10",
+  "lastExport": "2026-05-28T20:43:31.176Z",
+  "exportedAt": "28/05/2026, 17:43:31",
   "total": 72,
-  "pendentes": 32,
-  "postados": 40,
+  "pendentes": 31,
+  "postados": 41,
   "queue": [
     {
       "posicao": 1,
@@ -689,18 +689,18 @@
       "posicao": 41,
       "id": "wa-1741-40",
       "titulo": "Organizador Gaveteiro Jaguar - Chão 3 Gavetas 15litros Cores",
-      "preco": "R$ 131,75",
+      "preco": "R$ 155",
       "precoOriginal": "R$259,99",
       "desconto": "40% OFF",
-      "cupom": "PARAVC",
+      "cupom": null,
       "link": "https://meli.la/2LBLqT8",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_695441-MLB93355788817_092025-AB-organizador-gaveteiro-jaguar-cho-3-gavetas-15litros-cores.webp",
       "horarioProgramado": "17:41",
       "janela": "14:00-18:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-28T20:41:13.994Z"
     },
     {
       "posicao": 42,
