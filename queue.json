@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-28T22:56:42.305Z",
-  "exportedAt": "28/05/2026, 19:56:42",
+  "lastExport": "2026-05-28T22:59:47.507Z",
+  "exportedAt": "28/05/2026, 19:59:47",
   "total": 72,
-  "pendentes": 16,
-  "postados": 56,
+  "pendentes": 15,
+  "postados": 57,
   "queue": [
     {
       "posicao": 1,
@@ -961,18 +961,18 @@
       "posicao": 57,
       "id": "wa-1959-56",
       "titulo": "Escorredor Louças Organizador Pia Suspenso Armario Cozinha 105cm",
-      "preco": "R$ 179,35",
+      "preco": "R$ 211",
       "precoOriginal": "R$391,83",
       "desconto": "46% OFF no Pix",
-      "cupom": "PARAVC",
+      "cupom": null,
       "link": "https://meli.la/24xVLu8",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_803109-MLB97605936862_112025-AB.webp",
       "horarioProgramado": "19:59",
       "janela": "18:00-21:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-28T22:59:19.085Z"
     },
     {
       "posicao": 58,
