@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-28T20:22:10.414Z",
-  "exportedAt": "28/05/2026, 17:22:10",
+  "lastExport": "2026-05-28T20:32:31.757Z",
+  "exportedAt": "28/05/2026, 17:32:31",
   "total": 72,
-  "pendentes": 33,
-  "postados": 39,
+  "pendentes": 32,
+  "postados": 40,
   "queue": [
     {
       "posicao": 1,
@@ -672,18 +672,18 @@
       "posicao": 40,
       "id": "wa-1726-39",
       "titulo": "Chapinha De Cabelo Mq Professional Hair Styling Max480 Slim Titanium Preta Preto 127/220v",
-      "preco": "R$ 304,30",
+      "preco": "R$ 358",
       "precoOriginal": "R$472,90",
       "desconto": "24% OFF",
-      "cupom": "PARAVC",
+      "cupom": null,
       "link": "https://meli.la/2Q3kWb5",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_780323-MLA100054765763_122025-AB.webp",
       "horarioProgramado": "17:26",
       "janela": "14:00-18:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-28T20:26:25.041Z"
     },
     {
       "posicao": 41,
