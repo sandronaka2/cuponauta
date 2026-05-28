@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-28T23:10:42.533Z",
-  "exportedAt": "28/05/2026, 20:10:42",
+  "lastExport": "2026-05-28T23:20:57.017Z",
+  "exportedAt": "28/05/2026, 20:20:57",
   "total": 72,
-  "pendentes": 14,
-  "postados": 58,
+  "pendentes": 13,
+  "postados": 59,
   "queue": [
     {
       "posicao": 1,
@@ -995,18 +995,18 @@
       "posicao": 59,
       "id": "wa-2017-58",
       "titulo": "Notebook Acer Aspire 5 A515-45-r2a3 R5 8gb 512gb Ssd 15,6' Gamut",
-      "preco": "R$ 3439,00",
+      "preco": "R$ 3.499",
       "precoOriginal": "R$5.609",
       "desconto": "37% OFF",
-      "cupom": "PARAVC",
+      "cupom": null,
       "link": "https://meli.la/15nWRAr",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_759351-MLU77118311686_062024-AB.webp",
       "horarioProgramado": "20:17",
       "janela": "18:00-21:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-28T23:17:12.967Z"
     },
     {
       "posicao": 60,
