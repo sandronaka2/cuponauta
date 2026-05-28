@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-28T15:16:35.145Z",
-  "exportedAt": "28/05/2026, 12:16:35",
+  "lastExport": "2026-05-28T15:23:56.511Z",
+  "exportedAt": "28/05/2026, 12:23:56",
   "total": 72,
-  "pendentes": 58,
-  "postados": 14,
+  "pendentes": 57,
+  "postados": 15,
   "queue": [
     {
       "posicao": 1,
@@ -255,10 +255,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_632577-MLB84554233529_052025-AB-calca-jeans-feminina-flare-cos-alto-hot-pants-levanta-bumbum.webp",
       "horarioProgramado": "12:20",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-28T15:20:15.458Z"
     },
     {
       "posicao": 16,
