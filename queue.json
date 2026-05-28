@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-28T22:46:12.709Z",
-  "exportedAt": "28/05/2026, 19:46:12",
+  "lastExport": "2026-05-28T22:56:29.694Z",
+  "exportedAt": "28/05/2026, 19:56:29",
   "total": 72,
-  "pendentes": 17,
-  "postados": 55,
+  "pendentes": 16,
+  "postados": 56,
   "queue": [
     {
       "posicao": 1,
@@ -944,18 +944,18 @@
       "posicao": 56,
       "id": "wa-1951-55",
       "titulo": "Camisa Polo Lacoste Original Em Promoção",
-      "preco": "R$ 221,85",
+      "preco": "R$ 261",
       "precoOriginal": "R$488,51",
       "desconto": "46% OFF no Pix",
-      "cupom": "PARAVC",
+      "cupom": null,
       "link": "https://meli.la/2HF7mCj",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_707878-MLB88571195865_072025-AB-camisa-polo-lacoste-original-em-promoco.webp",
       "horarioProgramado": "19:51",
       "janela": "18:00-21:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-28T22:51:22.948Z"
     },
     {
       "posicao": 57,
