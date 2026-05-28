@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-28T23:46:13.155Z",
-  "exportedAt": "28/05/2026, 20:46:13",
+  "lastExport": "2026-05-28T23:56:25.449Z",
+  "exportedAt": "28/05/2026, 20:56:25",
   "total": 72,
-  "pendentes": 10,
-  "postados": 62,
+  "pendentes": 9,
+  "postados": 63,
   "queue": [
     {
       "posicao": 1,
@@ -1063,18 +1063,18 @@
       "posicao": 63,
       "id": "wa-2051-62",
       "titulo": "Cooktop De Indução Britânia 6000w Bcte40a Preto 220v",
-      "preco": "R$ 857,00",
+      "preco": "R$ 917",
       "precoOriginal": "R$1.379",
       "desconto": "33% OFF no Pix",
-      "cupom": "PARAVC",
+      "cupom": null,
       "link": "https://meli.la/21FazkC",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_811375-MLA99455267768_112025-AB.webp",
       "horarioProgramado": "20:51",
       "janela": "18:00-21:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-28T23:51:05.904Z"
     },
     {
       "posicao": 64,
