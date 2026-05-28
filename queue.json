@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-28T21:32:40.992Z",
-  "exportedAt": "28/05/2026, 18:32:40",
+  "lastExport": "2026-05-28T21:42:52.826Z",
+  "exportedAt": "28/05/2026, 18:42:52",
   "total": 72,
-  "pendentes": 26,
-  "postados": 46,
+  "pendentes": 25,
+  "postados": 47,
   "queue": [
     {
       "posicao": 1,
@@ -791,18 +791,18 @@
       "posicao": 47,
       "id": "wa-1835-46",
       "titulo": "Fone De Ouvido Bluetooth T29 Tws Gamer Mais 30h De Musica",
-      "preco": "R$ 84,15",
+      "preco": "R$ 99",
       "precoOriginal": "R$269,90",
       "desconto": "62% OFF",
-      "cupom": "PARAVC",
+      "cupom": null,
       "link": "https://meli.la/12HmrmT",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_909689-MLB108041007596_032026-AB-fone-de-ouvido-bluetooth-t29-tws-gamer-mais-30h-de-musica.webp",
       "horarioProgramado": "18:35",
       "janela": "18:00-21:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-28T21:35:17.416Z"
     },
     {
       "posicao": 48,
