@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-28T19:45:39.206Z",
-  "exportedAt": "28/05/2026, 16:45:39",
+  "lastExport": "2026-05-28T19:55:59.389Z",
+  "exportedAt": "28/05/2026, 16:55:59",
   "total": 72,
-  "pendentes": 35,
-  "postados": 37,
+  "pendentes": 34,
+  "postados": 38,
   "queue": [
     {
       "posicao": 1,
@@ -638,18 +638,18 @@
       "posicao": 38,
       "id": "wa-1654-37",
       "titulo": "Monitor LG Gamer 24  24ms500-b Ips Fhd 100hz Anti-reflexo Pr Preto Bivolt",
-      "preco": "R$ 437,00",
+      "preco": "R$ 497",
       "precoOriginal": "R$899",
       "desconto": "44% OFF no Pix",
-      "cupom": "PARAVC",
+      "cupom": null,
       "link": "https://meli.la/2ZLkzg3",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_871469-MLB93485352059_092025-AB.webp",
       "horarioProgramado": "16:54",
       "janela": "14:00-18:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-28T19:54:18.968Z"
     },
     {
       "posicao": 39,
