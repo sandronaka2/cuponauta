@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-29T20:37:21.566Z",
-  "exportedAt": "29/05/2026, 17:37:21",
+  "lastExport": "2026-05-29T20:48:24.145Z",
+  "exportedAt": "29/05/2026, 17:48:24",
   "total": 72,
-  "pendentes": 32,
-  "postados": 40,
+  "pendentes": 31,
+  "postados": 41,
   "queue": [
     {
       "posicao": 1,
@@ -689,18 +689,18 @@
       "posicao": 41,
       "id": "wa-1744-40",
       "titulo": "Notebook Positivo Vision R15m, Ryzen 5-5625u, Windows 11 Home, 16gb Ram, 512gb Ssd, Tela 15.6  Full Hd Ips Antirreflexo Preto",
-      "preco": "R$ 3319,00",
+      "preco": "R$ 3.379",
       "precoOriginal": "R$5.822",
       "desconto": "41% OFF no Pix",
-      "cupom": "MELICUPOM",
+      "cupom": null,
       "link": "https://meli.la/2xG17Dm",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_712945-MLA101087086634_122025-AB.webp",
       "horarioProgramado": "17:44",
       "janela": "14:00-18:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-29T20:44:49.390Z"
     },
     {
       "posicao": 42,
