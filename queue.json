@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-29T22:49:23.670Z",
-  "exportedAt": "29/05/2026, 19:49:23",
+  "lastExport": "2026-05-29T22:59:38.622Z",
+  "exportedAt": "29/05/2026, 19:59:38",
   "total": 72,
-  "pendentes": 17,
-  "postados": 55,
+  "pendentes": 16,
+  "postados": 56,
   "queue": [
     {
       "posicao": 1,
@@ -944,18 +944,18 @@
       "posicao": 56,
       "id": "wa-1951-55",
       "titulo": "Relógio De Pulso Mondaine Com Corria De Silicone Cor Preto - Bisel Dourado",
-      "preco": "R$ 133,45",
+      "preco": "R$ 157",
       "precoOriginal": "R$334,22",
       "desconto": "52% OFF no Pix",
-      "cupom": "MELICUPOM",
+      "cupom": null,
       "link": "https://meli.la/2VvuGBs",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_706519-MLA110797403842_052026-AB.webp",
       "horarioProgramado": "19:51",
       "janela": "18:00-21:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-29T22:51:54.364Z"
     },
     {
       "posicao": 57,
