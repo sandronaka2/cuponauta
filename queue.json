@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-29T18:33:17.258Z",
-  "exportedAt": "29/05/2026, 15:33:17",
+  "lastExport": "2026-05-29T18:40:31.526Z",
+  "exportedAt": "29/05/2026, 15:40:31",
   "total": 72,
-  "pendentes": 40,
-  "postados": 32,
+  "pendentes": 39,
+  "postados": 33,
   "queue": [
     {
       "posicao": 1,
@@ -553,18 +553,18 @@
       "posicao": 33,
       "id": "wa-1534-32",
       "titulo": "Perfume Árabe Feminino Yara Lattafa Eau De Parfum 100 Ml",
-      "preco": "R$ 150,45",
+      "preco": "R$ 177",
       "precoOriginal": "R$249,90",
       "desconto": "29% OFF",
-      "cupom": "MELICUPOM",
+      "cupom": null,
       "link": "https://meli.la/2azsy3V",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_904984-MLB89160280950_082025-AB.webp",
       "horarioProgramado": "15:34",
       "janela": "14:00-18:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-29T18:34:15.853Z"
     },
     {
       "posicao": 34,
