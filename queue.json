@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-29T00:10:43.631Z",
-  "exportedAt": "28/05/2026, 21:10:43",
+  "lastExport": "2026-05-29T00:21:04.378Z",
+  "exportedAt": "28/05/2026, 21:21:04",
   "total": 72,
-  "pendentes": 6,
-  "postados": 66,
+  "pendentes": 5,
+  "postados": 67,
   "queue": [
     {
       "posicao": 1,
@@ -1131,18 +1131,18 @@
       "posicao": 67,
       "id": "wa-2116-66",
       "titulo": "Huawei Fit Fit 4 Pro Tela De 1.82  Com Pulseira De Fluorocarboneto Cor Verde Y Caixa Color Cinza",
-      "preco": "R$ 1439,00",
+      "preco": "R$ 1.499",
       "precoOriginal": "R$2.499",
       "desconto": "40% OFF",
-      "cupom": "PARAVC",
+      "cupom": null,
       "link": "https://meli.la/1sCqhLT",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_837351-MLA99407490398_112025-AB.webp",
       "horarioProgramado": "21:16",
       "janela": "21:00-22:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-29T00:16:07.676Z"
     },
     {
       "posicao": 68,
