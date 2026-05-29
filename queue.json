@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-29T19:21:43.901Z",
-  "exportedAt": "29/05/2026, 16:21:43",
+  "lastExport": "2026-05-29T19:22:19.925Z",
+  "exportedAt": "29/05/2026, 16:22:19",
   "total": 72,
-  "pendentes": 37,
-  "postados": 35,
+  "pendentes": 36,
+  "postados": 36,
   "queue": [
     {
       "posicao": 1,
@@ -604,18 +604,18 @@
       "posicao": 36,
       "id": "wa-1622-35",
       "titulo": "Fogão Cooktop Elétrico Elgin 2 Bocas 2000w Preto 220v",
-      "preco": "R$ 92,65",
+      "preco": "R$ 109",
       "precoOriginal": "R$127,24",
       "desconto": "14% OFF",
-      "cupom": "MELICUPOM",
+      "cupom": null,
       "link": "https://meli.la/1NDt5xC",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_708484-MLA95714020490_102025-AB.webp",
       "horarioProgramado": "16:22",
       "janela": "14:00-18:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-29T19:22:17.458Z"
     },
     {
       "posicao": 37,
