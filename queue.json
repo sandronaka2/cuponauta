@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-29T19:00:19.766Z",
-  "exportedAt": "29/05/2026, 16:00:19",
+  "lastExport": "2026-05-29T19:10:47.623Z",
+  "exportedAt": "29/05/2026, 16:10:47",
   "total": 72,
-  "pendentes": 38,
-  "postados": 34,
+  "pendentes": 37,
+  "postados": 35,
   "queue": [
     {
       "posicao": 1,
@@ -587,18 +587,18 @@
       "posicao": 35,
       "id": "wa-1607-34",
       "titulo": "Casaco Parka De Sarja Sobretudo Forrado C/ Capuz Removível",
-      "preco": "R$ 155,55",
+      "preco": "R$ 183",
       "precoOriginal": "R$221,57",
       "desconto": "17% OFF no Pix",
-      "cupom": "MELICUPOM",
+      "cupom": null,
       "link": "https://meli.la/1tNfpP4",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_865653-MLB105507481968_012026-AB-casaco-parka-de-sarja-sobretudo-forrado-c-capuz-removivel.webp",
       "horarioProgramado": "16:07",
       "janela": "14:00-18:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-29T19:07:30.646Z"
     },
     {
       "posicao": 36,
