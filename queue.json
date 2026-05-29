@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-29T12:55:58.102Z",
-  "exportedAt": "29/05/2026, 09:55:58",
+  "lastExport": "2026-05-29T13:04:36.931Z",
+  "exportedAt": "29/05/2026, 10:04:36",
   "total": 72,
-  "pendentes": 69,
-  "postados": 3,
+  "pendentes": 67,
+  "postados": 5,
   "queue": [
     {
       "posicao": 1,
@@ -68,10 +68,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_605860-MLA106542423896_022026-AB.webp",
       "horarioProgramado": "09:58",
       "janela": "09:00-10:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-29T12:58:16.375Z"
     },
     {
       "posicao": 5,
@@ -85,10 +85,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_964087-MLB111235678747_052026-AB-sandalia-meia-pata-salto-fino-super-confort-luxo-salto-alto.webp",
       "horarioProgramado": "10:01",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-29T13:01:10.860Z"
     },
     {
       "posicao": 6,
