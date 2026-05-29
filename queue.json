@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-28T23:56:43.364Z",
-  "exportedAt": "28/05/2026, 20:56:43",
+  "lastExport": "2026-05-28T23:59:52.068Z",
+  "exportedAt": "28/05/2026, 20:59:52",
   "total": 72,
-  "pendentes": 9,
-  "postados": 63,
+  "pendentes": 8,
+  "postados": 64,
   "queue": [
     {
       "posicao": 1,
@@ -1080,18 +1080,18 @@
       "posicao": 64,
       "id": "wa-2058-63",
       "titulo": "Console Playstation 5 Slim Edição Digital 825 Gb Branco",
-      "preco": "R$ 3889,00",
+      "preco": "R$ 3.949",
       "precoOriginal": "R$4.599",
       "desconto": "14% OFF",
-      "cupom": "PARAVC",
+      "cupom": null,
       "link": "https://meli.la/33Zmo9B",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_677584-MLA99572203884_122025-AB.webp",
       "horarioProgramado": "20:58",
       "janela": "18:00-21:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-28T23:58:19.999Z"
     },
     {
       "posicao": 65,
