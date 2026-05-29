@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-29T00:00:13.528Z",
-  "exportedAt": "28/05/2026, 21:00:13",
+  "lastExport": "2026-05-29T00:10:25.520Z",
+  "exportedAt": "28/05/2026, 21:10:25",
   "total": 72,
-  "pendentes": 8,
-  "postados": 64,
+  "pendentes": 6,
+  "postados": 66,
   "queue": [
     {
       "posicao": 1,
@@ -1105,27 +1105,27 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_645225-MLA99449520834_112025-AB.webp",
       "horarioProgramado": "21:01",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-29T00:01:19.838Z"
     },
     {
       "posicao": 66,
       "id": "wa-2108-65",
       "titulo": "Kit 36 Envelopes De Figurinhas Panini Da Copa Do Mundo Fifa 2026",
-      "preco": "R$ 193,80",
+      "preco": "R$ 228",
       "precoOriginal": "R$479,90",
       "desconto": "52% OFF",
-      "cupom": "PARAVC",
+      "cupom": null,
       "link": "https://meli.la/31ncdZJ",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_994528-MLA109213480020_042026-AB.webp",
       "horarioProgramado": "21:08",
       "janela": "21:00-22:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-29T00:08:06.965Z"
     },
     {
       "posicao": 67,
