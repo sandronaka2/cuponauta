@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-30T23:09:14.451Z",
-  "exportedAt": "30/05/2026, 20:09:14",
+  "lastExport": "2026-05-30T23:27:51.771Z",
+  "exportedAt": "30/05/2026, 20:27:51",
   "total": 72,
-  "pendentes": 15,
-  "postados": 57,
+  "pendentes": 12,
+  "postados": 60,
   "queue": [
     {
       "posicao": 1,
@@ -978,18 +978,18 @@
       "posicao": 58,
       "id": "wa-2009-57",
       "titulo": "Asus Consola Portátil 512 Gb White Z2 Rc73ya-nh003w Rog Xbox Ally Asus Ryzen Z2 Wh Branco",
-      "preco": "R$ 4163,00",
+      "preco": "R$ 4.223",
       "precoOriginal": "R$7.849",
       "desconto": "46% OFF no Pix",
-      "cupom": "SOHOJE",
+      "cupom": null,
       "link": "https://meli.la/1ekg7Av",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_785197-MLA98861184401_112025-AB.webp",
       "horarioProgramado": "20:09",
       "janela": "18:00-21:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-30T23:09:41.332Z"
     },
     {
       "posicao": 59,
@@ -1003,10 +1003,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_956415-MLA92436434943_092025-AB.webp",
       "horarioProgramado": "20:17",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-30T23:17:07.266Z"
     },
     {
       "posicao": 60,
@@ -1020,10 +1020,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_871708-MLA100016593317_122025-AB.webp",
       "horarioProgramado": "20:26",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-30T23:26:39.380Z"
     },
     {
       "posicao": 61,
