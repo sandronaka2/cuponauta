@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-30T12:53:28.424Z",
-  "exportedAt": "30/05/2026, 09:53:28",
+  "lastExport": "2026-05-30T13:02:28.988Z",
+  "exportedAt": "30/05/2026, 10:02:28",
   "total": 72,
-  "pendentes": 69,
-  "postados": 3,
+  "pendentes": 67,
+  "postados": 5,
   "queue": [
     {
       "posicao": 1,
@@ -68,10 +68,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_736689-MLB110533833319_042026-AB-blusa-bata-estampada-plus-size-feminina-daily-blusa.webp",
       "horarioProgramado": "09:58",
       "janela": "09:00-10:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-30T12:58:10.006Z"
     },
     {
       "posicao": 5,
@@ -85,10 +85,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_950204-MLA49695604575_042022-AB.webp",
       "horarioProgramado": "10:01",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-30T13:01:17.410Z"
     },
     {
       "posicao": 6,
