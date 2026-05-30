@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-30T14:03:01.725Z",
-  "exportedAt": "30/05/2026, 11:03:01",
+  "lastExport": "2026-05-30T14:11:17.674Z",
+  "exportedAt": "30/05/2026, 11:11:17",
   "total": 72,
-  "pendentes": 64,
-  "postados": 8,
+  "pendentes": 63,
+  "postados": 9,
   "queue": [
     {
       "posicao": 1,
@@ -153,10 +153,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_650468-MLA101435656431_122025-AB.webp",
       "horarioProgramado": "11:04",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-30T14:04:37.786Z"
     },
     {
       "posicao": 10,
@@ -1199,16 +1199,16 @@
       "posicao": 71,
       "id": "wa-2150-70",
       "titulo": "Notebook Vaio Fe16 Intel Core I5 13ª Gen Windows 11 Home 16gb 512gb Ssd Wi-fi 6 Tela 16  Ips Wuxga Antirreflexo - Cinza Grafite - Vjfe62f11x-b0321h - Memória Expansível Até 64gb",
-      "preco": "R$ 4.749",
+      "preco": "R$ 4689,00",
       "precoOriginal": "R$6.299",
       "desconto": "24% OFF no Pix",
-      "cupom": null,
+      "cupom": "SOHOJE",
       "link": "https://meli.la/2PRCtqv",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_956593-MLA99264538144_112025-AB.webp",
       "horarioProgramado": "21:50",
       "janela": "21:00-22:00",
       "status": "pendente",
-      "fonte": "OFERTA",
+      "fonte": "CUPOM",
       "boostType": null,
       "postedAt": null
     },
