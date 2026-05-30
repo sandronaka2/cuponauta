@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-30T18:25:47.788Z",
-  "exportedAt": "30/05/2026, 15:25:47",
+  "lastExport": "2026-05-30T18:43:46.570Z",
+  "exportedAt": "30/05/2026, 15:43:46",
   "total": 72,
-  "pendentes": 40,
-  "postados": 32,
+  "pendentes": 39,
+  "postados": 33,
   "queue": [
     {
       "posicao": 1,
@@ -561,10 +561,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_824365-MLB109018784015_032026-AB-cortina-lorena-5-metros-de-largura-x-280-altura-com-forro.webp",
       "horarioProgramado": "15:38",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-30T18:38:46.033Z"
     },
     {
       "posicao": 34,
