@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-30T21:44:53.504Z",
-  "exportedAt": "30/05/2026, 18:44:53",
+  "lastExport": "2026-05-30T22:02:50.642Z",
+  "exportedAt": "30/05/2026, 19:02:50",
   "total": 72,
-  "pendentes": 24,
-  "postados": 48,
+  "pendentes": 22,
+  "postados": 50,
   "queue": [
     {
       "posicao": 1,
@@ -833,10 +833,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_750956-MLA111404023193_052026-AB.webp",
       "horarioProgramado": "18:50",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-30T21:50:54.283Z"
     },
     {
       "posicao": 50,
@@ -850,10 +850,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_758063-MLB95873577471_102025-AB-varal-para-roupa-intima-com-32pregadores-meia-shorts-cabides.webp",
       "horarioProgramado": "19:00",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-30T22:00:48.463Z"
     },
     {
       "posicao": 51,
