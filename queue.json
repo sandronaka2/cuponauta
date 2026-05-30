@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-29T23:51:18.115Z",
-  "exportedAt": "29/05/2026, 20:51:18",
+  "lastExport": "2026-05-30T00:11:00.926Z",
+  "exportedAt": "29/05/2026, 21:11:00",
   "total": 72,
-  "pendentes": 9,
-  "postados": 63,
+  "pendentes": 6,
+  "postados": 66,
   "queue": [
     {
       "posicao": 1,
@@ -1088,10 +1088,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_674749-MLA95404505504_102025-AB.webp",
       "horarioProgramado": "20:58",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-29T23:58:14.436Z"
     },
     {
       "posicao": 65,
@@ -1105,10 +1105,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_604980-MLA99618060934_122025-AB.webp",
       "horarioProgramado": "21:01",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-30T00:01:25.972Z"
     },
     {
       "posicao": 66,
@@ -1122,10 +1122,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_917536-MLB48731908975_012022-AB-cortina-gaze-linho-e-blackout-7m-x-alt-trilho-suico-duplo.webp",
       "horarioProgramado": "21:08",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-30T00:08:47.472Z"
     },
     {
       "posicao": 67,
