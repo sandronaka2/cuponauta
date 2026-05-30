@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-30T16:28:05.159Z",
-  "exportedAt": "30/05/2026, 13:28:05",
+  "lastExport": "2026-05-30T16:41:40.691Z",
+  "exportedAt": "30/05/2026, 13:41:40",
   "total": 72,
-  "pendentes": 50,
-  "postados": 22,
+  "pendentes": 48,
+  "postados": 24,
   "queue": [
     {
       "posicao": 1,
@@ -391,10 +391,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_807412-MLB109864353937_032026-AB.webp",
       "horarioProgramado": "13:30",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-30T16:30:43.813Z"
     },
     {
       "posicao": 24,
@@ -408,10 +408,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_876046-MLB111690906409_052026-AB-kit-50-cabides-kparts-aveludado-preto-e-cinza-bege.webp",
       "horarioProgramado": "13:39",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-30T16:39:35.439Z"
     },
     {
       "posicao": 25,
