@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-30T00:31:40.998Z",
-  "exportedAt": "29/05/2026, 21:31:40",
+  "lastExport": "2026-05-30T00:51:46.038Z",
+  "exportedAt": "29/05/2026, 21:51:46",
   "total": 72,
-  "pendentes": 4,
-  "postados": 68,
+  "pendentes": 1,
+  "postados": 71,
   "queue": [
     {
       "posicao": 1,
@@ -1173,10 +1173,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_875756-MLB91240836518_092025-AB-kit-4-calcas-jeans-masculina-tradicional-atacado-reforcada.webp",
       "horarioProgramado": "21:35",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-30T00:35:23.613Z"
     },
     {
       "posicao": 70,
@@ -1190,10 +1190,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_611270-MLB111041386267_042026-AB.webp",
       "horarioProgramado": "21:42",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-30T00:42:49.421Z"
     },
     {
       "posicao": 71,
@@ -1207,10 +1207,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_682402-MLA99403901858_112025-AB.webp",
       "horarioProgramado": "21:49",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-30T00:49:44.669Z"
     },
     {
       "posicao": 72,
