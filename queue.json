@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-31T22:26:52.144Z",
-  "exportedAt": "31/05/2026, 19:26:52",
+  "lastExport": "2026-05-31T22:36:22.872Z",
+  "exportedAt": "31/05/2026, 19:36:22",
   "total": 72,
-  "pendentes": 19,
-  "postados": 53,
+  "pendentes": 18,
+  "postados": 54,
   "queue": [
     {
       "posicao": 1,
@@ -918,10 +918,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_734141-MLB94350373495_102025-AB-vestido-noiva-longo-civil-ombro-a-ombro-premium-nobre-elite.webp",
       "horarioProgramado": "19:35",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-31T22:35:17.362Z"
     },
     {
       "posicao": 55,
