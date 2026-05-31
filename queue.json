@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-31T18:23:48.284Z",
-  "exportedAt": "31/05/2026, 15:23:48",
+  "lastExport": "2026-05-31T19:06:15.457Z",
+  "exportedAt": "31/05/2026, 16:06:15",
   "total": 72,
-  "pendentes": 40,
-  "postados": 32,
+  "pendentes": 38,
+  "postados": 34,
   "queue": [
     {
       "posicao": 1,
@@ -561,10 +561,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_637976-MLB97492056306_112025-AB-jaqueta-de-couro-masculina-slim-promoco-frio-inverno.webp",
       "horarioProgramado": "15:36",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-31T18:36:09.870Z"
     },
     {
       "posicao": 34,
@@ -578,10 +578,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_999219-MLB83355013540_042025-AB-cropped-top-paete-feminino-brilho-moda-festa-balada-luxo.webp",
       "horarioProgramado": "15:52",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-31T18:52:29.723Z"
     },
     {
       "posicao": 35,
