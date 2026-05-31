@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-31T19:57:41.484Z",
-  "exportedAt": "31/05/2026, 16:57:41",
+  "lastExport": "2026-05-31T21:25:50.618Z",
+  "exportedAt": "31/05/2026, 18:25:50",
   "total": 72,
-  "pendentes": 35,
-  "postados": 37,
+  "pendentes": 27,
+  "postados": 45,
   "queue": [
     {
       "posicao": 1,
@@ -646,10 +646,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_937642-MLU77312515187_062024-AB.webp",
       "horarioProgramado": "16:57",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-31T19:58:00.578Z"
     },
     {
       "posicao": 39,
@@ -663,10 +663,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_984233-MLA105531058053_012026-AB.webp",
       "horarioProgramado": "17:12",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-31T20:12:52.397Z"
     },
     {
       "posicao": 40,
@@ -680,10 +680,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_641445-MLA107256158981_022026-AB.webp",
       "horarioProgramado": "17:27",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-31T20:27:16.334Z"
     },
     {
       "posicao": 41,
@@ -697,10 +697,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_965898-MLA95691628944_102025-AB.webp",
       "horarioProgramado": "17:42",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-31T20:42:32.281Z"
     },
     {
       "posicao": 42,
@@ -714,10 +714,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_962121-MLA99990278217_112025-AB.webp",
       "horarioProgramado": "17:58",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-31T20:58:55.892Z"
     },
     {
       "posicao": 43,
@@ -731,10 +731,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_990450-MLB95512205184_102025-AB-kit-3-calcinha-shorts-bermuda-sem-costura-laser-invisivel.webp",
       "horarioProgramado": "18:01",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-31T21:01:22.945Z"
     },
     {
       "posicao": 44,
@@ -748,10 +748,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_921379-MLB108084436395_032026-AB.webp",
       "horarioProgramado": "18:09",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-31T21:09:17.932Z"
     },
     {
       "posicao": 45,
@@ -765,10 +765,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_632196-MLB79349488114_092024-AB.webp",
       "horarioProgramado": "18:17",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-31T21:17:22.233Z"
     },
     {
       "posicao": 46,
