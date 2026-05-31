@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-31T14:09:23.445Z",
-  "exportedAt": "31/05/2026, 11:09:23",
+  "lastExport": "2026-05-31T14:10:12.311Z",
+  "exportedAt": "31/05/2026, 11:10:12",
   "total": 72,
-  "pendentes": 64,
-  "postados": 8,
+  "pendentes": 63,
+  "postados": 9,
   "queue": [
     {
       "posicao": 1,
@@ -145,18 +145,18 @@
       "posicao": 9,
       "id": "wa-1110-8",
       "titulo": "Motor P/ Climatizador Evaporativo 9000 110v/220v Original 127v",
-      "preco": "R$ 456,00",
+      "preco": "R$ 516",
       "precoOriginal": "R$890",
       "desconto": "42% OFF no Pix",
-      "cupom": "SUPERCUPOM",
+      "cupom": null,
       "link": "https://meli.la/2utPdgb",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_972051-MLB90551554991_082025-AB.webp",
       "horarioProgramado": "11:10",
       "janela": "10:00-12:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-31T14:10:07.969Z"
     },
     {
       "posicao": 10,
