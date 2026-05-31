@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-31T22:10:54.310Z",
-  "exportedAt": "31/05/2026, 19:10:54",
+  "lastExport": "2026-05-31T22:26:52.144Z",
+  "exportedAt": "31/05/2026, 19:26:52",
   "total": 72,
-  "pendentes": 21,
-  "postados": 51,
+  "pendentes": 19,
+  "postados": 53,
   "queue": [
     {
       "posicao": 1,
@@ -884,10 +884,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_755351-MLA99597188918_122025-AB.webp",
       "horarioProgramado": "19:16",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-31T22:16:25.544Z"
     },
     {
       "posicao": 53,
@@ -901,10 +901,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_831224-MLB88485077977_072025-AB-cortina-tecido-oxford-grosso-3-metros-x-250-largura-premium.webp",
       "horarioProgramado": "19:25",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-31T22:25:34.191Z"
     },
     {
       "posicao": 54,
