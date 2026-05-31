@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-31T19:06:50.540Z",
-  "exportedAt": "31/05/2026, 16:06:50",
+  "lastExport": "2026-05-31T19:57:41.484Z",
+  "exportedAt": "31/05/2026, 16:57:41",
   "total": 72,
-  "pendentes": 38,
-  "postados": 34,
+  "pendentes": 35,
+  "postados": 37,
   "queue": [
     {
       "posicao": 1,
@@ -595,10 +595,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_998442-MLB95622271760_102025-AB.webp",
       "horarioProgramado": "16:08",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-31T19:08:51.757Z"
     },
     {
       "posicao": 36,
@@ -612,10 +612,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_956043-MLB101388426312_122025-AB-kit-6-pares-meias-soquete-cano-curto-baixo-algodo-polo-fit.webp",
       "horarioProgramado": "16:25",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-31T19:25:52.305Z"
     },
     {
       "posicao": 37,
@@ -629,10 +629,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_751491-MLA100045469249_122025-AB.webp",
       "horarioProgramado": "16:41",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-31T19:41:08.380Z"
     },
     {
       "posicao": 38,
