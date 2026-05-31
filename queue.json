@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-31T15:37:44.954Z",
-  "exportedAt": "31/05/2026, 12:37:44",
+  "lastExport": "2026-05-31T16:10:15.298Z",
+  "exportedAt": "31/05/2026, 13:10:15",
   "total": 72,
-  "pendentes": 56,
-  "postados": 16,
+  "pendentes": 52,
+  "postados": 20,
   "queue": [
     {
       "posicao": 1,
@@ -289,10 +289,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_895724-MLA91526198522_092025-AB.webp",
       "horarioProgramado": "12:38",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-31T15:38:32.834Z"
     },
     {
       "posicao": 18,
@@ -306,10 +306,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_681444-MLB103683141753_012026-AB-smartwatch-bettdow-fb055-185-esportivo-ia-musica-gps-3atm.webp",
       "horarioProgramado": "12:48",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-31T15:48:16.984Z"
     },
     {
       "posicao": 19,
@@ -323,10 +323,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_747308-MLA99452099670_112025-AB.webp",
       "horarioProgramado": "12:58",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-31T15:58:30.882Z"
     },
     {
       "posicao": 20,
@@ -340,10 +340,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_663388-MLB111182851231_052026-AB.webp",
       "horarioProgramado": "13:07",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-31T16:07:14.750Z"
     },
     {
       "posicao": 21,
