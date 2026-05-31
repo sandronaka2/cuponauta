@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-31T00:05:26.330Z",
-  "exportedAt": "30/05/2026, 21:05:26",
+  "lastExport": "2026-05-31T00:19:20.081Z",
+  "exportedAt": "30/05/2026, 21:19:20",
   "total": 72,
-  "pendentes": 7,
-  "postados": 65,
+  "pendentes": 5,
+  "postados": 67,
   "queue": [
     {
       "posicao": 1,
@@ -1122,10 +1122,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_605310-MLA99668408764_122025-AB.webp",
       "horarioProgramado": "21:08",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-31T00:08:45.288Z"
     },
     {
       "posicao": 67,
@@ -1139,10 +1139,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_630233-MLB82000817603_012025-AB-meia-sem-ponteira-ortopedica-alta-compresso-alivo-da-dor.webp",
       "horarioProgramado": "21:16",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-31T00:16:55.553Z"
     },
     {
       "posicao": 68,
