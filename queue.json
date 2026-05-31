@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-31T13:48:13.111Z",
-  "exportedAt": "31/05/2026, 10:48:13",
+  "lastExport": "2026-05-31T13:55:22.821Z",
+  "exportedAt": "31/05/2026, 10:55:22",
   "total": 72,
-  "pendentes": 65,
-  "postados": 7,
+  "pendentes": 64,
+  "postados": 8,
   "queue": [
     {
       "posicao": 1,
@@ -136,10 +136,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_976711-MLB111255274018_052026-AB-casaco-sobretudo-feminino-alongado-preto-caramelo-azul-verm.webp",
       "horarioProgramado": "10:55",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-31T13:55:19.843Z"
     },
     {
       "posicao": 9,
