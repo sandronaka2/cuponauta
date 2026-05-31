@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-05-31T17:21:36.921Z",
-  "exportedAt": "31/05/2026, 14:21:36",
+  "lastExport": "2026-05-31T17:50:44.931Z",
+  "exportedAt": "31/05/2026, 14:50:44",
   "total": 72,
-  "pendentes": 44,
-  "postados": 28,
+  "pendentes": 42,
+  "postados": 30,
   "queue": [
     {
       "posicao": 1,
@@ -493,10 +493,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_967821-MLB106425794651_022026-AB-kit-3-t-shirts-oversized-classic-algodo-clea-store.webp",
       "horarioProgramado": "14:31",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-31T17:31:14.969Z"
     },
     {
       "posicao": 30,
@@ -510,10 +510,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_968718-MLA107597130746_032026-AB.webp",
       "horarioProgramado": "14:47",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-05-31T17:47:54.484Z"
     },
     {
       "posicao": 31,
