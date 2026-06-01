@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-01T13:09:12.676Z",
-  "exportedAt": "01/06/2026, 10:09:12",
+  "lastExport": "2026-06-01T14:36:34.622Z",
+  "exportedAt": "01/06/2026, 11:36:34",
   "total": 72,
-  "pendentes": 67,
-  "postados": 5,
+  "pendentes": 62,
+  "postados": 10,
   "queue": [
     {
       "posicao": 1,
@@ -102,10 +102,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_725033-MLA111352131302_052026-AB.webp",
       "horarioProgramado": "10:16",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-01T13:16:32.370Z"
     },
     {
       "posicao": 7,
@@ -119,10 +119,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_949642-MLB83815763395_042025-AB.webp",
       "horarioProgramado": "10:37",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-01T13:37:10.853Z"
     },
     {
       "posicao": 8,
@@ -136,10 +136,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_887187-MLA107188754973_022026-AB.webp",
       "horarioProgramado": "10:53",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-01T13:53:11.433Z"
     },
     {
       "posicao": 9,
@@ -153,10 +153,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_851458-MLA99585609794_122025-AB.webp",
       "horarioProgramado": "11:11",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-01T14:11:15.441Z"
     },
     {
       "posicao": 10,
@@ -170,10 +170,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_660084-MLA99977469865_112025-AB.webp",
       "horarioProgramado": "11:27",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-01T14:27:18.704Z"
     },
     {
       "posicao": 11,
