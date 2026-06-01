@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-01T22:49:55.207Z",
-  "exportedAt": "01/06/2026, 19:49:55",
+  "lastExport": "2026-06-01T22:58:01.480Z",
+  "exportedAt": "01/06/2026, 19:58:01",
   "total": 72,
-  "pendentes": 17,
-  "postados": 55,
+  "pendentes": 16,
+  "postados": 56,
   "queue": [
     {
       "posicao": 1,
@@ -952,10 +952,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_960889-MLB48534032730_122021-AB-armaco-de-oculosclipon-polarizado-solamarelo-troca-lente.webp",
       "horarioProgramado": "19:53",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-01T22:53:17.349Z"
     },
     {
       "posicao": 57,
