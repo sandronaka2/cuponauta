@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-01T16:24:36.273Z",
-  "exportedAt": "01/06/2026, 13:24:36",
+  "lastExport": "2026-06-01T17:17:16.228Z",
+  "exportedAt": "01/06/2026, 14:17:16",
   "total": 72,
-  "pendentes": 50,
-  "postados": 22,
+  "pendentes": 44,
+  "postados": 28,
   "queue": [
     {
       "posicao": 1,
@@ -391,10 +391,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_745706-MLB54337722600_032023-AB-cinto-masculino-plus-size-120-130-140-150-160-170-180-grande.webp",
       "horarioProgramado": "13:31",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-01T16:31:19.373Z"
     },
     {
       "posicao": 24,
@@ -408,10 +408,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_984896-MLA99461746270_112025-AB.webp",
       "horarioProgramado": "13:40",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-01T16:40:28.313Z"
     },
     {
       "posicao": 25,
@@ -425,10 +425,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_956572-MLB91263028352_092025-AB-calca-legging-leg-flare-zero-transparncia-grossa-academia.webp",
       "horarioProgramado": "13:50",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-01T16:50:16.824Z"
     },
     {
       "posicao": 26,
@@ -442,10 +442,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_825059-MLA99821523933_112025-AB.webp",
       "horarioProgramado": "13:58",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-01T16:58:14.211Z"
     },
     {
       "posicao": 27,
@@ -459,10 +459,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_914187-MLB89294080838_082025-AB-capinha-com-encaixe-perfeito-para-xiaomi-redmi-watch-5-lite.webp",
       "horarioProgramado": "14:01",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-01T17:01:11.287Z"
     },
     {
       "posicao": 28,
@@ -476,10 +476,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_602279-MLB106986436307_022026-AB.webp",
       "horarioProgramado": "14:17",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-01T17:17:11.626Z"
     },
     {
       "posicao": 29,
