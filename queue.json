@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-01T22:26:38.843Z",
-  "exportedAt": "01/06/2026, 19:26:38",
+  "lastExport": "2026-06-01T22:36:52.777Z",
+  "exportedAt": "01/06/2026, 19:36:52",
   "total": 72,
-  "pendentes": 19,
-  "postados": 53,
+  "pendentes": 18,
+  "postados": 54,
   "queue": [
     {
       "posicao": 1,
@@ -918,10 +918,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_632440-MLB96963411055_112025-AB-caixa-de-som-potente-100w-bluetooth-pro-bass-boost-alta.webp",
       "horarioProgramado": "19:35",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-01T22:35:13.640Z"
     },
     {
       "posicao": 55,
