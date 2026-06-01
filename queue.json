@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-01T22:19:08.125Z",
-  "exportedAt": "01/06/2026, 19:19:08",
+  "lastExport": "2026-06-01T22:26:38.843Z",
+  "exportedAt": "01/06/2026, 19:26:38",
   "total": 72,
-  "pendentes": 20,
-  "postados": 52,
+  "pendentes": 19,
+  "postados": 53,
   "queue": [
     {
       "posicao": 1,
@@ -901,10 +901,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_757484-MLB112048877633_052026-AB-kit-10-pares-de-meias-lupo-soquete-invisivel-sport.webp",
       "horarioProgramado": "19:26",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-01T22:26:21.472Z"
     },
     {
       "posicao": 54,
