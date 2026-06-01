@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-01T21:53:55.762Z",
-  "exportedAt": "01/06/2026, 18:53:55",
+  "lastExport": "2026-06-01T22:02:01.239Z",
+  "exportedAt": "01/06/2026, 19:02:01",
   "total": 72,
-  "pendentes": 23,
-  "postados": 49,
+  "pendentes": 22,
+  "postados": 50,
   "queue": [
     {
       "posicao": 1,
@@ -850,10 +850,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_794025-MLB80472734765_112024-AB-kit-conjunto-masculino-grumet-em-aco-inox-para-presente.webp",
       "horarioProgramado": "19:01",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-01T22:01:15.162Z"
     },
     {
       "posicao": 51,
