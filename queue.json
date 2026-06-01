@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-01T00:53:27.726Z",
-  "exportedAt": "31/05/2026, 21:53:27",
+  "lastExport": "2026-06-01T02:12:03.459Z",
+  "exportedAt": "31/05/2026, 23:12:03",
   "total": 72,
-  "pendentes": 1,
-  "postados": 71,
+  "pendentes": 0,
+  "postados": 72,
   "queue": [
     {
       "posicao": 1,
@@ -1224,10 +1224,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_696278-MLB93933219533_102025-AB-camisa-polo-plus-size-masculina-de-ziper-anistia-manga-longa.webp",
       "horarioProgramado": "21:58",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-01T00:58:13.385Z"
     }
   ]
 }
