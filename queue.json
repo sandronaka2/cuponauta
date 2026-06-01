@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-01T19:32:50.802Z",
-  "exportedAt": "01/06/2026, 16:32:50",
+  "lastExport": "2026-06-01T19:55:42.008Z",
+  "exportedAt": "01/06/2026, 16:55:42",
   "total": 72,
-  "pendentes": 36,
-  "postados": 36,
+  "pendentes": 34,
+  "postados": 38,
   "queue": [
     {
       "posicao": 1,
@@ -629,10 +629,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_606618-MLB110582297682_052026-AB-calca-cargo-feminina-wide-leg-cintura-alta-jeans-stillger.webp",
       "horarioProgramado": "16:38",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-01T19:38:16.682Z"
     },
     {
       "posicao": 38,
@@ -646,10 +646,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_842831-MLA99963285219_112025-AB.webp",
       "horarioProgramado": "16:54",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-01T19:54:15.291Z"
     },
     {
       "posicao": 39,
