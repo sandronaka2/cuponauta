@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-02T14:56:53.722Z",
-  "exportedAt": "02/06/2026, 11:56:53",
+  "lastExport": "2026-06-02T15:17:45.933Z",
+  "exportedAt": "02/06/2026, 12:17:45",
   "total": 72,
-  "pendentes": 61,
-  "postados": 11,
+  "pendentes": 58,
+  "postados": 14,
   "queue": [
     {
       "posicao": 1,
@@ -204,10 +204,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_974589-MLB90804958076_082025-AB.webp",
       "horarioProgramado": "11:58",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-02T14:58:10.613Z"
     },
     {
       "posicao": 13,
@@ -221,10 +221,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_975879-MLB98393181073_112025-AB-jaqueta-feminina-forrada-com-pelucia-fleece-matelada-fofinha.webp",
       "horarioProgramado": "12:01",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-02T15:01:10.314Z"
     },
     {
       "posicao": 14,
@@ -238,10 +238,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_706033-MLB97260374243_112025-AB.webp",
       "horarioProgramado": "12:10",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-02T15:10:08.450Z"
     },
     {
       "posicao": 15,
