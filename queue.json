@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-02T13:03:13.429Z",
-  "exportedAt": "02/06/2026, 10:03:13",
+  "lastExport": "2026-06-02T13:20:51.885Z",
+  "exportedAt": "02/06/2026, 10:20:51",
   "total": 72,
-  "pendentes": 68,
-  "postados": 4,
+  "pendentes": 66,
+  "postados": 6,
   "queue": [
     {
       "posicao": 1,
@@ -85,10 +85,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_756828-MLB97807701378_112025-AB-casaco-couro-masculino-slim-resistente.webp",
       "horarioProgramado": "10:05",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-02T13:05:36.001Z"
     },
     {
       "posicao": 6,
@@ -102,10 +102,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_714933-MLB107452177363_022026-AB-kit-6-cuecas-polo-fit-boxer-masculina-algodo-original.webp",
       "horarioProgramado": "10:20",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-02T13:20:09.977Z"
     },
     {
       "posicao": 7,
