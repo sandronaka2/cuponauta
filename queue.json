@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-02T15:30:26.473Z",
-  "exportedAt": "02/06/2026, 12:30:26",
+  "lastExport": "2026-06-02T21:03:05.726Z",
+  "exportedAt": "02/06/2026, 18:03:05",
   "total": 72,
-  "pendentes": 56,
-  "postados": 16,
+  "pendentes": 29,
+  "postados": 43,
   "queue": [
     {
       "posicao": 1,
@@ -289,10 +289,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_727954-MLB104106256798_012026-AB.webp",
       "horarioProgramado": "12:38",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-02T15:38:13.186Z"
     },
     {
       "posicao": 18,
@@ -306,10 +306,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_687325-MLA96079610055_102025-AB.webp",
       "horarioProgramado": "12:46",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-02T15:46:16.610Z"
     },
     {
       "posicao": 19,
@@ -323,10 +323,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_862419-MLA108656141418_032026-AB.webp",
       "horarioProgramado": "12:54",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-02T15:54:11.874Z"
     },
     {
       "posicao": 20,
@@ -340,10 +340,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_998940-MLA106976608326_022026-AB.webp",
       "horarioProgramado": "13:02",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-02T16:02:15.652Z"
     },
     {
       "posicao": 21,
@@ -357,10 +357,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_811594-MLA95028109490_102025-AB.webp",
       "horarioProgramado": "13:11",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-02T16:11:42.815Z"
     },
     {
       "posicao": 22,
@@ -374,10 +374,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_893324-MLB106987856085_022026-AB.webp",
       "horarioProgramado": "13:20",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-02T16:20:41.284Z"
     },
     {
       "posicao": 23,
@@ -391,10 +391,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_760256-MLB70946054548_082023-AB.webp",
       "horarioProgramado": "13:29",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-02T16:29:56.134Z"
     },
     {
       "posicao": 24,
@@ -408,10 +408,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_899127-MLB109810575214_042026-AB.webp",
       "horarioProgramado": "13:37",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-02T16:37:43.279Z"
     },
     {
       "posicao": 25,
@@ -425,10 +425,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_707416-MLA99498367378_112025-AB.webp",
       "horarioProgramado": "13:47",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-02T16:47:55.291Z"
     },
     {
       "posicao": 26,
@@ -442,10 +442,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_866050-MLA99450298654_112025-AB.webp",
       "horarioProgramado": "13:57",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-02T16:57:59.804Z"
     },
     {
       "posicao": 27,
@@ -459,10 +459,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_803177-MLA110859245564_052026-AB.webp",
       "horarioProgramado": "14:02",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-02T17:02:16.832Z"
     },
     {
       "posicao": 28,
@@ -476,10 +476,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_670475-MLA99453294496_112025-AB.webp",
       "horarioProgramado": "14:18",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-02T17:18:41.560Z"
     },
     {
       "posicao": 29,
@@ -493,10 +493,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_756108-MLA108721103086_032026-AB.webp",
       "horarioProgramado": "14:33",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-02T17:34:10.123Z"
     },
     {
       "posicao": 30,
@@ -510,10 +510,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_900390-MLB111357795548_052026-AB.webp",
       "horarioProgramado": "14:48",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-02T17:48:59.002Z"
     },
     {
       "posicao": 31,
@@ -527,10 +527,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_893324-MLB106987856085_022026-AB.webp",
       "horarioProgramado": "15:05",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-02T18:05:59.011Z"
     },
     {
       "posicao": 32,
@@ -544,10 +544,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_637123-MLB97080568316_112025-AB.webp",
       "horarioProgramado": "15:20",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-02T18:20:16.074Z"
     },
     {
       "posicao": 33,
@@ -561,10 +561,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_848246-MLB112004086713_052026-AB-lavatorio-para-cabeleireiro-monaco-cuba-de-louca.webp",
       "horarioProgramado": "15:35",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-02T18:35:51.150Z"
     },
     {
       "posicao": 34,
@@ -578,10 +578,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_784689-MLB107445069935_022026-AB-kit4-saco-organizador-edredon-cobertor-dobravel-multiuso.webp",
       "horarioProgramado": "15:52",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-02T18:53:08.406Z"
     },
     {
       "posicao": 35,
@@ -595,10 +595,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_733000-MLA112267421223_052026-AB.webp",
       "horarioProgramado": "16:07",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-02T19:10:35.496Z"
     },
     {
       "posicao": 36,
@@ -612,10 +612,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_743928-MLB85576257538_062025-AB-vestido-adolescente-infantil-curto-meninas-mocinha.webp",
       "horarioProgramado": "16:23",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-02T19:23:59.579Z"
     },
     {
       "posicao": 37,
@@ -629,10 +629,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_664458-MLA96148986183_102025-AB.webp",
       "horarioProgramado": "16:41",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-02T19:41:16.675Z"
     },
     {
       "posicao": 38,
@@ -646,10 +646,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_929468-MLB86804030250_072025-AB.webp",
       "horarioProgramado": "16:56",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-02T19:56:22.130Z"
     },
     {
       "posicao": 39,
@@ -663,10 +663,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_974994-MLB87722946035_072025-AB-casaco-infantil-moletom-uniforme-escolar-capuz-bolso-unissex.webp",
       "horarioProgramado": "17:12",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-02T20:12:22.133Z"
     },
     {
       "posicao": 40,
@@ -680,10 +680,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_771764-MLB78996771679_092024-AB.webp",
       "horarioProgramado": "17:28",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-02T20:28:47.048Z"
     },
     {
       "posicao": 41,
@@ -697,10 +697,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_908820-MLB81837533969_012025-AB-campainha-sem-fio-externa-intelbras-de-tomada-bateria-5-anos.webp",
       "horarioProgramado": "17:44",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-02T20:44:16.996Z"
     },
     {
       "posicao": 42,
@@ -714,10 +714,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_671750-MLA111876934613_052026-AB.webp",
       "horarioProgramado": "17:58",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-02T20:58:39.863Z"
     },
     {
       "posicao": 43,
@@ -731,10 +731,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_671706-MLA99396165632_112025-AB.webp",
       "horarioProgramado": "18:01",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-02T21:02:13.123Z"
     },
     {
       "posicao": 44,
