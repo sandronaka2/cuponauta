@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-02T00:38:01.934Z",
-  "exportedAt": "01/06/2026, 21:38:01",
+  "lastExport": "2026-06-02T00:48:01.698Z",
+  "exportedAt": "01/06/2026, 21:48:01",
   "total": 72,
-  "pendentes": 3,
-  "postados": 69,
+  "pendentes": 2,
+  "postados": 70,
   "queue": [
     {
       "posicao": 1,
@@ -1190,10 +1190,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_779849-MLB89746747076_082025-AB-camiseta-light-t-shirt-insider-masculino.webp",
       "horarioProgramado": "21:42",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-02T00:42:19.974Z"
     },
     {
       "posicao": 71,
