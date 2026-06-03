@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-03T22:40:39.895Z",
-  "exportedAt": "03/06/2026, 19:40:39",
+  "lastExport": "2026-06-03T23:02:00.577Z",
+  "exportedAt": "03/06/2026, 20:02:00",
   "total": 100,
-  "pendentes": 94,
-  "postados": 6,
+  "pendentes": 90,
+  "postados": 10,
   "queue": [
     {
       "posicao": 1,
@@ -1275,10 +1275,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_889475-MLB95465409487_102025-AB-calca-feminina-jeans-cintura-alta-skinny-levanta-bumbum.webp",
       "horarioProgramado": "19:41",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-03T22:41:50.278Z"
     },
     {
       "posicao": 76,
@@ -1292,10 +1292,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_889684-MLA99475706302_112025-AB.webp",
       "horarioProgramado": "19:47",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-03T22:47:37.082Z"
     },
     {
       "posicao": 77,
@@ -1309,10 +1309,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_771181-MLB72682460799_112023-AB-sandalia-chinelo-kenner-kivah-original-masculino-feminino.webp",
       "horarioProgramado": "19:53",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-03T22:53:17.927Z"
     },
     {
       "posicao": 78,
@@ -1326,10 +1326,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_602279-MLB106986436307_022026-AB.webp",
       "horarioProgramado": "19:59",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-03T22:59:31.632Z"
     },
     {
       "posicao": 79,
