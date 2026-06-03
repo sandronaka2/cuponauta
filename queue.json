@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-03T18:51:32.064Z",
-  "exportedAt": "03/06/2026, 15:51:32",
+  "lastExport": "2026-06-03T19:11:22.137Z",
+  "exportedAt": "03/06/2026, 16:11:22",
   "total": 72,
-  "pendentes": 39,
-  "postados": 33,
+  "pendentes": 37,
+  "postados": 35,
   "queue": [
     {
       "posicao": 1,
@@ -578,10 +578,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_878694-MLA99840378519_112025-AB.webp",
       "horarioProgramado": "15:55",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-03T18:55:26.926Z"
     },
     {
       "posicao": 35,
@@ -595,10 +595,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_883647-MLB105666618486_012026-AB-roupas-femininas-confortaveis-moda-casual-plus-size-basica.webp",
       "horarioProgramado": "16:10",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-03T19:10:46.876Z"
     },
     {
       "posicao": 36,
