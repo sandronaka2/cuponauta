@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-03T12:55:35.706Z",
-  "exportedAt": "03/06/2026, 09:55:35",
+  "lastExport": "2026-06-03T12:58:20.379Z",
+  "exportedAt": "03/06/2026, 09:58:20",
   "total": 72,
-  "pendentes": 69,
-  "postados": 3,
+  "pendentes": 68,
+  "postados": 4,
   "queue": [
     {
       "posicao": 1,
@@ -68,10 +68,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_986082-MLB83382657364_042025-AB-calca-cargo-masculina-jeans-cos-de-elastico-streetwear-larga.webp",
       "horarioProgramado": "09:57",
       "janela": "09:00-10:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-03T12:57:49.907Z"
     },
     {
       "posicao": 5,
