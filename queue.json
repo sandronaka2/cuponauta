@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-03T20:29:11.762Z",
-  "exportedAt": "03/06/2026, 17:29:11",
+  "lastExport": "2026-06-03T20:49:53.491Z",
+  "exportedAt": "03/06/2026, 17:49:53",
   "total": 72,
-  "pendentes": 32,
-  "postados": 40,
+  "pendentes": 31,
+  "postados": 41,
   "queue": [
     {
       "posicao": 1,
@@ -697,10 +697,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_750156-MLB99759469168_122025-AB-jogo-toalhas-banho-e-rosto-grossas-macias-100-algodo-4pcs.webp",
       "horarioProgramado": "17:44",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-03T20:44:43.838Z"
     },
     {
       "posicao": 42,
