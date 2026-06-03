@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-03T14:29:45.378Z",
-  "exportedAt": "03/06/2026, 11:29:45",
+  "lastExport": "2026-06-03T14:39:15.298Z",
+  "exportedAt": "03/06/2026, 11:39:15",
   "total": 72,
-  "pendentes": 62,
-  "postados": 10,
+  "pendentes": 61,
+  "postados": 11,
   "queue": [
     {
       "posicao": 1,
@@ -187,10 +187,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_777341-MLB78928850685_092024-AB-kit-10-cuecas-boxer-selene-poliamida-sem-costura-microfibra.webp",
       "horarioProgramado": "11:38",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-03T14:38:29.587Z"
     },
     {
       "posicao": 12,
