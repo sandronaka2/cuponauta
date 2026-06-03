@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-03T21:16:34.156Z",
-  "exportedAt": "03/06/2026, 18:16:34",
+  "lastExport": "2026-06-03T21:29:03.290Z",
+  "exportedAt": "03/06/2026, 18:29:03",
   "total": 72,
-  "pendentes": 28,
-  "postados": 44,
+  "pendentes": 26,
+  "postados": 46,
   "queue": [
     {
       "posicao": 1,
@@ -765,10 +765,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_619372-MLB110525071043_042026-AB-camisas-termica-feminina-voker-proteco-uv-bike-academia.webp",
       "horarioProgramado": "18:19",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-03T21:19:35.908Z"
     },
     {
       "posicao": 46,
@@ -782,10 +782,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_842494-MLA96419095420_102025-AB.webp",
       "horarioProgramado": "18:28",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-03T21:28:34.657Z"
     },
     {
       "posicao": 47,
