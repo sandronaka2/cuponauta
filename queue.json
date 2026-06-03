@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-03T22:27:39.530Z",
-  "exportedAt": "03/06/2026, 19:27:39",
+  "lastExport": "2026-06-03T22:39:59.662Z",
+  "exportedAt": "03/06/2026, 19:39:59",
   "total": 100,
-  "pendentes": 96,
-  "postados": 4,
+  "pendentes": 94,
+  "postados": 6,
   "queue": [
     {
       "posicao": 1,
@@ -1241,10 +1241,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_651722-MLB85261256294_062025-AB-organizador-porta-talheres-gaveta-para-cozinha-com-extensor.webp",
       "horarioProgramado": "19:28",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-03T22:28:16.399Z"
     },
     {
       "posicao": 74,
@@ -1258,10 +1258,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_998442-MLB95622271760_102025-AB.webp",
       "horarioProgramado": "19:34",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-03T22:34:57.360Z"
     },
     {
       "posicao": 75,
