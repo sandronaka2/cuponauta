@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-04T12:58:48.409Z",
-  "exportedAt": "04/06/2026, 09:58:48",
+  "lastExport": "2026-06-04T13:01:13.850Z",
+  "exportedAt": "04/06/2026, 10:01:13",
   "total": 100,
-  "pendentes": 95,
-  "postados": 5,
+  "pendentes": 94,
+  "postados": 6,
   "queue": [
     {
       "posicao": 1,
@@ -102,10 +102,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_880594-MLB112257173627_052026-AB-jaqueta-bobojaco-puffer-plus-size-lisa-masculina-capuz.webp",
       "horarioProgramado": "09:58",
       "janela": "09:00-10:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-04T12:58:56.777Z"
     },
     {
       "posicao": 7,
