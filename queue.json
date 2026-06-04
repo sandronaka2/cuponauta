@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-04T16:50:50.461Z",
-  "exportedAt": "04/06/2026, 13:50:50",
+  "lastExport": "2026-06-04T17:10:50.494Z",
+  "exportedAt": "04/06/2026, 14:10:50",
   "total": 100,
-  "pendentes": 65,
-  "postados": 35,
+  "pendentes": 62,
+  "postados": 38,
   "queue": [
     {
       "posicao": 1,
@@ -612,10 +612,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_785462-MLA110586324994_052026-AB.webp",
       "horarioProgramado": "13:53",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-04T16:53:57.031Z"
     },
     {
       "posicao": 37,
@@ -629,10 +629,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_812916-MLA106422774055_022026-AB-jaqueta-puffer-feminina-couro-fake-cropped-bobojaco-forrada.webp",
       "horarioProgramado": "13:58",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-04T16:59:00.344Z"
     },
     {
       "posicao": 38,
@@ -646,10 +646,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_636693-MLB103833728005_012026-AB.webp",
       "horarioProgramado": "14:01",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-04T17:01:48.706Z"
     },
     {
       "posicao": 39,
