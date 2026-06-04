@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-04T20:27:15.814Z",
-  "exportedAt": "04/06/2026, 17:27:15",
+  "lastExport": "2026-06-04T21:23:27.408Z",
+  "exportedAt": "04/06/2026, 18:23:27",
   "total": 100,
-  "pendentes": 45,
-  "postados": 55,
+  "pendentes": 38,
+  "postados": 62,
   "queue": [
     {
       "posicao": 1,
@@ -952,10 +952,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_750284-MLB94727601927_102025-AB.webp",
       "horarioProgramado": "17:36",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-04T20:37:18.792Z"
     },
     {
       "posicao": 57,
@@ -969,10 +969,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_964841-MLB106850818521_022026-AB.webp",
       "horarioProgramado": "17:48",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-04T20:48:46.737Z"
     },
     {
       "posicao": 58,
@@ -986,10 +986,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_736480-MLB110617161021_042026-AB-calca-jeans-masculina-original-elastano-lycra.webp",
       "horarioProgramado": "17:58",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-04T20:59:06.263Z"
     },
     {
       "posicao": 59,
@@ -1003,10 +1003,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_669983-MLA109105810543_032026-AB.webp",
       "horarioProgramado": "18:01",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-04T21:01:12.098Z"
     },
     {
       "posicao": 60,
@@ -1020,10 +1020,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_916559-MLA91967901613_092025-AB.webp",
       "horarioProgramado": "18:07",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-04T21:07:55.787Z"
     },
     {
       "posicao": 61,
@@ -1037,10 +1037,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_614207-MLA98397051885_112025-AB.webp",
       "horarioProgramado": "18:13",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-04T21:13:09.138Z"
     },
     {
       "posicao": 62,
@@ -1054,10 +1054,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_722121-MLB82890225649_032025-AB-oculos-de-sol-uv400-original-acetato-unissex-premium-case.webp",
       "horarioProgramado": "18:19",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-04T21:19:58.515Z"
     },
     {
       "posicao": 63,
