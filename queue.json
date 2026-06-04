@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-04T23:23:39.918Z",
-  "exportedAt": "04/06/2026, 20:23:39",
+  "lastExport": "2026-06-04T23:40:30.126Z",
+  "exportedAt": "04/06/2026, 20:40:30",
   "total": 100,
-  "pendentes": 19,
-  "postados": 81,
+  "pendentes": 16,
+  "postados": 84,
   "queue": [
     {
       "posicao": 1,
@@ -1394,10 +1394,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_817590-MLA111497025748_062026-AB.webp",
       "horarioProgramado": "20:23",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-04T23:23:46.815Z"
     },
     {
       "posicao": 83,
@@ -1411,10 +1411,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_662143-MLA111167039553_052026-AB.webp",
       "horarioProgramado": "20:29",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-04T23:29:22.015Z"
     },
     {
       "posicao": 84,
@@ -1428,10 +1428,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_827717-MLB101267701449_122025-AB-tnis-feminino-olimp-para-caminhada-academia-promoco.webp",
       "horarioProgramado": "20:35",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-04T23:35:31.014Z"
     },
     {
       "posicao": 85,
