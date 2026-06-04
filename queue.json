@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-04T18:01:37.824Z",
-  "exportedAt": "04/06/2026, 15:01:37",
+  "lastExport": "2026-06-04T20:19:59.578Z",
+  "exportedAt": "04/06/2026, 17:19:59",
   "total": 100,
-  "pendentes": 57,
-  "postados": 43,
+  "pendentes": 46,
+  "postados": 54,
   "queue": [
     {
       "posicao": 1,
@@ -748,10 +748,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_907525-MLB108143335855_032026-AB.webp",
       "horarioProgramado": "15:13",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-04T18:13:38.447Z"
     },
     {
       "posicao": 45,
@@ -765,10 +765,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_902043-MLA96988011016_112025-AB.webp",
       "horarioProgramado": "15:25",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-04T18:25:52.450Z"
     },
     {
       "posicao": 46,
@@ -782,10 +782,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_912737-MLB111954576483_052026-AB-oculos-de-sol-aviador-unissex-elegante-proteco-uv-400.webp",
       "horarioProgramado": "15:38",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-04T18:38:13.626Z"
     },
     {
       "posicao": 47,
@@ -799,10 +799,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_692288-MLA96075175217_102025-AB.webp",
       "horarioProgramado": "15:50",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-04T18:50:52.404Z"
     },
     {
       "posicao": 48,
@@ -816,10 +816,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_991769-MLA99603205878_122025-AB.webp",
       "horarioProgramado": "16:01",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-04T19:02:16.099Z"
     },
     {
       "posicao": 49,
@@ -833,10 +833,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_997272-MLB103728762164_012026-AB-kit-blocos-de-montar-infantil-525-pecas-criatividade.webp",
       "horarioProgramado": "16:12",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-04T19:12:49.929Z"
     },
     {
       "posicao": 50,
@@ -850,10 +850,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_743646-MLA109935249388_042026-AB.webp",
       "horarioProgramado": "16:24",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-04T19:24:47.109Z"
     },
     {
       "posicao": 51,
@@ -867,10 +867,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_701503-MLA99935443003_112025-AB.webp",
       "horarioProgramado": "16:35",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-04T19:35:50.385Z"
     },
     {
       "posicao": 52,
@@ -884,10 +884,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_799363-MLA100298374276_122025-AB.webp",
       "horarioProgramado": "16:47",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-04T19:47:34.730Z"
     },
     {
       "posicao": 53,
@@ -901,10 +901,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_973101-MLA110020096867_042026-AB.webp",
       "horarioProgramado": "16:59",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-04T19:59:33.565Z"
     },
     {
       "posicao": 54,
@@ -918,10 +918,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_759190-MLB89437651461_082025-AB-guarda-chuva-automatico-grande-reforcado-resistente-de-fibra.webp",
       "horarioProgramado": "17:10",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-04T20:10:32.651Z"
     },
     {
       "posicao": 55,
