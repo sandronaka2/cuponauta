@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-04T15:09:18.238Z",
-  "exportedAt": "04/06/2026, 12:09:18",
+  "lastExport": "2026-06-04T15:19:18.269Z",
+  "exportedAt": "04/06/2026, 12:19:18",
   "total": 100,
-  "pendentes": 80,
-  "postados": 20,
+  "pendentes": 79,
+  "postados": 21,
   "queue": [
     {
       "posicao": 1,
@@ -357,10 +357,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_837005-MLB110405030788_052026-AB-oculos-de-sol-trindade-redondo-super-em-alta-unissex-estilo.webp",
       "horarioProgramado": "12:13",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-04T15:13:28.198Z"
     },
     {
       "posicao": 22,
