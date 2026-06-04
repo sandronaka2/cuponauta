@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-04T17:30:50.491Z",
-  "exportedAt": "04/06/2026, 14:30:50",
+  "lastExport": "2026-06-04T17:40:50.512Z",
+  "exportedAt": "04/06/2026, 14:40:50",
   "total": 100,
-  "pendentes": 60,
-  "postados": 40,
+  "pendentes": 59,
+  "postados": 41,
   "queue": [
     {
       "posicao": 1,
@@ -697,10 +697,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_753249-MLB84466321970_052025-AB-kit-10-cuecas-boxer-lupo-algodo-confortavel-box-original.webp",
       "horarioProgramado": "14:34",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-04T17:34:21.127Z"
     },
     {
       "posicao": 42,
