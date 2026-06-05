@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-05T00:12:40.815Z",
-  "exportedAt": "04/06/2026, 21:12:40",
+  "lastExport": "2026-06-05T00:40:31.528Z",
+  "exportedAt": "04/06/2026, 21:40:31",
   "total": 100,
-  "pendentes": 9,
-  "postados": 91,
+  "pendentes": 4,
+  "postados": 96,
   "queue": [
     {
       "posicao": 1,
@@ -1564,10 +1564,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_723939-MLA103720530496_012026-AB.webp",
       "horarioProgramado": "21:17",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-05T00:17:39.956Z"
     },
     {
       "posicao": 93,
@@ -1581,10 +1581,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_930155-MLB106073554931_012026-AB.webp",
       "horarioProgramado": "21:22",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-05T00:22:56.517Z"
     },
     {
       "posicao": 94,
@@ -1598,10 +1598,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_620472-MLA99569882884_122025-AB.webp",
       "horarioProgramado": "21:27",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-05T00:27:30.197Z"
     },
     {
       "posicao": 95,
@@ -1615,10 +1615,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_712967-MLA96969981644_112025-AB.webp",
       "horarioProgramado": "21:32",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-05T00:32:57.259Z"
     },
     {
       "posicao": 96,
@@ -1632,10 +1632,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_842681-MLB109095437336_042026-AB-kit-3-jaquetas-infantil-juvenil-menina-inverno-premium.webp",
       "horarioProgramado": "21:38",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-05T00:38:21.292Z"
     },
     {
       "posicao": 97,
