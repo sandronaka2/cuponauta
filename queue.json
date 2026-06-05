@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-05T15:32:05.744Z",
-  "exportedAt": "05/06/2026, 12:32:05",
+  "lastExport": "2026-06-05T15:42:05.756Z",
+  "exportedAt": "05/06/2026, 12:42:05",
   "total": 100,
-  "pendentes": 77,
-  "postados": 23,
+  "pendentes": 75,
+  "postados": 25,
   "queue": [
     {
       "posicao": 1,
@@ -408,10 +408,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_754638-MLB111054775045_042026-AB.webp",
       "horarioProgramado": "12:33",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-05T15:33:45.119Z"
     },
     {
       "posicao": 25,
@@ -425,10 +425,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_710518-MLB89958221447_082025-AB-kit-2-mesas-laterais-retr-para-cama-e-quarto-com-pes.webp",
       "horarioProgramado": "12:39",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-05T15:39:58.544Z"
     },
     {
       "posicao": 26,
