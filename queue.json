@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-05T21:30:56.368Z",
-  "exportedAt": "05/06/2026, 18:30:56",
+  "lastExport": "2026-06-05T21:40:56.389Z",
+  "exportedAt": "05/06/2026, 18:40:56",
   "total": 100,
-  "pendentes": 37,
-  "postados": 63,
+  "pendentes": 35,
+  "postados": 65,
   "queue": [
     {
       "posicao": 1,
@@ -1088,10 +1088,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_843569-MLB112036219477_052026-AB.webp",
       "horarioProgramado": "18:32",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-05T21:32:26.131Z"
     },
     {
       "posicao": 65,
@@ -1105,10 +1105,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_986467-MLB112482124811_052026-AB-mochila-viagem-feminina-masculina-para-notebook-executiva.webp",
       "horarioProgramado": "18:38",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-05T21:38:24.248Z"
     },
     {
       "posicao": 66,
