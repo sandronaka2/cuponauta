@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-05T16:12:05.784Z",
-  "exportedAt": "05/06/2026, 13:12:05",
+  "lastExport": "2026-06-05T16:22:05.785Z",
+  "exportedAt": "05/06/2026, 13:22:05",
   "total": 100,
-  "pendentes": 71,
-  "postados": 29,
+  "pendentes": 69,
+  "postados": 31,
   "queue": [
     {
       "posicao": 1,
@@ -510,10 +510,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_844235-MLB92360278337_092025-AB-cobertor-casal-veludo-manta-microfibra-grossa-toque-macio.webp",
       "horarioProgramado": "13:14",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-05T16:14:50.165Z"
     },
     {
       "posicao": 31,
@@ -527,10 +527,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_955696-MLB111098401276_052026-AB.webp",
       "horarioProgramado": "13:21",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-05T16:21:53.690Z"
     },
     {
       "posicao": 32,
