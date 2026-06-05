@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-05T18:32:05.974Z",
-  "exportedAt": "05/06/2026, 15:32:05",
+  "lastExport": "2026-06-05T18:42:07.339Z",
+  "exportedAt": "05/06/2026, 15:42:07",
   "total": 100,
-  "pendentes": 55,
-  "postados": 45,
+  "pendentes": 54,
+  "postados": 46,
   "queue": [
     {
       "posicao": 1,
@@ -782,10 +782,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_673108-MLB110443963712_052026-AB-kit-10-cuecas-polo-fit-boxer-box-algodo-original-promoco.webp",
       "horarioProgramado": "15:37",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-05T18:37:19.873Z"
     },
     {
       "posicao": 47,
