@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-05T14:52:05.678Z",
-  "exportedAt": "05/06/2026, 11:52:05",
+  "lastExport": "2026-06-05T15:01:14.872Z",
+  "exportedAt": "05/06/2026, 12:01:14",
   "total": 100,
-  "pendentes": 83,
-  "postados": 17,
+  "pendentes": 82,
+  "postados": 18,
   "queue": [
     {
       "posicao": 1,
@@ -306,10 +306,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_879487-MLB106187629450_022026-AB-cabeceira-cama-casal-box-estofada-60x20-c-10un-varias-cores.webp",
       "horarioProgramado": "11:58",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-05T14:58:48.344Z"
     },
     {
       "posicao": 19,
