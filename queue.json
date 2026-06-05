@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-05T15:52:05.770Z",
-  "exportedAt": "05/06/2026, 12:52:05",
+  "lastExport": "2026-06-05T16:01:17.173Z",
+  "exportedAt": "05/06/2026, 13:01:17",
   "total": 100,
-  "pendentes": 74,
-  "postados": 26,
+  "pendentes": 72,
+  "postados": 28,
   "queue": [
     {
       "posicao": 1,
@@ -459,10 +459,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_714677-MLB106514234007_022026-AB-calca-jeans-mom-stillger-feminina-cintura-alta-cor-clara.webp",
       "horarioProgramado": "12:53",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-05T15:53:12.699Z"
     },
     {
       "posicao": 28,
@@ -476,10 +476,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_627065-MLB109020200579_032026-AB-tnis-casual-kappa-zenit-masculino-unissex-conforto.webp",
       "horarioProgramado": "13:00",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-05T16:00:49.448Z"
     },
     {
       "posicao": 29,
