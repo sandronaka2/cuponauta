@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-05T22:40:56.474Z",
-  "exportedAt": "05/06/2026, 19:40:56",
+  "lastExport": "2026-06-05T22:50:56.490Z",
+  "exportedAt": "05/06/2026, 19:50:56",
   "total": 100,
-  "pendentes": 25,
-  "postados": 75,
+  "pendentes": 24,
+  "postados": 76,
   "queue": [
     {
       "posicao": 1,
@@ -1292,10 +1292,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_654719-MLB96790145276_112025-AB-1kg-mix-castanhas-de-caju-para-macadmia-nozes-e-amndoas.webp",
       "horarioProgramado": "19:45",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-05T22:45:51.286Z"
     },
     {
       "posicao": 77,
