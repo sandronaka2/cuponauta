@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-05T20:49:18.788Z",
-  "exportedAt": "05/06/2026, 17:49:18",
+  "lastExport": "2026-06-05T20:49:33.529Z",
+  "exportedAt": "05/06/2026, 17:49:33",
   "total": 100,
-  "pendentes": 44,
-  "postados": 56,
+  "pendentes": 43,
+  "postados": 57,
   "queue": [
     {
       "posicao": 1,
@@ -969,10 +969,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_647070-MLB107962843721_032026-AB-tapete-passadeira-sala-quarto-felpudo-peludo-macio-200x60.webp",
       "horarioProgramado": "17:49",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-05T20:49:20.112Z"
     },
     {
       "posicao": 58,
