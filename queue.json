@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-05T22:50:56.490Z",
-  "exportedAt": "05/06/2026, 19:50:56",
+  "lastExport": "2026-06-05T23:00:33.398Z",
+  "exportedAt": "05/06/2026, 20:00:33",
   "total": 100,
-  "pendentes": 24,
-  "postados": 76,
+  "pendentes": 22,
+  "postados": 78,
   "queue": [
     {
       "posicao": 1,
@@ -1309,10 +1309,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_651068-MLB103628204133_012026-AB.webp",
       "horarioProgramado": "19:51",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-05T22:51:31.453Z"
     },
     {
       "posicao": 78,
@@ -1326,10 +1326,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_895303-MLB111860164245_052026-AB-jaqueta-masculina-plus-size-casaco-sarja-black-50-52-54-56.webp",
       "horarioProgramado": "19:57",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-05T22:57:59.367Z"
     },
     {
       "posicao": 79,
