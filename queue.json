@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-05T15:01:14.872Z",
-  "exportedAt": "05/06/2026, 12:01:14",
+  "lastExport": "2026-06-05T15:02:05.684Z",
+  "exportedAt": "05/06/2026, 12:02:05",
   "total": 100,
-  "pendentes": 82,
-  "postados": 18,
+  "pendentes": 81,
+  "postados": 19,
   "queue": [
     {
       "posicao": 1,
@@ -323,10 +323,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_918165-MLB90597288903_082025-AB-kit4-tapetes-para-banheiro-tapete-magico-ultra-para-absorc.webp",
       "horarioProgramado": "12:01",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-05T15:01:38.958Z"
     },
     {
       "posicao": 20,
