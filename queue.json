@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-05T19:22:07.391Z",
-  "exportedAt": "05/06/2026, 16:22:07",
+  "lastExport": "2026-06-05T19:29:48.601Z",
+  "exportedAt": "05/06/2026, 16:29:48",
   "total": 100,
-  "pendentes": 51,
-  "postados": 49,
+  "pendentes": 50,
+  "postados": 50,
   "queue": [
     {
       "posicao": 1,
@@ -850,10 +850,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_880998-MLB104383116696_012026-AB-carretilha-molinete-pesca181-rolamentos-721-pescaria.webp",
       "horarioProgramado": "16:25",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-05T19:25:46.729Z"
     },
     {
       "posicao": 51,
