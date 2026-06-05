@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-05T13:54:47.169Z",
-  "exportedAt": "05/06/2026, 10:54:47",
+  "lastExport": "2026-06-05T13:54:57.286Z",
+  "exportedAt": "05/06/2026, 10:54:57",
   "total": 100,
-  "pendentes": 89,
-  "postados": 11,
+  "pendentes": 88,
+  "postados": 12,
   "queue": [
     {
       "posicao": 1,
@@ -204,10 +204,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_998950-MLB109589928420_042026-AB-quadros-decorativos-boho-gratido-muda-tudo-sala-kit-122x60.webp",
       "horarioProgramado": "10:54",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-05T13:54:54.920Z"
     },
     {
       "posicao": 13,
