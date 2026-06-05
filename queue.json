@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-05T21:10:56.362Z",
-  "exportedAt": "05/06/2026, 18:10:56",
+  "lastExport": "2026-06-05T21:20:56.356Z",
+  "exportedAt": "05/06/2026, 18:20:56",
   "total": 100,
-  "pendentes": 40,
-  "postados": 60,
+  "pendentes": 38,
+  "postados": 62,
   "queue": [
     {
       "posicao": 1,
@@ -1037,10 +1037,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_669110-MLB101099924737_122025-AB-kit-50-mini-led-luzes-decorativo-aniversar-bolo-bexiga-balo.webp",
       "horarioProgramado": "18:13",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-05T21:13:09.989Z"
     },
     {
       "posicao": 62,
@@ -1054,10 +1054,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_742214-MLB111020528940_052026-AB-vestido-festa-junina-infantil-xadrez-caipira-menina-junino.webp",
       "horarioProgramado": "18:19",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-05T21:19:51.728Z"
     },
     {
       "posicao": 63,
