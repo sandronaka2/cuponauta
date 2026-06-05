@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-05T16:32:05.793Z",
-  "exportedAt": "05/06/2026, 13:32:05",
+  "lastExport": "2026-06-05T16:42:05.798Z",
+  "exportedAt": "05/06/2026, 13:42:05",
   "total": 100,
-  "pendentes": 68,
-  "postados": 32,
+  "pendentes": 66,
+  "postados": 34,
   "queue": [
     {
       "posicao": 1,
@@ -561,10 +561,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_785672-MLB98218837738_112025-AB-camisas-plus-size-termica-segunda-pele-proteco-uv-premium.webp",
       "horarioProgramado": "13:34",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-05T16:34:59.250Z"
     },
     {
       "posicao": 34,
@@ -578,10 +578,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_695441-MLB93355788817_092025-AB-organizador-gaveteiro-jaguar-cho-3-gavetas-15litros-cores.webp",
       "horarioProgramado": "13:40",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-05T16:40:55.740Z"
     },
     {
       "posicao": 35,
