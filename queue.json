@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-05T15:42:05.756Z",
-  "exportedAt": "05/06/2026, 12:42:05",
+  "lastExport": "2026-06-05T15:52:05.770Z",
+  "exportedAt": "05/06/2026, 12:52:05",
   "total": 100,
-  "pendentes": 75,
-  "postados": 25,
+  "pendentes": 74,
+  "postados": 26,
   "queue": [
     {
       "posicao": 1,
@@ -442,10 +442,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_716188-MLB108650249134_032026-AB-calca-legging-gkd-cos-alto-academia-cintura-alta-esportiva.webp",
       "horarioProgramado": "12:46",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-05T15:46:28.888Z"
     },
     {
       "posicao": 27,
