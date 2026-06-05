@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-05T12:58:32.650Z",
-  "exportedAt": "05/06/2026, 09:58:32",
+  "lastExport": "2026-06-05T13:01:31.445Z",
+  "exportedAt": "05/06/2026, 10:01:31",
   "total": 100,
-  "pendentes": 94,
-  "postados": 6,
+  "pendentes": 93,
+  "postados": 7,
   "queue": [
     {
       "posicao": 1,
@@ -119,10 +119,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_624215-MLB109886431821_032026-AB-cobertor-microfibra-manta-king-antialergico-soft-macio-poa.webp",
       "horarioProgramado": "10:01",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-05T13:01:22.164Z"
     },
     {
       "posicao": 8,
