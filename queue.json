@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-06T12:22:58.306Z",
-  "exportedAt": "06/06/2026, 09:22:58",
+  "lastExport": "2026-06-06T12:47:58.923Z",
+  "exportedAt": "06/06/2026, 09:47:58",
   "total": 100,
-  "pendentes": 98,
-  "postados": 2,
+  "pendentes": 96,
+  "postados": 4,
   "queue": [
     {
       "posicao": 1,
@@ -51,10 +51,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_746102-MLB98306342529_112025-AB-kit-extensoes-de-cilios-diy-keyyou-fairy-efeito-invisivel.webp",
       "horarioProgramado": "09:24",
       "janela": "09:00-10:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-06T12:24:16.718Z"
     },
     {
       "posicao": 4,
@@ -68,10 +68,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_855365-MLA93343730723_092025-AB.webp",
       "horarioProgramado": "09:35",
       "janela": "09:00-10:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-06T12:35:12.825Z"
     },
     {
       "posicao": 5,
