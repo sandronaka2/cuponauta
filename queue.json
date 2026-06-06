@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-06T16:31:06.411Z",
-  "exportedAt": "06/06/2026, 13:31:06",
+  "lastExport": "2026-06-06T16:52:24.240Z",
+  "exportedAt": "06/06/2026, 13:52:24",
   "total": 100,
-  "pendentes": 68,
-  "postados": 32,
+  "pendentes": 65,
+  "postados": 35,
   "queue": [
     {
       "posicao": 1,
@@ -561,10 +561,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_637138-MLB81163662753_122024-AB.webp",
       "horarioProgramado": "13:33",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-06T16:33:59.864Z"
     },
     {
       "posicao": 34,
@@ -578,10 +578,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_634826-MLB72287052277_102023-AB-tenis-mormaii-urban-smash-original-skate-casual-masculino.webp",
       "horarioProgramado": "13:39",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-06T16:39:39.727Z"
     },
     {
       "posicao": 35,
@@ -595,10 +595,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_654079-MLA99510217030_112025-AB.webp",
       "horarioProgramado": "13:45",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-06T16:45:34.983Z"
     },
     {
       "posicao": 36,
