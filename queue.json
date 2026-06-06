@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-06T00:00:56.590Z",
-  "exportedAt": "05/06/2026, 21:00:56",
+  "lastExport": "2026-06-06T00:10:56.608Z",
+  "exportedAt": "05/06/2026, 21:10:56",
   "total": 100,
-  "pendentes": 12,
-  "postados": 88,
+  "pendentes": 10,
+  "postados": 90,
   "queue": [
     {
       "posicao": 1,
@@ -1513,10 +1513,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_630660-MLB111010578094_052026-AB-caneca-mixer-misturador-bebidas-automatica-cafe-copo-termica.webp",
       "horarioProgramado": "21:01",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-06T00:01:46.453Z"
     },
     {
       "posicao": 90,
@@ -1530,10 +1530,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_765637-MLB106363007823_022026-AB.webp",
       "horarioProgramado": "21:06",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-06T00:06:58.656Z"
     },
     {
       "posicao": 91,
