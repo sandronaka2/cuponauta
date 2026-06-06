@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-06T17:03:38.288Z",
-  "exportedAt": "06/06/2026, 14:03:38",
+  "lastExport": "2026-06-06T18:49:55.044Z",
+  "exportedAt": "06/06/2026, 15:49:55",
   "total": 100,
-  "pendentes": 62,
-  "postados": 38,
+  "pendentes": 53,
+  "postados": 47,
   "queue": [
     {
       "posicao": 1,
@@ -663,10 +663,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_610222-MLA111636115647_052026-AB.webp",
       "horarioProgramado": "14:13",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-06T17:13:16.864Z"
     },
     {
       "posicao": 40,
@@ -680,10 +680,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_945198-MLA99979877115_112025-AB.webp",
       "horarioProgramado": "14:26",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-06T17:26:05.866Z"
     },
     {
       "posicao": 41,
@@ -697,10 +697,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_725231-MLA86357230832_062025-AB.webp",
       "horarioProgramado": "14:37",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-06T17:37:35.807Z"
     },
     {
       "posicao": 42,
@@ -714,10 +714,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_895482-MLA99399298296_112025-AB.webp",
       "horarioProgramado": "14:50",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-06T17:50:53.888Z"
     },
     {
       "posicao": 43,
@@ -731,10 +731,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_737982-MLB96738249051_102025-AB-kit-10-cuecas-algodo-polo-wear-sortido.webp",
       "horarioProgramado": "15:03",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-06T18:03:17.991Z"
     },
     {
       "posicao": 44,
@@ -748,10 +748,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_790109-MLB54782884240_032023-AB-pulseira-emborrachada-ajustavel-para-xiaomii-mi-band-7-pro.webp",
       "horarioProgramado": "15:15",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-06T18:16:03.185Z"
     },
     {
       "posicao": 45,
@@ -765,10 +765,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_748103-MLA99906601653_112025-AB.webp",
       "horarioProgramado": "15:26",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-06T18:26:22.874Z"
     },
     {
       "posicao": 46,
@@ -782,27 +782,27 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_902026-MLB54976322754_042023-AB.webp",
       "horarioProgramado": "15:38",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-06T18:38:32.880Z"
     },
     {
       "posicao": 47,
       "id": "wa-1549-46",
       "titulo": "Lava E Seca 13kg Healthguard Conectada Branca Midea 127v Branco",
-      "preco": "R$ 3467,00",
+      "preco": "R$ 3428,00",
       "precoOriginal": "R$4.199",
       "desconto": "16% OFF",
-      "cupom": "QUEROAGORA",
+      "cupom": "CARRINHOCHEIO",
       "link": "https://meli.la/1Tx5sYX",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_642374-MLA99938065359_112025-AB.webp",
       "horarioProgramado": "15:49",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-06T18:49:37.885Z"
     },
     {
       "posicao": 48,
