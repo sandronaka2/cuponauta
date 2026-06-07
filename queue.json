@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-07T16:22:46.906Z",
-  "exportedAt": "07/06/2026, 13:22:46",
+  "lastExport": "2026-06-07T16:32:46.936Z",
+  "exportedAt": "07/06/2026, 13:32:46",
   "total": 100,
-  "pendentes": 69,
-  "postados": 31,
+  "pendentes": 68,
+  "postados": 32,
   "queue": [
     {
       "posicao": 1,
@@ -544,10 +544,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_949404-MLB111965234111_052026-AB-jaqueta-couro-masculina-slim-forrada-com-capuz-removivel.webp",
       "horarioProgramado": "13:28",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-07T16:28:23.919Z"
     },
     {
       "posicao": 33,
