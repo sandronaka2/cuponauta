@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-07T15:52:46.886Z",
-  "exportedAt": "07/06/2026, 12:52:46",
+  "lastExport": "2026-06-07T16:22:46.906Z",
+  "exportedAt": "07/06/2026, 13:22:46",
   "total": 100,
-  "pendentes": 74,
-  "postados": 26,
+  "pendentes": 69,
+  "postados": 31,
   "queue": [
     {
       "posicao": 1,
@@ -459,10 +459,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_685148-MLB94285620409_102025-AB-blusa-ciganinha-plus-size-com-mangas-soltinha-fresquinha.webp",
       "horarioProgramado": "12:53",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-07T15:54:27.884Z"
     },
     {
       "posicao": 28,
@@ -476,10 +476,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_930963-MLA99519718170_112025-AB.webp",
       "horarioProgramado": "13:00",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-07T16:00:44.665Z"
     },
     {
       "posicao": 29,
@@ -493,10 +493,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_898386-MLB96919566269_112025-AB-caixa-som-bluetooth-portatil-tws-grave-potente-com-radio-15h.webp",
       "horarioProgramado": "13:07",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-07T16:07:34.078Z"
     },
     {
       "posicao": 30,
@@ -510,10 +510,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_916212-MLA112591527509_062026-AB.webp",
       "horarioProgramado": "13:13",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-07T16:14:01.315Z"
     },
     {
       "posicao": 31,
@@ -527,10 +527,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_871498-MLB89720767443_082025-AB.webp",
       "horarioProgramado": "13:21",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-07T16:21:17.047Z"
     },
     {
       "posicao": 32,
