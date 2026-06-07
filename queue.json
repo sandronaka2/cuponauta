@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-07T13:36:49.629Z",
-  "exportedAt": "07/06/2026, 10:36:49",
+  "lastExport": "2026-06-07T13:42:06.277Z",
+  "exportedAt": "07/06/2026, 10:42:06",
   "total": 100,
-  "pendentes": 90,
-  "postados": 10,
+  "pendentes": 89,
+  "postados": 11,
   "queue": [
     {
       "posicao": 1,
@@ -187,10 +187,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_707796-MLB85713559505_062025-AB-conjunto-plus-size-calca-wide-leg-alfaiataria-cores-vivas-g3.webp",
       "horarioProgramado": "10:41",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-07T13:41:47.449Z"
     },
     {
       "posicao": 12,
