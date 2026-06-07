@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-07T12:00:00.827Z",
-  "exportedAt": "07/06/2026, 09:00:00",
+  "lastExport": "2026-06-07T12:03:50.915Z",
+  "exportedAt": "07/06/2026, 09:03:50",
   "total": 100,
-  "pendentes": 100,
-  "postados": 0,
+  "pendentes": 99,
+  "postados": 1,
   "queue": [
     {
       "posicao": 1,
@@ -17,10 +17,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_634297-MLB109525657682_042026-AB-mascara-de-dormir-3d-alto-conforto-c-velcro-especial-viagem.webp",
       "horarioProgramado": "09:01",
       "janela": "09:00-10:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-07T12:01:43.405Z"
     },
     {
       "posicao": 2,
