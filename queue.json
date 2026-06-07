@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-07T00:49:08.781Z",
-  "exportedAt": "06/06/2026, 21:49:08",
+  "lastExport": "2026-06-07T01:14:29.514Z",
+  "exportedAt": "06/06/2026, 22:14:29",
   "total": 100,
-  "pendentes": 5,
-  "postados": 95,
+  "pendentes": 2,
+  "postados": 98,
   "queue": [
     {
       "posicao": 1,
@@ -1666,10 +1666,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_833965-MLA104158192939_012026-AB.webp",
       "horarioProgramado": "21:50",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-07T00:50:11.801Z"
     },
     {
       "posicao": 99,
@@ -1683,10 +1683,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_705702-MLA100043992989_122025-AB.webp",
       "horarioProgramado": "21:55",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-07T00:55:54.840Z"
     },
     {
       "posicao": 100,
@@ -1700,10 +1700,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_634776-MLB85053764251_052025-AB-jaqueta-corta-vento-blusa-feminino-lisa-ultra-leve-top-color.webp",
       "horarioProgramado": "21:58",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-07T00:58:19.797Z"
     }
   ]
 }
