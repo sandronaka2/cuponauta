@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-07T00:03:22.105Z",
-  "exportedAt": "06/06/2026, 21:03:22",
+  "lastExport": "2026-06-07T00:48:28.971Z",
+  "exportedAt": "06/06/2026, 21:48:28",
   "total": 100,
-  "pendentes": 13,
-  "postados": 87,
+  "pendentes": 5,
+  "postados": 95,
   "queue": [
     {
       "posicao": 1,
@@ -1530,10 +1530,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_608723-MLA99457461066_112025-AB.webp",
       "horarioProgramado": "21:06",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-07T00:06:44.863Z"
     },
     {
       "posicao": 91,
@@ -1547,10 +1547,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_983010-MLA99361638506_112025-AB.webp",
       "horarioProgramado": "21:11",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-07T00:11:46.801Z"
     },
     {
       "posicao": 92,
@@ -1564,10 +1564,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_817511-MLB97883842250_112025-AB.webp",
       "horarioProgramado": "21:16",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-07T00:16:56.760Z"
     },
     {
       "posicao": 93,
@@ -1581,10 +1581,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_746116-MLU77344104661_062024-AB.webp",
       "horarioProgramado": "21:22",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-07T00:22:32.853Z"
     },
     {
       "posicao": 94,
@@ -1598,10 +1598,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_956553-MLA100012348027_122025-AB.webp",
       "horarioProgramado": "21:28",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-07T00:28:34.814Z"
     },
     {
       "posicao": 95,
@@ -1615,10 +1615,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_839649-MLB79299863050_092024-AB.webp",
       "horarioProgramado": "21:33",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-07T00:33:30.128Z"
     },
     {
       "posicao": 96,
@@ -1632,10 +1632,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_690657-MLB91630143587_092025-AB.webp",
       "horarioProgramado": "21:39",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-07T00:39:13.431Z"
     },
     {
       "posicao": 97,
@@ -1649,25 +1649,25 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_828938-MLB96677023031_102025-AB-plafon-sobrepor-quadrado-led-25w-painel-preto-bivolt-30x30.webp",
       "horarioProgramado": "21:45",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-07T00:45:28.215Z"
     },
     {
       "posicao": 98,
       "id": "wa-2150-97",
       "titulo": "Smartwatch Huawei Watch Gt 6 Pro 46mm Bateria Com Autonomia De Até 21 Dias Mais De 100 Modos Esportivos Corrida De... Prateado",
-      "preco": "R$ 2739,00",
+      "preco": "R$ 2.799",
       "precoOriginal": "R$3.999",
       "desconto": "30% OFF",
-      "cupom": "CARRINHOCHEIO",
+      "cupom": null,
       "link": "https://meli.la/1UXNKhU",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_833965-MLA104158192939_012026-AB.webp",
       "horarioProgramado": "21:50",
       "janela": "21:00-22:00",
       "status": "pendente",
-      "fonte": "CUPOM",
+      "fonte": "OFERTA",
       "boostType": null,
       "postedAt": null
     },
@@ -1675,16 +1675,16 @@
       "posicao": 99,
       "id": "wa-2155-98",
       "titulo": "Kit 10 Refletor Led 100w 6500k Branco Frio A Prova D'água Alut Cod: Alut000701-10 Alut By Avant 127/220v Preto Branco Frio 6500k",
-      "preco": "R$ 251,60",
+      "preco": "R$ 296",
       "precoOriginal": "R$499",
       "desconto": "40% OFF no Pix",
-      "cupom": "CARRINHOCHEIO",
+      "cupom": null,
       "link": "https://meli.la/1QprDH5",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_705702-MLA100043992989_122025-AB.webp",
       "horarioProgramado": "21:55",
       "janela": "21:00-22:00",
       "status": "pendente",
-      "fonte": "CUPOM",
+      "fonte": "OFERTA",
       "boostType": null,
       "postedAt": null
     },
