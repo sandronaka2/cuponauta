@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-08T12:01:22.079Z",
-  "exportedAt": "08/06/2026, 09:01:22",
+  "lastExport": "2026-06-08T12:05:42.313Z",
+  "exportedAt": "08/06/2026, 09:05:42",
   "total": 100,
-  "pendentes": 100,
-  "postados": 0,
+  "pendentes": 99,
+  "postados": 1,
   "queue": [
     {
       "posicao": 1,
@@ -17,10 +17,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_732493-MLB80923247335_112024-AB-kits-10-potes-bowl-vasilhas-tapoe-marmita-boll-jarra1800.webp",
       "horarioProgramado": "09:04",
       "janela": "09:00-10:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-08T12:04:38.170Z"
     },
     {
       "posicao": 2,
@@ -195,13 +195,13 @@
     {
       "posicao": 12,
       "id": "wa-1056-11",
-      "titulo": "Depurador Exaustor Slim 60cm Preto Dps161pt Suggar 127v",
-      "preco": "R$ 327",
-      "precoOriginal": "R$599,90",
-      "desconto": "45% OFF no Pix",
+      "titulo": "Tenis Feminino Chunky Ramarim Casual Conforto Original",
+      "preco": "R$ 169",
+      "precoOriginal": "R$399,90",
+      "desconto": "57% OFF",
       "cupom": null,
-      "link": "https://meli.la/177ni1s",
-      "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_757108-MLA99950930197_112025-AB.webp",
+      "link": "https://meli.la/142VvJf",
+      "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_932773-MLB109478888460_042026-AB-tenis-feminino-chunky-ramarim-casual-conforto-original.webp",
       "horarioProgramado": "10:56",
       "janela": "10:00-12:00",
       "status": "pendente",
