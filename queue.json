@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-08T13:55:54.939Z",
-  "exportedAt": "08/06/2026, 10:55:54",
+  "lastExport": "2026-06-08T13:56:50.577Z",
+  "exportedAt": "08/06/2026, 10:56:50",
   "total": 100,
-  "pendentes": 91,
-  "postados": 9,
+  "pendentes": 90,
+  "postados": 10,
   "queue": [
     {
       "posicao": 1,
@@ -196,18 +196,18 @@
       "posicao": 12,
       "id": "wa-1056-11",
       "titulo": "Depurador Exaustor Slim 60cm Preto Dps161pt Suggar 127v",
-      "preco": "R$ 294,30",
+      "preco": "R$ 277,95",
       "precoOriginal": "R$599,90",
       "desconto": "45% OFF no Pix",
-      "cupom": "MENOSHOJE",
+      "cupom": "DESCONTOMELIMAIS",
       "link": "https://meli.la/177ni1s",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_757108-MLA99950930197_112025-AB.webp",
       "horarioProgramado": "10:56",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-08T13:56:16.941Z"
     },
     {
       "posicao": 13,
