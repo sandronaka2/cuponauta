@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-08T16:12:42.362Z",
-  "exportedAt": "08/06/2026, 13:12:42",
+  "lastExport": "2026-06-08T16:13:21.421Z",
+  "exportedAt": "08/06/2026, 13:13:21",
   "total": 100,
-  "pendentes": 73,
-  "postados": 27,
+  "pendentes": 72,
+  "postados": 28,
   "queue": [
     {
       "posicao": 1,
@@ -502,18 +502,18 @@
       "posicao": 30,
       "id": "wa-1313-29",
       "titulo": "Mouse Gamer Redragon Cobra Rgb Preto Preto",
-      "preco": "R$ 74,80",
+      "preco": "R$ 79,20",
       "precoOriginal": "R$143,43",
       "desconto": "38% OFF no Pix ou Saldo no Mercado Pago",
-      "cupom": "DESCONTOMELIMAIS",
+      "cupom": "MENOSHOJE",
       "link": "https://meli.la/1umGSoD",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_678685-MLA95671095550_102025-AB.webp",
       "horarioProgramado": "13:13",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-08T16:13:12.555Z"
     },
     {
       "posicao": 31,
