@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-08T13:38:18.959Z",
-  "exportedAt": "08/06/2026, 10:38:18",
+  "lastExport": "2026-06-08T13:47:15.383Z",
+  "exportedAt": "08/06/2026, 10:47:15",
   "total": 100,
-  "pendentes": 92,
-  "postados": 8,
+  "pendentes": 91,
+  "postados": 9,
   "queue": [
     {
       "posicao": 1,
@@ -187,10 +187,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_974264-MLB77257636278_072024-AB-conjunto-segunda-pele-termica-flanelado-frio-intenso-preto.webp",
       "horarioProgramado": "10:46",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-08T13:46:18.084Z"
     },
     {
       "posicao": 12,
