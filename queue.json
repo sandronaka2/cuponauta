@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-08T00:38:36.863Z",
-  "exportedAt": "07/06/2026, 21:38:36",
+  "lastExport": "2026-06-08T02:04:58.025Z",
+  "exportedAt": "07/06/2026, 23:04:58",
   "total": 100,
-  "pendentes": 5,
-  "postados": 95,
+  "pendentes": 0,
+  "postados": 100,
   "queue": [
     {
       "posicao": 1,
@@ -1632,10 +1632,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_960441-MLB97919613886_112025-AB.webp",
       "horarioProgramado": "21:38",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-08T00:38:41.744Z"
     },
     {
       "posicao": 97,
@@ -1649,10 +1649,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_975679-MLA96071769579_102025-AB.webp",
       "horarioProgramado": "21:43",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-08T00:43:26.904Z"
     },
     {
       "posicao": 98,
@@ -1666,10 +1666,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_863766-MLB105010041977_012026-AB.webp",
       "horarioProgramado": "21:49",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-08T00:49:27.908Z"
     },
     {
       "posicao": 99,
@@ -1683,10 +1683,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_644147-MLB111336027677_052026-AB-macaquinho-feminino-fitness-c-bojo-suplex-roupa-academia-c.webp",
       "horarioProgramado": "21:54",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-08T00:54:54.927Z"
     },
     {
       "posicao": 100,
@@ -1700,10 +1700,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_619206-MLB97462755671_112025-AB-vestido-longuete-festa-feminino-trico-tomara-que-caia-babado.webp",
       "horarioProgramado": "21:58",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-08T00:58:25.961Z"
     }
   ]
 }
