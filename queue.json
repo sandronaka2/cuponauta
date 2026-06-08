@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-08T15:41:26.398Z",
-  "exportedAt": "08/06/2026, 12:41:26",
+  "lastExport": "2026-06-08T15:49:21.700Z",
+  "exportedAt": "08/06/2026, 12:49:21",
   "total": 100,
-  "pendentes": 78,
-  "postados": 22,
+  "pendentes": 76,
+  "postados": 24,
   "queue": [
     {
       "posicao": 1,
@@ -425,10 +425,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_969731-MLB106798728764_022026-AB.webp",
       "horarioProgramado": "12:42",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-08T15:42:41.899Z"
     },
     {
       "posicao": 26,
@@ -442,10 +442,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_665727-MLB43817985406_102020-AB-scarpin-donna-santa-bico-redondo-feminino-conforto.webp",
       "horarioProgramado": "12:48",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-08T15:48:50.161Z"
     },
     {
       "posicao": 27,
