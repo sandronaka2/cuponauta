@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-08T15:33:52.531Z",
-  "exportedAt": "08/06/2026, 12:33:52",
+  "lastExport": "2026-06-08T15:39:50.551Z",
+  "exportedAt": "08/06/2026, 12:39:50",
   "total": 100,
-  "pendentes": 79,
-  "postados": 21,
+  "pendentes": 78,
+  "postados": 22,
   "queue": [
     {
       "posicao": 1,
@@ -408,10 +408,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_785381-MLB106783995546_022026-AB-kit-10-cuecas-boxer-box-masculina-algodo-atacado-polo-fit.webp",
       "horarioProgramado": "12:35",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-08T15:35:08.901Z"
     },
     {
       "posicao": 25,
