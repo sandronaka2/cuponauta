@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-08T12:22:12.555Z",
-  "exportedAt": "08/06/2026, 09:22:12",
+  "lastExport": "2026-06-08T12:27:58.689Z",
+  "exportedAt": "08/06/2026, 09:27:58",
   "total": 100,
-  "pendentes": 99,
-  "postados": 1,
+  "pendentes": 98,
+  "postados": 2,
   "queue": [
     {
       "posicao": 1,
@@ -51,10 +51,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_841441-MLB111693661609_052026-AB-6-pares-meias-lupo-sport-cano-medio-alto-academia-original.webp",
       "horarioProgramado": "09:25",
       "janela": "09:00-10:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-08T12:25:46.379Z"
     },
     {
       "posicao": 4,
