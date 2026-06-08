@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-08T16:22:23.645Z",
-  "exportedAt": "08/06/2026, 13:22:23",
+  "lastExport": "2026-06-08T16:30:53.786Z",
+  "exportedAt": "08/06/2026, 13:30:53",
   "total": 100,
-  "pendentes": 71,
-  "postados": 29,
+  "pendentes": 70,
+  "postados": 30,
   "queue": [
     {
       "posicao": 1,
@@ -544,10 +544,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_600415-MLB82669977607_022025-AB-olevs-relogio-masculino-original-aco-do-correia-dourado-6898.webp",
       "horarioProgramado": "13:27",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-08T16:27:48.389Z"
     },
     {
       "posicao": 33,
