@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-09T17:00:29.293Z",
-  "exportedAt": "09/06/2026, 14:00:29",
+  "lastExport": "2026-06-09T17:05:39.122Z",
+  "exportedAt": "09/06/2026, 14:05:39",
   "total": 100,
-  "pendentes": 63,
-  "postados": 37,
+  "pendentes": 62,
+  "postados": 38,
   "queue": [
     {
       "posicao": 1,
@@ -646,10 +646,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_634779-MLB106914586204_022026-AB-vestido-plus-size-feminino-manga-bufante-cordo-ajustavel.webp",
       "horarioProgramado": "14:01",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-09T17:01:10.362Z"
     },
     {
       "posicao": 39,
