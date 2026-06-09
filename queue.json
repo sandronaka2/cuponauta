@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-09T14:05:31.578Z",
-  "exportedAt": "09/06/2026, 11:05:31",
+  "lastExport": "2026-06-09T14:10:29.084Z",
+  "exportedAt": "09/06/2026, 11:10:29",
   "total": 100,
-  "pendentes": 88,
-  "postados": 12,
+  "pendentes": 87,
+  "postados": 13,
   "queue": [
     {
       "posicao": 1,
@@ -221,10 +221,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_737984-MLB89216520569_082025-AB-kit-inblox-blocos-montar-525-pecas-compativel-com-lego.webp",
       "horarioProgramado": "11:05",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-09T14:05:54.256Z"
     },
     {
       "posicao": 14,
