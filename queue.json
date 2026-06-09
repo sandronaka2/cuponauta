@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-09T17:30:29.322Z",
-  "exportedAt": "09/06/2026, 14:30:29",
+  "lastExport": "2026-06-09T17:40:29.402Z",
+  "exportedAt": "09/06/2026, 14:40:29",
   "total": 100,
-  "pendentes": 60,
-  "postados": 40,
+  "pendentes": 59,
+  "postados": 41,
   "queue": [
     {
       "posicao": 1,
@@ -697,10 +697,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_853411-MLB94947754789_102025-AB-boina-chapeu-com-aba-feminino-masculino-aveludado-promoco.webp",
       "horarioProgramado": "14:36",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-09T17:36:47.673Z"
     },
     {
       "posicao": 42,
