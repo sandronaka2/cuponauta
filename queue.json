@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-09T14:30:29.098Z",
-  "exportedAt": "09/06/2026, 11:30:29",
+  "lastExport": "2026-06-09T14:40:29.113Z",
+  "exportedAt": "09/06/2026, 11:40:29",
   "total": 100,
-  "pendentes": 85,
-  "postados": 15,
+  "pendentes": 84,
+  "postados": 16,
   "queue": [
     {
       "posicao": 1,
@@ -272,10 +272,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_820547-MLB111017913660_052026-AB-perfume-arabe-masculino-15ml-le-parfum-bolso-marca-isabelle-la-belle-amadeirado-alta-fixaco-escolha-sua-fragrancia.webp",
       "horarioProgramado": "11:37",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-09T14:37:11.421Z"
     },
     {
       "posicao": 17,
