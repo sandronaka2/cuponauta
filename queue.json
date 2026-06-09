@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-09T13:10:59.952Z",
-  "exportedAt": "09/06/2026, 10:10:59",
+  "lastExport": "2026-06-09T13:20:29.025Z",
+  "exportedAt": "09/06/2026, 10:20:29",
   "total": 100,
-  "pendentes": 93,
-  "postados": 7,
+  "pendentes": 92,
+  "postados": 8,
   "queue": [
     {
       "posicao": 1,
@@ -136,10 +136,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_727843-MLB75913916818_042024-AB-kit-10-calcinha-conforto-100-algodo-macio-suave-respiravel.webp",
       "horarioProgramado": "10:11",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-09T13:11:24.593Z"
     },
     {
       "posicao": 9,
