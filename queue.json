@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-09T16:50:29.279Z",
-  "exportedAt": "09/06/2026, 13:50:29",
+  "lastExport": "2026-06-09T17:00:29.293Z",
+  "exportedAt": "09/06/2026, 14:00:29",
   "total": 100,
-  "pendentes": 65,
-  "postados": 35,
+  "pendentes": 63,
+  "postados": 37,
   "queue": [
     {
       "posicao": 1,
@@ -612,10 +612,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_757973-MLB106364713968_022026-AB-kit-vasos-cachepot-facetado-de-flor-decorativo-moderno-casa.webp",
       "horarioProgramado": "13:52",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-09T16:52:24.072Z"
     },
     {
       "posicao": 37,
@@ -629,10 +629,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_868148-MLA99992362877_112025-AB.webp",
       "horarioProgramado": "13:58",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-09T16:58:21.266Z"
     },
     {
       "posicao": 38,
