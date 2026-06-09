@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-09T16:40:29.252Z",
-  "exportedAt": "09/06/2026, 13:40:29",
+  "lastExport": "2026-06-09T16:50:29.279Z",
+  "exportedAt": "09/06/2026, 13:50:29",
   "total": 100,
-  "pendentes": 66,
-  "postados": 34,
+  "pendentes": 65,
+  "postados": 35,
   "queue": [
     {
       "posicao": 1,
@@ -595,10 +595,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_907440-MLB76928330748_062024-AB-cortina-blackout-linho-vedaco-100original-tecido-400x250.webp",
       "horarioProgramado": "13:45",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-09T16:45:41.190Z"
     },
     {
       "posicao": 36,
