@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-09T15:30:29.173Z",
-  "exportedAt": "09/06/2026, 12:30:29",
+  "lastExport": "2026-06-09T15:40:29.173Z",
+  "exportedAt": "09/06/2026, 12:40:29",
   "total": 100,
-  "pendentes": 77,
-  "postados": 23,
+  "pendentes": 75,
+  "postados": 25,
   "queue": [
     {
       "posicao": 1,
@@ -408,10 +408,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_832313-MLB105954991018_022026-AB.webp",
       "horarioProgramado": "12:32",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-09T15:32:31.567Z"
     },
     {
       "posicao": 25,
@@ -425,10 +425,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_902835-MLB98471935468_112025-AB-cortina-blackout-linho-linho-vedaco-100-300x240.webp",
       "horarioProgramado": "12:39",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-09T15:39:39.015Z"
     },
     {
       "posicao": 26,
