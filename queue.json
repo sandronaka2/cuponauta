@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-11T23:10:35.855Z",
-  "exportedAt": "11/06/2026, 20:10:35",
+  "lastExport": "2026-06-11T23:20:35.858Z",
+  "exportedAt": "11/06/2026, 20:20:35",
   "total": 100,
-  "pendentes": 21,
-  "postados": 79,
+  "pendentes": 19,
+  "postados": 81,
   "queue": [
     {
       "posicao": 1,
@@ -1360,10 +1360,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_661129-MLB83902246274_042025-AB-meia-alta-compresso-masculina-alivio-dor-e-cansaco-nos-pes.webp",
       "horarioProgramado": "20:11",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-11T23:11:56.659Z"
     },
     {
       "posicao": 81,
@@ -1377,10 +1377,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_834166-MLB111083139691_042026-AB.webp",
       "horarioProgramado": "20:17",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-11T23:17:12.270Z"
     },
     {
       "posicao": 82,
