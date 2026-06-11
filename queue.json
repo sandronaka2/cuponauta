@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-11T15:10:33.504Z",
-  "exportedAt": "11/06/2026, 12:10:33",
+  "lastExport": "2026-06-11T15:20:33.528Z",
+  "exportedAt": "11/06/2026, 12:20:33",
   "total": 100,
-  "pendentes": 80,
-  "postados": 20,
+  "pendentes": 78,
+  "postados": 22,
   "queue": [
     {
       "posicao": 1,
@@ -357,10 +357,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_924962-MLB110305785058_052026-AB-macaquinho-vestido-short-saia-mai-fitness-roupa-academia-c.webp",
       "horarioProgramado": "12:12",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-11T15:12:24.023Z"
     },
     {
       "posicao": 22,
@@ -374,10 +374,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_995861-MLB109785792640_042026-AB.webp",
       "horarioProgramado": "12:18",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-11T15:18:20.781Z"
     },
     {
       "posicao": 23,
