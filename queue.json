@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-11T16:34:50.128Z",
-  "exportedAt": "11/06/2026, 13:34:50",
+  "lastExport": "2026-06-11T16:40:33.614Z",
+  "exportedAt": "11/06/2026, 13:40:33",
   "total": 100,
-  "pendentes": 67,
-  "postados": 33,
+  "pendentes": 66,
+  "postados": 34,
   "queue": [
     {
       "posicao": 1,
@@ -578,10 +578,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_604536-MLB92854187595_092025-AB-cmera-infantil-divertida-gatinho-impresso-instantnea-hd.webp",
       "horarioProgramado": "13:38",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-11T16:38:58.592Z"
     },
     {
       "posicao": 35,
