@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-11T21:00:35.711Z",
-  "exportedAt": "11/06/2026, 18:00:35",
+  "lastExport": "2026-06-11T21:10:35.700Z",
+  "exportedAt": "11/06/2026, 18:10:35",
   "total": 100,
-  "pendentes": 42,
-  "postados": 58,
+  "pendentes": 40,
+  "postados": 60,
   "queue": [
     {
       "posicao": 1,
@@ -1003,10 +1003,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_604416-MLA99370035862_112025-AB.webp",
       "horarioProgramado": "18:01",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-11T21:01:29.829Z"
     },
     {
       "posicao": 60,
@@ -1020,10 +1020,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_845385-MLB106400987577_022026-AB-tapete-sala-300x200-grande-felpudo-peludo-macio-luxo-cores.webp",
       "horarioProgramado": "18:07",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-11T21:07:12.443Z"
     },
     {
       "posicao": 61,
