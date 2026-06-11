@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-11T13:20:33.326Z",
-  "exportedAt": "11/06/2026, 10:20:33",
+  "lastExport": "2026-06-11T13:30:33.352Z",
+  "exportedAt": "11/06/2026, 10:30:33",
   "total": 100,
-  "pendentes": 92,
-  "postados": 8,
+  "pendentes": 91,
+  "postados": 9,
   "queue": [
     {
       "posicao": 1,
@@ -153,10 +153,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_841503-MLB81452396568_122024-AB-tnis-casual-feminino-masculino-saymon-street-20-original-x.webp",
       "horarioProgramado": "10:22",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-11T13:22:26.988Z"
     },
     {
       "posicao": 10,
