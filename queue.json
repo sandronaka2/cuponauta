@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-11T19:30:35.570Z",
-  "exportedAt": "11/06/2026, 16:30:35",
+  "lastExport": "2026-06-11T19:34:55.716Z",
+  "exportedAt": "11/06/2026, 16:34:55",
   "total": 100,
-  "pendentes": 50,
-  "postados": 50,
+  "pendentes": 49,
+  "postados": 51,
   "queue": [
     {
       "posicao": 1,
@@ -867,10 +867,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_982545-MLB102701931617_122025-AB-fone-aurafit-x6-bt-53-modo-game-e-anc-cancelamento-de-ruido.webp",
       "horarioProgramado": "16:33",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-11T19:33:20.275Z"
     },
     {
       "posicao": 52,
