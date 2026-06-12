@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-12T22:20:37.364Z",
-  "exportedAt": "12/06/2026, 19:20:37",
+  "lastExport": "2026-06-12T22:30:37.322Z",
+  "exportedAt": "12/06/2026, 19:30:37",
   "total": 100,
-  "pendentes": 29,
-  "postados": 71,
+  "pendentes": 27,
+  "postados": 73,
   "queue": [
     {
       "posicao": 1,
@@ -1224,10 +1224,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_693465-MLB113065007617_062026-AB-kit-10-calcinha-conforto-100-algodo-macio-suave-respiravel.webp",
       "horarioProgramado": "19:21",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-12T22:21:36.805Z"
     },
     {
       "posicao": 73,
@@ -1241,10 +1241,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_673108-MLB110443963712_052026-AB-kit-10-cuecas-polo-fit-boxer-box-algodo-original-promoco.webp",
       "horarioProgramado": "19:27",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-12T22:27:11.399Z"
     },
     {
       "posicao": 74,
