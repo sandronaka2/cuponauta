@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-12T17:10:36.969Z",
-  "exportedAt": "12/06/2026, 14:10:36",
+  "lastExport": "2026-06-12T17:18:02.533Z",
+  "exportedAt": "12/06/2026, 14:18:02",
   "total": 100,
-  "pendentes": 62,
-  "postados": 38,
+  "pendentes": 61,
+  "postados": 39,
   "queue": [
     {
       "posicao": 1,
@@ -663,10 +663,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_723310-MLB95873658409_102025-AB-500ml-caneca-kit-garrafa-termica-vacuum-bottle-inox-3-xica.webp",
       "horarioProgramado": "14:12",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-12T17:12:47.770Z"
     },
     {
       "posicao": 40,
