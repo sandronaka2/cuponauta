@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-12T00:20:35.933Z",
-  "exportedAt": "11/06/2026, 21:20:35",
+  "lastExport": "2026-06-12T00:30:35.950Z",
+  "exportedAt": "11/06/2026, 21:30:35",
   "total": 100,
-  "pendentes": 8,
-  "postados": 92,
+  "pendentes": 6,
+  "postados": 94,
   "queue": [
     {
       "posicao": 1,
@@ -1581,10 +1581,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_943129-MLA109749400431_032026-AB.webp",
       "horarioProgramado": "21:23",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-12T00:23:17.917Z"
     },
     {
       "posicao": 94,
@@ -1598,10 +1598,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_888290-MLB82738643301_022025-AB-oculos-de-sol-polarizado-tendncia-unissex-quadrado-case.webp",
       "horarioProgramado": "21:28",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-12T00:28:34.393Z"
     },
     {
       "posicao": 95,
