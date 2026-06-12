@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-12T22:50:37.330Z",
-  "exportedAt": "12/06/2026, 19:50:37",
+  "lastExport": "2026-06-12T23:00:37.335Z",
+  "exportedAt": "12/06/2026, 20:00:37",
   "total": 100,
-  "pendentes": 24,
-  "postados": 76,
+  "pendentes": 22,
+  "postados": 78,
   "queue": [
     {
       "posicao": 1,
@@ -1309,10 +1309,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_723808-MLB105933583322_022026-AB.webp",
       "horarioProgramado": "19:51",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-12T22:51:17.379Z"
     },
     {
       "posicao": 78,
@@ -1326,10 +1326,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_621036-MLB92885763645_092025-AB-tnis-kappa-galaxy-masculino-feminino.webp",
       "horarioProgramado": "19:58",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-12T22:58:38.705Z"
     },
     {
       "posicao": 79,
