@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-12T18:20:37.038Z",
-  "exportedAt": "12/06/2026, 15:20:37",
+  "lastExport": "2026-06-12T18:30:37.043Z",
+  "exportedAt": "12/06/2026, 15:30:37",
   "total": 100,
-  "pendentes": 56,
-  "postados": 44,
+  "pendentes": 55,
+  "postados": 45,
   "queue": [
     {
       "posicao": 1,
@@ -765,10 +765,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_850486-MLB103048161933_122025-AB-kit4-cestos-caixas-dobravel-organizadoras-de-guarda-roupas.webp",
       "horarioProgramado": "15:21",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-12T18:21:26.942Z"
     },
     {
       "posicao": 46,
