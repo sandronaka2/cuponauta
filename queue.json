@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-12T16:00:36.886Z",
-  "exportedAt": "12/06/2026, 13:00:36",
+  "lastExport": "2026-06-12T16:10:36.855Z",
+  "exportedAt": "12/06/2026, 13:10:36",
   "total": 100,
-  "pendentes": 73,
-  "postados": 27,
+  "pendentes": 71,
+  "postados": 29,
   "queue": [
     {
       "posicao": 1,
@@ -476,10 +476,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_964939-MLA99949712437_112025-AB.webp",
       "horarioProgramado": "13:01",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-12T16:01:23.725Z"
     },
     {
       "posicao": 29,
@@ -493,10 +493,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_617017-MLB91206800909_082025-AB-blusa-feminina-suplex-decote-quadrado-premium-elegante-moda.webp",
       "horarioProgramado": "13:08",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-12T16:08:14.052Z"
     },
     {
       "posicao": 30,
