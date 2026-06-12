@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-12T20:20:37.139Z",
-  "exportedAt": "12/06/2026, 17:20:37",
+  "lastExport": "2026-06-12T20:30:37.152Z",
+  "exportedAt": "12/06/2026, 17:30:37",
   "total": 100,
-  "pendentes": 46,
-  "postados": 54,
+  "pendentes": 45,
+  "postados": 55,
   "queue": [
     {
       "posicao": 1,
@@ -935,10 +935,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_706321-MLB89002219460_082025-AB-tupia-manual-laminadora-jogo-fresas-15pcs-corte-madeira.webp",
       "horarioProgramado": "17:25",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-12T20:25:11.828Z"
     },
     {
       "posicao": 56,
