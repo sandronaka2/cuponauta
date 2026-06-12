@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-12T23:00:37.335Z",
-  "exportedAt": "12/06/2026, 20:00:37",
+  "lastExport": "2026-06-12T23:10:37.342Z",
+  "exportedAt": "12/06/2026, 20:10:37",
   "total": 100,
-  "pendentes": 22,
-  "postados": 78,
+  "pendentes": 20,
+  "postados": 80,
   "queue": [
     {
       "posicao": 1,
@@ -1343,10 +1343,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_643352-MLA99592040954_122025-AB.webp",
       "horarioProgramado": "20:04",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-12T23:04:29.588Z"
     },
     {
       "posicao": 80,
@@ -1360,10 +1360,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_723164-MLB101848516780_122025-AB-kit2-tapetes-para-banheiro-tapete-magico-ultra-para-absorc.webp",
       "horarioProgramado": "20:10",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-12T23:10:10.725Z"
     },
     {
       "posicao": 81,
