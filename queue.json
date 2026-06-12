@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-12T22:00:37.336Z",
-  "exportedAt": "12/06/2026, 19:00:37",
+  "lastExport": "2026-06-12T22:10:37.301Z",
+  "exportedAt": "12/06/2026, 19:10:37",
   "total": 100,
-  "pendentes": 32,
-  "postados": 68,
+  "pendentes": 30,
+  "postados": 70,
   "queue": [
     {
       "posicao": 1,
@@ -1173,10 +1173,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_888645-MLB112195164479_052026-AB.webp",
       "horarioProgramado": "19:02",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-12T22:02:09.365Z"
     },
     {
       "posicao": 70,
@@ -1190,10 +1190,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_806959-MLB87893880445_072025-AB-suti-top-basico-sem-bojo-alta-sustentaco-plus-size.webp",
       "horarioProgramado": "19:08",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-12T22:08:18.737Z"
     },
     {
       "posicao": 71,
