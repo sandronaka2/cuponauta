@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-12T00:50:35.964Z",
-  "exportedAt": "11/06/2026, 21:50:35",
+  "lastExport": "2026-06-12T01:00:35.975Z",
+  "exportedAt": "11/06/2026, 22:00:35",
   "total": 100,
-  "pendentes": 2,
-  "postados": 98,
+  "pendentes": 0,
+  "postados": 100,
   "queue": [
     {
       "posicao": 1,
@@ -1683,10 +1683,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_843569-MLB112036219477_052026-AB.webp",
       "horarioProgramado": "21:54",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-12T00:54:55.443Z"
     },
     {
       "posicao": 100,
@@ -1700,10 +1700,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_756224-MLB109362654231_032026-AB-meia-slim-press-360-ergo-premium-adulto-compresso.webp",
       "horarioProgramado": "21:58",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-12T00:58:38.398Z"
     }
   ]
 }
