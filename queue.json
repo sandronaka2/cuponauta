@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-12T16:50:36.946Z",
-  "exportedAt": "12/06/2026, 13:50:36",
+  "lastExport": "2026-06-12T17:00:36.942Z",
+  "exportedAt": "12/06/2026, 14:00:36",
   "total": 100,
-  "pendentes": 65,
-  "postados": 35,
+  "pendentes": 63,
+  "postados": 37,
   "queue": [
     {
       "posicao": 1,
@@ -612,10 +612,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_988313-MLB80328701410_112024-AB-kit-2-suti-sem-bojo-plus-size-alca-larga-alta-sustentaco.webp",
       "horarioProgramado": "13:53",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-12T16:53:42.152Z"
     },
     {
       "posicao": 37,
@@ -629,10 +629,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_682377-MLB112381105581_052026-AB-kit-9-meias-sport-polo-fit-pares-masculino-algodo-invisivel.webp",
       "horarioProgramado": "13:58",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-12T16:58:27.310Z"
     },
     {
       "posicao": 38,
