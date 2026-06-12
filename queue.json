@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-12T16:30:36.881Z",
-  "exportedAt": "12/06/2026, 13:30:36",
+  "lastExport": "2026-06-12T16:40:36.913Z",
+  "exportedAt": "12/06/2026, 13:40:36",
   "total": 100,
-  "pendentes": 68,
-  "postados": 32,
+  "pendentes": 66,
+  "postados": 34,
   "queue": [
     {
       "posicao": 1,
@@ -561,10 +561,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_674003-MLB111342921757_052026-AB-kit-6-cuecas-polo-fit-boxer-masculina-algodo-original.webp",
       "horarioProgramado": "13:34",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-12T16:34:13.706Z"
     },
     {
       "posicao": 34,
@@ -578,10 +578,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_962471-MLA111181974864_052026-AB.webp",
       "horarioProgramado": "13:40",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-12T16:40:19.322Z"
     },
     {
       "posicao": 35,
