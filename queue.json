@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-12T15:30:36.813Z",
-  "exportedAt": "12/06/2026, 12:30:36",
+  "lastExport": "2026-06-12T15:40:36.844Z",
+  "exportedAt": "12/06/2026, 12:40:36",
   "total": 100,
-  "pendentes": 77,
-  "postados": 23,
+  "pendentes": 76,
+  "postados": 24,
   "queue": [
     {
       "posicao": 1,
@@ -408,10 +408,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_990450-MLB95512205184_102025-AB-kit-3-calcinha-shorts-bermuda-sem-costura-laser-invisivel.webp",
       "horarioProgramado": "12:36",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-12T15:36:43.823Z"
     },
     {
       "posicao": 25,
