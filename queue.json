@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-12T13:10:36.684Z",
-  "exportedAt": "12/06/2026, 10:10:36",
+  "lastExport": "2026-06-12T13:17:43.974Z",
+  "exportedAt": "12/06/2026, 10:17:43",
   "total": 100,
-  "pendentes": 93,
-  "postados": 7,
+  "pendentes": 92,
+  "postados": 8,
   "queue": [
     {
       "posicao": 1,
@@ -136,10 +136,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_643779-MLA102634119334_122025-AB-casual-calce-facil-ziper-super-confort-fabricaco-propria.webp",
       "horarioProgramado": "10:13",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-12T13:13:10.891Z"
     },
     {
       "posicao": 9,
