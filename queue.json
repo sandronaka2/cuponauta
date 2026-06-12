@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-12T21:20:37.224Z",
-  "exportedAt": "12/06/2026, 18:20:37",
+  "lastExport": "2026-06-12T21:30:37.221Z",
+  "exportedAt": "12/06/2026, 18:30:37",
   "total": 100,
-  "pendentes": 38,
-  "postados": 62,
+  "pendentes": 37,
+  "postados": 63,
   "queue": [
     {
       "posicao": 1,
@@ -1071,10 +1071,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_659958-MLB108881259311_032026-AB-cortina-lorena-300m-x-240-altura-voil-com-forro-luxo.webp",
       "horarioProgramado": "18:24",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-12T21:24:14.272Z"
     },
     {
       "posicao": 64,
