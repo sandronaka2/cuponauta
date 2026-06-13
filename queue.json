@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-13T23:20:40.591Z",
-  "exportedAt": "13/06/2026, 20:20:40",
+  "lastExport": "2026-06-13T23:30:40.608Z",
+  "exportedAt": "13/06/2026, 20:30:40",
   "total": 100,
-  "pendentes": 19,
-  "postados": 81,
+  "pendentes": 17,
+  "postados": 83,
   "queue": [
     {
       "posicao": 1,
@@ -1394,10 +1394,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_927035-MLB111084630875_042026-AB-cabelo-preto-liso-70cm-150g-aplique-tic-tac-bio-humano.webp",
       "horarioProgramado": "20:23",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-13T23:23:16.276Z"
     },
     {
       "posicao": 83,
@@ -1411,10 +1411,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_976410-MLA111863040768_062026-AB.webp",
       "horarioProgramado": "20:29",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-13T23:29:25.581Z"
     },
     {
       "posicao": 84,
