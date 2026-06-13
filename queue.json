@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-12T23:50:37.378Z",
-  "exportedAt": "12/06/2026, 20:50:37",
+  "lastExport": "2026-06-13T00:00:37.381Z",
+  "exportedAt": "12/06/2026, 21:00:37",
   "total": 100,
-  "pendentes": 14,
-  "postados": 86,
+  "pendentes": 12,
+  "postados": 88,
   "queue": [
     {
       "posicao": 1,
@@ -1479,10 +1479,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_741399-MLB112035982759_052026-AB.webp",
       "horarioProgramado": "20:53",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-12T23:53:46.240Z"
     },
     {
       "posicao": 88,
@@ -1496,10 +1496,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_824403-MLB85268549142_062025-AB-lustre-luminaria-teto-moderno-6-bracos-para-sala-de-jantar.webp",
       "horarioProgramado": "20:58",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-12T23:58:12.075Z"
     },
     {
       "posicao": 89,
