@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-13T00:10:37.487Z",
-  "exportedAt": "12/06/2026, 21:10:37",
+  "lastExport": "2026-06-13T00:18:17.743Z",
+  "exportedAt": "12/06/2026, 21:18:17",
   "total": 100,
-  "pendentes": 10,
-  "postados": 90,
+  "pendentes": 8,
+  "postados": 92,
   "queue": [
     {
       "posicao": 1,
@@ -1547,10 +1547,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_682302-MLB111082771083_042026-AB-top-fitness-feminino-com-bojo-fecho-frontal-alca-larga.webp",
       "horarioProgramado": "21:11",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-13T00:11:55.516Z"
     },
     {
       "posicao": 92,
@@ -1564,10 +1564,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_765287-MLB111626466166_062026-AB-kit-com-10-calcinhas-basicas-tanga-em-algodo-hering.webp",
       "horarioProgramado": "21:16",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-13T00:16:14.395Z"
     },
     {
       "posicao": 93,
