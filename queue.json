@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-13T23:14:17.448Z",
-  "exportedAt": "13/06/2026, 20:14:17",
+  "lastExport": "2026-06-13T23:20:40.591Z",
+  "exportedAt": "13/06/2026, 20:20:40",
   "total": 100,
-  "pendentes": 20,
-  "postados": 80,
+  "pendentes": 19,
+  "postados": 81,
   "queue": [
     {
       "posicao": 1,
@@ -1377,10 +1377,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_949305-MLB98413604602_112025-AB-kit-henna-sobrancelhas-glance-rare-way-rena-design.webp",
       "horarioProgramado": "20:16",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-13T23:16:13.793Z"
     },
     {
       "posicao": 82,
