@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-13T21:30:40.470Z",
-  "exportedAt": "13/06/2026, 18:30:40",
+  "lastExport": "2026-06-13T21:40:40.494Z",
+  "exportedAt": "13/06/2026, 18:40:40",
   "total": 100,
-  "pendentes": 37,
-  "postados": 63,
+  "pendentes": 35,
+  "postados": 65,
   "queue": [
     {
       "posicao": 1,
@@ -1088,10 +1088,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_784911-MLB110515842999_042026-AB-cabelo-tic-tac-tela-loiro-acinzentado-liso-70cm-150g.webp",
       "horarioProgramado": "18:31",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-13T21:31:16.196Z"
     },
     {
       "posicao": 65,
@@ -1105,10 +1105,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_616515-MLB86665320610_062025-AB.webp",
       "horarioProgramado": "18:37",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-13T21:37:23.769Z"
     },
     {
       "posicao": 66,
