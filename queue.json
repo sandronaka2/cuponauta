@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-13T00:50:37.447Z",
-  "exportedAt": "12/06/2026, 21:50:37",
+  "lastExport": "2026-06-13T01:00:37.459Z",
+  "exportedAt": "12/06/2026, 22:00:37",
   "total": 100,
-  "pendentes": 2,
-  "postados": 98,
+  "pendentes": 0,
+  "postados": 100,
   "queue": [
     {
       "posicao": 1,
@@ -1683,10 +1683,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_894517-MLB90603526284_082025-AB-kit-2-calcinha-shorts-bermuda-sem-costura-laser.webp",
       "horarioProgramado": "21:54",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-13T00:54:15.110Z"
     },
     {
       "posicao": 100,
@@ -1700,10 +1700,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_710046-MLB109371468479_032026-AB.webp",
       "horarioProgramado": "21:58",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-13T00:58:11.609Z"
     }
   ]
 }
