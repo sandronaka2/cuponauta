@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-13T15:20:38.251Z",
-  "exportedAt": "13/06/2026, 12:20:38",
+  "lastExport": "2026-06-13T15:30:38.275Z",
+  "exportedAt": "13/06/2026, 12:30:38",
   "total": 100,
-  "pendentes": 78,
-  "postados": 22,
+  "pendentes": 77,
+  "postados": 23,
   "queue": [
     {
       "posicao": 1,
@@ -391,10 +391,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_760248-MLB96301544341_102025-AB-suporte-generico-para-controle-ps5-ps4-homem-aranha.webp",
       "horarioProgramado": "12:27",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-13T15:27:13.105Z"
     },
     {
       "posicao": 24,
