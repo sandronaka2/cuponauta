@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-13T22:50:40.599Z",
-  "exportedAt": "13/06/2026, 19:50:40",
+  "lastExport": "2026-06-13T23:00:40.640Z",
+  "exportedAt": "13/06/2026, 20:00:40",
   "total": 100,
-  "pendentes": 24,
-  "postados": 76,
+  "pendentes": 22,
+  "postados": 78,
   "queue": [
     {
       "posicao": 1,
@@ -1309,10 +1309,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_989454-MLB106809741397_022026-AB-kit-10-cabeceira-estofada-60x20-cama-king-size-box-modulada.webp",
       "horarioProgramado": "19:52",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-13T22:52:19.734Z"
     },
     {
       "posicao": 78,
@@ -1326,10 +1326,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_733368-MLB111707139419_052026-AB.webp",
       "horarioProgramado": "19:58",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-13T22:58:10.686Z"
     },
     {
       "posicao": 79,
