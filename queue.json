@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-13T21:00:40.551Z",
-  "exportedAt": "13/06/2026, 18:00:40",
+  "lastExport": "2026-06-13T21:10:40.438Z",
+  "exportedAt": "13/06/2026, 18:10:40",
   "total": 100,
-  "pendentes": 42,
-  "postados": 58,
+  "pendentes": 40,
+  "postados": 60,
   "queue": [
     {
       "posicao": 1,
@@ -1003,10 +1003,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_811012-MLA104262684161_012026-AB.webp",
       "horarioProgramado": "18:01",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-13T21:01:12.059Z"
     },
     {
       "posicao": 60,
@@ -1020,10 +1020,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_645174-MLB96466024221_102025-AB-aparelho-v-face-massageador-redutor-papada-terapia-beleza.webp",
       "horarioProgramado": "18:07",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-13T21:07:45.687Z"
     },
     {
       "posicao": 61,
