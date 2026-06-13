@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-13T15:40:38.279Z",
-  "exportedAt": "13/06/2026, 12:40:38",
+  "lastExport": "2026-06-13T15:49:07.449Z",
+  "exportedAt": "13/06/2026, 12:49:07",
   "total": 100,
-  "pendentes": 76,
-  "postados": 24,
+  "pendentes": 74,
+  "postados": 26,
   "queue": [
     {
       "posicao": 1,
@@ -425,10 +425,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_925178-MLB108295231698_032026-AB.webp",
       "horarioProgramado": "12:41",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-13T15:41:17.857Z"
     },
     {
       "posicao": 26,
@@ -442,10 +442,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_887225-MLB108249394337_032026-AB-conjunto-feminino-plus-size-conforto-moda-casual-premium.webp",
       "horarioProgramado": "12:47",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-13T15:47:19.160Z"
     },
     {
       "posicao": 27,
