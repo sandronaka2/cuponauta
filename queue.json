@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-13T19:20:40.297Z",
-  "exportedAt": "13/06/2026, 16:20:40",
+  "lastExport": "2026-06-13T19:30:40.289Z",
+  "exportedAt": "13/06/2026, 16:30:40",
   "total": 100,
-  "pendentes": 51,
-  "postados": 49,
+  "pendentes": 50,
+  "postados": 50,
   "queue": [
     {
       "posicao": 1,
@@ -850,10 +850,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_650811-MLB110036478151_042026-AB-aplique-fio-bio-humano-premium-luxo-150-gr-75-cm-com-tictack.webp",
       "horarioProgramado": "16:26",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-13T19:26:15.072Z"
     },
     {
       "posicao": 51,
