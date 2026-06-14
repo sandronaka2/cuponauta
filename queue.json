@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-14T22:20:42.233Z",
-  "exportedAt": "14/06/2026, 19:20:42",
+  "lastExport": "2026-06-14T22:30:42.198Z",
+  "exportedAt": "14/06/2026, 19:30:42",
   "total": 100,
-  "pendentes": 29,
-  "postados": 71,
+  "pendentes": 27,
+  "postados": 73,
   "queue": [
     {
       "posicao": 1,
@@ -1224,10 +1224,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_877849-MLB102171710504_122025-AB-mesada-inteligente-quadro-de-tarefas-e-recompensas.webp",
       "horarioProgramado": "19:21",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-14T22:21:19.611Z"
     },
     {
       "posicao": 73,
@@ -1241,10 +1241,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_889728-MLB108812929939_032026-AB.webp",
       "horarioProgramado": "19:27",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-14T22:27:15.015Z"
     },
     {
       "posicao": 74,
