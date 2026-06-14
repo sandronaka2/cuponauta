@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-14T12:00:41.409Z",
-  "exportedAt": "14/06/2026, 09:00:41",
+  "lastExport": "2026-06-14T12:10:41.518Z",
+  "exportedAt": "14/06/2026, 09:10:41",
   "total": 100,
-  "pendentes": 100,
-  "postados": 0,
+  "pendentes": 99,
+  "postados": 1,
   "queue": [
     {
       "posicao": 1,
@@ -17,10 +17,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_747398-MLB112016455066_062026-AB-jaqueta-masculina-forrada-pelucia-nylon-matelado-capuz-rem.webp",
       "horarioProgramado": "09:01",
       "janela": "09:00-10:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-14T12:01:13.471Z"
     },
     {
       "posicao": 2,
