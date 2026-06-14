@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-14T22:50:42.216Z",
-  "exportedAt": "14/06/2026, 19:50:42",
+  "lastExport": "2026-06-14T23:00:42.272Z",
+  "exportedAt": "14/06/2026, 20:00:42",
   "total": 100,
-  "pendentes": 24,
-  "postados": 76,
+  "pendentes": 22,
+  "postados": 78,
   "queue": [
     {
       "posicao": 1,
@@ -1309,10 +1309,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_758941-MLB111136958867_052026-AB-bone-infantil-chapeu-beb-crianca-praia-proteco-solar-uv.webp",
       "horarioProgramado": "19:52",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-14T22:52:20.441Z"
     },
     {
       "posicao": 78,
@@ -1326,10 +1326,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_934069-MLB111040605793_042026-AB.webp",
       "horarioProgramado": "19:59",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-14T22:59:11.093Z"
     },
     {
       "posicao": 79,
