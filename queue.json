@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-14T22:30:42.198Z",
-  "exportedAt": "14/06/2026, 19:30:42",
+  "lastExport": "2026-06-14T22:40:42.220Z",
+  "exportedAt": "14/06/2026, 19:40:42",
   "total": 100,
-  "pendentes": 27,
-  "postados": 73,
+  "pendentes": 25,
+  "postados": 75,
   "queue": [
     {
       "posicao": 1,
@@ -1258,10 +1258,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_992318-MLB81708807126_012025-AB-chinelo-piccadilly-marshmallow-antiderrapante-feminino.webp",
       "horarioProgramado": "19:33",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-14T22:33:19.410Z"
     },
     {
       "posicao": 75,
@@ -1275,10 +1275,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_971850-MLB111370056022_052026-AB.webp",
       "horarioProgramado": "19:40",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-14T22:40:27.445Z"
     },
     {
       "posicao": 76,
