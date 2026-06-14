@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-14T13:00:41.563Z",
-  "exportedAt": "14/06/2026, 10:00:41",
+  "lastExport": "2026-06-14T13:10:41.738Z",
+  "exportedAt": "14/06/2026, 10:10:41",
   "total": 100,
-  "pendentes": 94,
-  "postados": 6,
+  "pendentes": 93,
+  "postados": 7,
   "queue": [
     {
       "posicao": 1,
@@ -119,10 +119,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_880474-MLB100111639412_122025-AB-oculos-de-sol-redondo-pequeno-vintage-uv400-classico-unissex.webp",
       "horarioProgramado": "10:01",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-14T13:01:12.830Z"
     },
     {
       "posicao": 8,
