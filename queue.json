@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-14T21:40:42.091Z",
-  "exportedAt": "14/06/2026, 18:40:42",
+  "lastExport": "2026-06-14T21:50:12.664Z",
+  "exportedAt": "14/06/2026, 18:50:12",
   "total": 100,
-  "pendentes": 35,
-  "postados": 65,
+  "pendentes": 33,
+  "postados": 67,
   "queue": [
     {
       "posicao": 1,
@@ -1122,10 +1122,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_713009-MLB99626218903_112025-AB-jaqueta-corta-vento-masculina-impermeavel-liso-capuz-premium.webp",
       "horarioProgramado": "18:43",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-14T21:43:14.369Z"
     },
     {
       "posicao": 67,
@@ -1139,10 +1139,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_700702-MLB100647147519_122025-AB.webp",
       "horarioProgramado": "18:49",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-14T21:49:10.956Z"
     },
     {
       "posicao": 68,
