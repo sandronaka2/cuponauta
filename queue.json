@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-14T16:40:41.995Z",
-  "exportedAt": "14/06/2026, 13:40:41",
+  "lastExport": "2026-06-14T16:50:06.468Z",
+  "exportedAt": "14/06/2026, 13:50:06",
   "total": 100,
-  "pendentes": 67,
-  "postados": 33,
+  "pendentes": 65,
+  "postados": 35,
   "queue": [
     {
       "posicao": 1,
@@ -578,10 +578,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_799363-MLA100298374276_122025-AB.webp",
       "horarioProgramado": "13:41",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-14T16:41:24.346Z"
     },
     {
       "posicao": 35,
@@ -595,10 +595,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_917203-MLB87368918246_072025-AB-pulseira-para-samsung-galaxy-watch-ultra-47mm-aco-inoxidavel.webp",
       "horarioProgramado": "13:47",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-14T16:47:17.326Z"
     },
     {
       "posicao": 36,
