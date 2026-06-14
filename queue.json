@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-14T17:50:41.778Z",
-  "exportedAt": "14/06/2026, 14:50:41",
+  "lastExport": "2026-06-14T18:00:41.803Z",
+  "exportedAt": "14/06/2026, 15:00:41",
   "total": 100,
-  "pendentes": 58,
-  "postados": 42,
+  "pendentes": 57,
+  "postados": 43,
   "queue": [
     {
       "posicao": 1,
@@ -731,10 +731,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_618250-MLB106099188309_012026-AB-kit-2-vestido-basico-de-malha-soltinho-midi-longo-de-viscose.webp",
       "horarioProgramado": "15:00",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-14T18:00:27.105Z"
     },
     {
       "posicao": 44,
