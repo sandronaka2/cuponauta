@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-14T22:40:42.220Z",
-  "exportedAt": "14/06/2026, 19:40:42",
+  "lastExport": "2026-06-14T22:50:12.988Z",
+  "exportedAt": "14/06/2026, 19:50:12",
   "total": 100,
-  "pendentes": 25,
-  "postados": 75,
+  "pendentes": 24,
+  "postados": 76,
   "queue": [
     {
       "posicao": 1,
@@ -1292,10 +1292,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_631532-MLB106548616849_022026-AB-conjunto-feminino-plus-size-colete-e-short-saia-social.webp",
       "horarioProgramado": "19:46",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-14T22:46:17.362Z"
     },
     {
       "posicao": 77,
