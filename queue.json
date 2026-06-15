@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-15T00:40:42.313Z",
-  "exportedAt": "14/06/2026, 21:40:42",
+  "lastExport": "2026-06-15T00:50:15.574Z",
+  "exportedAt": "14/06/2026, 21:50:15",
   "total": 100,
-  "pendentes": 4,
-  "postados": 96,
+  "pendentes": 2,
+  "postados": 98,
   "queue": [
     {
       "posicao": 1,
@@ -1649,10 +1649,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_684159-MLB110430678585_042026-AB.webp",
       "horarioProgramado": "21:44",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-15T00:44:39.339Z"
     },
     {
       "posicao": 98,
@@ -1666,10 +1666,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_759254-MLB85987149247_062025-AB-sandalia-vizzano-6499122-feminina-plataforma.webp",
       "horarioProgramado": "21:49",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-15T00:49:20.919Z"
     },
     {
       "posicao": 99,
