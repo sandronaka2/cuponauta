@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-15T00:00:42.393Z",
-  "exportedAt": "14/06/2026, 21:00:42",
+  "lastExport": "2026-06-15T00:08:40.186Z",
+  "exportedAt": "14/06/2026, 21:08:40",
   "total": 100,
-  "pendentes": 12,
-  "postados": 88,
+  "pendentes": 10,
+  "postados": 90,
   "queue": [
     {
       "posicao": 1,
@@ -1513,10 +1513,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_844699-MLB111908460673_052026-AB-jaqueta-forrada-infantil-puffer-bobojaco-nylon-matelado-frio.webp",
       "horarioProgramado": "21:01",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-15T00:01:19.415Z"
     },
     {
       "posicao": 90,
@@ -1530,10 +1530,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_906491-MLB107755144190_032026-AB-bermuda-jeans-masculina-skinny-com-super-lycra-linha-premium.webp",
       "horarioProgramado": "21:06",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-15T00:06:20.062Z"
     },
     {
       "posicao": 91,
