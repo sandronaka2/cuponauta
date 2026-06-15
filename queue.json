@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-15T15:51:34.729Z",
-  "exportedAt": "15/06/2026, 12:51:34",
+  "lastExport": "2026-06-15T15:58:46.684Z",
+  "exportedAt": "15/06/2026, 12:58:46",
   "total": 100,
-  "pendentes": 73,
-  "postados": 27,
+  "pendentes": 72,
+  "postados": 28,
   "queue": [
     {
       "posicao": 1,
@@ -476,10 +476,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_714907-MLB92744683477_092025-AB-pista-carrinho-dinossauro-caminho-lancador-6-carrinhos.webp",
       "horarioProgramado": "12:57",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-15T15:57:35.312Z"
     },
     {
       "posicao": 29,
