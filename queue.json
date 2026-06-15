@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-15T15:41:34.730Z",
-  "exportedAt": "15/06/2026, 12:41:34",
+  "lastExport": "2026-06-15T15:50:43.623Z",
+  "exportedAt": "15/06/2026, 12:50:43",
   "total": 100,
-  "pendentes": 75,
-  "postados": 25,
+  "pendentes": 74,
+  "postados": 26,
   "queue": [
     {
       "posicao": 1,
@@ -442,10 +442,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_958980-MLB86033825762_062025-AB-tnis-feminino-ortopedico-vizzano-academia-corrida-original.webp",
       "horarioProgramado": "12:44",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-15T15:44:30.629Z"
     },
     {
       "posicao": 27,
