@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-15T20:21:36.778Z",
-  "exportedAt": "15/06/2026, 17:21:36",
+  "lastExport": "2026-06-15T20:31:36.826Z",
+  "exportedAt": "15/06/2026, 17:31:36",
   "total": 100,
-  "pendentes": 46,
-  "postados": 54,
+  "pendentes": 45,
+  "postados": 55,
   "queue": [
     {
       "posicao": 1,
@@ -935,10 +935,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_783836-MLB87437201325_072025-AB-lindo-anel-titnio-preto-masculino-rodio-negro.webp",
       "horarioProgramado": "17:23",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-15T20:23:45.549Z"
     },
     {
       "posicao": 56,
