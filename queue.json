@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-15T15:11:34.731Z",
-  "exportedAt": "15/06/2026, 12:11:34",
+  "lastExport": "2026-06-15T15:21:34.726Z",
+  "exportedAt": "15/06/2026, 12:21:34",
   "total": 100,
-  "pendentes": 80,
-  "postados": 20,
+  "pendentes": 78,
+  "postados": 22,
   "queue": [
     {
       "posicao": 1,
@@ -357,10 +357,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_746679-MLA97918630544_112025-AB.webp",
       "horarioProgramado": "12:13",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-15T15:13:57.738Z"
     },
     {
       "posicao": 22,
@@ -374,10 +374,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_947815-MLB112654193959_062026-AB-kit-colar-choker-pulseira-brinco-e-anel-trevo-preto-aco-inox.webp",
       "horarioProgramado": "12:19",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-15T15:19:40.046Z"
     },
     {
       "posicao": 23,
