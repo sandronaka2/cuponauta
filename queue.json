@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-15T23:01:37.056Z",
-  "exportedAt": "15/06/2026, 20:01:37",
+  "lastExport": "2026-06-15T23:11:37.013Z",
+  "exportedAt": "15/06/2026, 20:11:37",
   "total": 100,
-  "pendentes": 22,
-  "postados": 78,
+  "pendentes": 20,
+  "postados": 80,
   "queue": [
     {
       "posicao": 1,
@@ -1343,10 +1343,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_758017-MLB111768878831_052026-AB-brinquedos-ovos-encaixe-forma-geometrica-beb-educativo.webp",
       "horarioProgramado": "20:04",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-15T23:04:11.022Z"
     },
     {
       "posicao": 80,
@@ -1360,10 +1360,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_634496-MLB73416730636_122023-AB.webp",
       "horarioProgramado": "20:10",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-15T23:10:45.745Z"
     },
     {
       "posicao": 81,
