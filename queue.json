@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-15T17:41:36.603Z",
-  "exportedAt": "15/06/2026, 14:41:36",
+  "lastExport": "2026-06-15T17:50:45.236Z",
+  "exportedAt": "15/06/2026, 14:50:45",
   "total": 100,
-  "pendentes": 59,
-  "postados": 41,
+  "pendentes": 58,
+  "postados": 42,
   "queue": [
     {
       "posicao": 1,
@@ -714,10 +714,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_780757-MLB83468063525_042025-AB-anel-de-formatura-com-emblema-de-psicologia-navete-de-moeda.webp",
       "horarioProgramado": "14:50",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-15T17:50:35.588Z"
     },
     {
       "posicao": 43,
