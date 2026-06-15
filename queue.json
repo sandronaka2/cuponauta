@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-15T22:01:37.017Z",
-  "exportedAt": "15/06/2026, 19:01:37",
+  "lastExport": "2026-06-15T22:11:36.923Z",
+  "exportedAt": "15/06/2026, 19:11:36",
   "total": 100,
-  "pendentes": 32,
-  "postados": 68,
+  "pendentes": 30,
+  "postados": 70,
   "queue": [
     {
       "posicao": 1,
@@ -1173,10 +1173,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_727340-MLB106309499689_012026-AB.webp",
       "horarioProgramado": "19:03",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-15T22:03:51.036Z"
     },
     {
       "posicao": 70,
@@ -1190,10 +1190,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_759637-MLB110620930048_052026-AB-nivel-laser-12-linhas-lcd-recarregavel-40m-controle-pro-app.webp",
       "horarioProgramado": "19:09",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-15T22:09:53.143Z"
     },
     {
       "posicao": 71,
