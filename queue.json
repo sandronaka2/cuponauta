@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-16T00:01:37.040Z",
-  "exportedAt": "15/06/2026, 21:01:37",
+  "lastExport": "2026-06-16T00:05:08.836Z",
+  "exportedAt": "15/06/2026, 21:05:08",
   "total": 100,
-  "pendentes": 12,
-  "postados": 88,
+  "pendentes": 11,
+  "postados": 89,
   "queue": [
     {
       "posicao": 1,
@@ -1513,10 +1513,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_778664-MLB111375097331_052026-AB-espada-katana-luz-led-rgb-80cm-lancador-de-fumaca-faisca.webp",
       "horarioProgramado": "21:01",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-16T00:01:41.691Z"
     },
     {
       "posicao": 90,
