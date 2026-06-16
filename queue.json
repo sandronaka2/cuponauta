@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-16T22:29:47.197Z",
-  "exportedAt": "16/06/2026, 19:29:47",
+  "lastExport": "2026-06-16T22:51:20.499Z",
+  "exportedAt": "16/06/2026, 19:51:20",
   "total": 100,
-  "pendentes": 27,
-  "postados": 73,
+  "pendentes": 24,
+  "postados": 76,
   "queue": [
     {
       "posicao": 1,
@@ -1258,10 +1258,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_744128-MLB110228703363_042026-AB-meia-sem-ponteira-dor-cimbras-ma-circulaco-fadiga-nos-pes.webp",
       "horarioProgramado": "19:33",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-16T22:33:24.182Z"
     },
     {
       "posicao": 75,
@@ -1275,10 +1275,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_777525-MLB90945221984_082025-AB.webp",
       "horarioProgramado": "19:39",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-16T22:39:43.107Z"
     },
     {
       "posicao": 76,
@@ -1292,10 +1292,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_830781-MLB75888245143_042024-AB.webp",
       "horarioProgramado": "19:45",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-16T22:45:15.048Z"
     },
     {
       "posicao": 77,
