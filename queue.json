@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-16T13:11:37.992Z",
-  "exportedAt": "16/06/2026, 10:11:37",
+  "lastExport": "2026-06-16T13:21:38.016Z",
+  "exportedAt": "16/06/2026, 10:21:38",
   "total": 100,
-  "pendentes": 93,
-  "postados": 7,
+  "pendentes": 92,
+  "postados": 8,
   "queue": [
     {
       "posicao": 1,
@@ -136,10 +136,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_790773-MLB83988753580_052025-AB-vestido-curto-lastex-alcinha-regulavel-moda-vero-soltinho.webp",
       "horarioProgramado": "10:12",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-16T13:12:20.837Z"
     },
     {
       "posicao": 9,
