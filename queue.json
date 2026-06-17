@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-17T11:41:02.189Z",
-  "exportedAt": "17/06/2026, 08:41:02",
+  "lastExport": "2026-06-17T12:02:52.629Z",
+  "exportedAt": "17/06/2026, 09:02:52",
   "total": 100,
-  "pendentes": 100,
-  "postados": 0,
+  "pendentes": 99,
+  "postados": 1,
   "queue": [
     {
       "posicao": 1,
@@ -17,10 +17,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_865402-MLB92618979420_092025-AB-caixa-som-bluetooth-karaoke-portatil-2-microfones-divertidos.webp",
       "horarioProgramado": "09:01",
       "janela": "09:00-10:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-17T12:01:22.386Z"
     },
     {
       "posicao": 2,
