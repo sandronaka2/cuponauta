@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-17T00:17:11.729Z",
-  "exportedAt": "16/06/2026, 21:17:11",
+  "lastExport": "2026-06-17T00:17:49.334Z",
+  "exportedAt": "16/06/2026, 21:17:49",
   "total": 100,
-  "pendentes": 9,
-  "postados": 91,
+  "pendentes": 8,
+  "postados": 92,
   "queue": [
     {
       "posicao": 1,
@@ -1564,10 +1564,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_829993-MLB92100706074_092025-AB-kit-com-10-molduras-a4-madeira-e-vidro-certificado-foto.webp",
       "horarioProgramado": "21:17",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-17T00:17:27.873Z"
     },
     {
       "posicao": 93,
