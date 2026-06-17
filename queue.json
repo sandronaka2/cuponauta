@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-16T23:51:48.845Z",
-  "exportedAt": "16/06/2026, 20:51:48",
+  "lastExport": "2026-06-17T00:06:25.955Z",
+  "exportedAt": "16/06/2026, 21:06:25",
   "total": 100,
-  "pendentes": 14,
-  "postados": 86,
+  "pendentes": 11,
+  "postados": 89,
   "queue": [
     {
       "posicao": 1,
@@ -1479,10 +1479,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_799253-MLB106671073371_022026-AB-kit-10-cuecas-boxer-com-elastico-personalizado-hering.webp",
       "horarioProgramado": "20:54",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-16T23:54:31.234Z"
     },
     {
       "posicao": 88,
@@ -1496,10 +1496,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_666573-MLB48892405066_012022-AB.webp",
       "horarioProgramado": "20:58",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-16T23:58:55.448Z"
     },
     {
       "posicao": 89,
@@ -1513,10 +1513,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_637360-MLB53861338294_022023-AB.webp",
       "horarioProgramado": "21:01",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-17T00:01:46.446Z"
     },
     {
       "posicao": 90,
