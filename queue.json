@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-18T14:06:11.492Z",
-  "exportedAt": "18/06/2026, 11:06:11",
+  "lastExport": "2026-06-18T14:28:02.019Z",
+  "exportedAt": "18/06/2026, 11:28:02",
   "total": 100,
-  "pendentes": 99,
-  "postados": 1,
+  "pendentes": 97,
+  "postados": 3,
   "queue": [
     {
       "posicao": 1,
@@ -221,10 +221,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_776192-MLB88723286428_072025-AB-kit-trilho-eletrificado-2m-preto-8-spots-led-20w.webp",
       "horarioProgramado": "11:06",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-18T14:06:45.882Z"
     },
     {
       "posicao": 14,
@@ -238,10 +238,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_933618-MLA96506198767_102025-AB.webp",
       "horarioProgramado": "11:17",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-18T14:17:37.692Z"
     },
     {
       "posicao": 15,
