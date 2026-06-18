@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-18T17:17:14.315Z",
-  "exportedAt": "18/06/2026, 14:17:14",
+  "lastExport": "2026-06-18T17:27:25.884Z",
+  "exportedAt": "18/06/2026, 14:27:25",
   "total": 100,
-  "pendentes": 72,
-  "postados": 28,
+  "pendentes": 71,
+  "postados": 29,
   "queue": [
     {
       "posicao": 1,
@@ -680,10 +680,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_773160-MLB104970099748_012026-AB-cinto-feminino-plus-size-120-130-140-150-160-170-180.webp",
       "horarioProgramado": "14:24",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-18T17:24:46.920Z"
     },
     {
       "posicao": 41,
