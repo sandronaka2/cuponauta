@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-18T14:49:41.978Z",
-  "exportedAt": "18/06/2026, 11:49:41",
+  "lastExport": "2026-06-18T14:59:53.233Z",
+  "exportedAt": "18/06/2026, 11:59:53",
   "total": 100,
-  "pendentes": 95,
-  "postados": 5,
+  "pendentes": 93,
+  "postados": 7,
   "queue": [
     {
       "posicao": 1,
@@ -289,10 +289,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_678820-MLB107744976677_022026-AB-oculos-blue-ray-blocker-anti-luz-azul-proteco-pc-tv-e-cel.webp",
       "horarioProgramado": "11:50",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-18T14:50:22.128Z"
     },
     {
       "posicao": 18,
@@ -306,10 +306,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_849828-MLA93387691711_092025-AB.webp",
       "horarioProgramado": "11:58",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-18T14:58:10.066Z"
     },
     {
       "posicao": 19,
