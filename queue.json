@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-18T20:50:17.426Z",
-  "exportedAt": "18/06/2026, 17:50:17",
+  "lastExport": "2026-06-18T21:00:26.024Z",
+  "exportedAt": "18/06/2026, 18:00:26",
   "total": 100,
-  "pendentes": 54,
-  "postados": 46,
+  "pendentes": 53,
+  "postados": 47,
   "queue": [
     {
       "posicao": 1,
@@ -986,10 +986,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_628587-MLB101686617190_122025-AB-top-com-bojo-removivel-alta-sustentaco-academia-fitness.webp",
       "horarioProgramado": "17:58",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-18T20:58:32.625Z"
     },
     {
       "posicao": 59,
