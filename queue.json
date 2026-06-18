@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-18T17:59:14.854Z",
-  "exportedAt": "18/06/2026, 14:59:14",
+  "lastExport": "2026-06-18T18:08:02.069Z",
+  "exportedAt": "18/06/2026, 15:08:02",
   "total": 100,
-  "pendentes": 69,
-  "postados": 31,
+  "pendentes": 68,
+  "postados": 32,
   "queue": [
     {
       "posicao": 1,
@@ -731,10 +731,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_801948-MLB111921499316_062026-AB-kit-10-cueca-boxer-sem-costura-poliamida-toque-gelado-selene.webp",
       "horarioProgramado": "14:59",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-18T17:59:36.155Z"
     },
     {
       "posicao": 44,
