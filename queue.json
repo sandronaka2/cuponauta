@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-18T15:00:12.643Z",
-  "exportedAt": "18/06/2026, 12:00:12",
+  "lastExport": "2026-06-18T15:16:35.704Z",
+  "exportedAt": "18/06/2026, 12:16:35",
   "total": 100,
-  "pendentes": 93,
-  "postados": 7,
+  "pendentes": 90,
+  "postados": 10,
   "queue": [
     {
       "posicao": 1,
@@ -323,10 +323,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_959184-MLB112994645483_062026-AB-oculos-de-sol-acetato-italiano-lux-glasses-solar-feminino.webp",
       "horarioProgramado": "12:01",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-18T15:01:20.843Z"
     },
     {
       "posicao": 20,
@@ -340,10 +340,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_750446-MLA109229508824_042026-AB.webp",
       "horarioProgramado": "12:06",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-18T15:06:49.045Z"
     },
     {
       "posicao": 21,
@@ -357,10 +357,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_712920-MLB105258087723_012026-AB.webp",
       "horarioProgramado": "12:13",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-18T15:13:43.557Z"
     },
     {
       "posicao": 22,
