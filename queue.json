@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-18T15:17:12.565Z",
-  "exportedAt": "18/06/2026, 12:17:12",
+  "lastExport": "2026-06-18T15:27:38.846Z",
+  "exportedAt": "18/06/2026, 12:27:38",
   "total": 100,
-  "pendentes": 90,
-  "postados": 10,
+  "pendentes": 88,
+  "postados": 12,
   "queue": [
     {
       "posicao": 1,
@@ -374,10 +374,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_807481-MLA109584955942_042026-AB.webp",
       "horarioProgramado": "12:19",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-18T15:20:16.736Z"
     },
     {
       "posicao": 23,
@@ -391,10 +391,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_947765-MLB88479043740_072025-AB-casaco-jaqueta-puffer-infantil-juvenil-bobojaco-premium.webp",
       "horarioProgramado": "12:26",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-18T15:26:12.058Z"
     },
     {
       "posicao": 24,
