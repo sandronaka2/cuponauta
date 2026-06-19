@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-19T16:18:00.367Z",
-  "exportedAt": "19/06/2026, 13:18:00",
+  "lastExport": "2026-06-19T16:20:30.952Z",
+  "exportedAt": "19/06/2026, 13:20:30",
   "total": 100,
-  "pendentes": 70,
-  "postados": 30,
+  "pendentes": 69,
+  "postados": 31,
   "queue": [
     {
       "posicao": 1,
@@ -527,10 +527,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_767822-MLB87783275638_072025-AB-kit-3-bermuda-mauricinho-masculina-tactel-esportiva-verao.webp",
       "horarioProgramado": "13:18",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-19T16:18:35.022Z"
     },
     {
       "posicao": 32,
