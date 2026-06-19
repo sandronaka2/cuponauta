@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-19T21:04:10.321Z",
-  "exportedAt": "19/06/2026, 18:04:10",
+  "lastExport": "2026-06-19T21:08:13.666Z",
+  "exportedAt": "19/06/2026, 18:08:13",
   "total": 100,
-  "pendentes": 41,
-  "postados": 59,
+  "pendentes": 40,
+  "postados": 60,
   "queue": [
     {
       "posicao": 1,
@@ -1020,10 +1020,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_956877-MLB41939707497_052020-AB-touca-gola-gorro-balaclava-cachecol-multifuncional-moto.webp",
       "horarioProgramado": "18:06",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-19T21:06:33.228Z"
     },
     {
       "posicao": 61,
