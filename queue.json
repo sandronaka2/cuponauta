@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-19T20:43:09.941Z",
-  "exportedAt": "19/06/2026, 17:43:09",
+  "lastExport": "2026-06-19T20:53:16.191Z",
+  "exportedAt": "19/06/2026, 17:53:16",
   "total": 100,
-  "pendentes": 44,
-  "postados": 56,
+  "pendentes": 43,
+  "postados": 57,
   "queue": [
     {
       "posicao": 1,
@@ -969,10 +969,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_981594-MLB89589427802_082025-AB-vapor-oznio-salo-barbearia-cabelo-facial-estetica-estek.webp",
       "horarioProgramado": "17:48",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-19T20:48:50.629Z"
     },
     {
       "posicao": 58,
