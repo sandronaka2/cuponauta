@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-19T14:40:30.847Z",
-  "exportedAt": "19/06/2026, 11:40:30",
+  "lastExport": "2026-06-19T14:50:30.869Z",
+  "exportedAt": "19/06/2026, 11:50:30",
   "total": 100,
-  "pendentes": 84,
-  "postados": 16,
+  "pendentes": 83,
+  "postados": 17,
   "queue": [
     {
       "posicao": 1,
@@ -289,10 +289,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_949688-MLB97262014051_112025-AB-opk-relogio-masculino-original-aco-inoxidavel-quartzo-8135.webp",
       "horarioProgramado": "11:46",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-19T14:46:36.704Z"
     },
     {
       "posicao": 18,
