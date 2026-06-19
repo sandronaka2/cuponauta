@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-19T00:39:50.762Z",
-  "exportedAt": "18/06/2026, 21:39:50",
+  "lastExport": "2026-06-19T00:49:59.399Z",
+  "exportedAt": "18/06/2026, 21:49:59",
   "total": 100,
-  "pendentes": 15,
-  "postados": 85,
+  "pendentes": 13,
+  "postados": 87,
   "queue": [
     {
       "posicao": 1,
@@ -1649,10 +1649,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_944585-MLB110293360086_052026-AB-calca-pantalona-wide-leg-duna-elegante-casual.webp",
       "horarioProgramado": "21:42",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-19T00:42:14.296Z"
     },
     {
       "posicao": 98,
@@ -1666,10 +1666,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_768523-MLB100487779940_122025-AB-blusa-regata-feminina-casual-plus-size-basica-moda-vero.webp",
       "horarioProgramado": "21:47",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-19T00:47:57.443Z"
     },
     {
       "posicao": 99,
