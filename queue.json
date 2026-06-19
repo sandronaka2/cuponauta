@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-19T18:10:31.076Z",
-  "exportedAt": "19/06/2026, 15:10:31",
+  "lastExport": "2026-06-19T18:18:01.786Z",
+  "exportedAt": "19/06/2026, 15:18:01",
   "total": 100,
-  "pendentes": 57,
-  "postados": 43,
+  "pendentes": 56,
+  "postados": 44,
   "queue": [
     {
       "posicao": 1,
@@ -748,10 +748,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_700695-MLB87502695681_072025-AB-top-faixa-renda-moda-blogueira-cropped-tomara-que-caia-suti.webp",
       "horarioProgramado": "15:13",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-19T18:13:15.645Z"
     },
     {
       "posicao": 45,
