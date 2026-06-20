@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-20T16:39:57.214Z",
-  "exportedAt": "20/06/2026, 13:39:57",
+  "lastExport": "2026-06-20T16:50:04.559Z",
+  "exportedAt": "20/06/2026, 13:50:04",
   "total": 100,
-  "pendentes": 66,
-  "postados": 34,
+  "pendentes": 64,
+  "postados": 36,
   "queue": [
     {
       "posicao": 1,
@@ -595,10 +595,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_882732-MLB111541488943_052026-AB-fone-de-ouvido-bluetooth-tp-71-tws-cancelamento-de-ruido.webp",
       "horarioProgramado": "13:42",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-20T16:42:22.405Z"
     },
     {
       "posicao": 36,
@@ -612,10 +612,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_609221-MLU72569483888_112023-AB.webp",
       "horarioProgramado": "13:49",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-20T16:49:19.261Z"
     },
     {
       "posicao": 37,
