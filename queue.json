@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-20T15:29:26.199Z",
-  "exportedAt": "20/06/2026, 12:29:26",
+  "lastExport": "2026-06-20T15:39:34.346Z",
+  "exportedAt": "20/06/2026, 12:39:34",
   "total": 100,
-  "pendentes": 77,
-  "postados": 23,
+  "pendentes": 75,
+  "postados": 25,
   "queue": [
     {
       "posicao": 1,
@@ -408,10 +408,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_988057-MLB86473347127_062025-AB-kit-frio-touca-forrada-l-protetor-de-pescoco-luva-touch.webp",
       "horarioProgramado": "12:32",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-20T15:32:49.551Z"
     },
     {
       "posicao": 25,
@@ -425,10 +425,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_747365-MLA95498179235_102025-AB.webp",
       "horarioProgramado": "12:38",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-20T15:38:24.473Z"
     },
     {
       "posicao": 26,
