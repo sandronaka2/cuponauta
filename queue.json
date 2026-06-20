@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-20T22:29:03.553Z",
-  "exportedAt": "20/06/2026, 19:29:03",
+  "lastExport": "2026-06-20T22:39:10.864Z",
+  "exportedAt": "20/06/2026, 19:39:10",
   "total": 100,
-  "pendentes": 27,
-  "postados": 73,
+  "pendentes": 26,
+  "postados": 74,
   "queue": [
     {
       "posicao": 1,
@@ -1258,10 +1258,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_643572-MLB91268324486_092025-AB-fone-de-ouvido-jbl-tune-t110-original-1-ano-de-garantia.webp",
       "horarioProgramado": "19:33",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-20T22:33:16.255Z"
     },
     {
       "posicao": 75,
