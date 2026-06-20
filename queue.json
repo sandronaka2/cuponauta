@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-20T14:08:55.062Z",
-  "exportedAt": "20/06/2026, 11:08:55",
+  "lastExport": "2026-06-20T14:18:16.212Z",
+  "exportedAt": "20/06/2026, 11:18:16",
   "total": 100,
-  "pendentes": 87,
-  "postados": 13,
+  "pendentes": 86,
+  "postados": 14,
   "queue": [
     {
       "posicao": 1,
@@ -238,10 +238,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_847784-MLB74843515620_032024-AB-argola-de-chaveiro-c-corrente-20mm-niquel-100-pcsargolinha.webp",
       "horarioProgramado": "11:17",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-20T14:17:14.553Z"
     },
     {
       "posicao": 15,
