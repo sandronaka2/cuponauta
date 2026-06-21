@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-21T23:39:53.942Z",
-  "exportedAt": "21/06/2026, 20:39:53",
+  "lastExport": "2026-06-21T23:50:01.637Z",
+  "exportedAt": "21/06/2026, 20:50:01",
   "total": 100,
-  "pendentes": 16,
-  "postados": 84,
+  "pendentes": 14,
+  "postados": 86,
   "queue": [
     {
       "posicao": 1,
@@ -1445,10 +1445,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_849870-MLA84540034802_052025-AB.webp",
       "horarioProgramado": "20:41",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-21T23:41:11.095Z"
     },
     {
       "posicao": 86,
@@ -1462,10 +1462,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_640664-MLB110465114894_052026-AB-suti-cobertura-total-sem-bojo-e-sem-aro-summer-flower.webp",
       "horarioProgramado": "20:47",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-21T23:47:54.206Z"
     },
     {
       "posicao": 87,
