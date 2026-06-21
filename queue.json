@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-21T22:09:52.895Z",
-  "exportedAt": "21/06/2026, 19:09:52",
+  "lastExport": "2026-06-21T22:18:21.769Z",
+  "exportedAt": "21/06/2026, 19:18:21",
   "total": 100,
-  "pendentes": 30,
-  "postados": 70,
+  "pendentes": 29,
+  "postados": 71,
   "queue": [
     {
       "posicao": 1,
@@ -1207,10 +1207,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_898446-MLB93386527930_092025-AB-tapete-infantil-emborrachado-dobravel-dupla-face-educativo.webp",
       "horarioProgramado": "19:14",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-21T22:14:41.546Z"
     },
     {
       "posicao": 72,
