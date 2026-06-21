@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-21T16:30:17.919Z",
-  "exportedAt": "21/06/2026, 13:30:17",
+  "lastExport": "2026-06-21T16:40:17.930Z",
+  "exportedAt": "21/06/2026, 13:40:17",
   "total": 100,
-  "pendentes": 68,
-  "postados": 32,
+  "pendentes": 66,
+  "postados": 34,
   "queue": [
     {
       "posicao": 1,
@@ -561,10 +561,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_936968-MLA95666211942_102025-AB.webp",
       "horarioProgramado": "13:32",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-21T16:32:37.115Z"
     },
     {
       "posicao": 34,
@@ -578,10 +578,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_851178-MLB85667840463_062025-AB-tnis-flyer-runner-mesh-bdp-puma.webp",
       "horarioProgramado": "13:38",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-21T16:38:24.054Z"
     },
     {
       "posicao": 35,
