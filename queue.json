@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-21T17:20:17.970Z",
-  "exportedAt": "21/06/2026, 14:20:17",
+  "lastExport": "2026-06-21T17:30:17.979Z",
+  "exportedAt": "21/06/2026, 14:30:17",
   "total": 100,
-  "pendentes": 61,
-  "postados": 39,
+  "pendentes": 60,
+  "postados": 40,
   "queue": [
     {
       "posicao": 1,
@@ -680,10 +680,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_938673-MLB80761026832_112024-AB-jaqueta-puffer-infantil-unissex-com-capuz-hering-kids.webp",
       "horarioProgramado": "14:23",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-21T17:23:52.509Z"
     },
     {
       "posicao": 41,
