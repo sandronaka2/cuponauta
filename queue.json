@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-21T16:00:18.000Z",
-  "exportedAt": "21/06/2026, 13:00:18",
+  "lastExport": "2026-06-21T16:08:19.854Z",
+  "exportedAt": "21/06/2026, 13:08:19",
   "total": 100,
-  "pendentes": 73,
-  "postados": 27,
+  "pendentes": 71,
+  "postados": 29,
   "queue": [
     {
       "posicao": 1,
@@ -476,10 +476,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_754511-MLB87288305150_072025-AB-jaqueta-bobojaco-forrado-peluciado-frio-inverno-impermeavel.webp",
       "horarioProgramado": "13:00",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-21T16:00:58.047Z"
     },
     {
       "posicao": 29,
@@ -493,10 +493,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_904712-MLB111294752681_052026-AB.webp",
       "horarioProgramado": "13:06",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-21T16:06:42.506Z"
     },
     {
       "posicao": 30,
