@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-21T18:30:19.120Z",
-  "exportedAt": "21/06/2026, 15:30:19",
+  "lastExport": "2026-06-21T18:40:19.121Z",
+  "exportedAt": "21/06/2026, 15:40:19",
   "total": 100,
-  "pendentes": 55,
-  "postados": 45,
+  "pendentes": 54,
+  "postados": 46,
   "queue": [
     {
       "posicao": 1,
@@ -782,10 +782,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_772182-MLB104887332616_012026-AB-camisa-social-masc-manga-curta-gola-slim-premium-promoco.webp",
       "horarioProgramado": "15:38",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-21T18:38:19.817Z"
     },
     {
       "posicao": 47,
