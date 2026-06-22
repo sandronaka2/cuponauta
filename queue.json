@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-22T20:20:39.278Z",
-  "exportedAt": "22/06/2026, 17:20:39",
+  "lastExport": "2026-06-22T20:27:15.495Z",
+  "exportedAt": "22/06/2026, 17:27:15",
   "total": 100,
-  "pendentes": 46,
-  "postados": 54,
+  "pendentes": 45,
+  "postados": 55,
   "queue": [
     {
       "posicao": 1,
@@ -935,10 +935,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_631271-MLB90539976774_082025-AB-suti-comfort-line-tomara-que-caia-sem-alca-sustentaco-toda.webp",
       "horarioProgramado": "17:22",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-22T20:22:44.059Z"
     },
     {
       "posicao": 56,
