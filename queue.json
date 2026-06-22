@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-22T22:38:15.038Z",
-  "exportedAt": "22/06/2026, 19:38:15",
+  "lastExport": "2026-06-22T22:48:21.734Z",
+  "exportedAt": "22/06/2026, 19:48:21",
   "total": 100,
-  "pendentes": 26,
-  "postados": 74,
+  "pendentes": 24,
+  "postados": 76,
   "queue": [
     {
       "posicao": 1,
@@ -1275,10 +1275,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_980730-MLB113150700515_062026-AB-jaqueta-forrada-pelinho-masc-puffer-bobojaco-acolchoado-pret.webp",
       "horarioProgramado": "19:40",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-22T22:40:19.120Z"
     },
     {
       "posicao": 76,
@@ -1292,10 +1292,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_985375-MLA99492370882_112025-AB.webp",
       "horarioProgramado": "19:46",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-22T22:46:12.195Z"
     },
     {
       "posicao": 77,
