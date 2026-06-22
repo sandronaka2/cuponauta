@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-22T13:50:37.520Z",
-  "exportedAt": "22/06/2026, 10:50:37",
+  "lastExport": "2026-06-22T14:00:37.511Z",
+  "exportedAt": "22/06/2026, 11:00:37",
   "total": 100,
-  "pendentes": 89,
-  "postados": 11,
+  "pendentes": 88,
+  "postados": 12,
   "queue": [
     {
       "posicao": 1,
@@ -204,10 +204,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_846757-MLB85308201773_052025-AB-oculos-masculino-redondo-leaf-shop-tr90-geek.webp",
       "horarioProgramado": "10:54",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-22T13:54:38.537Z"
     },
     {
       "posicao": 13,
