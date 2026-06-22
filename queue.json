@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-22T15:10:37.665Z",
-  "exportedAt": "22/06/2026, 12:10:37",
+  "lastExport": "2026-06-22T15:20:37.596Z",
+  "exportedAt": "22/06/2026, 12:20:37",
   "total": 100,
-  "pendentes": 80,
-  "postados": 20,
+  "pendentes": 78,
+  "postados": 22,
   "queue": [
     {
       "posicao": 1,
@@ -357,10 +357,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_663253-MLA99938296077_112025-AB.webp",
       "horarioProgramado": "12:13",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-22T15:13:56.455Z"
     },
     {
       "posicao": 22,
@@ -374,10 +374,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_605660-MLB86360815416_062025-AB-kit-10-cuecas-microfibra-boxer-masculina-com-lycra-box.webp",
       "horarioProgramado": "12:19",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-22T15:19:11.759Z"
     },
     {
       "posicao": 23,
