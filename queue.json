@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-22T23:19:15.741Z",
-  "exportedAt": "22/06/2026, 20:19:15",
+  "lastExport": "2026-06-22T23:27:19.440Z",
+  "exportedAt": "22/06/2026, 20:27:19",
   "total": 100,
-  "pendentes": 19,
-  "postados": 81,
+  "pendentes": 18,
+  "postados": 82,
   "queue": [
     {
       "posicao": 1,
@@ -1394,10 +1394,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_905446-MLB113351470719_062026-AB-kit-30-luminaria-teto-spot-led-7w-direcionavel-quadrado.webp",
       "horarioProgramado": "20:23",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-22T23:23:33.870Z"
     },
     {
       "posicao": 83,
