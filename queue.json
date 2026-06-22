@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-22T21:00:39.416Z",
-  "exportedAt": "22/06/2026, 18:00:39",
+  "lastExport": "2026-06-22T21:08:25.498Z",
+  "exportedAt": "22/06/2026, 18:08:25",
   "total": 100,
-  "pendentes": 42,
-  "postados": 58,
+  "pendentes": 40,
+  "postados": 60,
   "queue": [
     {
       "posicao": 1,
@@ -1003,10 +1003,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_844625-MLB77935315851_072024-AB.webp",
       "horarioProgramado": "18:01",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-22T21:01:42.217Z"
     },
     {
       "posicao": 60,
@@ -1020,10 +1020,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_658463-MLB76411425697_052024-AB-suti-olimpo-anizete-adulto-feminino-demillus.webp",
       "horarioProgramado": "18:06",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-22T21:06:33.232Z"
     },
     {
       "posicao": 61,
