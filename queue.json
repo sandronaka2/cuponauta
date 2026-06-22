@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-22T22:48:45.149Z",
-  "exportedAt": "22/06/2026, 19:48:45",
+  "lastExport": "2026-06-22T22:58:51.675Z",
+  "exportedAt": "22/06/2026, 19:58:51",
   "total": 100,
-  "pendentes": 24,
-  "postados": 76,
+  "pendentes": 23,
+  "postados": 77,
   "queue": [
     {
       "posicao": 1,
@@ -1309,10 +1309,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_605639-MLB99898103548_122025-AB-blusa-feminina-t-shirt-listrada-basica-social-manga-curta.webp",
       "horarioProgramado": "19:53",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-22T22:53:40.575Z"
     },
     {
       "posicao": 78,
