@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-22T16:50:37.716Z",
-  "exportedAt": "22/06/2026, 13:50:37",
+  "lastExport": "2026-06-22T17:00:37.754Z",
+  "exportedAt": "22/06/2026, 14:00:37",
   "total": 100,
-  "pendentes": 65,
-  "postados": 35,
+  "pendentes": 63,
+  "postados": 37,
   "queue": [
     {
       "posicao": 1,
@@ -612,10 +612,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_978658-MLA99929846711_112025-AB.webp",
       "horarioProgramado": "13:53",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-22T16:53:34.346Z"
     },
     {
       "posicao": 37,
@@ -629,10 +629,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_617246-MLB111614996290_062026-AB-sobretudo-feminino-forrado-longo-inverno-confortavel-viagem.webp",
       "horarioProgramado": "13:58",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-22T16:58:22.400Z"
     },
     {
       "posicao": 38,
