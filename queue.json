@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-22T23:08:45.566Z",
-  "exportedAt": "22/06/2026, 20:08:45",
+  "lastExport": "2026-06-22T23:18:52.172Z",
+  "exportedAt": "22/06/2026, 20:18:52",
   "total": 100,
-  "pendentes": 21,
-  "postados": 79,
+  "pendentes": 19,
+  "postados": 81,
   "queue": [
     {
       "posicao": 1,
@@ -1360,10 +1360,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_969093-MLB95876350543_102025-AB-jogo-de-cozinha-kit5-pecas-utensilios-de-cozinha-em-silicone.webp",
       "horarioProgramado": "20:11",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-22T23:11:21.632Z"
     },
     {
       "posicao": 81,
@@ -1377,10 +1377,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_672294-MLB95117256619_102025-AB.webp",
       "horarioProgramado": "20:17",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-22T23:17:42.020Z"
     },
     {
       "posicao": 82,
