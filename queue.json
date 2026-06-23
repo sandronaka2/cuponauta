@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-23T17:48:37.511Z",
-  "exportedAt": "23/06/2026, 14:48:37",
+  "lastExport": "2026-06-23T17:58:44.950Z",
+  "exportedAt": "23/06/2026, 14:58:44",
   "total": 100,
-  "pendentes": 59,
-  "postados": 41,
+  "pendentes": 58,
+  "postados": 42,
   "queue": [
     {
       "posicao": 1,
@@ -714,10 +714,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_938629-MLB94149200466_102025-AB-kit-relogio-feminino-prata-quartz-colar-e-brincos-caixa.webp",
       "horarioProgramado": "14:50",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-23T17:50:31.359Z"
     },
     {
       "posicao": 43,
