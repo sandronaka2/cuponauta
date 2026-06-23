@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-23T21:08:42.450Z",
-  "exportedAt": "23/06/2026, 18:08:42",
+  "lastExport": "2026-06-23T21:18:50.541Z",
+  "exportedAt": "23/06/2026, 18:18:50",
   "total": 100,
-  "pendentes": 40,
-  "postados": 60,
+  "pendentes": 38,
+  "postados": 62,
   "queue": [
     {
       "posicao": 1,
@@ -1037,10 +1037,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_875934-MLB83084240674_032025-AB-relogio-digital-a-prova-dagua-masculino-original-esportivo.webp",
       "horarioProgramado": "18:12",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-23T21:12:28.668Z"
     },
     {
       "posicao": 62,
@@ -1054,10 +1054,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_838667-MLB101380042546_122025-AB.webp",
       "horarioProgramado": "18:18",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-23T21:18:15.160Z"
     },
     {
       "posicao": 63,
