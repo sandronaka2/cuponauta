@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-23T23:01:14.914Z",
-  "exportedAt": "23/06/2026, 20:01:14",
+  "lastExport": "2026-06-23T23:06:55.841Z",
+  "exportedAt": "23/06/2026, 20:06:55",
   "total": 100,
-  "pendentes": 22,
-  "postados": 78,
+  "pendentes": 21,
+  "postados": 79,
   "queue": [
     {
       "posicao": 1,
@@ -1343,10 +1343,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_886417-MLB84927803265_052025-AB-chinelo-infantil-feminino-varias-cores-para-meninas-promoco.webp",
       "horarioProgramado": "20:04",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-23T23:04:50.626Z"
     },
     {
       "posicao": 80,
