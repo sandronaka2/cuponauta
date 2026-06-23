@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-23T12:59:32.074Z",
-  "exportedAt": "23/06/2026, 09:59:32",
+  "lastExport": "2026-06-23T13:06:42.573Z",
+  "exportedAt": "23/06/2026, 10:06:42",
   "total": 100,
-  "pendentes": 94,
-  "postados": 6,
+  "pendentes": 93,
+  "postados": 7,
   "queue": [
     {
       "posicao": 1,
@@ -119,10 +119,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_776190-MLB109554237665_032026-AB-vestido-feminino-midi-plus-size-longo-com-bolso.webp",
       "horarioProgramado": "10:01",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-23T13:01:45.385Z"
     },
     {
       "posicao": 8,
