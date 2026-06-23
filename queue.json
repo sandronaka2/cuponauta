@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-23T16:09:05.768Z",
-  "exportedAt": "23/06/2026, 13:09:05",
+  "lastExport": "2026-06-23T16:19:17.237Z",
+  "exportedAt": "23/06/2026, 13:19:17",
   "total": 100,
-  "pendentes": 71,
-  "postados": 29,
+  "pendentes": 69,
+  "postados": 31,
   "queue": [
     {
       "posicao": 1,
@@ -510,10 +510,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_671725-MLB90763829551_082025-AB-colcha-piquet-estampado-firenze-cama-queen-kit-3-pecas.webp",
       "horarioProgramado": "13:12",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-23T16:12:57.937Z"
     },
     {
       "posicao": 31,
@@ -527,10 +527,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_986511-MLA111649541395_052026-AB.webp",
       "horarioProgramado": "13:18",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-23T16:18:23.781Z"
     },
     {
       "posicao": 32,
