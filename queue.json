@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-23T22:29:44.216Z",
-  "exportedAt": "23/06/2026, 19:29:44",
+  "lastExport": "2026-06-23T22:39:52.955Z",
+  "exportedAt": "23/06/2026, 19:39:52",
   "total": 100,
-  "pendentes": 27,
-  "postados": 73,
+  "pendentes": 26,
+  "postados": 74,
   "queue": [
     {
       "posicao": 1,
@@ -1258,10 +1258,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_987413-MLB97660487036_112025-AB-tapete-passadeira-200x060-quarto-pe-de-cama-luxo-conforto.webp",
       "horarioProgramado": "19:32",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-23T22:32:29.777Z"
     },
     {
       "posicao": 75,
