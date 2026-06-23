@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-23T12:08:27.483Z",
-  "exportedAt": "23/06/2026, 09:08:27",
+  "lastExport": "2026-06-23T12:17:08.672Z",
+  "exportedAt": "23/06/2026, 09:17:08",
   "total": 100,
-  "pendentes": 99,
-  "postados": 1,
+  "pendentes": 98,
+  "postados": 2,
   "queue": [
     {
       "posicao": 1,
@@ -34,10 +34,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_872076-MLB87551561705_072025-AB-suti-comfort-slim-sem-costura-aros-fita-up-seios-pequenos.webp",
       "horarioProgramado": "09:12",
       "janela": "09:00-10:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-23T12:12:13.538Z"
     },
     {
       "posicao": 3,
