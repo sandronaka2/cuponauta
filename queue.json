@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-23T20:30:41.770Z",
-  "exportedAt": "23/06/2026, 17:30:41",
+  "lastExport": "2026-06-23T20:40:50.196Z",
+  "exportedAt": "23/06/2026, 17:40:50",
   "total": 100,
-  "pendentes": 45,
-  "postados": 55,
+  "pendentes": 44,
+  "postados": 56,
   "queue": [
     {
       "posicao": 1,
@@ -952,10 +952,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_752659-MLB78213748037_082024-AB-2000-unidades-elastico-silicone-liguinha-borrachinha-cabelo.webp",
       "horarioProgramado": "17:36",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-23T20:36:53.153Z"
     },
     {
       "posicao": 57,
