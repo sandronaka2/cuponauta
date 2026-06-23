@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-23T15:39:42.720Z",
-  "exportedAt": "23/06/2026, 12:39:42",
+  "lastExport": "2026-06-23T15:49:42.735Z",
+  "exportedAt": "23/06/2026, 12:49:42",
   "total": 100,
-  "pendentes": 76,
-  "postados": 24,
+  "pendentes": 74,
+  "postados": 26,
   "queue": [
     {
       "posicao": 1,
@@ -425,10 +425,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_742284-MLB88403427310_072025-AB-kit-com-2-suti-trifil-com-bojo-triangular-sem-costura-daily.webp",
       "horarioProgramado": "12:41",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-23T15:41:38.086Z"
     },
     {
       "posicao": 26,
@@ -442,10 +442,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_767972-MLB109704747794_042026-AB-conjunto-moletom-com-capuz-canguru-flanelado-liso-academia.webp",
       "horarioProgramado": "12:48",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-23T15:48:50.281Z"
     },
     {
       "posicao": 27,
