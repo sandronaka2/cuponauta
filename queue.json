@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-23T22:19:14.005Z",
-  "exportedAt": "23/06/2026, 19:19:14",
+  "lastExport": "2026-06-23T22:29:22.521Z",
+  "exportedAt": "23/06/2026, 19:29:22",
   "total": 100,
-  "pendentes": 29,
-  "postados": 71,
+  "pendentes": 27,
+  "postados": 73,
   "queue": [
     {
       "posicao": 1,
@@ -1224,10 +1224,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_682822-MLB83373482227_032025-AB-kit-2-pijama-curto-americano-blogueirinha-amamentaco-botoes.webp",
       "horarioProgramado": "19:20",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-23T22:20:40.979Z"
     },
     {
       "posicao": 73,
@@ -1241,10 +1241,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_600655-MLA99469440178_112025-AB.webp",
       "horarioProgramado": "19:26",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-23T22:26:40.702Z"
     },
     {
       "posicao": 74,
