@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-24T14:20:58.444Z",
-  "exportedAt": "24/06/2026, 11:20:58",
+  "lastExport": "2026-06-24T14:30:58.467Z",
+  "exportedAt": "24/06/2026, 11:30:58",
   "total": 100,
-  "pendentes": 86,
-  "postados": 14,
+  "pendentes": 85,
+  "postados": 15,
   "queue": [
     {
       "posicao": 1,
@@ -255,10 +255,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_655135-MLB100011715022_122025-AB-kit-10-cueca-boxer-masculina-microfibra-adulto-premium.webp",
       "horarioProgramado": "11:26",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-24T14:26:11.701Z"
     },
     {
       "posicao": 16,
