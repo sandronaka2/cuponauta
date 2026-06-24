@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-24T15:30:58.510Z",
-  "exportedAt": "24/06/2026, 12:30:58",
+  "lastExport": "2026-06-24T15:40:58.504Z",
+  "exportedAt": "24/06/2026, 12:40:58",
   "total": 100,
-  "pendentes": 77,
-  "postados": 23,
+  "pendentes": 75,
+  "postados": 25,
   "queue": [
     {
       "posicao": 1,
@@ -408,10 +408,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_795719-MLB108102615694_032026-AB-calca-skinny-preta-rasgada-masculina-jeans-c-elastano-lycra.webp",
       "horarioProgramado": "12:33",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-24T15:33:33.840Z"
     },
     {
       "posicao": 25,
@@ -425,10 +425,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_716663-MLA99599672360_122025-AB.webp",
       "horarioProgramado": "12:40",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-24T15:40:40.428Z"
     },
     {
       "posicao": 26,
