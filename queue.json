@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-24T23:18:44.256Z",
-  "exportedAt": "24/06/2026, 20:18:44",
+  "lastExport": "2026-06-24T23:28:53.867Z",
+  "exportedAt": "24/06/2026, 20:28:53",
   "total": 100,
-  "pendentes": 19,
-  "postados": 81,
+  "pendentes": 17,
+  "postados": 83,
   "queue": [
     {
       "posicao": 1,
@@ -1394,10 +1394,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_796256-MLB108363345849_032026-AB-tnis-new-speed-esporte-masculino-ideal-para-corridas.webp",
       "horarioProgramado": "20:22",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-24T23:22:36.210Z"
     },
     {
       "posicao": 83,
@@ -1411,10 +1411,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_643066-MLA98420220498_112025-AB.webp",
       "horarioProgramado": "20:28",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-24T23:28:22.467Z"
     },
     {
       "posicao": 84,
