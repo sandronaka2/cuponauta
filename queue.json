@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-24T23:39:44.703Z",
-  "exportedAt": "24/06/2026, 20:39:44",
+  "lastExport": "2026-06-24T23:49:53.786Z",
+  "exportedAt": "24/06/2026, 20:49:53",
   "total": 100,
-  "pendentes": 16,
-  "postados": 84,
+  "pendentes": 14,
+  "postados": 86,
   "queue": [
     {
       "posicao": 1,
@@ -1445,10 +1445,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_890914-MLB95430694974_102025-AB-extenso-5-tomadas-e-2-usb-1-pd-led-bivolt-power-110v220v.webp",
       "horarioProgramado": "20:41",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-24T23:41:32.539Z"
     },
     {
       "posicao": 86,
@@ -1462,10 +1462,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_967208-MLB96391531004_102025-AB.webp",
       "horarioProgramado": "20:47",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-24T23:47:55.916Z"
     },
     {
       "posicao": 87,
