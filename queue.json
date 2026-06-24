@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-24T19:39:39.980Z",
-  "exportedAt": "24/06/2026, 16:39:39",
+  "lastExport": "2026-06-24T19:49:56.933Z",
+  "exportedAt": "24/06/2026, 16:49:56",
   "total": 100,
-  "pendentes": 49,
-  "postados": 51,
+  "pendentes": 48,
+  "postados": 52,
   "queue": [
     {
       "posicao": 1,
@@ -884,10 +884,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_717030-MLB88712625393_072025-AB-kit-12-pares-meia-soquete-cano-curto-unissex-premium-full.webp",
       "horarioProgramado": "16:49",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-24T19:49:48.211Z"
     },
     {
       "posicao": 53,
