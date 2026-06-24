@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-24T13:20:58.382Z",
-  "exportedAt": "24/06/2026, 10:20:58",
+  "lastExport": "2026-06-24T13:30:58.379Z",
+  "exportedAt": "24/06/2026, 10:30:58",
   "total": 100,
-  "pendentes": 92,
-  "postados": 8,
+  "pendentes": 91,
+  "postados": 9,
   "queue": [
     {
       "posicao": 1,
@@ -153,10 +153,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_809007-MLB100365402992_122025-AB-kit-10-cuecas-boxer-algodo-cotton-box-original-mash.webp",
       "horarioProgramado": "10:23",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-24T13:23:37.591Z"
     },
     {
       "posicao": 10,
