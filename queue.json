@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-24T15:10:58.493Z",
-  "exportedAt": "24/06/2026, 12:10:58",
+  "lastExport": "2026-06-24T15:20:58.518Z",
+  "exportedAt": "24/06/2026, 12:20:58",
   "total": 100,
-  "pendentes": 80,
-  "postados": 20,
+  "pendentes": 78,
+  "postados": 22,
   "queue": [
     {
       "posicao": 1,
@@ -357,10 +357,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_911783-MLB112443945535_052026-AB.webp",
       "horarioProgramado": "12:13",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-24T15:13:22.079Z"
     },
     {
       "posicao": 22,
@@ -374,10 +374,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_653205-MLB105310037814_012026-AB-5-calcinha-cintura-alta-cos-duplo-premium-compresso-luxo.webp",
       "horarioProgramado": "12:20",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-24T15:20:40.939Z"
     },
     {
       "posicao": 23,
