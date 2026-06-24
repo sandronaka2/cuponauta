@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-24T13:10:58.374Z",
-  "exportedAt": "24/06/2026, 10:10:58",
+  "lastExport": "2026-06-24T13:20:58.382Z",
+  "exportedAt": "24/06/2026, 10:20:58",
   "total": 100,
-  "pendentes": 93,
-  "postados": 7,
+  "pendentes": 92,
+  "postados": 8,
   "queue": [
     {
       "posicao": 1,
@@ -136,10 +136,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_771181-MLB72682460799_112023-AB-sandalia-chinelo-kenner-kivah-original-masculino-feminino.webp",
       "horarioProgramado": "10:11",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-24T13:11:31.690Z"
     },
     {
       "posicao": 9,
