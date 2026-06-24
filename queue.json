@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-24T18:00:58.701Z",
-  "exportedAt": "24/06/2026, 15:00:58",
+  "lastExport": "2026-06-24T18:07:28.247Z",
+  "exportedAt": "24/06/2026, 15:07:28",
   "total": 100,
-  "pendentes": 58,
-  "postados": 42,
+  "pendentes": 57,
+  "postados": 43,
   "queue": [
     {
       "posicao": 1,
@@ -731,10 +731,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_854131-MLB110266233147_042026-AB-jaqueta-puffer-casaco-bobojaco-gominho-corta-vento-agasalho.webp",
       "horarioProgramado": "15:02",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-24T18:02:55.678Z"
     },
     {
       "posicao": 44,
