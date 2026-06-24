@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-24T19:29:09.717Z",
-  "exportedAt": "24/06/2026, 16:29:09",
+  "lastExport": "2026-06-24T19:39:17.709Z",
+  "exportedAt": "24/06/2026, 16:39:17",
   "total": 100,
-  "pendentes": 50,
-  "postados": 50,
+  "pendentes": 49,
+  "postados": 51,
   "queue": [
     {
       "posicao": 1,
@@ -867,10 +867,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_688512-MLB85576357118_062025-AB-calca-jeans-masculina-corte-reto-tradicional-lycra-basica.webp",
       "horarioProgramado": "16:37",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-24T19:37:32.133Z"
     },
     {
       "posicao": 52,
