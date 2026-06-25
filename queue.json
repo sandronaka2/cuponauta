@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-25T16:08:36.304Z",
-  "exportedAt": "25/06/2026, 13:08:36",
+  "lastExport": "2026-06-25T16:09:03.804Z",
+  "exportedAt": "25/06/2026, 13:09:03",
   "total": 100,
-  "pendentes": 72,
-  "postados": 28,
+  "pendentes": 71,
+  "postados": 29,
   "queue": [
     {
       "posicao": 1,
@@ -493,10 +493,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_779450-MLB110788594216_052026-AB-oculos-de-sol-unissex-lancamento-top-proteco-uv400.webp",
       "horarioProgramado": "13:08",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-25T16:08:43.049Z"
     },
     {
       "posicao": 30,
