@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-25T22:30:12.508Z",
-  "exportedAt": "25/06/2026, 19:30:12",
+  "lastExport": "2026-06-25T22:38:06.637Z",
+  "exportedAt": "25/06/2026, 19:38:06",
   "total": 100,
-  "pendentes": 27,
-  "postados": 73,
+  "pendentes": 26,
+  "postados": 74,
   "queue": [
     {
       "posicao": 1,
@@ -1258,10 +1258,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_928653-MLB73415111993_122023-AB-colar-e-brinco-feminino-coraco-verde-agua-prata-macica-925.webp",
       "horarioProgramado": "19:32",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-25T22:32:55.428Z"
     },
     {
       "posicao": 75,
