@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-25T14:19:01.931Z",
-  "exportedAt": "25/06/2026, 11:19:01",
+  "lastExport": "2026-06-25T14:29:10.331Z",
+  "exportedAt": "25/06/2026, 11:29:10",
   "total": 100,
-  "pendentes": 87,
-  "postados": 13,
+  "pendentes": 85,
+  "postados": 15,
   "queue": [
     {
       "posicao": 1,
@@ -238,10 +238,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_788831-MLA100043984437_122025-AB.webp",
       "horarioProgramado": "11:19",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-25T14:19:57.374Z"
     },
     {
       "posicao": 15,
@@ -255,10 +255,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_925147-MLB100370554895_122025-AB-kit-12-pares-meia-infantil-branca-escolar-menina-menino.webp",
       "horarioProgramado": "11:29",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-25T14:29:09.943Z"
     },
     {
       "posicao": 16,
