@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-25T15:09:02.655Z",
-  "exportedAt": "25/06/2026, 12:09:02",
+  "lastExport": "2026-06-25T15:19:10.754Z",
+  "exportedAt": "25/06/2026, 12:19:10",
   "total": 100,
-  "pendentes": 80,
-  "postados": 20,
+  "pendentes": 79,
+  "postados": 21,
   "queue": [
     {
       "posicao": 1,
@@ -357,10 +357,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_635663-MLB98261934253_112025-AB-5-calcinha-calcola-senhora-plus-size-cintura-alta-m-ao-52.webp",
       "horarioProgramado": "12:14",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-25T15:14:42.636Z"
     },
     {
       "posicao": 22,
