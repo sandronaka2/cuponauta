@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-25T20:08:23.014Z",
-  "exportedAt": "25/06/2026, 17:08:23",
+  "lastExport": "2026-06-25T20:19:29.896Z",
+  "exportedAt": "25/06/2026, 17:19:29",
   "total": 100,
-  "pendentes": 47,
-  "postados": 53,
+  "pendentes": 46,
+  "postados": 54,
   "queue": [
     {
       "posicao": 1,
@@ -918,10 +918,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_659905-MLB96150970658_102025-AB-kit-2-camisetas-brasa-pica-pau-bordado-reserva.webp",
       "horarioProgramado": "17:11",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-25T20:11:58.306Z"
     },
     {
       "posicao": 55,
