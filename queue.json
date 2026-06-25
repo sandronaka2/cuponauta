@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-25T15:00:44.946Z",
-  "exportedAt": "25/06/2026, 12:00:44",
+  "lastExport": "2026-06-25T15:08:07.797Z",
+  "exportedAt": "25/06/2026, 12:08:07",
   "total": 100,
-  "pendentes": 82,
-  "postados": 18,
+  "pendentes": 80,
+  "postados": 20,
   "queue": [
     {
       "posicao": 1,
@@ -323,10 +323,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_622005-MLA107431320527_022026-AB.webp",
       "horarioProgramado": "12:01",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-25T15:01:47.517Z"
     },
     {
       "posicao": 20,
@@ -340,10 +340,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_933264-MLB105891617767_012026-AB-protese-capilar-fios-implantados-em-no-duplo-todas-as-cores.webp",
       "horarioProgramado": "12:07",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-25T15:07:46.893Z"
     },
     {
       "posicao": 21,
