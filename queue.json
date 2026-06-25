@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-25T20:30:40.203Z",
-  "exportedAt": "25/06/2026, 17:30:40",
+  "lastExport": "2026-06-25T20:40:49.911Z",
+  "exportedAt": "25/06/2026, 17:40:49",
   "total": 100,
-  "pendentes": 45,
-  "postados": 55,
+  "pendentes": 44,
+  "postados": 56,
   "queue": [
     {
       "posicao": 1,
@@ -952,10 +952,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_950570-MLB111668578708_062026-AB-jaqueta-bobojaco-feminina-casaco-puffer-forrada-toca-pelinho.webp",
       "horarioProgramado": "17:34",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-25T20:34:59.777Z"
     },
     {
       "posicao": 57,
