@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-25T23:38:43.830Z",
-  "exportedAt": "25/06/2026, 20:38:43",
+  "lastExport": "2026-06-25T23:48:54.548Z",
+  "exportedAt": "25/06/2026, 20:48:54",
   "total": 100,
-  "pendentes": 16,
-  "postados": 84,
+  "pendentes": 14,
+  "postados": 86,
   "queue": [
     {
       "posicao": 1,
@@ -1445,10 +1445,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_778216-MLB98903581469_112025-AB-garrafa-termica-inox-2l-barganhamix-canudo-ajustavel.webp",
       "horarioProgramado": "20:41",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-25T23:41:37.632Z"
     },
     {
       "posicao": 86,
@@ -1462,10 +1462,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_714363-MLB111266561889_052026-AB.webp",
       "horarioProgramado": "20:47",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-25T23:47:51.069Z"
     },
     {
       "posicao": 87,
