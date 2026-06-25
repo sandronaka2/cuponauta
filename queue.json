@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-25T13:01:00.287Z",
-  "exportedAt": "25/06/2026, 10:01:00",
+  "lastExport": "2026-06-25T13:08:02.418Z",
+  "exportedAt": "25/06/2026, 10:08:02",
   "total": 100,
-  "pendentes": 94,
-  "postados": 6,
+  "pendentes": 93,
+  "postados": 7,
   "queue": [
     {
       "posicao": 1,
@@ -119,10 +119,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_871648-MLB87582267608_072025-AB-jaqueta-masculina-sarja-jeans-slim-cores-classicas-premium.webp",
       "horarioProgramado": "10:01",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-25T13:01:27.303Z"
     },
     {
       "posicao": 8,
