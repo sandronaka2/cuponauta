@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-26T00:49:15.256Z",
-  "exportedAt": "25/06/2026, 21:49:15",
+  "lastExport": "2026-06-26T00:59:22.966Z",
+  "exportedAt": "25/06/2026, 21:59:22",
   "total": 100,
-  "pendentes": 3,
-  "postados": 97,
+  "pendentes": 0,
+  "postados": 100,
   "queue": [
     {
       "posicao": 1,
@@ -1666,10 +1666,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_718104-MLA111167267975_052026-AB.webp",
       "horarioProgramado": "21:49",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-26T00:49:44.035Z"
     },
     {
       "posicao": 99,
@@ -1683,10 +1683,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_913529-MLA87540999155_072025-AB.webp",
       "horarioProgramado": "21:54",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-26T00:54:29.446Z"
     },
     {
       "posicao": 100,
@@ -1700,10 +1700,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_958588-MLB82720963094_032025-AB-oculos-de-sol-masculino-em-alta-top-quadrado-acetato-moderno.webp",
       "horarioProgramado": "21:58",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-26T00:58:27.298Z"
     }
   ]
 }
