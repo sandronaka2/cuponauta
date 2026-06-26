@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-26T16:47:40.658Z",
-  "exportedAt": "26/06/2026, 13:47:40",
+  "lastExport": "2026-06-26T16:57:40.670Z",
+  "exportedAt": "26/06/2026, 13:57:40",
   "total": 100,
-  "pendentes": 65,
-  "postados": 35,
+  "pendentes": 64,
+  "postados": 36,
   "queue": [
     {
       "posicao": 1,
@@ -612,10 +612,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_882952-MLB106804965837_022026-AB-kit-com-10-cuecas-boxer-masculina-microfibra-original.webp",
       "horarioProgramado": "13:52",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-26T16:52:17.260Z"
     },
     {
       "posicao": 37,
