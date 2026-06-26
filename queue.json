@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-26T15:10:32.974Z",
-  "exportedAt": "26/06/2026, 12:10:32",
+  "lastExport": "2026-06-26T15:20:40.000Z",
+  "exportedAt": "26/06/2026, 12:20:40",
   "total": 100,
-  "pendentes": 80,
-  "postados": 20,
+  "pendentes": 79,
+  "postados": 21,
   "queue": [
     {
       "posicao": 1,
@@ -357,10 +357,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_917598-MLB85005363600_052025-AB-scarpin-vizzano-1421100-salto-fino-bico-fino-elegante.webp",
       "horarioProgramado": "12:15",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-26T15:15:53.373Z"
     },
     {
       "posicao": 22,
