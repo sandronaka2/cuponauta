@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-26T17:19:35.119Z",
-  "exportedAt": "26/06/2026, 14:19:35",
+  "lastExport": "2026-06-26T17:29:45.098Z",
+  "exportedAt": "26/06/2026, 14:29:45",
   "total": 100,
-  "pendentes": 61,
-  "postados": 39,
+  "pendentes": 60,
+  "postados": 40,
   "queue": [
     {
       "posicao": 1,
@@ -680,10 +680,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_912771-MLB109933753861_042026-AB-chinelo-under-armour-ignite-faixa-slide-macio-leve-masculino.webp",
       "horarioProgramado": "14:25",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-26T17:25:16.684Z"
     },
     {
       "posicao": 41,
