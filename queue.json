@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-26T20:49:40.323Z",
-  "exportedAt": "26/06/2026, 17:49:40",
+  "lastExport": "2026-06-26T20:59:46.873Z",
+  "exportedAt": "26/06/2026, 17:59:46",
   "total": 100,
-  "pendentes": 43,
-  "postados": 57,
+  "pendentes": 42,
+  "postados": 58,
   "queue": [
     {
       "posicao": 1,
@@ -986,10 +986,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_605666-MLB104310595906_012026-AB-kit-5-pares-meia-infantil-algodo-escolar.webp",
       "horarioProgramado": "17:58",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-26T20:58:36.705Z"
     },
     {
       "posicao": 59,
