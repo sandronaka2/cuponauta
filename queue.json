@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-26T17:09:04.898Z",
-  "exportedAt": "26/06/2026, 14:09:04",
+  "lastExport": "2026-06-26T17:19:12.670Z",
+  "exportedAt": "26/06/2026, 14:19:12",
   "total": 100,
-  "pendentes": 62,
-  "postados": 38,
+  "pendentes": 61,
+  "postados": 39,
   "queue": [
     {
       "posicao": 1,
@@ -663,10 +663,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_646735-MLB94675187202_102025-AB-cabo-carregador-por-induco-compativel-com-smart-mi-band-9.webp",
       "horarioProgramado": "14:12",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-26T17:12:46.363Z"
     },
     {
       "posicao": 40,
