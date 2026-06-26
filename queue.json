@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-26T18:19:37.383Z",
-  "exportedAt": "26/06/2026, 15:19:37",
+  "lastExport": "2026-06-26T18:29:44.339Z",
+  "exportedAt": "26/06/2026, 15:29:44",
   "total": 100,
-  "pendentes": 56,
-  "postados": 44,
+  "pendentes": 55,
+  "postados": 45,
   "queue": [
     {
       "posicao": 1,
@@ -765,10 +765,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_625251-MLB108877199323_032026-AB-vestido-midi-noiva-off-white-nula-manga-laco-civil-luxo-top.webp",
       "horarioProgramado": "15:23",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-26T18:23:59.657Z"
     },
     {
       "posicao": 46,
