@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-27T00:19:44.339Z",
-  "exportedAt": "26/06/2026, 21:19:44",
+  "lastExport": "2026-06-27T00:29:51.373Z",
+  "exportedAt": "26/06/2026, 21:29:51",
   "total": 100,
-  "pendentes": 8,
-  "postados": 92,
+  "pendentes": 6,
+  "postados": 94,
   "queue": [
     {
       "posicao": 1,
@@ -1581,10 +1581,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_818022-MLA98420225192_112025-AB.webp",
       "horarioProgramado": "21:21",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-27T00:21:45.613Z"
     },
     {
       "posicao": 94,
@@ -1598,10 +1598,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_776572-MLB91192960490_092025-AB-kit-3-shorts-de-linho-masculino-bermuda-leve-praia-vero.webp",
       "horarioProgramado": "21:27",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-27T00:27:56.102Z"
     },
     {
       "posicao": 95,
