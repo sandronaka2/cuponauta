@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-27T00:49:21.767Z",
-  "exportedAt": "26/06/2026, 21:49:21",
+  "lastExport": "2026-06-27T00:49:44.975Z",
+  "exportedAt": "26/06/2026, 21:49:44",
   "total": 100,
-  "pendentes": 3,
-  "postados": 97,
+  "pendentes": 2,
+  "postados": 98,
   "queue": [
     {
       "posicao": 1,
@@ -1666,10 +1666,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_765751-MLB105972010392_022026-AB-camisa-right-time-rt-slim-fit-masculina.webp",
       "horarioProgramado": "21:49",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-27T00:49:28.402Z"
     },
     {
       "posicao": 99,
