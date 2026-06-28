@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-28T16:57:04.266Z",
-  "exportedAt": "28/06/2026, 13:57:04",
+  "lastExport": "2026-06-28T17:07:11.899Z",
+  "exportedAt": "28/06/2026, 14:07:11",
   "total": 100,
-  "pendentes": 64,
-  "postados": 36,
+  "pendentes": 62,
+  "postados": 38,
   "queue": [
     {
       "posicao": 1,
@@ -629,10 +629,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_809007-MLB100365402992_122025-AB-kit-10-cuecas-boxer-algodo-cotton-box-original-mash.webp",
       "horarioProgramado": "13:58",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-28T16:58:15.136Z"
     },
     {
       "posicao": 38,
@@ -646,10 +646,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_966485-MLA106907952364_022026-AB.webp",
       "horarioProgramado": "14:01",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-28T17:01:43.463Z"
     },
     {
       "posicao": 39,
