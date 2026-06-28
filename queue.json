@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-28T12:46:29.420Z",
-  "exportedAt": "28/06/2026, 09:46:29",
+  "lastExport": "2026-06-28T12:56:37.052Z",
+  "exportedAt": "28/06/2026, 09:56:37",
   "total": 100,
-  "pendentes": 96,
-  "postados": 4,
+  "pendentes": 95,
+  "postados": 5,
   "queue": [
     {
       "posicao": 1,
@@ -85,10 +85,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_737131-MLB51002043297_082022-AB-trs-mesas-retr-de-canto-pe-palito-de-altura-70cm-45cm-30cm.webp",
       "horarioProgramado": "09:48",
       "janela": "09:00-10:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-28T12:48:25.855Z"
     },
     {
       "posicao": 6,
