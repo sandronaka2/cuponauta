@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-28T16:25:33.614Z",
-  "exportedAt": "28/06/2026, 13:25:33",
+  "lastExport": "2026-06-28T16:35:40.932Z",
+  "exportedAt": "28/06/2026, 13:35:40",
   "total": 100,
-  "pendentes": 69,
-  "postados": 31,
+  "pendentes": 67,
+  "postados": 33,
   "queue": [
     {
       "posicao": 1,
@@ -544,10 +544,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_775414-MLA110270893685_042026-AB.webp",
       "horarioProgramado": "13:28",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-28T16:28:19.066Z"
     },
     {
       "posicao": 33,
@@ -561,10 +561,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_609033-MLB111276616587_052026-AB-kit-10-cuecas-boxer-reebok-sem-costura-microfibra.webp",
       "horarioProgramado": "13:34",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-28T16:34:35.073Z"
     },
     {
       "posicao": 34,
