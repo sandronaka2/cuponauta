@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-28T16:36:03.823Z",
-  "exportedAt": "28/06/2026, 13:36:03",
+  "lastExport": "2026-06-28T16:46:10.960Z",
+  "exportedAt": "28/06/2026, 13:46:10",
   "total": 100,
-  "pendentes": 67,
-  "postados": 33,
+  "pendentes": 66,
+  "postados": 34,
   "queue": [
     {
       "posicao": 1,
@@ -578,10 +578,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_983169-MLB93615744204_102025-AB-400-cards-album-pasta-fichario-com-ziper-cartas-pokemon.webp",
       "horarioProgramado": "13:40",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-28T16:40:46.443Z"
     },
     {
       "posicao": 35,
