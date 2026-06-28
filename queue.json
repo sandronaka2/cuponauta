@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-28T15:46:33.043Z",
-  "exportedAt": "28/06/2026, 12:46:33",
+  "lastExport": "2026-06-28T15:56:40.514Z",
+  "exportedAt": "28/06/2026, 12:56:40",
   "total": 100,
-  "pendentes": 74,
-  "postados": 26,
+  "pendentes": 73,
+  "postados": 27,
   "queue": [
     {
       "posicao": 1,
@@ -459,10 +459,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_952998-MLB85413090935_052025-AB-pulseira-oceano-ocean-para-applewatch-ultra-49m-45m-44m.webp",
       "horarioProgramado": "12:55",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-28T15:55:18.327Z"
     },
     {
       "posicao": 28,
