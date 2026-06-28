@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-28T14:46:31.749Z",
-  "exportedAt": "28/06/2026, 11:46:31",
+  "lastExport": "2026-06-28T14:56:38.936Z",
+  "exportedAt": "28/06/2026, 11:56:38",
   "total": 100,
-  "pendentes": 84,
-  "postados": 16,
+  "pendentes": 83,
+  "postados": 17,
   "queue": [
     {
       "posicao": 1,
@@ -289,10 +289,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_933264-MLB105891617767_012026-AB-protese-capilar-fios-implantados-em-no-duplo-todas-as-cores.webp",
       "horarioProgramado": "11:49",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-28T14:49:12.908Z"
     },
     {
       "posicao": 18,
