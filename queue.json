@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-28T18:25:35.967Z",
-  "exportedAt": "28/06/2026, 15:25:35",
+  "lastExport": "2026-06-28T18:35:43.457Z",
+  "exportedAt": "28/06/2026, 15:35:43",
   "total": 100,
-  "pendentes": 56,
-  "postados": 44,
+  "pendentes": 55,
+  "postados": 45,
   "queue": [
     {
       "posicao": 1,
@@ -765,10 +765,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_725606-MLB111692273156_062026-AB-jaqueta-bobojaco-casaco-forrada-inverno-intenso-neve-frio.webp",
       "horarioProgramado": "15:26",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-28T18:26:20.793Z"
     },
     {
       "posicao": 46,
