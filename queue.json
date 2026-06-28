@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-28T15:15:02.366Z",
-  "exportedAt": "28/06/2026, 12:15:02",
+  "lastExport": "2026-06-28T15:25:09.724Z",
+  "exportedAt": "28/06/2026, 12:25:09",
   "total": 100,
-  "pendentes": 80,
-  "postados": 20,
+  "pendentes": 78,
+  "postados": 22,
   "queue": [
     {
       "posicao": 1,
@@ -357,10 +357,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_720211-MLA99500629698_112025-AB.webp",
       "horarioProgramado": "12:15",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-28T15:15:55.796Z"
     },
     {
       "posicao": 22,
@@ -374,10 +374,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_972409-MLB100865543537_122025-AB-tnis-olympikus-jogging-101-casual-original-lancamento.webp",
       "horarioProgramado": "12:22",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-28T15:22:22.300Z"
     },
     {
       "posicao": 23,
