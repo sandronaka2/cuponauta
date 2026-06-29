@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-29T15:57:24.621Z",
-  "exportedAt": "29/06/2026, 12:57:24",
+  "lastExport": "2026-06-29T16:07:24.608Z",
+  "exportedAt": "29/06/2026, 13:07:24",
   "total": 100,
-  "pendentes": 82,
-  "postados": 18,
+  "pendentes": 80,
+  "postados": 20,
   "queue": [
     {
       "posicao": 1,
@@ -476,10 +476,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_782189-MLB93785190853_092025-AB-inova-caixa-de-som-mini-bluetooth-tws-grave-potent-com-radio.webp",
       "horarioProgramado": "13:00",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-29T16:00:17.453Z"
     },
     {
       "posicao": 29,
@@ -493,10 +493,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_990916-MLA95355386089_102025-AB.webp",
       "horarioProgramado": "13:07",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-29T16:07:14.751Z"
     },
     {
       "posicao": 30,
