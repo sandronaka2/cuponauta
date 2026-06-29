@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-29T20:57:37.199Z",
-  "exportedAt": "29/06/2026, 17:57:37",
+  "lastExport": "2026-06-29T21:07:44.490Z",
+  "exportedAt": "29/06/2026, 18:07:44",
   "total": 100,
-  "pendentes": 52,
-  "postados": 48,
+  "pendentes": 49,
+  "postados": 51,
   "queue": [
     {
       "posicao": 1,
@@ -986,10 +986,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_659958-MLB108881259311_032026-AB-cortina-lorena-300m-x-240-altura-voil-com-forro-luxo.webp",
       "horarioProgramado": "17:58",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-29T20:58:52.522Z"
     },
     {
       "posicao": 59,
@@ -1003,10 +1003,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_745171-MLB113149620229_062026-AB.webp",
       "horarioProgramado": "18:01",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-29T21:01:10.113Z"
     },
     {
       "posicao": 60,
@@ -1020,10 +1020,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_835083-MLB111789688842_062026-AB.webp",
       "horarioProgramado": "18:06",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-29T21:06:51.040Z"
     },
     {
       "posicao": 61,
