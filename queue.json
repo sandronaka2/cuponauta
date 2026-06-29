@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-29T12:57:24.307Z",
-  "exportedAt": "29/06/2026, 09:57:24",
+  "lastExport": "2026-06-29T13:07:24.284Z",
+  "exportedAt": "29/06/2026, 10:07:24",
   "total": 100,
-  "pendentes": 95,
-  "postados": 5,
+  "pendentes": 93,
+  "postados": 7,
   "queue": [
     {
       "posicao": 1,
@@ -102,10 +102,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_663709-MLB113055276461_062026-AB-mascara-de-dormir-3d-alto-conforto-c-velcro-especial-viagem.webp",
       "horarioProgramado": "09:57",
       "janela": "09:00-10:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-29T12:57:43.515Z"
     },
     {
       "posicao": 7,
@@ -119,10 +119,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_793062-MLB109102762732_042026-AB-blazer-jaqueta-feminino-longo-preto-couro-sintetico-inverno.webp",
       "horarioProgramado": "10:01",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-29T13:01:52.023Z"
     },
     {
       "posicao": 8,
