@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-29T14:27:33.305Z",
-  "exportedAt": "29/06/2026, 11:27:33",
+  "lastExport": "2026-06-29T14:37:24.370Z",
+  "exportedAt": "29/06/2026, 11:37:24",
   "total": 100,
-  "pendentes": 95,
-  "postados": 5,
+  "pendentes": 93,
+  "postados": 7,
   "queue": [
     {
       "posicao": 1,
@@ -255,10 +255,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_689937-MLB89660283243_082025-AB-capa-para-redmi-watch-5-lite-acrilica-tela-vidro-embutido.webp",
       "horarioProgramado": "11:27",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-29T14:27:49.514Z"
     },
     {
       "posicao": 16,
@@ -272,10 +272,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_991310-MLA99958498197_112025-AB.webp",
       "horarioProgramado": "11:37",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-29T14:37:13.447Z"
     },
     {
       "posicao": 17,
