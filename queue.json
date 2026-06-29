@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-28T23:57:13.368Z",
-  "exportedAt": "28/06/2026, 20:57:13",
+  "lastExport": "2026-06-29T00:07:20.827Z",
+  "exportedAt": "28/06/2026, 21:07:20",
   "total": 100,
-  "pendentes": 13,
-  "postados": 87,
+  "pendentes": 11,
+  "postados": 89,
   "queue": [
     {
       "posicao": 1,
@@ -1496,10 +1496,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_904392-MLA99951959503_112025-AB.webp",
       "horarioProgramado": "20:58",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-28T23:58:45.696Z"
     },
     {
       "posicao": 89,
@@ -1513,10 +1513,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_952263-MLB112679637546_062026-AB-vestido-midi-feminino-veste-super-bem-crepe-e-viscose.webp",
       "horarioProgramado": "21:01",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-29T00:01:19.327Z"
     },
     {
       "posicao": 90,
