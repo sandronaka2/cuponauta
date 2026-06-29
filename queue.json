@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-29T20:08:06.419Z",
-  "exportedAt": "29/06/2026, 17:08:06",
+  "lastExport": "2026-06-29T20:15:05.811Z",
+  "exportedAt": "29/06/2026, 17:15:05",
   "total": 100,
-  "pendentes": 56,
-  "postados": 44,
+  "pendentes": 55,
+  "postados": 45,
   "queue": [
     {
       "posicao": 1,
@@ -918,10 +918,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_854355-MLB89508784788_082025-AB-cilios-posticos-meio-cat-half-lashes-10-pares-y1011y1022.webp",
       "horarioProgramado": "17:11",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-29T20:11:33.912Z"
     },
     {
       "posicao": 55,
