@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-29T22:15:38.616Z",
-  "exportedAt": "29/06/2026, 19:15:38",
+  "lastExport": "2026-06-29T22:25:45.609Z",
+  "exportedAt": "29/06/2026, 19:25:45",
   "total": 100,
-  "pendentes": 39,
-  "postados": 61,
+  "pendentes": 37,
+  "postados": 63,
   "queue": [
     {
       "posicao": 1,
@@ -1207,10 +1207,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_687418-MLB81527468562_012025-AB.webp",
       "horarioProgramado": "19:15",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-29T22:15:41.727Z"
     },
     {
       "posicao": 72,
@@ -1224,10 +1224,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_948844-MLB109166314848_042026-AB-kit-10-cuecas-mash-boxer-original-masculino-algodo-atacado.webp",
       "horarioProgramado": "19:21",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-29T22:21:21.130Z"
     },
     {
       "posicao": 73,
