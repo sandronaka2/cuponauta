@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-29T00:15:13.983Z",
-  "exportedAt": "28/06/2026, 21:15:13",
+  "lastExport": "2026-06-29T00:25:21.661Z",
+  "exportedAt": "28/06/2026, 21:25:21",
   "total": 100,
-  "pendentes": 9,
-  "postados": 91,
+  "pendentes": 7,
+  "postados": 93,
   "queue": [
     {
       "posicao": 1,
@@ -1564,10 +1564,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_723587-MLA100061228309_122025-AB.webp",
       "horarioProgramado": "21:17",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-29T00:17:51.093Z"
     },
     {
       "posicao": 93,
@@ -1581,10 +1581,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_695924-MLB103947189958_012026-AB-kit-3-short-de-dormir-cueca-samba-canco-malha-fria-pijama.webp",
       "horarioProgramado": "21:23",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-29T00:23:26.944Z"
     },
     {
       "posicao": 94,
