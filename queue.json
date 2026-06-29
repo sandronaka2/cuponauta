@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-29T16:47:24.511Z",
-  "exportedAt": "29/06/2026, 13:47:24",
+  "lastExport": "2026-06-29T16:57:24.560Z",
+  "exportedAt": "29/06/2026, 13:57:24",
   "total": 100,
-  "pendentes": 75,
-  "postados": 25,
+  "pendentes": 73,
+  "postados": 27,
   "queue": [
     {
       "posicao": 1,
@@ -595,10 +595,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_946392-MLA86698222801_062025-AB.webp",
       "horarioProgramado": "13:47",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-29T16:47:36.374Z"
     },
     {
       "posicao": 36,
@@ -612,10 +612,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_617361-MLB54128842596_032023-AB-kit-6-pares-meias-puma-cano-medio-alto-atoalhada-original.webp",
       "horarioProgramado": "13:53",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-29T16:53:22.648Z"
     },
     {
       "posicao": 37,
