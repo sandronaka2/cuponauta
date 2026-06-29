@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-29T22:36:38.576Z",
-  "exportedAt": "29/06/2026, 19:36:38",
+  "lastExport": "2026-06-29T22:46:45.283Z",
+  "exportedAt": "29/06/2026, 19:46:45",
   "total": 100,
-  "pendentes": 35,
-  "postados": 65,
+  "pendentes": 33,
+  "postados": 67,
   "queue": [
     {
       "posicao": 1,
@@ -1275,10 +1275,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_844404-MLB94291087449_102025-AB-caixa-de-som-portatil-bluetooth-go-pro-speaker-som-potente.webp",
       "horarioProgramado": "19:40",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-29T22:40:12.927Z"
     },
     {
       "posicao": 76,
@@ -1292,10 +1292,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_952658-MLB77496752270_072024-AB-jaqueta-feminina-jeans-curta-oversized-blogueira-elegante.webp",
       "horarioProgramado": "19:46",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-29T22:46:21.402Z"
     },
     {
       "posicao": 77,
