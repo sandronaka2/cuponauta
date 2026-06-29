@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-29T15:27:30.827Z",
-  "exportedAt": "29/06/2026, 12:27:30",
+  "lastExport": "2026-06-29T15:37:24.448Z",
+  "exportedAt": "29/06/2026, 12:37:24",
   "total": 100,
-  "pendentes": 87,
-  "postados": 13,
+  "pendentes": 85,
+  "postados": 15,
   "queue": [
     {
       "posicao": 1,
@@ -391,10 +391,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_911342-MLA112360415390_062026-AB.webp",
       "horarioProgramado": "12:28",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-29T15:28:10.717Z"
     },
     {
       "posicao": 24,
@@ -408,10 +408,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_798904-MLB106758143336_022026-AB-jaqueta-masculina-puffer-bobojaco-nylon-frio-inverno-luxo.webp",
       "horarioProgramado": "12:34",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-29T15:34:20.601Z"
     },
     {
       "posicao": 25,
