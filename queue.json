@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-30T23:47:31.040Z",
-  "exportedAt": "30/06/2026, 20:47:31",
+  "lastExport": "2026-06-30T23:57:37.912Z",
+  "exportedAt": "30/06/2026, 20:57:37",
   "total": 100,
-  "pendentes": 15,
-  "postados": 85,
+  "pendentes": 13,
+  "postados": 87,
   "queue": [
     {
       "posicao": 1,
@@ -1462,10 +1462,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_610704-MLB111988947215_052026-AB-jogo-de-lencol-queen-3-pecas-400-fios-c-elastico-hotel.webp",
       "horarioProgramado": "20:47",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-30T23:47:39.085Z"
     },
     {
       "posicao": 87,
@@ -1479,10 +1479,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_753249-MLB84466321970_052025-AB-kit-10-cuecas-boxer-lupo-algodo-confortavel-box-original.webp",
       "horarioProgramado": "20:53",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-30T23:53:29.385Z"
     },
     {
       "posicao": 88,
