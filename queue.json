@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-30T14:15:20.657Z",
-  "exportedAt": "30/06/2026, 11:15:20",
+  "lastExport": "2026-06-30T14:18:48.870Z",
+  "exportedAt": "30/06/2026, 11:18:48",
   "total": 100,
-  "pendentes": 87,
-  "postados": 13,
+  "pendentes": 86,
+  "postados": 14,
   "queue": [
     {
       "posicao": 1,
@@ -238,10 +238,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_920701-MLB96527059231_102025-AB-camiseta-masculina-camisas-slim-voker-100-algodo-atacado.webp",
       "horarioProgramado": "11:15",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-30T14:15:20.958Z"
     },
     {
       "posicao": 15,
