@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-30T16:18:48.960Z",
-  "exportedAt": "30/06/2026, 13:18:48",
+  "lastExport": "2026-06-30T16:28:48.972Z",
+  "exportedAt": "30/06/2026, 13:28:48",
   "total": 100,
-  "pendentes": 70,
-  "postados": 30,
+  "pendentes": 68,
+  "postados": 32,
   "queue": [
     {
       "posicao": 1,
@@ -527,10 +527,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_921106-MLB111066859744_052026-AB.webp",
       "horarioProgramado": "13:21",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-30T16:21:10.525Z"
     },
     {
       "posicao": 32,
@@ -544,10 +544,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_803229-MLB111671227944_062026-AB-kit-9-pares-meias-invisivel-puma-sapatilha-soquete-original.webp",
       "horarioProgramado": "13:28",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-30T16:28:15.622Z"
     },
     {
       "posicao": 33,
