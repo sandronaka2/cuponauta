@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-30T16:38:48.986Z",
-  "exportedAt": "30/06/2026, 13:38:48",
+  "lastExport": "2026-06-30T16:48:48.992Z",
+  "exportedAt": "30/06/2026, 13:48:48",
   "total": 100,
-  "pendentes": 67,
-  "postados": 33,
+  "pendentes": 65,
+  "postados": 35,
   "queue": [
     {
       "posicao": 1,
@@ -578,10 +578,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_785289-MLB111195409438_052026-AB-kit-9-pares-meias-polo-fit-cano-baixo-original-algodo.webp",
       "horarioProgramado": "13:40",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-30T16:40:26.773Z"
     },
     {
       "posicao": 35,
@@ -595,10 +595,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_676510-MLA113356572413_062026-AB.webp",
       "horarioProgramado": "13:46",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-30T16:46:16.548Z"
     },
     {
       "posicao": 36,
