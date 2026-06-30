@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-30T13:18:48.820Z",
-  "exportedAt": "30/06/2026, 10:18:48",
+  "lastExport": "2026-06-30T13:28:48.827Z",
+  "exportedAt": "30/06/2026, 10:28:48",
   "total": 100,
-  "pendentes": 92,
-  "postados": 8,
+  "pendentes": 91,
+  "postados": 9,
   "queue": [
     {
       "posicao": 1,
@@ -153,10 +153,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_857197-MLB111271052223_052026-AB-vestido-feminino-social-moda-executiva-com-cinto-luxo.webp",
       "horarioProgramado": "10:21",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-30T13:21:50.670Z"
     },
     {
       "posicao": 10,
