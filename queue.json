@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-30T12:58:48.794Z",
-  "exportedAt": "30/06/2026, 09:58:48",
+  "lastExport": "2026-06-30T13:06:59.720Z",
+  "exportedAt": "30/06/2026, 10:06:59",
   "total": 100,
-  "pendentes": 94,
-  "postados": 6,
+  "pendentes": 93,
+  "postados": 7,
   "queue": [
     {
       "posicao": 1,
@@ -119,10 +119,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_643495-MLB81651177610_012025-AB-short-atoalhado-feminino-saida-de-praia-piscina-conforto.webp",
       "horarioProgramado": "10:01",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-30T13:01:44.426Z"
     },
     {
       "posicao": 8,
