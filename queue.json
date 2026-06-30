@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-30T15:18:48.918Z",
-  "exportedAt": "30/06/2026, 12:18:48",
+  "lastExport": "2026-06-30T15:28:48.921Z",
+  "exportedAt": "30/06/2026, 12:28:48",
   "total": 100,
-  "pendentes": 79,
-  "postados": 21,
+  "pendentes": 77,
+  "postados": 23,
   "queue": [
     {
       "posicao": 1,
@@ -374,10 +374,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_885159-MLB110944663547_042026-AB.webp",
       "horarioProgramado": "12:21",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-30T15:21:39.819Z"
     },
     {
       "posicao": 23,
@@ -391,10 +391,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_957992-MLB95082055131_102025-AB-top-puma-original-feminino-alta-sustentaco-academia-fitness.webp",
       "horarioProgramado": "12:27",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-30T15:27:25.920Z"
     },
     {
       "posicao": 24,
