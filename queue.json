@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-30T22:37:59.971Z",
-  "exportedAt": "30/06/2026, 19:37:59",
+  "lastExport": "2026-06-30T22:48:20.717Z",
+  "exportedAt": "30/06/2026, 19:48:20",
   "total": 100,
-  "pendentes": 26,
-  "postados": 74,
+  "pendentes": 24,
+  "postados": 76,
   "queue": [
     {
       "posicao": 1,
@@ -1275,10 +1275,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_627641-MLB90139948088_082025-AB-kit-50-cartuchos-dermapen-36-agulhas-12-36-42-e-nano.webp",
       "horarioProgramado": "19:38",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-30T22:38:20.213Z"
     },
     {
       "posicao": 76,
@@ -1292,10 +1292,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_958928-MLA104333414594_012026-AB.webp",
       "horarioProgramado": "19:44",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-30T22:44:18.558Z"
     },
     {
       "posicao": 77,
