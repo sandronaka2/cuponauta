@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-30T00:36:40.328Z",
-  "exportedAt": "29/06/2026, 21:36:40",
+  "lastExport": "2026-06-30T00:46:46.912Z",
+  "exportedAt": "29/06/2026, 21:46:46",
   "total": 100,
-  "pendentes": 14,
-  "postados": 86,
+  "pendentes": 12,
+  "postados": 88,
   "queue": [
     {
       "posicao": 1,
@@ -1632,10 +1632,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_977172-MLA107049793514_022026-AB.webp",
       "horarioProgramado": "21:39",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-30T00:39:18.568Z"
     },
     {
       "posicao": 97,
@@ -1649,10 +1649,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_954035-MLB109943337529_042026-AB-camisa-masculina-gola-padre-slim-fit-manga-curta.webp",
       "horarioProgramado": "21:44",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-30T00:44:33.330Z"
     },
     {
       "posicao": 98,
