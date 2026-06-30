@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-30T18:57:55.661Z",
-  "exportedAt": "30/06/2026, 15:57:55",
+  "lastExport": "2026-06-30T19:07:02.756Z",
+  "exportedAt": "30/06/2026, 16:07:02",
   "total": 100,
-  "pendentes": 53,
-  "postados": 47,
+  "pendentes": 52,
+  "postados": 48,
   "queue": [
     {
       "posicao": 1,
@@ -816,10 +816,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_852130-MLB72535399953_102023-AB-kit-10-pares-meia-lupo-original-masculina-cano-medio-algodo.webp",
       "horarioProgramado": "16:01",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-30T19:01:52.856Z"
     },
     {
       "posicao": 49,
