@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-30T00:15:39.954Z",
-  "exportedAt": "29/06/2026, 21:15:39",
+  "lastExport": "2026-06-30T00:25:47.287Z",
+  "exportedAt": "29/06/2026, 21:25:47",
   "total": 100,
-  "pendentes": 18,
-  "postados": 82,
+  "pendentes": 16,
+  "postados": 84,
   "queue": [
     {
       "posicao": 1,
@@ -1564,10 +1564,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_910263-MLB100573311019_122025-AB-chinelo-ortopedico-boaonda-harmony-alta-absorco-de-impacto.webp",
       "horarioProgramado": "21:16",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-30T00:16:54.759Z"
     },
     {
       "posicao": 93,
@@ -1581,10 +1581,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_798945-MLA112454329586_062026-AB.webp",
       "horarioProgramado": "21:21",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-30T00:21:37.406Z"
     },
     {
       "posicao": 94,
