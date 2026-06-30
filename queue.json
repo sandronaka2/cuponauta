@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-06-30T11:58:48.770Z",
-  "exportedAt": "30/06/2026, 08:58:48",
+  "lastExport": "2026-06-30T12:06:59.647Z",
+  "exportedAt": "30/06/2026, 09:06:59",
   "total": 100,
-  "pendentes": 100,
-  "postados": 0,
+  "pendentes": 99,
+  "postados": 1,
   "queue": [
     {
       "posicao": 1,
@@ -17,10 +17,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_687162-MLB108114188807_032026-AB-calca-flare-jeans-preta-feminina-cintura-alta-c-elastano.webp",
       "horarioProgramado": "09:01",
       "janela": "09:00-10:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-06-30T12:01:42.205Z"
     },
     {
       "posicao": 2,
