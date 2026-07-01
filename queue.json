@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-01T21:08:20.638Z",
-  "exportedAt": "01/07/2026, 18:08:20",
+  "lastExport": "2026-07-01T21:15:44.416Z",
+  "exportedAt": "01/07/2026, 18:15:44",
   "total": 100,
-  "pendentes": 40,
-  "postados": 60,
+  "pendentes": 39,
+  "postados": 61,
   "queue": [
     {
       "posicao": 1,
@@ -1037,10 +1037,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_902589-MLB110516245557_042026-AB-lenco-cetim-echarpe-estampas-lenco-pashmina-seda-top-90x90cm.webp",
       "horarioProgramado": "18:13",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-01T21:13:47.871Z"
     },
     {
       "posicao": 62,
