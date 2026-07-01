@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-01T22:58:42.139Z",
-  "exportedAt": "01/07/2026, 19:58:42",
+  "lastExport": "2026-07-01T22:58:52.292Z",
+  "exportedAt": "01/07/2026, 19:58:52",
   "total": 100,
-  "pendentes": 23,
-  "postados": 77,
+  "pendentes": 22,
+  "postados": 78,
   "queue": [
     {
       "posicao": 1,
@@ -1326,10 +1326,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_992182-MLB75162130739_032024-AB-suti-elegance-sem-bojo-cobertura-total-plus-size-duloren.webp",
       "horarioProgramado": "19:58",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-01T22:58:50.163Z"
     },
     {
       "posicao": 79,
