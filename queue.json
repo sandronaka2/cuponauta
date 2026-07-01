@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-01T20:58:46.707Z",
-  "exportedAt": "01/07/2026, 17:58:46",
+  "lastExport": "2026-07-01T21:07:40.565Z",
+  "exportedAt": "01/07/2026, 18:07:40",
   "total": 100,
-  "pendentes": 42,
-  "postados": 58,
+  "pendentes": 40,
+  "postados": 60,
   "queue": [
     {
       "posicao": 1,
@@ -1003,10 +1003,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_795053-MLB110080013911_042026-AB.webp",
       "horarioProgramado": "18:01",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-01T21:01:20.049Z"
     },
     {
       "posicao": 60,
@@ -1020,10 +1020,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_779036-MLB90762060129_082025-AB-oculos-sol-infantil-crianca-menino-quadrado-escuro-praia.webp",
       "horarioProgramado": "18:06",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-01T21:07:00.678Z"
     },
     {
       "posicao": 61,
