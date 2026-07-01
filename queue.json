@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-01T19:11:47.633Z",
-  "exportedAt": "01/07/2026, 16:11:47",
+  "lastExport": "2026-07-01T19:15:44.237Z",
+  "exportedAt": "01/07/2026, 16:15:44",
   "total": 100,
-  "pendentes": 52,
-  "postados": 48,
+  "pendentes": 51,
+  "postados": 49,
   "queue": [
     {
       "posicao": 1,
@@ -833,10 +833,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_674081-MLB91454635908_092025-AB-caixa-de-som-portatil-bluetooth-160w-15hrs-hifi-tws-11-ipx6.webp",
       "horarioProgramado": "16:12",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-01T19:12:20.869Z"
     },
     {
       "posicao": 50,
