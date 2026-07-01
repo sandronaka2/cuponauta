@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-01T18:27:49.882Z",
-  "exportedAt": "01/07/2026, 15:27:49",
+  "lastExport": "2026-07-01T18:37:27.996Z",
+  "exportedAt": "01/07/2026, 15:37:27",
   "total": 100,
-  "pendentes": 55,
-  "postados": 45,
+  "pendentes": 54,
+  "postados": 46,
   "queue": [
     {
       "posicao": 1,
@@ -782,10 +782,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_744210-MLA106793453830_022026-AB-scarpin-feminino-vizzano-salto-medio-bico-fino-pelica.webp",
       "horarioProgramado": "15:37",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-01T18:37:13.652Z"
     },
     {
       "posicao": 47,
