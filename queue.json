@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-01T19:01:18.189Z",
-  "exportedAt": "01/07/2026, 16:01:18",
+  "lastExport": "2026-07-01T19:07:49.747Z",
+  "exportedAt": "01/07/2026, 16:07:49",
   "total": 100,
-  "pendentes": 53,
-  "postados": 47,
+  "pendentes": 52,
+  "postados": 48,
   "queue": [
     {
       "posicao": 1,
@@ -816,10 +816,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_805661-MLB109386327383_032026-AB-colar-pingente-abraco-banhado-ouro-18k-caixa-presente-veludo.webp",
       "horarioProgramado": "16:01",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-01T19:01:29.796Z"
     },
     {
       "posicao": 49,
