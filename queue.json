@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-01T00:26:31.605Z",
-  "exportedAt": "30/06/2026, 21:26:31",
+  "lastExport": "2026-07-01T00:36:40.198Z",
+  "exportedAt": "30/06/2026, 21:36:40",
   "total": 100,
-  "pendentes": 7,
-  "postados": 93,
+  "pendentes": 5,
+  "postados": 95,
   "queue": [
     {
       "posicao": 1,
@@ -1598,10 +1598,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_875309-MLA99849444219_112025-AB.webp",
       "horarioProgramado": "21:28",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-01T00:28:23.731Z"
     },
     {
       "posicao": 95,
@@ -1615,10 +1615,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_738813-MLB83279416363_032025-AB-kit-6-cuecas-lupo-boxer-box-sem-costura-basic-microfibra.webp",
       "horarioProgramado": "21:33",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-01T00:33:55.639Z"
     },
     {
       "posicao": 96,
