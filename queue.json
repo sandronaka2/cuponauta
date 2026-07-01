@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-01T16:38:45.450Z",
-  "exportedAt": "01/07/2026, 13:38:45",
+  "lastExport": "2026-07-01T16:47:49.590Z",
+  "exportedAt": "01/07/2026, 13:47:49",
   "total": 100,
-  "pendentes": 67,
-  "postados": 33,
+  "pendentes": 65,
+  "postados": 35,
   "queue": [
     {
       "posicao": 1,
@@ -578,10 +578,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_979524-MLB106193284125_012026-AB.webp",
       "horarioProgramado": "13:40",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-01T16:40:47.243Z"
     },
     {
       "posicao": 35,
@@ -595,10 +595,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_970699-MLB104144453462_012026-AB-kit-10-spot-luminaria-7w-qd-rd-frio-6500k-quente-3000k.webp",
       "horarioProgramado": "13:47",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-01T16:47:33.795Z"
     },
     {
       "posicao": 36,
