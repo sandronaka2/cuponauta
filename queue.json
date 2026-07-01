@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-01T23:09:22.431Z",
-  "exportedAt": "01/07/2026, 20:09:22",
+  "lastExport": "2026-07-01T23:15:44.516Z",
+  "exportedAt": "01/07/2026, 20:15:44",
   "total": 100,
-  "pendentes": 21,
-  "postados": 79,
+  "pendentes": 20,
+  "postados": 80,
   "queue": [
     {
       "posicao": 1,
@@ -1360,10 +1360,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_815070-MLB107117190815_022026-AB-par-de-meia-feminina-polaina-fitness-academina-aerobica.webp",
       "horarioProgramado": "20:10",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-01T23:10:53.066Z"
     },
     {
       "posicao": 81,
