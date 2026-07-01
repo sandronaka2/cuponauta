@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-01T14:27:49.692Z",
-  "exportedAt": "01/07/2026, 11:27:49",
+  "lastExport": "2026-07-01T14:36:55.059Z",
+  "exportedAt": "01/07/2026, 11:36:55",
   "total": 100,
-  "pendentes": 86,
-  "postados": 14,
+  "pendentes": 85,
+  "postados": 15,
   "queue": [
     {
       "posicao": 1,
@@ -255,10 +255,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_717136-MLB94548855279_102025-AB-kit-3-plus-size-bermuda-linho-short-mauricinho-premium-praia.webp",
       "horarioProgramado": "11:29",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-01T14:29:52.942Z"
     },
     {
       "posicao": 16,
