@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-01T16:18:04.572Z",
-  "exportedAt": "01/07/2026, 13:18:04",
+  "lastExport": "2026-07-01T16:27:49.570Z",
+  "exportedAt": "01/07/2026, 13:27:49",
   "total": 100,
-  "pendentes": 70,
-  "postados": 30,
+  "pendentes": 68,
+  "postados": 32,
   "queue": [
     {
       "posicao": 1,
@@ -527,10 +527,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_725606-MLB111692273156_062026-AB-jaqueta-bobojaco-casaco-forrada-inverno-intenso-neve-frio.webp",
       "horarioProgramado": "13:20",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-01T16:20:30.783Z"
     },
     {
       "posicao": 32,
@@ -544,10 +544,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_828661-MLB52382147168_112022-AB.webp",
       "horarioProgramado": "13:26",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-01T16:26:18.560Z"
     },
     {
       "posicao": 33,
