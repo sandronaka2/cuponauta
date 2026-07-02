@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-02T13:24:03.797Z",
-  "exportedAt": "02/07/2026, 10:24:03",
+  "lastExport": "2026-07-02T13:25:35.138Z",
+  "exportedAt": "02/07/2026, 10:25:35",
   "total": 100,
-  "pendentes": 92,
-  "postados": 8,
+  "pendentes": 91,
+  "postados": 9,
   "queue": [
     {
       "posicao": 1,
@@ -153,10 +153,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_754960-MLB51016337730_082022-AB-kit-10-cuecas-boxer-box-masculina-preta-microfibra-original.webp",
       "horarioProgramado": "10:24",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-02T13:24:18.806Z"
     },
     {
       "posicao": 10,
