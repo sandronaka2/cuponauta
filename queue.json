@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-02T13:54:20.259Z",
-  "exportedAt": "02/07/2026, 10:54:20",
+  "lastExport": "2026-07-02T13:55:56.803Z",
+  "exportedAt": "02/07/2026, 10:55:56",
   "total": 100,
-  "pendentes": 89,
-  "postados": 11,
+  "pendentes": 88,
+  "postados": 12,
   "queue": [
     {
       "posicao": 1,
@@ -204,10 +204,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_801790-MLB105595936180_012026-AB-2-fronha-avulsa-flannel-100-poliester-70cm-x-50cm-petit-poa.webp",
       "horarioProgramado": "10:54",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-02T13:54:23.210Z"
     },
     {
       "posicao": 13,
