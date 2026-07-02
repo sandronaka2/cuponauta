@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-01T23:58:53.180Z",
-  "exportedAt": "01/07/2026, 20:58:53",
+  "lastExport": "2026-07-02T00:07:51.188Z",
+  "exportedAt": "01/07/2026, 21:07:51",
   "total": 100,
-  "pendentes": 12,
-  "postados": 88,
+  "pendentes": 10,
+  "postados": 90,
   "queue": [
     {
       "posicao": 1,
@@ -1513,10 +1513,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_908270-MLA99576478822_122025-AB.webp",
       "horarioProgramado": "21:01",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-02T00:01:58.100Z"
     },
     {
       "posicao": 90,
@@ -1530,10 +1530,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_765989-MLB107760753221_022026-AB-kit-10-cuecas-box-microfibra-cordoba.webp",
       "horarioProgramado": "21:05",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-02T00:05:57.318Z"
     },
     {
       "posicao": 91,
