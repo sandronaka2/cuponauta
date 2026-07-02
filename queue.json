@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-02T20:58:29.494Z",
-  "exportedAt": "02/07/2026, 17:58:29",
+  "lastExport": "2026-07-02T21:05:02.540Z",
+  "exportedAt": "02/07/2026, 18:05:02",
   "total": 100,
-  "pendentes": 43,
-  "postados": 57,
+  "pendentes": 41,
+  "postados": 59,
   "queue": [
     {
       "posicao": 1,
@@ -986,10 +986,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_729637-MLB110428215843_042026-AB-jaquetinha-cropped-manga-curta-jeans-feminina-plus-size.webp",
       "horarioProgramado": "17:58",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-02T20:58:51.056Z"
     },
     {
       "posicao": 59,
@@ -1003,10 +1003,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_871498-MLB89720767443_082025-AB.webp",
       "horarioProgramado": "18:01",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-02T21:01:20.763Z"
     },
     {
       "posicao": 60,
