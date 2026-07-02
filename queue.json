@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-02T18:07:51.921Z",
-  "exportedAt": "02/07/2026, 15:07:51",
+  "lastExport": "2026-07-02T18:09:03.806Z",
+  "exportedAt": "02/07/2026, 15:09:03",
   "total": 100,
-  "pendentes": 57,
-  "postados": 43,
+  "pendentes": 56,
+  "postados": 44,
   "queue": [
     {
       "posicao": 1,
@@ -748,10 +748,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_990767-MLB86168353923_062025-AB-oculos-sem-grau-transparente-masculino-retro-importado-lindo.webp",
       "horarioProgramado": "15:08",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-02T18:08:53.540Z"
     },
     {
       "posicao": 45,
