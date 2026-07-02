@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-02T14:59:09.575Z",
-  "exportedAt": "02/07/2026, 11:59:09",
+  "lastExport": "2026-07-02T15:07:51.687Z",
+  "exportedAt": "02/07/2026, 12:07:51",
   "total": 100,
-  "pendentes": 82,
-  "postados": 18,
+  "pendentes": 80,
+  "postados": 20,
   "queue": [
     {
       "posicao": 1,
@@ -323,10 +323,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_777027-MLB95474221649_102025-AB-conjunto-4-lugares-jogo-americano-elegncia-e-funcionalidade.webp",
       "horarioProgramado": "12:01",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-02T15:01:35.985Z"
     },
     {
       "posicao": 20,
@@ -340,10 +340,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_768660-MLB81738483978_012025-AB-jaqueta-basica-masculina-puffer-matelass-hering.webp",
       "horarioProgramado": "12:07",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-02T15:07:29.572Z"
     },
     {
       "posicao": 21,
