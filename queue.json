@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-02T13:43:40.802Z",
-  "exportedAt": "02/07/2026, 10:43:40",
+  "lastExport": "2026-07-02T13:45:06.990Z",
+  "exportedAt": "02/07/2026, 10:45:06",
   "total": 100,
-  "pendentes": 90,
-  "postados": 10,
+  "pendentes": 89,
+  "postados": 11,
   "queue": [
     {
       "posicao": 1,
@@ -187,10 +187,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_959184-MLB112994645483_062026-AB-oculos-de-sol-acetato-italiano-lux-glasses-solar-feminino.webp",
       "horarioProgramado": "10:44",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-02T13:44:58.911Z"
     },
     {
       "posicao": 12,
