@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-02T21:47:53.379Z",
-  "exportedAt": "02/07/2026, 18:47:53",
+  "lastExport": "2026-07-02T21:56:49.359Z",
+  "exportedAt": "02/07/2026, 18:56:49",
   "total": 100,
-  "pendentes": 34,
-  "postados": 66,
+  "pendentes": 32,
+  "postados": 68,
   "queue": [
     {
       "posicao": 1,
@@ -1139,10 +1139,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_927414-MLA100205756710_122025-AB.webp",
       "horarioProgramado": "18:49",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-02T21:49:38.119Z"
     },
     {
       "posicao": 68,
@@ -1156,10 +1156,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_877520-MLB108823068997_032026-AB-jaqueta-de-couro-masculina-casaco-frio-impermeavel-inverno.webp",
       "horarioProgramado": "18:55",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-02T21:55:29.938Z"
     },
     {
       "posicao": 69,
