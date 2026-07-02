@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-02T21:37:53.358Z",
-  "exportedAt": "02/07/2026, 18:37:53",
+  "lastExport": "2026-07-02T21:45:49.304Z",
+  "exportedAt": "02/07/2026, 18:45:49",
   "total": 100,
-  "pendentes": 35,
-  "postados": 65,
+  "pendentes": 34,
+  "postados": 66,
   "queue": [
     {
       "posicao": 1,
@@ -1122,10 +1122,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_909539-MLB107765886928_032026-AB-boina-francesa-feminina-aveludada-gorro-lisa-chapeu-premium.webp",
       "horarioProgramado": "18:43",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-02T21:43:53.962Z"
     },
     {
       "posicao": 67,
