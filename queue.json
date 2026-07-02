@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-02T23:16:16.577Z",
-  "exportedAt": "02/07/2026, 20:16:16",
+  "lastExport": "2026-07-02T23:17:14.280Z",
+  "exportedAt": "02/07/2026, 20:17:14",
   "total": 100,
-  "pendentes": 20,
-  "postados": 80,
+  "pendentes": 19,
+  "postados": 81,
   "queue": [
     {
       "posicao": 1,
@@ -1377,10 +1377,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_717974-MLB112454343215_052026-AB-camisa-vicenza-linho-manga-curta-gola-padre-vies-elegante.webp",
       "horarioProgramado": "20:16",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-02T23:16:44.825Z"
     },
     {
       "posicao": 82,
