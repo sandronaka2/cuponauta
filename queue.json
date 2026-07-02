@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-02T16:19:03.639Z",
-  "exportedAt": "02/07/2026, 13:19:03",
+  "lastExport": "2026-07-02T16:27:51.793Z",
+  "exportedAt": "02/07/2026, 13:27:51",
   "total": 100,
-  "pendentes": 70,
-  "postados": 30,
+  "pendentes": 68,
+  "postados": 32,
   "queue": [
     {
       "posicao": 1,
@@ -527,10 +527,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_604536-MLB92854187595_092025-AB-cmera-infantil-divertida-gatinho-impresso-instantnea-hd.webp",
       "horarioProgramado": "13:20",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-02T16:20:24.833Z"
     },
     {
       "posicao": 32,
@@ -544,10 +544,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_921991-MLA99504374070_112025-AB.webp",
       "horarioProgramado": "13:26",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-02T16:26:21.669Z"
     },
     {
       "posicao": 33,
