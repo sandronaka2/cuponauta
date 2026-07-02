@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-02T16:59:18.779Z",
-  "exportedAt": "02/07/2026, 13:59:18",
+  "lastExport": "2026-07-02T17:07:51.904Z",
+  "exportedAt": "02/07/2026, 14:07:51",
   "total": 100,
-  "pendentes": 63,
-  "postados": 37,
+  "pendentes": 62,
+  "postados": 38,
   "queue": [
     {
       "posicao": 1,
@@ -646,10 +646,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_957891-MLB94465852219_102025-AB-cortina-blackout-tecido-grosso-280x230-porta-sala-quarto.webp",
       "horarioProgramado": "14:01",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-02T17:01:26.264Z"
     },
     {
       "posicao": 39,
