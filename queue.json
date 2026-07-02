@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-02T15:59:23.686Z",
-  "exportedAt": "02/07/2026, 12:59:23",
+  "lastExport": "2026-07-02T16:07:51.761Z",
+  "exportedAt": "02/07/2026, 13:07:51",
   "total": 100,
-  "pendentes": 73,
-  "postados": 27,
+  "pendentes": 71,
+  "postados": 29,
   "queue": [
     {
       "posicao": 1,
@@ -476,10 +476,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_650369-MLA103180966873_122025-AB-vestido-midi-canelado-premium-regata-casual-basico-modelador.webp",
       "horarioProgramado": "13:01",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-02T16:01:30.142Z"
     },
     {
       "posicao": 29,
@@ -493,10 +493,10 @@
       "imagem": "https://http2.mlstatic.com/D_NQ_NP_773792-MLB109885988249_032026-F.webp",
       "horarioProgramado": "13:07",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-02T16:07:18.923Z"
     },
     {
       "posicao": 30,
