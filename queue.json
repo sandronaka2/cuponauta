@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-02T00:27:51.267Z",
-  "exportedAt": "01/07/2026, 21:27:51",
+  "lastExport": "2026-07-02T00:37:03.760Z",
+  "exportedAt": "01/07/2026, 21:37:03",
   "total": 100,
-  "pendentes": 7,
-  "postados": 93,
+  "pendentes": 5,
+  "postados": 95,
   "queue": [
     {
       "posicao": 1,
@@ -1598,10 +1598,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_766471-MLA95401405780_102025-AB.webp",
       "horarioProgramado": "21:28",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-02T00:28:50.304Z"
     },
     {
       "posicao": 95,
@@ -1615,10 +1615,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_991747-MLB105555896705_012026-AB-tnis-casual-feminino-masculino-na-moda-original-street-cmp.webp",
       "horarioProgramado": "21:33",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-02T00:33:22.532Z"
     },
     {
       "posicao": 96,
