@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-02T23:58:44.730Z",
-  "exportedAt": "02/07/2026, 20:58:44",
+  "lastExport": "2026-07-03T00:07:53.476Z",
+  "exportedAt": "02/07/2026, 21:07:53",
   "total": 100,
-  "pendentes": 12,
-  "postados": 88,
+  "pendentes": 10,
+  "postados": 90,
   "queue": [
     {
       "posicao": 1,
@@ -1513,10 +1513,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_621036-MLB92885763645_092025-AB-tnis-kappa-galaxy-masculino-feminino.webp",
       "horarioProgramado": "21:01",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-03T00:01:43.627Z"
     },
     {
       "posicao": 90,
@@ -1530,10 +1530,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_702426-MLB108957497515_032026-AB-jogo-de-panelas-teflon-antiaderente-8-pecas-cereja.webp",
       "horarioProgramado": "21:06",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-03T00:07:00.416Z"
     },
     {
       "posicao": 91,
