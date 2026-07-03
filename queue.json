@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-03T12:59:57.591Z",
-  "exportedAt": "03/07/2026, 09:59:57",
+  "lastExport": "2026-07-03T13:01:42.812Z",
+  "exportedAt": "03/07/2026, 10:01:42",
   "total": 100,
-  "pendentes": 94,
-  "postados": 6,
+  "pendentes": 93,
+  "postados": 7,
   "queue": [
     {
       "posicao": 1,
@@ -119,10 +119,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_821302-MLB104702793946_012026-AB-kit-3-jaqueta-corta-vento-masculina-impermeavel-capuz-bolso.webp",
       "horarioProgramado": "10:01",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-03T13:01:26.112Z"
     },
     {
       "posicao": 8,
