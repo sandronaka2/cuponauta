@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-03T16:30:32.438Z",
-  "exportedAt": "03/07/2026, 13:30:32",
+  "lastExport": "2026-07-03T16:37:54.328Z",
+  "exportedAt": "03/07/2026, 13:37:54",
   "total": 100,
-  "pendentes": 68,
-  "postados": 32,
+  "pendentes": 67,
+  "postados": 33,
   "queue": [
     {
       "posicao": 1,
@@ -561,10 +561,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_646729-MLB77684776652_072024-AB-kit-3-camisa-camiseta-masculino-academia-exercicio-futebol.webp",
       "horarioProgramado": "13:35",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-03T16:35:16.025Z"
     },
     {
       "posicao": 34,
