@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-03T15:30:32.365Z",
-  "exportedAt": "03/07/2026, 12:30:32",
+  "lastExport": "2026-07-03T15:37:54.287Z",
+  "exportedAt": "03/07/2026, 12:37:54",
   "total": 100,
-  "pendentes": 77,
-  "postados": 23,
+  "pendentes": 76,
+  "postados": 24,
   "queue": [
     {
       "posicao": 1,
@@ -408,10 +408,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_792802-MLB90002498495_082025-AB-cabo-extensor-sleeved-lightglow-argb-pgpu-8p2x8p12vhpwr.webp",
       "horarioProgramado": "12:35",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-03T15:35:52.287Z"
     },
     {
       "posicao": 25,
