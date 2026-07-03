@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-03T19:48:32.112Z",
-  "exportedAt": "03/07/2026, 16:48:32",
+  "lastExport": "2026-07-03T19:55:16.297Z",
+  "exportedAt": "03/07/2026, 16:55:16",
   "total": 100,
-  "pendentes": 49,
-  "postados": 51,
+  "pendentes": 48,
+  "postados": 52,
   "queue": [
     {
       "posicao": 1,
@@ -884,10 +884,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_810041-MLB94777977610_102025-AB-manguito-protetor-manga-mangote-protecao-solar-bike.webp",
       "horarioProgramado": "16:49",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-03T19:49:40.326Z"
     },
     {
       "posicao": 53,
