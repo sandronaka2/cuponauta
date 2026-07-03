@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-03T00:47:53.498Z",
-  "exportedAt": "02/07/2026, 21:47:53",
+  "lastExport": "2026-07-03T00:49:21.860Z",
+  "exportedAt": "02/07/2026, 21:49:21",
   "total": 100,
-  "pendentes": 3,
-  "postados": 97,
+  "pendentes": 2,
+  "postados": 98,
   "queue": [
     {
       "posicao": 1,
@@ -1666,10 +1666,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_903597-MLB94146475257_102025-AB-sandalia-feminina-salto-anabela-confortavel-varias-cores.webp",
       "horarioProgramado": "21:48",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-03T00:48:24.508Z"
     },
     {
       "posicao": 99,
