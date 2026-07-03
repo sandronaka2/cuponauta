@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-03T17:18:02.005Z",
-  "exportedAt": "03/07/2026, 14:18:02",
+  "lastExport": "2026-07-03T17:27:54.402Z",
+  "exportedAt": "03/07/2026, 14:27:54",
   "total": 100,
-  "pendentes": 61,
-  "postados": 39,
+  "pendentes": 60,
+  "postados": 40,
   "queue": [
     {
       "posicao": 1,
@@ -680,10 +680,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_775776-MLB109470526381_032026-AB-kit-cobre-leito-king-colcha-dupla-face-bouti-no-faz-bolinha.webp",
       "horarioProgramado": "14:25",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-03T17:25:43.468Z"
     },
     {
       "posicao": 41,
