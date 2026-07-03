@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-03T15:50:32.346Z",
-  "exportedAt": "03/07/2026, 12:50:32",
+  "lastExport": "2026-07-03T15:57:54.285Z",
+  "exportedAt": "03/07/2026, 12:57:54",
   "total": 100,
-  "pendentes": 74,
-  "postados": 26,
+  "pendentes": 73,
+  "postados": 27,
   "queue": [
     {
       "posicao": 1,
@@ -459,10 +459,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_616170-MLB111079932933_042026-AB-suti-gallard-control-feminino-sem-espuma-sem-aro-demillus.webp",
       "horarioProgramado": "12:54",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-03T15:54:57.372Z"
     },
     {
       "posicao": 28,
