@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-03T15:00:32.301Z",
-  "exportedAt": "03/07/2026, 12:00:32",
+  "lastExport": "2026-07-03T15:07:54.281Z",
+  "exportedAt": "03/07/2026, 12:07:54",
   "total": 100,
-  "pendentes": 82,
-  "postados": 18,
+  "pendentes": 81,
+  "postados": 19,
   "queue": [
     {
       "posicao": 1,
@@ -323,10 +323,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_958827-MLB97921734972_112025-AB-oculos-de-sol-estilo-hexagonal-arredondado-influencer-dluxe.webp",
       "horarioProgramado": "12:01",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-03T15:01:36.233Z"
     },
     {
       "posicao": 20,
