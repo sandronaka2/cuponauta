@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-04T12:17:56.903Z",
-  "exportedAt": "04/07/2026, 09:17:56",
+  "lastExport": "2026-07-04T12:27:23.486Z",
+  "exportedAt": "04/07/2026, 09:27:23",
   "total": 100,
-  "pendentes": 98,
-  "postados": 2,
+  "pendentes": 97,
+  "postados": 3,
   "queue": [
     {
       "posicao": 1,
@@ -51,10 +51,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_730987-MLA106860725339_022026-AB-vestido-tipico-para-festa-alem-de-frida-para-oktoberfest.webp",
       "horarioProgramado": "09:24",
       "janela": "09:00-10:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-04T12:24:47.392Z"
     },
     {
       "posicao": 4,
