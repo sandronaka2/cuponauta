@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-04T23:48:54.288Z",
-  "exportedAt": "04/07/2026, 20:48:54",
+  "lastExport": "2026-07-04T23:57:59.029Z",
+  "exportedAt": "04/07/2026, 20:57:59",
   "total": 100,
-  "pendentes": 14,
-  "postados": 86,
+  "pendentes": 13,
+  "postados": 87,
   "queue": [
     {
       "posicao": 1,
@@ -1479,10 +1479,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_604845-MLB90666969893_082025-AB-mochila-com-carrinho-para-esmaltes-e-manicure-delivery-rsm.webp",
       "horarioProgramado": "20:53",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-04T23:53:57.862Z"
     },
     {
       "posicao": 88,
