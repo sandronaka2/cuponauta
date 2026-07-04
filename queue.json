@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-04T13:10:54.804Z",
-  "exportedAt": "04/07/2026, 10:10:54",
+  "lastExport": "2026-07-04T13:12:30.692Z",
+  "exportedAt": "04/07/2026, 10:12:30",
   "total": 100,
-  "pendentes": 93,
-  "postados": 7,
+  "pendentes": 92,
+  "postados": 8,
   "queue": [
     {
       "posicao": 1,
@@ -136,10 +136,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_978608-MLB110757434339_042026-AB-sandalia-vizzano-feminina-salto-grosso-medio-classica.webp",
       "horarioProgramado": "10:11",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-04T13:11:17.690Z"
     },
     {
       "posicao": 9,
