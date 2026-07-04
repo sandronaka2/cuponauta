@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-04T18:17:57.521Z",
-  "exportedAt": "04/07/2026, 15:17:57",
+  "lastExport": "2026-07-04T18:27:31.953Z",
+  "exportedAt": "04/07/2026, 15:27:31",
   "total": 100,
-  "pendentes": 56,
-  "postados": 44,
+  "pendentes": 55,
+  "postados": 45,
   "queue": [
     {
       "posicao": 1,
@@ -765,10 +765,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_875085-MLA101930445968_122025-AB-smartwatch-original-esportes-relogio-inteligente-bluetooth.webp",
       "horarioProgramado": "15:23",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-04T18:23:40.114Z"
     },
     {
       "posicao": 46,
