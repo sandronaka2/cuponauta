@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-04T14:17:57.285Z",
-  "exportedAt": "04/07/2026, 11:17:57",
+  "lastExport": "2026-07-04T14:27:24.215Z",
+  "exportedAt": "04/07/2026, 11:27:24",
   "total": 100,
-  "pendentes": 87,
-  "postados": 13,
+  "pendentes": 85,
+  "postados": 15,
   "queue": [
     {
       "posicao": 1,
@@ -238,10 +238,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_621918-MLB109025928097_032026-AB-calca-pantalona-moletinho-cintura-com-elastico-confortavel.webp",
       "horarioProgramado": "11:17",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-04T14:17:57.437Z"
     },
     {
       "posicao": 15,
@@ -255,10 +255,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_840570-MLA92296579228_092025-AB.webp",
       "horarioProgramado": "11:27",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-04T14:27:18.687Z"
     },
     {
       "posicao": 16,
