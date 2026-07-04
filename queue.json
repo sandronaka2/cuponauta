@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-04T21:48:52.693Z",
-  "exportedAt": "04/07/2026, 18:48:52",
+  "lastExport": "2026-07-04T21:57:58.955Z",
+  "exportedAt": "04/07/2026, 18:57:58",
   "total": 100,
-  "pendentes": 34,
-  "postados": 66,
+  "pendentes": 32,
+  "postados": 68,
   "queue": [
     {
       "posicao": 1,
@@ -1139,10 +1139,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_681009-MLB108966658493_032026-AB-calca-jeans-masculina-branca-com-elastano-lemier-premium.webp",
       "horarioProgramado": "18:49",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-04T21:49:29.345Z"
     },
     {
       "posicao": 68,
@@ -1156,10 +1156,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_787358-MLA100187065347_122025-AB.webp",
       "horarioProgramado": "18:56",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-04T21:56:11.562Z"
     },
     {
       "posicao": 69,
