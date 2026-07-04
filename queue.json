@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-04T17:17:57.450Z",
-  "exportedAt": "04/07/2026, 14:17:57",
+  "lastExport": "2026-07-04T17:27:26.907Z",
+  "exportedAt": "04/07/2026, 14:27:26",
   "total": 100,
-  "pendentes": 61,
-  "postados": 39,
+  "pendentes": 60,
+  "postados": 40,
   "queue": [
     {
       "posicao": 1,
@@ -680,10 +680,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_925542-MLB94379424815_102025-AB-blusa-plus-size-decote-quadrado-tamanho-grande-confortavel.webp",
       "horarioProgramado": "14:23",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-04T17:23:13.682Z"
     },
     {
       "posicao": 41,
