@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-04T15:27:57.349Z",
-  "exportedAt": "04/07/2026, 12:27:57",
+  "lastExport": "2026-07-04T15:37:56.890Z",
+  "exportedAt": "04/07/2026, 12:37:56",
   "total": 100,
-  "pendentes": 78,
-  "postados": 22,
+  "pendentes": 76,
+  "postados": 24,
   "queue": [
     {
       "posicao": 1,
@@ -391,10 +391,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_614488-MLB78069018446_082024-AB-cinta-modeladora-feminina-com-barbatana-redutora-cintura-750.webp",
       "horarioProgramado": "12:28",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-04T15:28:27.312Z"
     },
     {
       "posicao": 24,
@@ -408,10 +408,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_761257-MLA108807654621_032026-AB.webp",
       "horarioProgramado": "12:35",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-04T15:35:22.731Z"
     },
     {
       "posicao": 25,
