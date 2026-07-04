@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-04T17:58:48.639Z",
-  "exportedAt": "04/07/2026, 14:58:48",
+  "lastExport": "2026-07-04T18:07:57.578Z",
+  "exportedAt": "04/07/2026, 15:07:57",
   "total": 100,
-  "pendentes": 58,
-  "postados": 42,
+  "pendentes": 57,
+  "postados": 43,
   "queue": [
     {
       "posicao": 1,
@@ -731,10 +731,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_724908-MLB96643564025_102025-AB-kit-creatina-alpex-100-500g-insane-clown-350g-demons-lab.webp",
       "horarioProgramado": "15:00",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-04T18:00:48.173Z"
     },
     {
       "posicao": 44,
