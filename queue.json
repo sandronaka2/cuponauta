@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-05T22:28:11.964Z",
-  "exportedAt": "05/07/2026, 19:28:11",
+  "lastExport": "2026-07-05T22:38:01.449Z",
+  "exportedAt": "05/07/2026, 19:38:01",
   "total": 100,
-  "pendentes": 28,
-  "postados": 72,
+  "pendentes": 26,
+  "postados": 74,
   "queue": [
     {
       "posicao": 1,
@@ -1241,10 +1241,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_643602-MLA99980241321_112025-AB.webp",
       "horarioProgramado": "19:28",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-05T22:28:34.014Z"
     },
     {
       "posicao": 74,
@@ -1258,10 +1258,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_798855-MLB75019989770_032024-AB-suti-cobertura-total-sem-bojo-e-sem-aro-merlot-duloren.webp",
       "horarioProgramado": "19:34",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-05T22:34:18.845Z"
     },
     {
       "posicao": 75,
