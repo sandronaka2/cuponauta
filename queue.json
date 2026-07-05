@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-05T19:28:09.863Z",
-  "exportedAt": "05/07/2026, 16:28:09",
+  "lastExport": "2026-07-05T19:38:01.294Z",
+  "exportedAt": "05/07/2026, 16:38:01",
   "total": 100,
-  "pendentes": 50,
-  "postados": 50,
+  "pendentes": 49,
+  "postados": 51,
   "queue": [
     {
       "posicao": 1,
@@ -867,10 +867,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_637319-MLB54922607289_042023-AB-kit-10-pares-meias-lupo-cano-alto-masculino-adulto-original.webp",
       "horarioProgramado": "16:36",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-05T19:36:52.215Z"
     },
     {
       "posicao": 52,
