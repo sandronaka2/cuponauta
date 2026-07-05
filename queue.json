@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-05T19:18:01.405Z",
-  "exportedAt": "05/07/2026, 16:18:01",
+  "lastExport": "2026-07-05T19:27:47.738Z",
+  "exportedAt": "05/07/2026, 16:27:47",
   "total": 100,
-  "pendentes": 51,
-  "postados": 49,
+  "pendentes": 50,
+  "postados": 50,
   "queue": [
     {
       "posicao": 1,
@@ -850,10 +850,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_682377-MLB112381105581_052026-AB-kit-9-meias-sport-polo-fit-pares-masculino-algodo-invisivel.webp",
       "horarioProgramado": "16:25",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-05T19:25:59.861Z"
     },
     {
       "posicao": 51,
