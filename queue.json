@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-05T22:58:42.536Z",
-  "exportedAt": "05/07/2026, 19:58:42",
+  "lastExport": "2026-07-05T23:08:01.680Z",
+  "exportedAt": "05/07/2026, 20:08:01",
   "total": 100,
-  "pendentes": 22,
-  "postados": 78,
+  "pendentes": 21,
+  "postados": 79,
   "queue": [
     {
       "posicao": 1,
@@ -1343,10 +1343,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_688436-MLB79736301271_102024-AB-kit-de-2-calca-de-sarja-masculina-bege-preta-vinho-moderna.webp",
       "horarioProgramado": "20:05",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-05T23:05:12.819Z"
     },
     {
       "posicao": 80,
