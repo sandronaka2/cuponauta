@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-05T20:00:41.442Z",
-  "exportedAt": "05/07/2026, 17:00:41",
+  "lastExport": "2026-07-05T20:01:41.213Z",
+  "exportedAt": "05/07/2026, 17:01:41",
   "total": 100,
-  "pendentes": 48,
-  "postados": 52,
+  "pendentes": 47,
+  "postados": 53,
   "queue": [
     {
       "posicao": 1,
@@ -901,10 +901,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_865412-MLB89346289203_082025-AB-20-canecas-coloridas-plastico-escola-450ml.webp",
       "horarioProgramado": "17:00",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-05T20:00:53.052Z"
     },
     {
       "posicao": 54,
