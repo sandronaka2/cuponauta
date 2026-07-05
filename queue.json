@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-05T00:38:24.951Z",
-  "exportedAt": "04/07/2026, 21:38:24",
+  "lastExport": "2026-07-05T00:47:59.108Z",
+  "exportedAt": "04/07/2026, 21:47:59",
   "total": 100,
-  "pendentes": 4,
-  "postados": 96,
+  "pendentes": 3,
+  "postados": 97,
   "queue": [
     {
       "posicao": 1,
@@ -1649,10 +1649,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_711242-MLB89577951557_082025-AB-profissional-martelete-rompedor-furadeira-1300w-sds-plus.webp",
       "horarioProgramado": "21:44",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-05T00:44:46.206Z"
     },
     {
       "posicao": 98,
