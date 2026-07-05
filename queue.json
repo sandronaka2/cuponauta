@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-05T21:38:11.579Z",
-  "exportedAt": "05/07/2026, 18:38:11",
+  "lastExport": "2026-07-05T21:48:01.406Z",
+  "exportedAt": "05/07/2026, 18:48:01",
   "total": 100,
-  "pendentes": 36,
-  "postados": 64,
+  "pendentes": 34,
+  "postados": 66,
   "queue": [
     {
       "posicao": 1,
@@ -1105,10 +1105,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_774541-MLA106949893052_022026-AB.webp",
       "horarioProgramado": "18:38",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-05T21:38:27.062Z"
     },
     {
       "posicao": 66,
@@ -1122,10 +1122,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_967821-MLB106425794651_022026-AB-kit-3-t-shirts-oversized-classic-algodo-clea-store.webp",
       "horarioProgramado": "18:44",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-05T21:44:31.829Z"
     },
     {
       "posicao": 67,
