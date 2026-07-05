@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-05T00:17:24.816Z",
-  "exportedAt": "04/07/2026, 21:17:24",
+  "lastExport": "2026-07-05T00:17:59.138Z",
+  "exportedAt": "04/07/2026, 21:17:59",
   "total": 100,
-  "pendentes": 9,
-  "postados": 91,
+  "pendentes": 8,
+  "postados": 92,
   "queue": [
     {
       "posicao": 1,
@@ -1564,10 +1564,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_680616-MLB113095415897_062026-AB-placa-letreiro-personalizada-em-acrilico-espelhado-100x50.webp",
       "horarioProgramado": "21:17",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-05T00:17:57.796Z"
     },
     {
       "posicao": 93,
