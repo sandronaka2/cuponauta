@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-05T16:44:13.406Z",
-  "exportedAt": "05/07/2026, 13:44:13",
+  "lastExport": "2026-07-05T16:47:59.831Z",
+  "exportedAt": "05/07/2026, 13:47:59",
   "total": 100,
-  "pendentes": 66,
-  "postados": 34,
+  "pendentes": 65,
+  "postados": 35,
   "queue": [
     {
       "posicao": 1,
@@ -595,10 +595,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_702426-MLB108957497515_032026-AB-jogo-de-panelas-teflon-antiaderente-8-pecas-cereja.webp",
       "horarioProgramado": "13:47",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-05T16:47:08.292Z"
     },
     {
       "posicao": 36,
