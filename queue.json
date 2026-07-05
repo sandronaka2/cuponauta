@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-05T23:18:01.752Z",
-  "exportedAt": "05/07/2026, 20:18:01",
+  "lastExport": "2026-07-05T23:27:27.642Z",
+  "exportedAt": "05/07/2026, 20:27:27",
   "total": 100,
-  "pendentes": 19,
-  "postados": 81,
+  "pendentes": 18,
+  "postados": 82,
   "queue": [
     {
       "posicao": 1,
@@ -1394,10 +1394,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_770915-MLB92673578477_092025-AB-kit-10-cueca-boxer-lupo-algodo-conforto-masculina-leve.webp",
       "horarioProgramado": "20:23",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-05T23:23:20.252Z"
     },
     {
       "posicao": 83,
