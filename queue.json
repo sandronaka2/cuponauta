@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-05T23:38:13.097Z",
-  "exportedAt": "05/07/2026, 20:38:13",
+  "lastExport": "2026-07-05T23:48:01.497Z",
+  "exportedAt": "05/07/2026, 20:48:01",
   "total": 100,
-  "pendentes": 16,
-  "postados": 84,
+  "pendentes": 14,
+  "postados": 86,
   "queue": [
     {
       "posicao": 1,
@@ -1445,10 +1445,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_923619-MLB110582235152_052026-AB.webp",
       "horarioProgramado": "20:41",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-05T23:41:53.397Z"
     },
     {
       "posicao": 86,
@@ -1462,10 +1462,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_676587-MLB111990325425_052026-AB-jaqueta-bobojaco-feminina-puffer-impermeavel-capuz-removivel.webp",
       "horarioProgramado": "20:47",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-05T23:47:59.514Z"
     },
     {
       "posicao": 87,
