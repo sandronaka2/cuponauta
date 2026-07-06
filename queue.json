@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-05T23:58:43.343Z",
-  "exportedAt": "05/07/2026, 20:58:43",
+  "lastExport": "2026-07-06T00:08:01.530Z",
+  "exportedAt": "05/07/2026, 21:08:01",
   "total": 100,
-  "pendentes": 12,
-  "postados": 88,
+  "pendentes": 10,
+  "postados": 90,
   "queue": [
     {
       "posicao": 1,
@@ -1513,10 +1513,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_715667-MLB91430386510_092025-AB-suporte-generico-para-controle-ps5-ps4-homem-aranha.webp",
       "horarioProgramado": "21:01",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-06T00:01:43.654Z"
     },
     {
       "posicao": 90,
@@ -1530,10 +1530,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_718525-MLB81324357738_122024-AB.webp",
       "horarioProgramado": "21:06",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-06T00:06:27.666Z"
     },
     {
       "posicao": 91,
