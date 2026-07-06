@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-06T00:38:17.012Z",
-  "exportedAt": "05/07/2026, 21:38:17",
+  "lastExport": "2026-07-06T00:48:01.582Z",
+  "exportedAt": "05/07/2026, 21:48:01",
   "total": 100,
-  "pendentes": 5,
-  "postados": 95,
+  "pendentes": 3,
+  "postados": 97,
   "queue": [
     {
       "posicao": 1,
@@ -1632,10 +1632,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_679844-MLB108178219477_032026-AB.webp",
       "horarioProgramado": "21:38",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-06T00:38:44.011Z"
     },
     {
       "posicao": 97,
@@ -1649,10 +1649,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_854685-MLB78467643636_082024-AB-kit-reforcado-varo-230m-cortina-ilhosargola-28mm-aluminio.webp",
       "horarioProgramado": "21:43",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-06T00:43:13.292Z"
     },
     {
       "posicao": 98,
