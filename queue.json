@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-06T18:58:57.433Z",
-  "exportedAt": "06/07/2026, 15:58:57",
+  "lastExport": "2026-07-06T19:08:02.703Z",
+  "exportedAt": "06/07/2026, 16:08:02",
   "total": 100,
-  "pendentes": 53,
-  "postados": 47,
+  "pendentes": 52,
+  "postados": 48,
   "queue": [
     {
       "posicao": 1,
@@ -816,10 +816,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_999213-MLB112199423111_052026-AB-oculos-de-sol-polarizado-masculino-esportes-heaven.webp",
       "horarioProgramado": "16:00",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-06T19:00:23.908Z"
     },
     {
       "posicao": 49,
