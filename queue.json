@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-06T23:15:02.106Z",
-  "exportedAt": "06/07/2026, 20:15:02",
+  "lastExport": "2026-07-06T23:18:04.149Z",
+  "exportedAt": "06/07/2026, 20:18:04",
   "total": 100,
-  "pendentes": 20,
-  "postados": 80,
+  "pendentes": 19,
+  "postados": 81,
   "queue": [
     {
       "posicao": 1,
@@ -1377,10 +1377,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_915378-MLB90607815291_082025-AB-bluetooth-smartwatch-resistente-agua-esportivo-relogio.webp",
       "horarioProgramado": "20:17",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-06T23:17:17.242Z"
     },
     {
       "posicao": 82,
