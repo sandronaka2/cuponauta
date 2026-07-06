@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-06T18:18:05.662Z",
-  "exportedAt": "06/07/2026, 15:18:05",
+  "lastExport": "2026-07-06T18:28:02.631Z",
+  "exportedAt": "06/07/2026, 15:28:02",
   "total": 100,
-  "pendentes": 56,
-  "postados": 44,
+  "pendentes": 55,
+  "postados": 45,
   "queue": [
     {
       "posicao": 1,
@@ -765,10 +765,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_956629-MLB79641363475_092024-AB-piercing-titnio-argola-click-cravejada-6mm-8mm-10mm-12mm.webp",
       "horarioProgramado": "15:24",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-06T18:24:23.671Z"
     },
     {
       "posicao": 46,
