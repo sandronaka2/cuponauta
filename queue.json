@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-06T20:58:34.390Z",
-  "exportedAt": "06/07/2026, 17:58:34",
+  "lastExport": "2026-07-06T21:00:05.357Z",
+  "exportedAt": "06/07/2026, 18:00:05",
   "total": 100,
-  "pendentes": 43,
-  "postados": 57,
+  "pendentes": 42,
+  "postados": 58,
   "queue": [
     {
       "posicao": 1,
@@ -986,10 +986,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_656202-MLB108813415006_032026-AB-pijama-blogueira-americano-feminino-adulto-inverno-longo.webp",
       "horarioProgramado": "17:58",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-06T20:58:41.016Z"
     },
     {
       "posicao": 59,
