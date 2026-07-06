@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-06T21:38:04.112Z",
-  "exportedAt": "06/07/2026, 18:38:04",
+  "lastExport": "2026-07-06T21:46:08.682Z",
+  "exportedAt": "06/07/2026, 18:46:08",
   "total": 100,
-  "pendentes": 36,
-  "postados": 64,
+  "pendentes": 34,
+  "postados": 66,
   "queue": [
     {
       "posicao": 1,
@@ -1105,10 +1105,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_654710-MLA99937505207_112025-AB.webp",
       "horarioProgramado": "18:38",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-06T21:38:31.708Z"
     },
     {
       "posicao": 66,
@@ -1122,10 +1122,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_611590-MLB70461151755_072023-AB-kit-3-pares-jaguar-evoltenn-masculino-leve-promoco.webp",
       "horarioProgramado": "18:44",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-06T21:44:40.805Z"
     },
     {
       "posicao": 67,
