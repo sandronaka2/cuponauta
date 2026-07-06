@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-06T22:01:01.692Z",
-  "exportedAt": "06/07/2026, 19:01:01",
+  "lastExport": "2026-07-06T22:08:04.100Z",
+  "exportedAt": "06/07/2026, 19:08:04",
   "total": 100,
-  "pendentes": 32,
-  "postados": 68,
+  "pendentes": 31,
+  "postados": 69,
   "queue": [
     {
       "posicao": 1,
@@ -1173,10 +1173,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_792371-MLB110173629201_042026-AB-kit-10-cuecas-mash-masculino-slip-algodo-cotton-original.webp",
       "horarioProgramado": "19:03",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-06T22:03:12.603Z"
     },
     {
       "posicao": 70,
