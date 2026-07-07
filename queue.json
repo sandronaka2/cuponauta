@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-07T17:48:05.015Z",
-  "exportedAt": "07/07/2026, 14:48:05",
+  "lastExport": "2026-07-07T17:57:12.029Z",
+  "exportedAt": "07/07/2026, 14:57:12",
   "total": 100,
-  "pendentes": 59,
-  "postados": 41,
+  "pendentes": 58,
+  "postados": 42,
   "queue": [
     {
       "posicao": 1,
@@ -714,10 +714,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_933350-MLB109102321444_042026-AB-short-feminino-couro-cinto-fivela-elegante-boiadeira.webp",
       "horarioProgramado": "14:48",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-07T17:48:53.604Z"
     },
     {
       "posicao": 43,
