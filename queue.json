@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-07T00:15:02.744Z",
-  "exportedAt": "06/07/2026, 21:15:02",
+  "lastExport": "2026-07-07T00:18:04.195Z",
+  "exportedAt": "06/07/2026, 21:18:04",
   "total": 100,
-  "pendentes": 9,
-  "postados": 91,
+  "pendentes": 8,
+  "postados": 92,
   "queue": [
     {
       "posicao": 1,
@@ -1564,10 +1564,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_688573-MLB82717005486_032025-AB-corselet-cinto-corpete-espartilho-elastico-envio-rapido.webp",
       "horarioProgramado": "21:15",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-07T00:15:32.867Z"
     },
     {
       "posicao": 93,
