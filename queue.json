@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-07T22:18:06.612Z",
-  "exportedAt": "07/07/2026, 19:18:06",
+  "lastExport": "2026-07-07T22:25:26.510Z",
+  "exportedAt": "07/07/2026, 19:25:26",
   "total": 100,
-  "pendentes": 29,
-  "postados": 71,
+  "pendentes": 28,
+  "postados": 72,
   "queue": [
     {
       "posicao": 1,
@@ -1224,10 +1224,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_757137-MLB89347811124_082025-AB-comoda-8-gavetas-monza-com-chave.webp",
       "horarioProgramado": "19:21",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-07T22:21:48.424Z"
     },
     {
       "posicao": 73,
