@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-07T15:00:33.575Z",
-  "exportedAt": "07/07/2026, 12:00:33",
+  "lastExport": "2026-07-07T15:07:11.827Z",
+  "exportedAt": "07/07/2026, 12:07:11",
   "total": 100,
-  "pendentes": 82,
-  "postados": 18,
+  "pendentes": 81,
+  "postados": 19,
   "queue": [
     {
       "posicao": 1,
@@ -323,10 +323,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_930864-MLB79422234384_092024-AB-jogo-de-lencol-queen-3-pecas-400-fios-c-elastico-hotel.webp",
       "horarioProgramado": "12:02",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-07T15:02:50.508Z"
     },
     {
       "posicao": 20,
