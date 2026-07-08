@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-08T20:48:08.934Z",
-  "exportedAt": "08/07/2026, 17:48:08",
+  "lastExport": "2026-07-08T20:57:14.318Z",
+  "exportedAt": "08/07/2026, 17:57:14",
   "total": 100,
-  "pendentes": 44,
-  "postados": 56,
+  "pendentes": 43,
+  "postados": 57,
   "queue": [
     {
       "posicao": 1,
@@ -969,10 +969,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_646618-MLB79279895030_092024-AB-conjunto-de-academia-feminino-roupa-de-ginastica-blackout.webp",
       "horarioProgramado": "17:48",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-08T20:48:22.154Z"
     },
     {
       "posicao": 58,
