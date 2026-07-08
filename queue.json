@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-08T00:28:06.695Z",
-  "exportedAt": "07/07/2026, 21:28:06",
+  "lastExport": "2026-07-08T00:35:58.456Z",
+  "exportedAt": "07/07/2026, 21:35:58",
   "total": 100,
-  "pendentes": 7,
-  "postados": 93,
+  "pendentes": 5,
+  "postados": 95,
   "queue": [
     {
       "posicao": 1,
@@ -1598,10 +1598,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_817281-MLA107167838581_022026-AB.webp",
       "horarioProgramado": "21:28",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-08T00:28:53.733Z"
     },
     {
       "posicao": 95,
@@ -1615,10 +1615,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_836148-MLB99339107382_112025-AB-kit-c-2-body-splash-feminino-barbours-beauty-200ml-cada.webp",
       "horarioProgramado": "21:33",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-08T00:34:00.121Z"
     },
     {
       "posicao": 96,
