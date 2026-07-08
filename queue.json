@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-08T16:24:09.626Z",
-  "exportedAt": "08/07/2026, 13:24:09",
+  "lastExport": "2026-07-08T16:28:07.595Z",
+  "exportedAt": "08/07/2026, 13:28:07",
   "total": 100,
-  "pendentes": 69,
-  "postados": 31,
+  "pendentes": 68,
+  "postados": 32,
   "queue": [
     {
       "posicao": 1,
@@ -544,10 +544,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_950435-MLB75179105751_032024-AB-kit-10-cueca-boxer-sem-costura-microfibra-selene-masculina.webp",
       "horarioProgramado": "13:27",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-08T16:27:33.630Z"
     },
     {
       "posicao": 33,
