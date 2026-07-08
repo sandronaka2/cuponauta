@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-08T18:38:07.650Z",
-  "exportedAt": "08/07/2026, 15:38:07",
+  "lastExport": "2026-07-08T18:46:40.947Z",
+  "exportedAt": "08/07/2026, 15:46:40",
   "total": 100,
-  "pendentes": 54,
-  "postados": 46,
+  "pendentes": 53,
+  "postados": 47,
   "queue": [
     {
       "posicao": 1,
@@ -799,10 +799,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_677259-MLB90204278785_082025-AB-martelete-rompedor-perfurador-sds-plus-1600w-maleta-dobevi.webp",
       "horarioProgramado": "15:46",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-08T18:46:11.406Z"
     },
     {
       "posicao": 48,
