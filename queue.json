@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-08T00:15:21.393Z",
-  "exportedAt": "07/07/2026, 21:15:21",
+  "lastExport": "2026-07-08T00:18:06.746Z",
+  "exportedAt": "07/07/2026, 21:18:06",
   "total": 100,
-  "pendentes": 9,
-  "postados": 91,
+  "pendentes": 8,
+  "postados": 92,
   "queue": [
     {
       "posicao": 1,
@@ -1564,10 +1564,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_684284-MLB97739118006_112025-AB-kit-12-pares-meia-cano-medio-alto-longo-sport-academia-cores.webp",
       "horarioProgramado": "21:16",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-08T00:16:24.237Z"
     },
     {
       "posicao": 93,
