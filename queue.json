@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-08T22:28:09.023Z",
-  "exportedAt": "08/07/2026, 19:28:09",
+  "lastExport": "2026-07-08T22:36:15.204Z",
+  "exportedAt": "08/07/2026, 19:36:15",
   "total": 100,
-  "pendentes": 28,
-  "postados": 72,
+  "pendentes": 26,
+  "postados": 74,
   "queue": [
     {
       "posicao": 1,
@@ -1241,10 +1241,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_756054-MLB90729158096_082025-AB-blusa-suplex-feminina-decote-quadrado-basica-premium.webp",
       "horarioProgramado": "19:28",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-08T22:28:49.717Z"
     },
     {
       "posicao": 74,
@@ -1258,10 +1258,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_965964-MLB108217683979_032026-AB.webp",
       "horarioProgramado": "19:34",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-08T22:34:15.417Z"
     },
     {
       "posicao": 75,
