@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-08T21:36:37.523Z",
-  "exportedAt": "08/07/2026, 18:36:37",
+  "lastExport": "2026-07-08T21:38:08.941Z",
+  "exportedAt": "08/07/2026, 18:38:08",
   "total": 100,
-  "pendentes": 36,
-  "postados": 64,
+  "pendentes": 35,
+  "postados": 65,
   "queue": [
     {
       "posicao": 1,
@@ -1105,10 +1105,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_796896-MLB81168800640_122024-AB-chapeu-pescador-camping-australiano-proteco-nuca-pescoco-uv.webp",
       "horarioProgramado": "18:37",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-08T21:37:41.079Z"
     },
     {
       "posicao": 66,
