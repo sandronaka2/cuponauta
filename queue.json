@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-08T16:34:09.651Z",
-  "exportedAt": "08/07/2026, 13:34:09",
+  "lastExport": "2026-07-08T16:34:32.586Z",
+  "exportedAt": "08/07/2026, 13:34:32",
   "total": 100,
-  "pendentes": 68,
-  "postados": 32,
+  "pendentes": 67,
+  "postados": 33,
   "queue": [
     {
       "posicao": 1,
@@ -561,10 +561,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_946283-MLB96305336450_102025-AB-bucket-wave-moderno-estilo-aventura-e-proteco-solar.webp",
       "horarioProgramado": "13:34",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-08T16:34:26.147Z"
     },
     {
       "posicao": 34,
