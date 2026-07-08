@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-08T00:11:01.676Z",
-  "exportedAt": "07/07/2026, 21:11:01",
+  "lastExport": "2026-07-08T00:11:21.483Z",
+  "exportedAt": "07/07/2026, 21:11:21",
   "total": 100,
-  "pendentes": 10,
-  "postados": 90,
+  "pendentes": 9,
+  "postados": 91,
   "queue": [
     {
       "posicao": 1,
@@ -1547,10 +1547,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_780756-MLB71803949208_092023-AB-chinelo-havaianas-dual-masculina.webp",
       "horarioProgramado": "21:11",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-08T00:11:12.680Z"
     },
     {
       "posicao": 92,
