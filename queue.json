@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-08T00:00:52.383Z",
-  "exportedAt": "07/07/2026, 21:00:52",
+  "lastExport": "2026-07-08T00:08:06.764Z",
+  "exportedAt": "07/07/2026, 21:08:06",
   "total": 100,
-  "pendentes": 12,
-  "postados": 88,
+  "pendentes": 10,
+  "postados": 90,
   "queue": [
     {
       "posicao": 1,
@@ -1513,10 +1513,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_759854-MLA99487952684_112025-AB.webp",
       "horarioProgramado": "21:01",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-08T00:01:18.983Z"
     },
     {
       "posicao": 90,
@@ -1530,10 +1530,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_616170-MLB111079932933_042026-AB-suti-gallard-control-feminino-sem-espuma-sem-aro-demillus.webp",
       "horarioProgramado": "21:05",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-08T00:05:23.086Z"
     },
     {
       "posicao": 91,
