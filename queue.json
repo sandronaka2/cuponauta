@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-08T16:38:07.534Z",
-  "exportedAt": "08/07/2026, 13:38:07",
+  "lastExport": "2026-07-08T16:44:41.249Z",
+  "exportedAt": "08/07/2026, 13:44:41",
   "total": 100,
-  "pendentes": 67,
-  "postados": 33,
+  "pendentes": 66,
+  "postados": 34,
   "queue": [
     {
       "posicao": 1,
@@ -578,10 +578,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_642834-MLB91833270694_092025-AB-pistola-de-brinquedo-militar-presente-dia-das-criancas.webp",
       "horarioProgramado": "13:40",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-08T16:40:22.492Z"
     },
     {
       "posicao": 35,
