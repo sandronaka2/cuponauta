@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-08T00:38:06.719Z",
-  "exportedAt": "07/07/2026, 21:38:06",
+  "lastExport": "2026-07-08T00:46:29.456Z",
+  "exportedAt": "07/07/2026, 21:46:29",
   "total": 100,
-  "pendentes": 5,
-  "postados": 95,
+  "pendentes": 3,
+  "postados": 97,
   "queue": [
     {
       "posicao": 1,
@@ -1632,10 +1632,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_886010-MLB82991375010_032025-AB-kit-10-cuecas-boxer-lupo-microfibra-sem-costura-box-atacado.webp",
       "horarioProgramado": "21:38",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-08T00:39:16.677Z"
     },
     {
       "posicao": 97,
@@ -1649,10 +1649,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_846975-MLA112720920098_062026-AB.webp",
       "horarioProgramado": "21:44",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-08T00:44:15.118Z"
     },
     {
       "posicao": 98,
