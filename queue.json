@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-09T21:25:13.355Z",
-  "exportedAt": "09/07/2026, 18:25:13",
+  "lastExport": "2026-07-09T21:25:25.997Z",
+  "exportedAt": "09/07/2026, 18:25:25",
   "total": 100,
-  "pendentes": 38,
-  "postados": 62,
+  "pendentes": 37,
+  "postados": 63,
   "queue": [
     {
       "posicao": 1,
@@ -1063,18 +1063,18 @@
       "posicao": 63,
       "id": "wa-1825-62",
       "titulo": "Collagen Pro Body Balance Chá Branco Com Lichia - Nutrify 450g Cha Branco Com Licha",
-      "preco": "R$ 95,20",
+      "preco": "R$ 119",
       "precoOriginal": "R$242",
       "desconto": "50% OFF",
-      "cupom": "ALLSITE20",
+      "cupom": null,
       "link": "https://meli.la/18PCTTK",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_892105-MLA99871136483_112025-AB.webp",
       "horarioProgramado": "18:25",
       "janela": "18:00-21:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-09T21:25:23.050Z"
     },
     {
       "posicao": 64,
