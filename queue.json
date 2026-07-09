@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-09T21:50:12.504Z",
-  "exportedAt": "09/07/2026, 18:50:12",
+  "lastExport": "2026-07-09T21:56:36.210Z",
+  "exportedAt": "09/07/2026, 18:56:36",
   "total": 100,
-  "pendentes": 34,
-  "postados": 66,
+  "pendentes": 33,
+  "postados": 67,
   "queue": [
     {
       "posicao": 1,
@@ -1131,18 +1131,18 @@
       "posicao": 67,
       "id": "wa-1850-66",
       "titulo": "Cadeira Gamer Com Apoio De Pés Level Preta Healer Preto Couro Sintético",
-      "preco": "R$ 360,00",
+      "preco": "R$ 410",
       "precoOriginal": "R$599,90",
       "desconto": "31% OFF no Pix",
-      "cupom": "ALLSITE20",
+      "cupom": null,
       "link": "https://meli.la/115aTcQ",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_809742-MLA105696156749_012026-AB.webp",
       "horarioProgramado": "18:50",
       "janela": "18:00-21:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-09T21:50:35.013Z"
     },
     {
       "posicao": 68,
