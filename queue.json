@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-09T22:46:26.953Z",
-  "exportedAt": "09/07/2026, 19:46:26",
+  "lastExport": "2026-07-09T22:48:11.731Z",
+  "exportedAt": "09/07/2026, 19:48:11",
   "total": 100,
-  "pendentes": 25,
-  "postados": 75,
+  "pendentes": 24,
+  "postados": 76,
   "queue": [
     {
       "posicao": 1,
@@ -1284,18 +1284,18 @@
       "posicao": 76,
       "id": "wa-1946-75",
       "titulo": "Sandália Comfortflex Feminina Salto Médio Preto - 19 Liso 38 Br",
-      "preco": "R$ 82,40",
+      "preco": "R$ 103",
       "precoOriginal": "R$189,90",
       "desconto": "45% OFF no Pix",
-      "cupom": "ALLSITE20",
+      "cupom": null,
       "link": "https://meli.la/2k6EFbp",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_731315-MLB103728740622_012026-AB.webp",
       "horarioProgramado": "19:46",
       "janela": "18:00-21:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-09T22:46:37.982Z"
     },
     {
       "posicao": 77,
