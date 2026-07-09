@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-09T00:38:09.116Z",
-  "exportedAt": "08/07/2026, 21:38:09",
+  "lastExport": "2026-07-09T00:46:46.121Z",
+  "exportedAt": "08/07/2026, 21:46:46",
   "total": 100,
-  "pendentes": 5,
-  "postados": 95,
+  "pendentes": 3,
+  "postados": 97,
   "queue": [
     {
       "posicao": 1,
@@ -1632,10 +1632,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_620472-MLA99569882884_122025-AB.webp",
       "horarioProgramado": "21:38",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-09T00:38:32.223Z"
     },
     {
       "posicao": 97,
@@ -1649,10 +1649,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_677587-MLB90174206546_082025-AB-rasteira-petite-jolie-leve-confortavel-moda-feminina-pj6812.webp",
       "horarioProgramado": "21:44",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-09T00:44:50.102Z"
     },
     {
       "posicao": 98,
