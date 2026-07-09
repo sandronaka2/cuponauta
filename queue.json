@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-09T22:01:26.888Z",
-  "exportedAt": "09/07/2026, 19:01:26",
+  "lastExport": "2026-07-09T22:08:11.671Z",
+  "exportedAt": "09/07/2026, 19:08:11",
   "total": 100,
-  "pendentes": 32,
-  "postados": 68,
+  "pendentes": 31,
+  "postados": 69,
   "queue": [
     {
       "posicao": 1,
@@ -1165,18 +1165,18 @@
       "posicao": 69,
       "id": "wa-1902-68",
       "titulo": "Whey Protein Concentrado 100% 900g Refil Dark Lab Sabor Baunilha",
-      "preco": "R$ 127,20",
+      "preco": "R$ 159",
       "precoOriginal": "R$499,90",
       "desconto": "68% OFF",
-      "cupom": "ALLSITE20",
+      "cupom": null,
       "link": "https://meli.la/2Wf6829",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_819335-MLA99933248115_112025-AB.webp",
       "horarioProgramado": "19:02",
       "janela": "18:00-21:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-09T22:02:16.035Z"
     },
     {
       "posicao": 70,
