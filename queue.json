@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-09T21:38:11.657Z",
-  "exportedAt": "09/07/2026, 18:38:11",
+  "lastExport": "2026-07-09T21:40:12.489Z",
+  "exportedAt": "09/07/2026, 18:40:12",
   "total": 100,
-  "pendentes": 36,
-  "postados": 64,
+  "pendentes": 35,
+  "postados": 65,
   "queue": [
     {
       "posicao": 1,
@@ -1097,18 +1097,18 @@
       "posicao": 65,
       "id": "wa-1838-64",
       "titulo": "Kit 6 Cuecas Slip Zorba Linea Branco Liso Gg",
-      "preco": "R$ 87,20",
+      "preco": "R$ 109",
       "precoOriginal": "R$222,73",
       "desconto": "50% OFF",
-      "cupom": "ALLSITE20",
+      "cupom": null,
       "link": "https://meli.la/1dxwqdL",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_773484-MLA92681572094_092025-AB.webp",
       "horarioProgramado": "18:38",
       "janela": "18:00-21:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-09T21:38:38.037Z"
     },
     {
       "posicao": 66,
