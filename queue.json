@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-09T22:08:11.671Z",
-  "exportedAt": "09/07/2026, 19:08:11",
+  "lastExport": "2026-07-09T22:10:12.546Z",
+  "exportedAt": "09/07/2026, 19:10:12",
   "total": 100,
-  "pendentes": 31,
-  "postados": 69,
+  "pendentes": 30,
+  "postados": 70,
   "queue": [
     {
       "posicao": 1,
@@ -1182,18 +1182,18 @@
       "posicao": 70,
       "id": "wa-1908-69",
       "titulo": "Óculos De Sol Oakley Holbrook Cor Da Lente Positive Red Espelho Rosa Matte Black",
-      "preco": "R$ 433,00",
+      "preco": "R$ 483",
       "precoOriginal": "R$1.340",
       "desconto": "63% OFF no Pix ou Saldo no Mercado Pago",
-      "cupom": "ALLSITE20",
+      "cupom": null,
       "link": "https://meli.la/31S2pjw",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_693022-MLA108655342298_032026-AB.webp",
       "horarioProgramado": "19:08",
       "janela": "18:00-21:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-09T22:08:32.068Z"
     },
     {
       "posicao": 71,
