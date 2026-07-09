@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-09T23:48:11.765Z",
-  "exportedAt": "09/07/2026, 20:48:11",
+  "lastExport": "2026-07-09T23:50:12.603Z",
+  "exportedAt": "09/07/2026, 20:50:12",
   "total": 100,
-  "pendentes": 15,
-  "postados": 85,
+  "pendentes": 14,
+  "postados": 86,
   "queue": [
     {
       "posicao": 1,
@@ -1454,18 +1454,18 @@
       "posicao": 86,
       "id": "wa-2048-85",
       "titulo": "Enssu Aparador De Pelos Corporais Masculino Com Base Cor Azul 127/220v",
-      "preco": "R$ 122,40",
+      "preco": "R$ 153",
       "precoOriginal": "R$489,99",
       "desconto": "68% OFF",
-      "cupom": "ALLSITE20",
+      "cupom": null,
       "link": "https://meli.la/2GPZ1o4",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_979722-MLA105748350228_022026-AB.webp",
       "horarioProgramado": "20:48",
       "janela": "18:00-21:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-09T23:48:21.052Z"
     },
     {
       "posicao": 87,
