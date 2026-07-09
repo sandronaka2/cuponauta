@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-09T19:45:18.658Z",
-  "exportedAt": "09/07/2026, 16:45:18",
+  "lastExport": "2026-07-09T19:48:11.676Z",
+  "exportedAt": "09/07/2026, 16:48:11",
   "total": 100,
-  "pendentes": 49,
-  "postados": 51,
+  "pendentes": 48,
+  "postados": 52,
   "queue": [
     {
       "posicao": 1,
@@ -884,10 +884,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_714814-MLA105584151244_012026-AB-varal-de-luzes-40m-externo-com-lmpadas-gambiarra-cordo.webp",
       "horarioProgramado": "16:47",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-09T19:47:34.959Z"
     },
     {
       "posicao": 53,
