@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-09T14:49:26.493Z",
-  "exportedAt": "09/07/2026, 11:49:26",
+  "lastExport": "2026-07-09T14:49:50.067Z",
+  "exportedAt": "09/07/2026, 11:49:50",
   "total": 100,
-  "pendentes": 84,
-  "postados": 16,
+  "pendentes": 83,
+  "postados": 17,
   "queue": [
     {
       "posicao": 1,
@@ -289,10 +289,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_622944-MLB111876552778_062026-AB-kit-10-calcinhas-plus-size-algodo-estampada-premium-cotton.webp",
       "horarioProgramado": "11:49",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-09T14:49:49.059Z"
     },
     {
       "posicao": 18,
