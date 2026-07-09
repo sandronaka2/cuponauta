@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-09T22:20:12.552Z",
-  "exportedAt": "09/07/2026, 19:20:12",
+  "lastExport": "2026-07-09T22:22:05.357Z",
+  "exportedAt": "09/07/2026, 19:22:05",
   "total": 100,
-  "pendentes": 29,
-  "postados": 71,
+  "pendentes": 28,
+  "postados": 72,
   "queue": [
     {
       "posicao": 1,
@@ -1224,10 +1224,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_882341-MLB94477328739_102025-AB-oculos-de-leitura-perto-descanso-com-grau-de-025-a500.webp",
       "horarioProgramado": "19:21",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-09T22:21:13.177Z"
     },
     {
       "posicao": 73,
