@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-09T22:50:12.560Z",
-  "exportedAt": "09/07/2026, 19:50:12",
+  "lastExport": "2026-07-09T22:56:36.965Z",
+  "exportedAt": "09/07/2026, 19:56:36",
   "total": 100,
-  "pendentes": 24,
-  "postados": 76,
+  "pendentes": 23,
+  "postados": 77,
   "queue": [
     {
       "posicao": 1,
@@ -1301,18 +1301,18 @@
       "posicao": 77,
       "id": "wa-1952-76",
       "titulo": "Scarpin Modare Chanel Salto Bloco Feminino Conforto Tan Liso 39 Br",
-      "preco": "R$ 91,20",
+      "preco": "R$ 114",
       "precoOriginal": "R$159,90",
       "desconto": "28% OFF",
-      "cupom": "ALLSITE20",
+      "cupom": null,
       "link": "https://meli.la/1GyAQzA",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_773328-MLB106907561680_022026-AB.webp",
       "horarioProgramado": "19:52",
       "janela": "18:00-21:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-09T22:52:24.004Z"
     },
     {
       "posicao": 78,
