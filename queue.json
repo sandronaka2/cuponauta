@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-09T20:54:55.579Z",
-  "exportedAt": "09/07/2026, 17:54:55",
+  "lastExport": "2026-07-09T20:58:11.612Z",
+  "exportedAt": "09/07/2026, 17:58:11",
   "total": 100,
-  "pendentes": 43,
-  "postados": 57,
+  "pendentes": 42,
+  "postados": 58,
   "queue": [
     {
       "posicao": 1,
@@ -978,18 +978,18 @@
       "posicao": 58,
       "id": "wa-1757-57",
       "titulo": "Smartwatch Moda Relógio Hd De Liga De Alumínio 100+ Esportes Caixa Preto Pulseira Rosa-pálido",
-      "preco": "R$ 169,60",
+      "preco": "R$ 212",
       "precoOriginal": "R$399",
       "desconto": "46% OFF",
-      "cupom": "ALLSITE20",
+      "cupom": null,
       "link": "https://meli.la/2mdfi5k",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_943842-MLA100934748446_122025-AB.webp",
       "horarioProgramado": "17:57",
       "janela": "14:00-18:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-09T20:57:53.017Z"
     },
     {
       "posicao": 59,
