@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-09T23:10:12.575Z",
-  "exportedAt": "09/07/2026, 20:10:12",
+  "lastExport": "2026-07-09T23:11:36.460Z",
+  "exportedAt": "09/07/2026, 20:11:36",
   "total": 100,
-  "pendentes": 21,
-  "postados": 79,
+  "pendentes": 20,
+  "postados": 80,
   "queue": [
     {
       "posicao": 1,
@@ -1352,18 +1352,18 @@
       "posicao": 80,
       "id": "wa-2011-79",
       "titulo": "Kit Aparador De Pelos Brisabras Professional 6 Em 1 Sem Fio Com 6 Cabeças E Tela Led Prata",
-      "preco": "R$ 108,80",
+      "preco": "R$ 136",
       "precoOriginal": "R$219",
       "desconto": "37% OFF",
-      "cupom": "ALLSITE20",
+      "cupom": null,
       "link": "https://meli.la/1zsZ2q5",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_840550-MLA99491867862_112025-AB.webp",
       "horarioProgramado": "20:11",
       "janela": "18:00-21:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-09T23:11:10.968Z"
     },
     {
       "posicao": 81,
