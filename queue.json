@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-09T16:48:20.264Z",
-  "exportedAt": "09/07/2026, 13:48:20",
+  "lastExport": "2026-07-09T16:48:32.963Z",
+  "exportedAt": "09/07/2026, 13:48:32",
   "total": 100,
-  "pendentes": 66,
-  "postados": 34,
+  "pendentes": 65,
+  "postados": 35,
   "queue": [
     {
       "posicao": 1,
@@ -590,15 +590,15 @@
       "preco": "R$ 127,20",
       "precoOriginal": "R$699,90",
       "desconto": "77% OFF",
-      "cupom": "TODOOSITEANITTACO",
+      "cupom": "ALLSITE20",
       "link": "https://meli.la/2WtyFrZ",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_810585-MLA99409391058_112025-AB.webp",
       "horarioProgramado": "13:48",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-09T16:48:21.743Z"
     },
     {
       "posicao": 36,
