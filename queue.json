@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-09T19:01:56.284Z",
-  "exportedAt": "09/07/2026, 16:01:56",
+  "lastExport": "2026-07-09T19:08:10.369Z",
+  "exportedAt": "09/07/2026, 16:08:10",
   "total": 100,
-  "pendentes": 53,
-  "postados": 47,
+  "pendentes": 52,
+  "postados": 48,
   "queue": [
     {
       "posicao": 1,
@@ -816,10 +816,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_708556-MLB94539607547_102025-AB-chapeu-fazendeiro-agro-proteco-estilo-juta-100-natural-nf.webp",
       "horarioProgramado": "16:02",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-09T19:02:43.381Z"
     },
     {
       "posicao": 49,
