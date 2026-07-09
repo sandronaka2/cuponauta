@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-09T21:11:55.856Z",
-  "exportedAt": "09/07/2026, 18:11:55",
+  "lastExport": "2026-07-09T21:18:11.644Z",
+  "exportedAt": "09/07/2026, 18:18:11",
   "total": 100,
-  "pendentes": 40,
-  "postados": 60,
+  "pendentes": 38,
+  "postados": 62,
   "queue": [
     {
       "posicao": 1,
@@ -1029,18 +1029,18 @@
       "posicao": 61,
       "id": "wa-1812-60",
       "titulo": "Monitor Pc Gamer LG 27 Ips, Full Hd, 100hz, Hdmi - 27ms500-b Bivolt Preto 127/220v",
-      "preco": "R$ 579,00",
+      "preco": "R$ 629",
       "precoOriginal": "R$1.499",
       "desconto": "57% OFF no Pix",
-      "cupom": "ALLSITE20",
+      "cupom": null,
       "link": "https://meli.la/2RmQDB5",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_762062-MLA99992079481_112025-AB.webp",
       "horarioProgramado": "18:12",
       "janela": "18:00-21:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-09T21:12:48.006Z"
     },
     {
       "posicao": 62,
@@ -1054,10 +1054,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_967114-MLB91725685199_092025-AB-conjunto-com-colete-em-linho-plus-size-moda-elegante.webp",
       "horarioProgramado": "18:18",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-09T21:18:10.543Z"
     },
     {
       "posicao": 63,
