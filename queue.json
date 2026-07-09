@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-09T22:58:11.726Z",
-  "exportedAt": "09/07/2026, 19:58:11",
+  "lastExport": "2026-07-09T23:00:12.567Z",
+  "exportedAt": "09/07/2026, 20:00:12",
   "total": 100,
-  "pendentes": 23,
-  "postados": 77,
+  "pendentes": 22,
+  "postados": 78,
   "queue": [
     {
       "posicao": 1,
@@ -1318,18 +1318,18 @@
       "posicao": 78,
       "id": "wa-1958-77",
       "titulo": "Óculos De Sol New Caravan Unissex Ray-ban Quadrado Ouro Verde",
-      "preco": "R$ 329,00",
+      "preco": "R$ 379",
       "precoOriginal": "R$1.050",
       "desconto": "63% OFF no Pix ou Saldo no Mercado Pago",
-      "cupom": "ALLSITE20",
+      "cupom": null,
       "link": "https://meli.la/1Qh1VTc",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_933661-MLA99484697218_112025-AB.webp",
       "horarioProgramado": "19:58",
       "janela": "18:00-21:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-09T22:58:14.340Z"
     },
     {
       "posicao": 79,
