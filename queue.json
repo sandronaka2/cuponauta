@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-09T15:50:26.702Z",
-  "exportedAt": "09/07/2026, 12:50:26",
+  "lastExport": "2026-07-09T15:58:10.152Z",
+  "exportedAt": "09/07/2026, 12:58:10",
   "total": 100,
-  "pendentes": 74,
-  "postados": 26,
+  "pendentes": 73,
+  "postados": 27,
   "queue": [
     {
       "posicao": 1,
@@ -459,10 +459,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_738753-MLB80195657237_102024-AB-kit-3-camisetas-regata-macho-masculina-plus-size-dry-fit.webp",
       "horarioProgramado": "12:53",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-09T15:53:52.730Z"
     },
     {
       "posicao": 28,
