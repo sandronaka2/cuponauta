@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-09T17:01:32.091Z",
-  "exportedAt": "09/07/2026, 14:01:32",
+  "lastExport": "2026-07-09T17:01:52.071Z",
+  "exportedAt": "09/07/2026, 14:01:52",
   "total": 100,
-  "pendentes": 63,
-  "postados": 37,
+  "pendentes": 62,
+  "postados": 38,
   "queue": [
     {
       "posicao": 1,
@@ -641,15 +641,15 @@
       "preco": "R$ 2941,00",
       "precoOriginal": "R$3.999",
       "desconto": "25% OFF no Pix ou Saldo no Mercado Pago",
-      "cupom": "TODOOSITEANITTACO",
+      "cupom": "ALLSITE20",
       "link": "https://meli.la/1LLioyN",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_628252-MLA106975331426_022026-AB.webp",
       "horarioProgramado": "14:01",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-09T17:01:50.758Z"
     },
     {
       "posicao": 39,
