@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-09T20:44:25.503Z",
-  "exportedAt": "09/07/2026, 17:44:25",
+  "lastExport": "2026-07-09T20:48:11.626Z",
+  "exportedAt": "09/07/2026, 17:48:11",
   "total": 100,
-  "pendentes": 44,
-  "postados": 56,
+  "pendentes": 43,
+  "postados": 57,
   "queue": [
     {
       "posicao": 1,
@@ -961,18 +961,18 @@
       "posicao": 57,
       "id": "wa-1746-56",
       "titulo": "Creamass Hipercalórico Pouch Morango 3kg Integralmédica",
-      "preco": "R$ 68,00",
+      "preco": "R$ 85",
       "precoOriginal": "R$160",
       "desconto": "46% OFF",
-      "cupom": "ALLSITE20",
+      "cupom": null,
       "link": "https://meli.la/1i59Wgo",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_856140-MLA99990401359_112025-AB.webp",
       "horarioProgramado": "17:46",
       "janela": "14:00-18:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-09T20:46:21.029Z"
     },
     {
       "posicao": 58,
