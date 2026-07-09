@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-09T23:22:27.314Z",
-  "exportedAt": "09/07/2026, 20:22:27",
+  "lastExport": "2026-07-09T23:25:03.302Z",
+  "exportedAt": "09/07/2026, 20:25:03",
   "total": 100,
-  "pendentes": 19,
-  "postados": 81,
+  "pendentes": 18,
+  "postados": 82,
   "queue": [
     {
       "posicao": 1,
@@ -1386,18 +1386,18 @@
       "posicao": 82,
       "id": "wa-2023-81",
       "titulo": "Óculos De Sol Masculino Polarizado Proteção Uv400 Original Premium Preto Preto Linha Vermelha",
-      "preco": "R$ 94,40",
+      "preco": "R$ 118",
       "precoOriginal": "R$149,90",
       "desconto": "20% OFF",
-      "cupom": "ALLSITE20",
+      "cupom": null,
       "link": "https://meli.la/1s7T9nF",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_964880-MLB92186586157_092025-AB.webp",
       "horarioProgramado": "20:23",
       "janela": "18:00-21:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-09T23:23:55.978Z"
     },
     {
       "posicao": 83,
