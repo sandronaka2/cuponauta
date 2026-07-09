@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-09T15:01:20.633Z",
-  "exportedAt": "09/07/2026, 12:01:20",
+  "lastExport": "2026-07-09T15:08:10.182Z",
+  "exportedAt": "09/07/2026, 12:08:10",
   "total": 100,
-  "pendentes": 82,
-  "postados": 18,
+  "pendentes": 80,
+  "postados": 20,
   "queue": [
     {
       "posicao": 1,
@@ -323,10 +323,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_869327-MLB80863649059_112024-AB.webp",
       "horarioProgramado": "12:01",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-09T15:01:48.763Z"
     },
     {
       "posicao": 20,
@@ -340,10 +340,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_865496-MLB109040193849_032026-AB-cinta-pos-parto-cesariana-kit-completo-original-ergo-premium.webp",
       "horarioProgramado": "12:07",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-09T15:07:34.717Z"
     },
     {
       "posicao": 21,
