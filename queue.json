@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-09T20:33:37.146Z",
-  "exportedAt": "09/07/2026, 17:33:37",
+  "lastExport": "2026-07-09T20:33:55.385Z",
+  "exportedAt": "09/07/2026, 17:33:55",
   "total": 100,
-  "pendentes": 45,
-  "postados": 55,
+  "pendentes": 44,
+  "postados": 56,
   "queue": [
     {
       "posicao": 1,
@@ -944,18 +944,18 @@
       "posicao": 56,
       "id": "wa-1733-55",
       "titulo": "Ventilador De Teto Retrátil Opusled Air Midas Com Luz Led Dimerizável E Controle Remoto, 46  46 Cm 50 Hz X 60 Hz Dourado-escuro Transparente Plástico 4",
-      "preco": "R$ 457,00",
+      "preco": "R$ 507",
       "precoOriginal": "R$827,14",
       "desconto": "38% OFF no Pix",
-      "cupom": "ALLSITE20",
+      "cupom": null,
       "link": "https://meli.la/2fPorBN",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_755083-MLA95692135282_102025-AB.webp",
       "horarioProgramado": "17:33",
       "janela": "14:00-18:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-09T20:33:49.985Z"
     },
     {
       "posicao": 57,
