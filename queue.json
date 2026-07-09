@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-09T21:30:12.497Z",
-  "exportedAt": "09/07/2026, 18:30:12",
+  "lastExport": "2026-07-09T21:35:35.391Z",
+  "exportedAt": "09/07/2026, 18:35:35",
   "total": 100,
-  "pendentes": 37,
-  "postados": 63,
+  "pendentes": 36,
+  "postados": 64,
   "queue": [
     {
       "posicao": 1,
@@ -1080,18 +1080,18 @@
       "posicao": 64,
       "id": "wa-1831-63",
       "titulo": "Kit Cobre Leito King 3 Pçs Colcha Dupla Face 150 Fios Veneza",
-      "preco": "R$ 85,60",
+      "preco": "R$ 107",
       "precoOriginal": "R$199,90",
       "desconto": "46% OFF no Pix",
-      "cupom": "ALLSITE20",
+      "cupom": null,
       "link": "https://meli.la/1rJ7S4J",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_602520-MLB109134996134_042026-AB-kit-cobre-leito-king-3-pcs-colcha-dupla-face-150-fios-veneza.webp",
       "horarioProgramado": "18:31",
       "janela": "18:00-21:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-09T21:31:07.040Z"
     },
     {
       "posicao": 65,
