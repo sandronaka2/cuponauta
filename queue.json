@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-10T00:12:28.018Z",
-  "exportedAt": "09/07/2026, 21:12:28",
+  "lastExport": "2026-07-10T00:18:11.801Z",
+  "exportedAt": "09/07/2026, 21:18:11",
   "total": 100,
-  "pendentes": 9,
-  "postados": 91,
+  "pendentes": 8,
+  "postados": 92,
   "queue": [
     {
       "posicao": 1,
@@ -1556,18 +1556,18 @@
       "posicao": 92,
       "id": "wa-2117-91",
       "titulo": "Robô Transformers Bumblebee Carro Camaro Amarelo Robot 5",
-      "preco": "R$ 102,40",
+      "preco": "R$ 128",
       "precoOriginal": "R$269,90",
       "desconto": "52% OFF no Pix",
-      "cupom": "ALLSITE20",
+      "cupom": null,
       "link": "https://meli.la/2LwtY2c",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_648714-MLA106422782673_022026-AB.webp",
       "horarioProgramado": "21:17",
       "janela": "21:00-22:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-10T00:17:11.035Z"
     },
     {
       "posicao": 93,
