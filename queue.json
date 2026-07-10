@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-10T00:25:58.013Z",
-  "exportedAt": "09/07/2026, 21:25:58",
+  "lastExport": "2026-07-10T00:28:11.859Z",
+  "exportedAt": "09/07/2026, 21:28:11",
   "total": 100,
-  "pendentes": 7,
-  "postados": 93,
+  "pendentes": 6,
+  "postados": 94,
   "queue": [
     {
       "posicao": 1,
@@ -1598,10 +1598,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_726236-MLB110968757592_052026-AB-pantufa-adultol-peluciada-termica-inverno-confortavel-luxo.webp",
       "horarioProgramado": "21:27",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-10T00:27:45.458Z"
     },
     {
       "posicao": 95,
