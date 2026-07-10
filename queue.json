@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-10T00:01:58.183Z",
-  "exportedAt": "09/07/2026, 21:01:58",
+  "lastExport": "2026-07-10T00:08:11.798Z",
+  "exportedAt": "09/07/2026, 21:08:11",
   "total": 100,
-  "pendentes": 11,
-  "postados": 89,
+  "pendentes": 10,
+  "postados": 90,
   "queue": [
     {
       "posicao": 1,
@@ -1522,18 +1522,18 @@
       "posicao": 90,
       "id": "wa-2105-89",
       "titulo": "Kit Pote Quadrado 9 Und Mantimento Hermético Transparente",
-      "preco": "R$ 80,00",
+      "preco": "R$ 100",
       "precoOriginal": "R$169,90",
       "desconto": "40% OFF no Pix",
-      "cupom": "ALLSITE20",
+      "cupom": null,
       "link": "https://meli.la/2RaTAnZ",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_849363-MLA113525695283_062026-AB.webp",
       "horarioProgramado": "21:05",
       "janela": "21:00-22:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-10T00:05:24.015Z"
     },
     {
       "posicao": 91,
