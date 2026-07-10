@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-10T00:01:03.813Z",
-  "exportedAt": "09/07/2026, 21:01:03",
+  "lastExport": "2026-07-10T00:01:18.552Z",
+  "exportedAt": "09/07/2026, 21:01:18",
   "total": 100,
-  "pendentes": 12,
-  "postados": 88,
+  "pendentes": 11,
+  "postados": 89,
   "queue": [
     {
       "posicao": 1,
@@ -1505,18 +1505,18 @@
       "posicao": 89,
       "id": "wa-2101-88",
       "titulo": "Imunofem Gummy Probiótico 40bi Feminino Ph Íntimo Saúdável Frutas Vermelhas 60 Gummy",
-      "preco": "R$ 83,20",
+      "preco": "R$ 104",
       "precoOriginal": "R$159,90",
       "desconto": "34% OFF",
-      "cupom": "ALLSITE20",
+      "cupom": null,
       "link": "https://meli.la/29p6Mpb",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_812407-MLB105396876246_012026-AB.webp",
       "horarioProgramado": "21:01",
       "janela": "21:00-22:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-10T00:01:12.051Z"
     },
     {
       "posicao": 90,
