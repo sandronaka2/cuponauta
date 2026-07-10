@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-10T00:48:11.818Z",
-  "exportedAt": "09/07/2026, 21:48:11",
+  "lastExport": "2026-07-10T00:50:12.710Z",
+  "exportedAt": "09/07/2026, 21:50:12",
   "total": 100,
-  "pendentes": 3,
-  "postados": 97,
+  "pendentes": 2,
+  "postados": 98,
   "queue": [
     {
       "posicao": 1,
@@ -1658,18 +1658,18 @@
       "posicao": 98,
       "id": "wa-2149-97",
       "titulo": "Aspirador De Água E Pó Philco 1500w 20l Pas80 Cor Preto 220v",
-      "preco": "R$ 151,20",
+      "preco": "R$ 189",
       "precoOriginal": "R$369,90",
       "desconto": "48% OFF",
-      "cupom": "ALLSITE20",
+      "cupom": null,
       "link": "https://meli.la/1bJT7Nn",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_910026-MLU77568033654_072024-AB.webp",
       "horarioProgramado": "21:49",
       "janela": "21:00-22:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-10T00:49:47.986Z"
     },
     {
       "posicao": 99,
