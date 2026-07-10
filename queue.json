@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-10T00:20:12.654Z",
-  "exportedAt": "09/07/2026, 21:20:12",
+  "lastExport": "2026-07-10T00:22:36.458Z",
+  "exportedAt": "09/07/2026, 21:22:36",
   "total": 100,
-  "pendentes": 8,
-  "postados": 92,
+  "pendentes": 7,
+  "postados": 93,
   "queue": [
     {
       "posicao": 1,
@@ -1581,10 +1581,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_753540-MLB112221671472_062026-AB-kit-10-calcinhas-tanga-sem-costura-premium-conforto.webp",
       "horarioProgramado": "21:22",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-10T00:22:26.895Z"
     },
     {
       "posicao": 94,
