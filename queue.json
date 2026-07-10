@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-10T00:10:12.638Z",
-  "exportedAt": "09/07/2026, 21:10:12",
+  "lastExport": "2026-07-10T00:12:08.081Z",
+  "exportedAt": "09/07/2026, 21:12:08",
   "total": 100,
-  "pendentes": 10,
-  "postados": 90,
+  "pendentes": 9,
+  "postados": 91,
   "queue": [
     {
       "posicao": 1,
@@ -1539,18 +1539,18 @@
       "posicao": 91,
       "id": "wa-2111-90",
       "titulo": "Micro-ondas Nn-st55lmruk 27 Litros Prata Panasonic 220v",
-      "preco": "R$ 540,00",
+      "preco": "R$ 590",
       "precoOriginal": "R$859",
       "desconto": "31% OFF no Pix ou Saldo no Mercado Pago",
-      "cupom": "ALLSITE20",
+      "cupom": null,
       "link": "https://meli.la/14vNTva",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_718404-MLA99974677245_112025-AB.webp",
       "horarioProgramado": "21:11",
       "janela": "21:00-22:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-10T00:11:29.014Z"
     },
     {
       "posicao": 92,
