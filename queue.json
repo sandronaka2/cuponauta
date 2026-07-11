@@ -1,8 +1,8 @@
 {
-  "lastExport": "2026-07-11T00:11:36.287Z",
-  "exportedAt": "10/07/2026, 21:11:36",
+  "lastExport": "2026-07-11T00:18:14.107Z",
+  "exportedAt": "10/07/2026, 21:18:14",
   "total": 100,
-  "pendentes": 9,
+  "pendentes": 8,
   "postados": 9,
   "queue": [
     {
@@ -1564,7 +1564,7 @@
       "imagem": null,
       "horarioProgramado": "21:16",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "erro",
       "fonte": "OFERTA",
       "boostType": null,
       "postedAt": null
