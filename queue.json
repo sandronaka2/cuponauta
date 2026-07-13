@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-13T16:43:55.397Z",
-  "exportedAt": "13/07/2026, 13:43:55",
+  "lastExport": "2026-07-13T16:53:55.421Z",
+  "exportedAt": "13/07/2026, 13:53:55",
   "total": 100,
-  "pendentes": 83,
-  "postados": 17,
+  "pendentes": 81,
+  "postados": 19,
   "queue": [
     {
       "posicao": 1,
@@ -595,10 +595,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_924045-MLB109277939076_042026-C-poltrona-balance-para-sala-com-leve-balanco-boucle-premium.webp",
       "horarioProgramado": "13:45",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-13T16:45:15.705Z"
     },
     {
       "posicao": 36,
@@ -612,10 +612,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_944296-MLB113962311447_062026-V.webp",
       "horarioProgramado": "13:53",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-13T16:53:30.058Z"
     },
     {
       "posicao": 37,
