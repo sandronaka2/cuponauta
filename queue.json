@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-13T16:13:55.354Z",
-  "exportedAt": "13/07/2026, 13:13:55",
+  "lastExport": "2026-07-13T16:23:55.399Z",
+  "exportedAt": "13/07/2026, 13:23:55",
   "total": 100,
-  "pendentes": 87,
-  "postados": 13,
+  "pendentes": 86,
+  "postados": 14,
   "queue": [
     {
       "posicao": 1,
@@ -527,10 +527,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_622340-MLB113814664311_062026-AB-canva-pro-premium-entrega-imediata-no-seu-e-mail.webp",
       "horarioProgramado": "13:19",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-13T16:19:49.688Z"
     },
     {
       "posicao": 32,
