@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-13T22:03:55.739Z",
-  "exportedAt": "13/07/2026, 19:03:55",
+  "lastExport": "2026-07-13T22:13:55.755Z",
+  "exportedAt": "13/07/2026, 19:13:55",
   "total": 100,
-  "pendentes": 48,
-  "postados": 52,
+  "pendentes": 47,
+  "postados": 53,
   "queue": [
     {
       "posicao": 1,
@@ -1190,10 +1190,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_631825-MLB94100842906_102025-V-roda-meio-autocolante-flexivel-eva-25cm-5m-rm61.webp",
       "horarioProgramado": "19:09",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-13T22:09:49.686Z"
     },
     {
       "posicao": 71,
