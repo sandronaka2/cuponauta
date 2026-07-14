@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-14T14:13:56.669Z",
-  "exportedAt": "14/07/2026, 11:13:56",
+  "lastExport": "2026-07-14T14:23:56.687Z",
+  "exportedAt": "14/07/2026, 11:23:56",
   "total": 100,
-  "pendentes": 87,
-  "postados": 13,
+  "pendentes": 86,
+  "postados": 14,
   "queue": [
     {
       "posicao": 1,
@@ -238,10 +238,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_710978-MLB97239349269_112025-N-camiseta-armybr-tech-modal-masculina.webp",
       "horarioProgramado": "11:15",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-14T14:15:09.852Z"
     },
     {
       "posicao": 15,
