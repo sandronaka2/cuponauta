@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-14T22:03:59.685Z",
-  "exportedAt": "14/07/2026, 19:03:59",
+  "lastExport": "2026-07-14T22:08:39.843Z",
+  "exportedAt": "14/07/2026, 19:08:39",
   "total": 100,
-  "pendentes": 31,
-  "postados": 69,
+  "pendentes": 30,
+  "postados": 70,
   "queue": [
     {
       "posicao": 1,
@@ -1190,10 +1190,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_811585-MLB88164049998_072025-B-top-fitness-feminino-euphoria-com-decote-reto-estampa-dlk.webp",
       "horarioProgramado": "19:08",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-14T22:08:25.897Z"
     },
     {
       "posicao": 71,
