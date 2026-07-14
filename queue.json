@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-14T14:53:56.693Z",
-  "exportedAt": "14/07/2026, 11:53:56",
+  "lastExport": "2026-07-14T15:03:56.697Z",
+  "exportedAt": "14/07/2026, 12:03:56",
   "total": 100,
-  "pendentes": 83,
-  "postados": 17,
+  "pendentes": 81,
+  "postados": 19,
   "queue": [
     {
       "posicao": 1,
@@ -306,10 +306,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_659911-MLB105106338378_012026-B-macaquinho-fitness-feminino-com-alcas-regulaveis-soul-dlk.webp",
       "horarioProgramado": "11:58",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-14T14:58:15.148Z"
     },
     {
       "posicao": 19,
@@ -323,10 +323,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_971296-MLU73992707026_012024-N.webp",
       "horarioProgramado": "12:01",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-14T15:01:52.987Z"
     },
     {
       "posicao": 20,
