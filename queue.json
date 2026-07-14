@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-14T15:13:56.724Z",
-  "exportedAt": "14/07/2026, 12:13:56",
+  "lastExport": "2026-07-14T15:23:56.741Z",
+  "exportedAt": "14/07/2026, 12:23:56",
   "total": 100,
-  "pendentes": 80,
-  "postados": 20,
+  "pendentes": 78,
+  "postados": 22,
   "queue": [
     {
       "posicao": 1,
@@ -357,10 +357,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_657772-MLA96135232347_102025-B.webp",
       "horarioProgramado": "12:14",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-14T15:14:10.084Z"
     },
     {
       "posicao": 22,
@@ -374,10 +374,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_715175-MLB109037423405_032026-B-top-fitness-feminino-com-alca-dupla-aura-dlk.webp",
       "horarioProgramado": "12:20",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-14T15:20:26.470Z"
     },
     {
       "posicao": 23,
