@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-15T12:58:43.662Z",
-  "exportedAt": "15/07/2026, 09:58:43",
+  "lastExport": "2026-07-15T12:58:55.008Z",
+  "exportedAt": "15/07/2026, 09:58:55",
   "total": 100,
-  "pendentes": 95,
-  "postados": 5,
+  "pendentes": 94,
+  "postados": 6,
   "queue": [
     {
       "posicao": 1,
@@ -94,18 +94,18 @@
       "posicao": 6,
       "id": "wa-0958-5",
       "titulo": "Smart Tv Aoc Dled 32 Wi-fi Roku Tv Quad Core 32s5155/78g",
-      "preco": "R$ 928",
+      "preco": "R$ 788,80",
       "precoOriginal": "R$956,99",
       "desconto": "no Pix",
-      "cupom": "TVCASASBAHIA",
+      "cupom": "OFFMELI",
       "link": "https://meli.la/1i5wULc",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_604677-MLA99856413557_112025-T.webp",
       "horarioProgramado": "09:58",
       "janela": "09:00-10:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-15T12:58:48.323Z"
     },
     {
       "posicao": 7,
