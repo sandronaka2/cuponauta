@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-15T14:04:05.728Z",
-  "exportedAt": "15/07/2026, 11:04:05",
+  "lastExport": "2026-07-15T14:06:47.401Z",
+  "exportedAt": "15/07/2026, 11:06:47",
   "total": 100,
-  "pendentes": 89,
-  "postados": 11,
+  "pendentes": 88,
+  "postados": 12,
   "queue": [
     {
       "posicao": 1,
@@ -213,18 +213,18 @@
       "posicao": 13,
       "id": "wa-1104-12",
       "titulo": "Smart Tv 98 4k Uhd Samsung Vision Ai Qn98q7faagxzd Qled 120h",
-      "preco": "R$ 21376,00",
+      "preco": "R$ 21286,00",
       "precoOriginal": "R$24.699",
       "desconto": "13% OFF no Pix",
-      "cupom": "MELIOFFHOJE",
+      "cupom": "OFFMELI",
       "link": "https://meli.la/1e83hJU",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_657773-MLB110419492445_042026-T.webp",
       "horarioProgramado": "11:04",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-15T14:04:31.886Z"
     },
     {
       "posicao": 14,
