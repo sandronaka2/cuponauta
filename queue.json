@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-15T15:13:56.623Z",
-  "exportedAt": "15/07/2026, 12:13:56",
+  "lastExport": "2026-07-15T15:14:42.087Z",
+  "exportedAt": "15/07/2026, 12:14:42",
   "total": 100,
-  "pendentes": 86,
-  "postados": 14,
+  "pendentes": 85,
+  "postados": 15,
   "queue": [
     {
       "posicao": 1,
@@ -349,18 +349,18 @@
       "posicao": 21,
       "id": "wa-1214-20",
       "titulo": "Smartphone Oppo A6x 128GB 12GB Ram (4GB + 8GB Virtual Ram) Bateria Gigante 6500 mAh Câmera AI NFC Violeta",
-      "preco": "R$ 858,00",
+      "preco": "R$ 780,30",
       "precoOriginal": "R$998,89",
       "desconto": "8% OFF",
-      "cupom": "MELIOFFHOJE",
+      "cupom": "OFFMELI",
       "link": "https://meli.la/1LwMFGH",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_627707-MLA107744362240_032026-T.webp",
       "horarioProgramado": "12:14",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-15T15:14:34.934Z"
     },
     {
       "posicao": 22,
