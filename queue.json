@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-15T14:14:05.735Z",
-  "exportedAt": "15/07/2026, 11:14:05",
+  "lastExport": "2026-07-15T14:15:07.362Z",
+  "exportedAt": "15/07/2026, 11:15:07",
   "total": 100,
-  "pendentes": 88,
-  "postados": 12,
+  "pendentes": 87,
+  "postados": 13,
   "queue": [
     {
       "posicao": 1,
@@ -230,18 +230,18 @@
       "posicao": 14,
       "id": "wa-1114-13",
       "titulo": "Smart TV Hisense de 65 polegadas Vidaa 65u6qv Uled 4k",
-      "preco": "R$ 4498,00",
+      "preco": "R$ 4408,00",
       "precoOriginal": "R$4.699",
       "desconto": "no Pix",
-      "cupom": "MELIOFFHOJE",
+      "cupom": "OFFMELI",
       "link": "https://meli.la/1jbfkrM",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_638489-MLA91733155873_092025-T.webp",
       "horarioProgramado": "11:14",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-15T14:14:45.900Z"
     },
     {
       "posicao": 15,
