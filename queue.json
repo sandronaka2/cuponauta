@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-16T22:14:51.969Z",
-  "exportedAt": "16/07/2026, 19:14:51",
+  "lastExport": "2026-07-16T23:54:52.029Z",
+  "exportedAt": "16/07/2026, 20:54:52",
   "total": 100,
-  "pendentes": 29,
-  "postados": 71,
+  "pendentes": 13,
+  "postados": 87,
   "queue": [
     {
       "posicao": 1,
@@ -1224,27 +1224,27 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_918926-MLB105406941176_012026-AB-kit-4-camiseta-dry-fit-feminina-academia-fitness-tapa-bumbum.webp",
       "horarioProgramado": "19:20",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-16T22:20:29.876Z"
     },
     {
       "posicao": 73,
       "id": "wa-1927-72",
       "titulo": "Bolsa Feminina Pequena Schutz Shoulder Tina Tiracolo Couro",
-      "preco": "R$ 357,00",
+      "preco": "R$ 417",
       "precoOriginal": "R$490",
       "desconto": null,
-      "cupom": "COMPRAHOJE",
+      "cupom": null,
       "link": "https://meli.la/2VaWdLC",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_975463-MLB113028412010_072026-B-bolsa-feminina-pequena-schutz-shoulder-tina-tiracolo-couro.webp",
       "horarioProgramado": "19:27",
       "janela": "18:00-21:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-16T22:27:26.954Z"
     },
     {
       "posicao": 74,
@@ -1258,10 +1258,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_961413-MLA80073460582_102024-B.webp",
       "horarioProgramado": "19:33",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-16T22:33:36.962Z"
     },
     {
       "posicao": 75,
@@ -1275,10 +1275,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_713104-MLA88000183634_072025-B.webp",
       "horarioProgramado": "19:39",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-16T22:39:15.000Z"
     },
     {
       "posicao": 76,
@@ -1292,27 +1292,27 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_930070-MLB106758015660_022026-L-kit-6-cuecas-box-boxer-masculina-microfibra-sortidas.webp",
       "horarioProgramado": "19:45",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-16T22:45:28.901Z"
     },
     {
       "posicao": 77,
       "id": "wa-1951-76",
       "titulo": "Mouse Gamer Sem Fio Attack Shark V6 25000dpi Black",
-      "preco": "R$ 109,65",
+      "preco": "R$ 129",
       "precoOriginal": "R$186,81",
       "desconto": null,
-      "cupom": "COMPRAHOJE",
+      "cupom": null,
       "link": "https://meli.la/1FfN1BJ",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_660329-CBT110624918960_052026-AB.webp",
       "horarioProgramado": "19:51",
       "janela": "18:00-21:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-16T22:51:41.934Z"
     },
     {
       "posicao": 78,
@@ -1326,44 +1326,44 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_603259-MLB110827957374_052026-L-pijama-adulto-curto-masculino-confortavel-pijamas-vero.webp",
       "horarioProgramado": "19:58",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-16T22:58:17.720Z"
     },
     {
       "posicao": 79,
       "id": "wa-2004-78",
       "titulo": "Placa Amplificadora Bluetooth Para Alto-falante 12-220v 80w",
-      "preco": "R$ 71,40",
+      "preco": "R$ 84",
       "precoOriginal": "R$99,98",
       "desconto": "15% OFF no Pix ou Saldo no Mercado Pago",
-      "cupom": "COMPRAHOJE",
+      "cupom": null,
       "link": "https://meli.la/1dxD8Fs",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_602805-MLB90152913440_082025-N.webp",
       "horarioProgramado": "20:04",
       "janela": "18:00-21:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-16T23:04:20.095Z"
     },
     {
       "posicao": 80,
       "id": "wa-2010-79",
       "titulo": "Perfume Rabanne Invictus Eau De Toilette 200 Ml Masculino",
-      "preco": "R$ 508,00",
+      "preco": "R$ 568",
       "precoOriginal": "R$1.029",
       "desconto": "44% OFF no Pix",
-      "cupom": "COMPRAHOJE",
+      "cupom": null,
       "link": "https://meli.la/14je3Cy",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_612343-MLA93046552852_092025-AB.webp",
       "horarioProgramado": "20:10",
       "janela": "18:00-21:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-16T23:10:24.037Z"
     },
     {
       "posicao": 81,
@@ -1377,27 +1377,27 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_765312-MLB110742603105_042026-N.webp",
       "horarioProgramado": "20:16",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-16T23:16:45.346Z"
     },
     {
       "posicao": 82,
       "id": "wa-2022-81",
       "titulo": "Smartphone Motorola Moto G17 4g - 128gb 12gb (4gb Ram + 8gb Ram Boost) Camera 50mp Sony Lytia 600, Tela Fhd+ 60hz, Bateria 5200 Mah - Roxo",
-      "preco": "R$ 761,00",
+      "preco": "R$ 821",
       "precoOriginal": "R$1.599",
       "desconto": "48% OFF no Pix ou Saldo no Mercado Pago",
-      "cupom": "COMPRAHOJE",
+      "cupom": null,
       "link": "https://meli.la/2nWLGYF",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_607340-MLA105493148188_012026-L.webp",
       "horarioProgramado": "20:22",
       "janela": "18:00-21:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-16T23:22:07.121Z"
     },
     {
       "posicao": 83,
@@ -1411,27 +1411,27 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_986725-MLA112454845899_052026-B.webp",
       "horarioProgramado": "20:29",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-16T23:29:28.849Z"
     },
     {
       "posicao": 84,
       "id": "wa-2035-83",
       "titulo": "Sérum Niacinamida 10% + Zinco 1% The Ordinary 30 Ml Todo Tipo De Pele Dia/noite",
-      "preco": "R$ 101,15",
+      "preco": "R$ 119",
       "precoOriginal": "R$123",
       "desconto": "3% OFF",
-      "cupom": "COMPRAHOJE",
+      "cupom": null,
       "link": "https://meli.la/2b4qDoQ",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_731413-MLA74650234692_022024-AB.webp",
       "horarioProgramado": "20:35",
       "janela": "18:00-21:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-16T23:35:37.939Z"
     },
     {
       "posicao": 85,
@@ -1445,27 +1445,27 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_834904-MLB111413207681_052026-AB.webp",
       "horarioProgramado": "20:41",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-16T23:41:58.185Z"
     },
     {
       "posicao": 86,
       "id": "wa-2047-85",
       "titulo": "T-shirt Manga Curta Com Bordado",
-      "preco": "R$ 68,85",
+      "preco": "R$ 81",
       "precoOriginal": "R$297",
       "desconto": "72% OFF no Pix",
-      "cupom": "COMPRAHOJE",
+      "cupom": null,
       "link": "https://meli.la/2WTVTzy",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_996307-MLB110353936196_052026-T.webp",
       "horarioProgramado": "20:47",
       "janela": "18:00-21:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-16T23:47:24.919Z"
     },
     {
       "posicao": 87,
@@ -1479,10 +1479,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_993360-MLA99247204066_112025-B.webp",
       "horarioProgramado": "20:53",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-16T23:53:11.731Z"
     },
     {
       "posicao": 88,
