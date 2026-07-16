@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-16T12:54:50.160Z",
-  "exportedAt": "16/07/2026, 09:54:50",
+  "lastExport": "2026-07-16T13:04:21.463Z",
+  "exportedAt": "16/07/2026, 10:04:21",
   "total": 100,
-  "pendentes": 95,
-  "postados": 5,
+  "pendentes": 93,
+  "postados": 7,
   "queue": [
     {
       "posicao": 1,
@@ -94,18 +94,18 @@
       "posicao": 6,
       "id": "wa-0958-5",
       "titulo": "Casaco Manga Longa Com Decote V",
-      "preco": "R$ 317,90",
+      "preco": "R$ 374",
       "precoOriginal": "R$783",
       "desconto": "52% OFF no Pix",
-      "cupom": "COMPRAHOJE",
+      "cupom": null,
       "link": "https://meli.la/2PoqTuT",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_734245-MLB107749454037_022026-T.webp",
       "horarioProgramado": "09:58",
       "janela": "09:00-10:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-16T12:58:10.644Z"
     },
     {
       "posicao": 7,
@@ -119,10 +119,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_914377-MLB111782539169_052026-AB.webp",
       "horarioProgramado": "10:01",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-16T13:01:34.170Z"
     },
     {
       "posicao": 8,
