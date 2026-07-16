@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-16T19:44:51.771Z",
-  "exportedAt": "16/07/2026, 16:44:51",
+  "lastExport": "2026-07-16T19:54:51.793Z",
+  "exportedAt": "16/07/2026, 16:54:51",
   "total": 100,
-  "pendentes": 49,
-  "postados": 51,
+  "pendentes": 48,
+  "postados": 52,
   "queue": [
     {
       "posicao": 1,
@@ -876,18 +876,18 @@
       "posicao": 52,
       "id": "wa-1648-51",
       "titulo": "Dos Namorados By Attracione",
-      "preco": "R$ 84,15",
+      "preco": "R$ 99",
       "precoOriginal": "R$399",
       "desconto": "75% OFF",
-      "cupom": "COMPRAHOJE",
+      "cupom": null,
       "link": "https://meli.la/21wxBdu",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_786620-MLA94887543183_102025-L.webp",
       "horarioProgramado": "16:48",
       "janela": "14:00-18:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-16T19:48:52.304Z"
     },
     {
       "posicao": 53,
