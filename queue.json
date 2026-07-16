@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-16T17:34:50.507Z",
-  "exportedAt": "16/07/2026, 14:34:50",
+  "lastExport": "2026-07-16T17:44:50.520Z",
+  "exportedAt": "16/07/2026, 14:44:50",
   "total": 100,
-  "pendentes": 60,
-  "postados": 40,
+  "pendentes": 59,
+  "postados": 41,
   "queue": [
     {
       "posicao": 1,
@@ -689,18 +689,18 @@
       "posicao": 41,
       "id": "wa-1436-40",
       "titulo": "Pillow Top Protetor Colchão Casal 400 Fios Casa Casual Branco",
-      "preco": "R$ 141,95",
+      "preco": "R$ 167",
       "precoOriginal": "R$186,27",
       "desconto": "10% OFF",
-      "cupom": "COMPRAHOJE",
+      "cupom": null,
       "link": "https://meli.la/33tg2mk",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_899917-MLA99592463068_122025-L.webp",
       "horarioProgramado": "14:36",
       "janela": "14:00-18:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-16T17:36:14.137Z"
     },
     {
       "posicao": 42,
