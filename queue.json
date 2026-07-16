@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-16T15:07:10.713Z",
-  "exportedAt": "16/07/2026, 12:07:10",
+  "lastExport": "2026-07-16T15:14:50.351Z",
+  "exportedAt": "16/07/2026, 12:14:50",
   "total": 100,
-  "pendentes": 81,
-  "postados": 19,
+  "pendentes": 80,
+  "postados": 20,
   "queue": [
     {
       "posicao": 1,
@@ -332,18 +332,18 @@
       "posicao": 20,
       "id": "wa-1210-19",
       "titulo": "Boneco Bebê Reborn Menino 100% Silicone Principe Acessórios",
-      "preco": "R$ 79,90",
+      "preco": "R$ 94",
       "precoOriginal": "R$172,12",
       "desconto": null,
-      "cupom": "COMPRAHOJE",
+      "cupom": null,
       "link": "https://meli.la/2qAeS9x",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_639158-MLB114497730835_072026-AB.webp",
       "horarioProgramado": "12:10",
       "janela": "12:00-14:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-16T15:10:51.010Z"
     },
     {
       "posicao": 21,
