@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-16T21:34:51.893Z",
-  "exportedAt": "16/07/2026, 18:34:51",
+  "lastExport": "2026-07-16T21:44:51.908Z",
+  "exportedAt": "16/07/2026, 18:44:51",
   "total": 100,
-  "pendentes": 36,
-  "postados": 64,
+  "pendentes": 34,
+  "postados": 66,
   "queue": [
     {
       "posicao": 1,
@@ -1105,27 +1105,27 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_756569-MLA103879691705_012026-B.webp",
       "horarioProgramado": "18:37",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-16T21:37:54.329Z"
     },
     {
       "posicao": 66,
       "id": "wa-1843-65",
       "titulo": "Jaqueta Masculina Sarja Jeans Slim Cores Clássicas Premium",
-      "preco": "R$ 92,65",
+      "preco": "R$ 109",
       "precoOriginal": "R$179",
       "desconto": null,
-      "cupom": "COMPRAHOJE",
+      "cupom": null,
       "link": "https://meli.la/2Gpn4nZ",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_871648-MLB87582267608_072025-B-jaqueta-masculina-sarja-jeans-slim-cores-classicas-premium.webp",
       "horarioProgramado": "18:43",
       "janela": "18:00-21:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-16T21:43:25.990Z"
     },
     {
       "posicao": 67,
