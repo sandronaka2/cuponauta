@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-16T12:34:50.136Z",
-  "exportedAt": "16/07/2026, 09:34:50",
+  "lastExport": "2026-07-16T12:44:50.123Z",
+  "exportedAt": "16/07/2026, 09:44:50",
   "total": 100,
-  "pendentes": 97,
-  "postados": 3,
+  "pendentes": 96,
+  "postados": 4,
   "queue": [
     {
       "posicao": 1,
@@ -60,18 +60,18 @@
       "posicao": 4,
       "id": "wa-0937-3",
       "titulo": "Sandália Salto Médio Espiral",
-      "preco": "R$ 127,50",
+      "preco": "R$ 150",
       "precoOriginal": "R$547",
       "desconto": "72% OFF no Pix",
-      "cupom": "COMPRAHOJE",
+      "cupom": null,
       "link": "https://meli.la/27dP33C",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_653872-MLB83301105005_032025-T-sandalia-salto-medio-espiral.webp",
       "horarioProgramado": "09:37",
       "janela": "09:00-10:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-16T12:37:55.036Z"
     },
     {
       "posicao": 5,
