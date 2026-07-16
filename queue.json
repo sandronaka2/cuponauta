@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-16T15:54:50.386Z",
-  "exportedAt": "16/07/2026, 12:54:50",
+  "lastExport": "2026-07-16T16:04:32.167Z",
+  "exportedAt": "16/07/2026, 13:04:32",
   "total": 100,
-  "pendentes": 74,
-  "postados": 26,
+  "pendentes": 72,
+  "postados": 28,
   "queue": [
     {
       "posicao": 1,
@@ -459,27 +459,27 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_603626-MLA100079664369_122025-N.webp",
       "horarioProgramado": "12:56",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-16T15:56:39.542Z"
     },
     {
       "posicao": 28,
       "id": "wa-1302-27",
       "titulo": "Smartphone Motorola Edge 60 Neo 5g - 512gb 24gb (12gb Ram + 12gb Ram Boost) 50mp Sony Camera Moto Ai E Tela 1.5k Super Hd - Late",
-      "preco": "R$ 2009,00",
+      "preco": "R$ 2.069",
       "precoOriginal": "R$3.999",
       "desconto": "48% OFF no Pix ou Saldo no Mercado Pago",
-      "cupom": "COMPRAHOJE",
+      "cupom": null,
       "link": "https://meli.la/1ekkfbj",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_703571-MLA93504208204_102025-L.webp",
       "horarioProgramado": "13:02",
       "janela": "12:00-14:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-16T16:02:43.898Z"
     },
     {
       "posicao": 29,
