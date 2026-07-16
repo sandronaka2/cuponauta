@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-16T16:34:50.449Z",
-  "exportedAt": "16/07/2026, 13:34:50",
+  "lastExport": "2026-07-16T16:44:50.459Z",
+  "exportedAt": "16/07/2026, 13:44:50",
   "total": 100,
-  "pendentes": 67,
-  "postados": 33,
+  "pendentes": 66,
+  "postados": 34,
   "queue": [
     {
       "posicao": 1,
@@ -570,18 +570,18 @@
       "posicao": 34,
       "id": "wa-1341-33",
       "titulo": "Adaptador Sem Fio Ottocast Carplay/android Auto Play2vedio",
-      "preco": "R$ 302,60",
+      "preco": "R$ 356",
       "precoOriginal": "R$490,35",
       "desconto": "27% OFF",
-      "cupom": "COMPRAHOJE",
+      "cupom": null,
       "link": "https://meli.la/2Z7oDWx",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_661444-MLB94287440326_102025-L.webp",
       "horarioProgramado": "13:41",
       "janela": "12:00-14:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-16T16:41:21.914Z"
     },
     {
       "posicao": 35,
