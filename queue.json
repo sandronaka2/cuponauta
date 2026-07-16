@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-16T12:14:56.114Z",
-  "exportedAt": "16/07/2026, 09:14:56",
+  "lastExport": "2026-07-16T12:24:50.119Z",
+  "exportedAt": "16/07/2026, 09:24:50",
   "total": 100,
-  "pendentes": 99,
-  "postados": 1,
+  "pendentes": 98,
+  "postados": 2,
   "queue": [
     {
       "posicao": 1,
@@ -26,18 +26,18 @@
       "posicao": 2,
       "id": "wa-0915-1",
       "titulo": "Mochila Unisex New Balance Active Branco Liso",
-      "preco": "R$ 229,50",
+      "preco": "R$ 270",
       "precoOriginal": "R$429,99",
       "desconto": "37% OFF",
-      "cupom": "COMPRAHOJE",
+      "cupom": null,
       "link": "https://meli.la/1uQLhyx",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_794665-MLA106938393487_022026-E.webp",
       "horarioProgramado": "09:15",
       "janela": "09:00-10:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-16T12:15:15.987Z"
     },
     {
       "posicao": 3,
