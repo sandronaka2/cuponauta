@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-16T16:24:50.428Z",
-  "exportedAt": "16/07/2026, 13:24:50",
+  "lastExport": "2026-07-16T16:34:50.449Z",
+  "exportedAt": "16/07/2026, 13:34:50",
   "total": 100,
-  "pendentes": 69,
-  "postados": 31,
+  "pendentes": 67,
+  "postados": 33,
   "queue": [
     {
       "posicao": 1,
@@ -544,27 +544,27 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_653267-MLA99994358569_112025-B.webp",
       "horarioProgramado": "13:27",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-16T16:27:36.570Z"
     },
     {
       "posicao": 33,
       "id": "wa-1333-32",
       "titulo": "Creme Corporal Perfumado Hidratante De Nutrição Profunda Que Combate O Ressecamento Com Manteiga De Karité, Mugler Angel, 200ml",
-      "preco": "R$ 552,00",
+      "preco": "R$ 612",
       "precoOriginal": "R$709",
       "desconto": "13% OFF",
-      "cupom": "COMPRAHOJE",
+      "cupom": null,
       "link": "https://meli.la/2vBUiKL",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_929125-MLA110848466503_042026-AB.webp",
       "horarioProgramado": "13:33",
       "janela": "12:00-14:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-16T16:33:43.928Z"
     },
     {
       "posicao": 34,
