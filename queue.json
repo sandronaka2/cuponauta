@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-16T14:04:50.242Z",
-  "exportedAt": "16/07/2026, 11:04:50",
+  "lastExport": "2026-07-16T14:07:07.948Z",
+  "exportedAt": "16/07/2026, 11:07:07",
   "total": 100,
-  "pendentes": 88,
-  "postados": 12,
+  "pendentes": 87,
+  "postados": 13,
   "queue": [
     {
       "posicao": 1,
@@ -213,18 +213,18 @@
       "posicao": 13,
       "id": "wa-1106-12",
       "titulo": "Astana Capilar Vitamina Para Cabelos Oficial 1 Unidade",
-      "preco": "R$ 121,55",
+      "preco": "R$ 143",
       "precoOriginal": "R$159",
       "desconto": null,
-      "cupom": "COMPRAHOJE",
+      "cupom": null,
       "link": "https://meli.la/2FNB24v",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_939787-MLB108260168308_032026-L.webp",
       "horarioProgramado": "11:06",
       "janela": "10:00-12:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-16T14:06:54.212Z"
     },
     {
       "posicao": 14,
