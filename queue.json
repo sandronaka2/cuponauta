@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-16T18:07:14.773Z",
-  "exportedAt": "16/07/2026, 15:07:14",
+  "lastExport": "2026-07-16T18:14:51.694Z",
+  "exportedAt": "16/07/2026, 15:14:51",
   "total": 100,
-  "pendentes": 57,
-  "postados": 43,
+  "pendentes": 56,
+  "postados": 44,
   "queue": [
     {
       "posicao": 1,
@@ -740,18 +740,18 @@
       "posicao": 44,
       "id": "wa-1511-43",
       "titulo": "Relógio Smartwatch Esportivo Ip68 Bússola Lanterna Black Black Steel",
-      "preco": "R$ 121,55",
+      "preco": "R$ 143",
       "precoOriginal": "R$159,38",
       "desconto": null,
-      "cupom": "COMPRAHOJE",
+      "cupom": null,
       "link": "https://meli.la/2XBd7K7",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_983663-CBT112237308964_062026-AB.webp",
       "horarioProgramado": "15:11",
       "janela": "14:00-18:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-16T18:11:30.326Z"
     },
     {
       "posicao": 45,
