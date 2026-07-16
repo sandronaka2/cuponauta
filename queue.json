@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-16T15:34:50.354Z",
-  "exportedAt": "16/07/2026, 12:34:50",
+  "lastExport": "2026-07-16T15:44:50.386Z",
+  "exportedAt": "16/07/2026, 12:44:50",
   "total": 100,
-  "pendentes": 77,
-  "postados": 23,
+  "pendentes": 75,
+  "postados": 25,
   "queue": [
     {
       "posicao": 1,
@@ -408,27 +408,27 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_921527-MLB109943777981_042026-L.webp",
       "horarioProgramado": "12:37",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-16T15:37:10.163Z"
     },
     {
       "posicao": 25,
       "id": "wa-1244-24",
       "titulo": "Máscara Capilar De Hidratação Intensa Anti-frizz Com Proteção Térmica Até 230ºc Para Cabelos Secos E Indisciplinados, Discipline Oléo-relax, Kérastase 200ml",
-      "preco": "R$ 220,15",
+      "preco": "R$ 259",
       "precoOriginal": "R$429,90",
       "desconto": "39% OFF",
-      "cupom": "COMPRAHOJE",
+      "cupom": null,
       "link": "https://meli.la/1GsCyQd",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_807307-MLA99842245831_112025-AB.webp",
       "horarioProgramado": "12:44",
       "janela": "12:00-14:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-16T15:44:44.037Z"
     },
     {
       "posicao": 26,
