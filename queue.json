@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-16T22:07:22.444Z",
-  "exportedAt": "16/07/2026, 19:07:22",
+  "lastExport": "2026-07-16T22:14:51.969Z",
+  "exportedAt": "16/07/2026, 19:14:51",
   "total": 100,
-  "pendentes": 31,
-  "postados": 69,
+  "pendentes": 29,
+  "postados": 71,
   "queue": [
     {
       "posicao": 1,
@@ -1182,18 +1182,18 @@
       "posicao": 70,
       "id": "wa-1908-69",
       "titulo": "T-shirt Baby Look Com Estampa Frontal",
-      "preco": "R$ 124,10",
+      "preco": "R$ 146",
       "precoOriginal": "R$287",
       "desconto": "49% OFF",
-      "cupom": "COMPRAHOJE",
+      "cupom": null,
       "link": "https://meli.la/2yicMh1",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_679967-MLB108368107691_032026-T.webp",
       "horarioProgramado": "19:08",
       "janela": "18:00-21:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-16T22:08:09.139Z"
     },
     {
       "posicao": 71,
@@ -1207,10 +1207,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_753426-MLU75808861934_042024-B.webp",
       "horarioProgramado": "19:14",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-16T22:14:15.889Z"
     },
     {
       "posicao": 72,
