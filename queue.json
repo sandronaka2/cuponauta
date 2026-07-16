@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-16T20:34:51.825Z",
-  "exportedAt": "16/07/2026, 17:34:51",
+  "lastExport": "2026-07-16T20:44:51.914Z",
+  "exportedAt": "16/07/2026, 17:44:51",
   "total": 100,
-  "pendentes": 45,
-  "postados": 55,
+  "pendentes": 44,
+  "postados": 56,
   "queue": [
     {
       "posicao": 1,
@@ -944,18 +944,18 @@
       "posicao": 56,
       "id": "wa-1735-55",
       "titulo": "Mugler Body Lotion Angel Feminino Hidratante Corporal 200ml Neutra",
-      "preco": "R$ 566,00",
+      "preco": "R$ 626",
       "precoOriginal": "R$680,85",
       "desconto": "8% OFF no Pix",
-      "cupom": "COMPRAHOJE",
+      "cupom": null,
       "link": "https://meli.la/2gCmLLp",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_665275-MLU79256658415_092024-AB.webp",
       "horarioProgramado": "17:35",
       "janela": "14:00-18:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-16T20:35:25.050Z"
     },
     {
       "posicao": 57,
