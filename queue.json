@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-16T14:34:50.277Z",
-  "exportedAt": "16/07/2026, 11:34:50",
+  "lastExport": "2026-07-16T14:54:50.318Z",
+  "exportedAt": "16/07/2026, 11:54:50",
   "total": 100,
-  "pendentes": 85,
-  "postados": 15,
+  "pendentes": 83,
+  "postados": 17,
   "queue": [
     {
       "posicao": 1,
@@ -272,27 +272,27 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_797704-MLA99588504500_122025-B.webp",
       "horarioProgramado": "11:39",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-16T14:39:32.720Z"
     },
     {
       "posicao": 17,
       "id": "wa-1149-16",
       "titulo": "Saia Canelada Evasê Super Midi Lança Perfume",
-      "preco": "R$ 124,10",
+      "preco": "R$ 146",
       "precoOriginal": "R$463",
       "desconto": null,
-      "cupom": "COMPRAHOJE",
+      "cupom": null,
       "link": "https://meli.la/2tTh3wq",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_625435-MLB90179143584_082025-B-saia-canelada-evas-super-midi-lanca-perfume.webp",
       "horarioProgramado": "11:49",
       "janela": "10:00-12:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-16T14:49:09.055Z"
     },
     {
       "posicao": 18,
