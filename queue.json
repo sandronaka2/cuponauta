@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-16T18:44:51.722Z",
-  "exportedAt": "16/07/2026, 15:44:51",
+  "lastExport": "2026-07-16T18:54:51.735Z",
+  "exportedAt": "16/07/2026, 15:54:51",
   "total": 100,
-  "pendentes": 54,
-  "postados": 46,
+  "pendentes": 53,
+  "postados": 47,
   "queue": [
     {
       "posicao": 1,
@@ -791,18 +791,18 @@
       "posicao": 47,
       "id": "wa-1547-46",
       "titulo": "Jaqueta Puffer Levis Packable Quilted Vermelha  595440364",
-      "preco": "R$ 548,00",
+      "preco": "R$ 608",
       "precoOriginal": "R$999,90",
       "desconto": "39% OFF no Pix ou Saldo no Mercado Pago",
-      "cupom": "COMPRAHOJE",
+      "cupom": null,
       "link": "https://meli.la/2Z3jJjk",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_607610-MLB93046270788_092025-B-jaqueta-puffer-levis-packable-quilted-vermelha-595440364.webp",
       "horarioProgramado": "15:47",
       "janela": "14:00-18:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-16T18:47:33.039Z"
     },
     {
       "posicao": 48,
