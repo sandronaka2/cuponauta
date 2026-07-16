@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-16T14:24:50.254Z",
-  "exportedAt": "16/07/2026, 11:24:50",
+  "lastExport": "2026-07-16T14:34:50.277Z",
+  "exportedAt": "16/07/2026, 11:34:50",
   "total": 100,
-  "pendentes": 86,
-  "postados": 14,
+  "pendentes": 85,
+  "postados": 15,
   "queue": [
     {
       "posicao": 1,
@@ -255,10 +255,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_637517-MLB83792275601_042025-B-kit-10-pares-meias-mash-invisivel-esportiva-algodo-original.webp",
       "horarioProgramado": "11:29",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-16T14:29:41.121Z"
     },
     {
       "posicao": 16,
