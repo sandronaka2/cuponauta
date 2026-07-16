@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-16T20:07:21.325Z",
-  "exportedAt": "16/07/2026, 17:07:21",
+  "lastExport": "2026-07-16T20:14:51.858Z",
+  "exportedAt": "16/07/2026, 17:14:51",
   "total": 100,
-  "pendentes": 47,
-  "postados": 53,
+  "pendentes": 46,
+  "postados": 54,
   "queue": [
     {
       "posicao": 1,
@@ -910,18 +910,18 @@
       "posicao": 54,
       "id": "wa-1711-53",
       "titulo": "Memória RAM Kingston Fury Beast RGB DDR4 8GB 3200MHz para Desktop",
-      "preco": "R$ 625,00",
+      "preco": "R$ 685",
       "precoOriginal": "R$2.840",
       "desconto": "75% OFF",
-      "cupom": "COMPRAHOJE",
+      "cupom": null,
       "link": "https://meli.la/2hnyisN",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_803231-MLA99931805291_112025-N.webp",
       "horarioProgramado": "17:11",
       "janela": "14:00-18:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-16T20:11:53.107Z"
     },
     {
       "posicao": 55,
