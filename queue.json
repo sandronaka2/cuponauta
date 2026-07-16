@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-16T15:14:50.351Z",
-  "exportedAt": "16/07/2026, 12:14:50",
+  "lastExport": "2026-07-16T15:34:50.354Z",
+  "exportedAt": "16/07/2026, 12:34:50",
   "total": 100,
-  "pendentes": 80,
-  "postados": 20,
+  "pendentes": 77,
+  "postados": 23,
   "queue": [
     {
       "posicao": 1,
@@ -357,10 +357,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_755662-MLA99498152944_112025-L.webp",
       "horarioProgramado": "12:17",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-16T15:17:43.898Z"
     },
     {
       "posicao": 22,
@@ -374,27 +374,27 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_627460-MLA112822985466_072026-N.webp",
       "horarioProgramado": "12:24",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-16T15:24:37.832Z"
     },
     {
       "posicao": 23,
       "id": "wa-1230-22",
       "titulo": "Inversor De Carro Digital 12v-110v / 12v-220v 4000w Com Usb",
-      "preco": "R$ 204,85",
+      "preco": "R$ 241",
       "precoOriginal": "R$275,90",
       "desconto": "12% OFF no Pix",
-      "cupom": "COMPRAHOJE",
+      "cupom": null,
       "link": "https://meli.la/2WvZh4b",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_959140-MLB95963278421_102025-N-inversor-de-carro-digital-12v-110v-12v-220v-4000w-com-usb.webp",
       "horarioProgramado": "12:30",
       "janela": "12:00-14:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-16T15:30:13.179Z"
     },
     {
       "posicao": 24,
