@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-16T17:14:50.508Z",
-  "exportedAt": "16/07/2026, 14:14:50",
+  "lastExport": "2026-07-16T17:34:50.507Z",
+  "exportedAt": "16/07/2026, 14:34:50",
   "total": 100,
-  "pendentes": 61,
-  "postados": 39,
+  "pendentes": 60,
+  "postados": 40,
   "queue": [
     {
       "posicao": 1,
@@ -672,18 +672,18 @@
       "posicao": 40,
       "id": "wa-1424-39",
       "titulo": "Suporte Articulado com Pistão a Gás Para Dois Monitores Zinnia Nimbo 210 Branco 13 a 32 Pol com Dois Braços Articulados Ajustáveis",
-      "preco": "R$ 151,30",
+      "preco": "R$ 178",
       "precoOriginal": "R$569,40",
       "desconto": "68% OFF",
-      "cupom": "COMPRAHOJE",
+      "cupom": null,
       "link": "https://meli.la/1V7N88h",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_623719-MLA107727281623_022026-N.webp",
       "horarioProgramado": "14:24",
       "janela": "14:00-18:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-16T17:24:48.598Z"
     },
     {
       "posicao": 41,
