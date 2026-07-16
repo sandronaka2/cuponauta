@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-16T14:54:50.318Z",
-  "exportedAt": "16/07/2026, 11:54:50",
+  "lastExport": "2026-07-16T15:04:30.416Z",
+  "exportedAt": "16/07/2026, 12:04:30",
   "total": 100,
-  "pendentes": 83,
-  "postados": 17,
+  "pendentes": 81,
+  "postados": 19,
   "queue": [
     {
       "posicao": 1,
@@ -298,18 +298,18 @@
       "posicao": 18,
       "id": "wa-1158-17",
       "titulo": "Banqueta Banquinho Rodinha De Plástico Até 150 Kg Resistente",
-      "preco": "R$ 95,20",
+      "preco": "R$ 112",
       "precoOriginal": "R$134,99",
       "desconto": "17% OFF",
-      "cupom": "COMPRAHOJE",
+      "cupom": null,
       "link": "https://meli.la/2faZfsb",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_994795-MLB106838892992_022026-N.webp",
       "horarioProgramado": "11:58",
       "janela": "10:00-12:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-16T14:58:13.898Z"
     },
     {
       "posicao": 19,
@@ -323,10 +323,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_614260-MLB105578220534_012026-AB-kit-3-blusas-femininas-dry-fit-academia-tecido-antissuor.webp",
       "horarioProgramado": "12:01",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-16T15:01:30.539Z"
     },
     {
       "posicao": 20,
