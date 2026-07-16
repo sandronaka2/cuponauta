@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-16T16:05:05.419Z",
-  "exportedAt": "16/07/2026, 13:05:05",
+  "lastExport": "2026-07-16T16:24:50.428Z",
+  "exportedAt": "16/07/2026, 13:24:50",
   "total": 100,
-  "pendentes": 72,
-  "postados": 28,
+  "pendentes": 69,
+  "postados": 31,
   "queue": [
     {
       "posicao": 1,
@@ -485,18 +485,18 @@
       "posicao": 29,
       "id": "wa-1309-28",
       "titulo": "2 Frascos Lumielle Sérum",
-      "preco": "R$ 142,80",
+      "preco": "R$ 168",
       "precoOriginal": "R$197,90",
       "desconto": null,
-      "cupom": "COMPRAHOJE",
+      "cupom": null,
       "link": "https://meli.la/1UAQX4X",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_614968-MLB96163143444_102025-L.webp",
       "horarioProgramado": "13:09",
       "janela": "12:00-14:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-16T16:09:34.913Z"
     },
     {
       "posicao": 30,
@@ -510,27 +510,27 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_870643-MLA112569690273_062026-B.webp",
       "horarioProgramado": "13:15",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-16T16:15:27.412Z"
     },
     {
       "posicao": 31,
       "id": "wa-1321-30",
       "titulo": "20 Porta Jóias Para Viagem, Caixa / Bolsa Com Ziper P/ Anel",
-      "preco": "R$ 120,70",
+      "preco": "R$ 142",
       "precoOriginal": "R$159",
       "desconto": "10% OFF no Pix",
-      "cupom": "COMPRAHOJE",
+      "cupom": null,
       "link": "https://meli.la/1j8sotk",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_945155-MLB91339524342_092025-L-20-porta-joias-para-viagem-caixa-bolsa-com-ziper-p-anel.webp",
       "horarioProgramado": "13:21",
       "janela": "12:00-14:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-16T16:21:20.973Z"
     },
     {
       "posicao": 32,
