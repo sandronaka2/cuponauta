@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-16T19:14:51.761Z",
-  "exportedAt": "16/07/2026, 16:14:51",
+  "lastExport": "2026-07-16T19:34:51.748Z",
+  "exportedAt": "16/07/2026, 16:34:51",
   "total": 100,
-  "pendentes": 51,
-  "postados": 49,
+  "pendentes": 50,
+  "postados": 50,
   "queue": [
     {
       "posicao": 1,
@@ -842,18 +842,18 @@
       "posicao": 50,
       "id": "wa-1625-49",
       "titulo": "Jogo Toalhas Banho Grossas Macias Algodão 4pç Absorventes",
-      "preco": "R$ 78,20",
+      "preco": "R$ 92",
       "precoOriginal": "R$139,90",
       "desconto": "33% OFF",
-      "cupom": "COMPRAHOJE",
+      "cupom": null,
       "link": "https://meli.la/1rGTY5T",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_785463-MLB89373964059_082025-L-jogo-toalhas-banho-grossas-macias-algodo-4pc-absorventes.webp",
       "horarioProgramado": "16:25",
       "janela": "14:00-18:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-16T19:25:22.026Z"
     },
     {
       "posicao": 51,
