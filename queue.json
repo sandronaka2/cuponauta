@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-16T16:54:50.480Z",
-  "exportedAt": "16/07/2026, 13:54:50",
+  "lastExport": "2026-07-16T17:04:34.414Z",
+  "exportedAt": "16/07/2026, 14:04:34",
   "total": 100,
-  "pendentes": 64,
-  "postados": 36,
+  "pendentes": 62,
+  "postados": 38,
   "queue": [
     {
       "posicao": 1,
@@ -621,18 +621,18 @@
       "posicao": 37,
       "id": "wa-1358-36",
       "titulo": "Kit Whey Protein Isolado + Creatina + Pré Treino + Shaker",
-      "preco": "R$ 106,25",
+      "preco": "R$ 125",
       "precoOriginal": "R$229,90",
       "desconto": "45% OFF no Pix",
-      "cupom": "COMPRAHOJE",
+      "cupom": null,
       "link": "https://meli.la/2qy7t6P",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_757223-MLB113663680619_062026-L-kit-whey-protein-isolado-creatina-pre-treino-shaker.webp",
       "horarioProgramado": "13:58",
       "janela": "12:00-14:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-16T16:58:27.922Z"
     },
     {
       "posicao": 38,
@@ -646,10 +646,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_821637-MLA100056302841_122025-B.webp",
       "horarioProgramado": "14:01",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-16T17:01:39.481Z"
     },
     {
       "posicao": 39,
