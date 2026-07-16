@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-16T13:07:06.527Z",
-  "exportedAt": "16/07/2026, 10:07:06",
+  "lastExport": "2026-07-16T13:14:50.198Z",
+  "exportedAt": "16/07/2026, 10:14:50",
   "total": 100,
-  "pendentes": 93,
-  "postados": 7,
+  "pendentes": 92,
+  "postados": 8,
   "queue": [
     {
       "posicao": 1,
@@ -128,18 +128,18 @@
       "posicao": 8,
       "id": "wa-1011-7",
       "titulo": "Mouse Gamer Sem Fio Attack Shark G3 Pro 25000dpi Black",
-      "preco": "R$ 110,50",
+      "preco": "R$ 130",
       "precoOriginal": "R$144,43",
       "desconto": null,
-      "cupom": "COMPRAHOJE",
+      "cupom": null,
       "link": "https://meli.la/1nVZgsp",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_913222-CBT110290402806_052026-AB.webp",
       "horarioProgramado": "10:11",
       "janela": "10:00-12:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-16T13:11:05.904Z"
     },
     {
       "posicao": 9,
