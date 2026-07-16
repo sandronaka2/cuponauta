@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-16T18:14:51.694Z",
-  "exportedAt": "16/07/2026, 15:14:51",
+  "lastExport": "2026-07-16T18:24:51.706Z",
+  "exportedAt": "16/07/2026, 15:24:51",
   "total": 100,
-  "pendentes": 56,
-  "postados": 44,
+  "pendentes": 55,
+  "postados": 45,
   "queue": [
     {
       "posicao": 1,
@@ -757,18 +757,18 @@
       "posicao": 45,
       "id": "wa-1523-44",
       "titulo": "Meia Pata Com Brilho",
-      "preco": "R$ 119,85",
+      "preco": "R$ 141",
       "precoOriginal": "R$497",
       "desconto": "71% OFF no Pix",
-      "cupom": "COMPRAHOJE",
+      "cupom": null,
       "link": "https://meli.la/1kWEig5",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_794252-MLB86021897504_062025-T-meia-pata-com-brilho.webp",
       "horarioProgramado": "15:23",
       "janela": "14:00-18:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-16T18:23:09.084Z"
     },
     {
       "posicao": 46,
