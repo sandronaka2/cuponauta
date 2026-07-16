@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-16T17:54:50.517Z",
-  "exportedAt": "16/07/2026, 14:54:50",
+  "lastExport": "2026-07-16T18:04:34.620Z",
+  "exportedAt": "16/07/2026, 15:04:34",
   "total": 100,
-  "pendentes": 58,
-  "postados": 42,
+  "pendentes": 57,
+  "postados": 43,
   "queue": [
     {
       "posicao": 1,
@@ -723,18 +723,18 @@
       "posicao": 43,
       "id": "wa-1500-42",
       "titulo": "Tênis 530 Unissex New Balance Clássico Casual Original",
-      "preco": "R$ 505,00",
+      "preco": "R$ 565",
       "precoOriginal": "R$937,37",
       "desconto": "39% OFF",
-      "cupom": "COMPRAHOJE",
+      "cupom": null,
       "link": "https://meli.la/2RyaN3R",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_795754-MLB106568546611_022026-B-tnis-530-unissex-new-balance-classico-casual-original.webp",
       "horarioProgramado": "15:00",
       "janela": "14:00-18:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-16T18:00:40.068Z"
     },
     {
       "posicao": 44,
