@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-17T14:47:07.574Z",
-  "exportedAt": "17/07/2026, 11:47:07",
+  "lastExport": "2026-07-17T15:19:58.175Z",
+  "exportedAt": "17/07/2026, 12:19:58",
   "total": 100,
-  "pendentes": 85,
-  "postados": 15,
+  "pendentes": 80,
+  "postados": 20,
   "queue": [
     {
       "posicao": 1,
@@ -289,10 +289,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_784937-CBT113383402501_062026-AB.webp",
       "horarioProgramado": "11:49",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-17T14:49:38.677Z"
     },
     {
       "posicao": 18,
@@ -306,44 +306,44 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_995144-MLA111283373086_052026-AB.webp",
       "horarioProgramado": "11:58",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-17T14:58:54.162Z"
     },
     {
       "posicao": 19,
       "id": "wa-1201-18",
       "titulo": "Espelho 100x50 Orgânico Corpo Inteiro Grande Moldura Caramelo",
-      "preco": "R$ 81,60",
+      "preco": "R$ 96",
       "precoOriginal": "R$399,99",
       "desconto": "75% OFF",
-      "cupom": "CORRELEVAR",
+      "cupom": null,
       "link": "https://meli.la/1PmJJsy",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_936790-MLA96100703939_102025-B.webp",
       "horarioProgramado": "12:01",
       "janela": "12:00-14:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-17T15:01:55.063Z"
     },
     {
       "posicao": 20,
       "id": "wa-1207-19",
       "titulo": "Kit Perfume Pheromonio + Lip Gloss Hot Kiss",
-      "preco": "R$ 94,35",
+      "preco": "R$ 111",
       "precoOriginal": "R$299",
       "desconto": null,
-      "cupom": "CORRELEVAR",
+      "cupom": null,
       "link": "https://meli.la/31LeicL",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_770763-MLB81902611538_012025-L.webp",
       "horarioProgramado": "12:07",
       "janela": "12:00-14:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-17T15:07:17.041Z"
     },
     {
       "posicao": 21,
@@ -357,10 +357,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_847917-MLB83326022766_042025-AB.webp",
       "horarioProgramado": "12:15",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-17T15:15:30.605Z"
     },
     {
       "posicao": 22,
