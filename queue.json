@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-17T19:23:52.235Z",
-  "exportedAt": "17/07/2026, 16:23:52",
+  "lastExport": "2026-07-17T19:33:52.254Z",
+  "exportedAt": "17/07/2026, 16:33:52",
   "total": 100,
-  "pendentes": 68,
-  "postados": 32,
+  "pendentes": 67,
+  "postados": 33,
   "queue": [
     {
       "posicao": 1,
@@ -850,10 +850,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_940352-MLB90364197085_082025-B-tamanco-feminino-mule-tiras-h-slide-salto-bloco-baixo.webp",
       "horarioProgramado": "16:25",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-17T19:25:13.149Z"
     },
     {
       "posicao": 51,
