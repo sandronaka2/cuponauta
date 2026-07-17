@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-17T00:44:52.065Z",
-  "exportedAt": "16/07/2026, 21:44:52",
+  "lastExport": "2026-07-17T00:54:52.076Z",
+  "exportedAt": "16/07/2026, 21:54:52",
   "total": 100,
-  "pendentes": 3,
-  "postados": 97,
+  "pendentes": 2,
+  "postados": 98,
   "queue": [
     {
       "posicao": 1,
@@ -1658,18 +1658,18 @@
       "posicao": 98,
       "id": "wa-2149-97",
       "titulo": "Kit Caixas De Embutir Sistema Som Ambiente Bluetooth Jbl",
-      "preco": "R$ 1664,00",
+      "preco": "R$ 1.724",
       "precoOriginal": "R$2.299",
       "desconto": "25% OFF",
-      "cupom": "COMPRAHOJE",
+      "cupom": null,
       "link": "https://meli.la/19avh8b",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_658176-MLA107039141557_022026-N.webp",
       "horarioProgramado": "21:49",
       "janela": "21:00-22:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-17T00:49:37.902Z"
     },
     {
       "posicao": 99,
