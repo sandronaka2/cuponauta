@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-17T23:03:52.514Z",
-  "exportedAt": "17/07/2026, 20:03:52",
+  "lastExport": "2026-07-17T23:13:52.536Z",
+  "exportedAt": "17/07/2026, 20:13:52",
   "total": 100,
-  "pendentes": 39,
-  "postados": 61,
+  "pendentes": 37,
+  "postados": 63,
   "queue": [
     {
       "posicao": 1,
@@ -1335,18 +1335,18 @@
       "posicao": 79,
       "id": "wa-2005-78",
       "titulo": "Pulseira Masculina Grumet Flat 6mm Banhada A Ouro 18k",
-      "preco": "R$ 95,20",
+      "preco": "R$ 112",
       "precoOriginal": "R$148,20",
       "desconto": "24% OFF no Pix",
-      "cupom": "CORRELEVAR",
+      "cupom": null,
       "link": "https://meli.la/2dwDXKx",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_662439-MLB86464776582_062025-B-pulseira-masculina-grumet-flat-6mm-banhada-a-ouro-18k.webp",
       "horarioProgramado": "20:05",
       "janela": "18:00-21:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-17T23:05:29.239Z"
     },
     {
       "posicao": 80,
@@ -1360,10 +1360,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_752057-MLB110071042587_042026-B-kit-3-em-1-sandalia-babuche-chinelo-infantil-menino-kids.webp",
       "horarioProgramado": "20:11",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-17T23:11:30.567Z"
     },
     {
       "posicao": 81,
