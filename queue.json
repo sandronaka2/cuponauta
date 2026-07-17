@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-17T12:14:04.865Z",
-  "exportedAt": "17/07/2026, 09:14:04",
+  "lastExport": "2026-07-17T12:24:17.007Z",
+  "exportedAt": "17/07/2026, 09:24:17",
   "total": 100,
-  "pendentes": 100,
-  "postados": 0,
+  "pendentes": 99,
+  "postados": 1,
   "queue": [
     {
       "posicao": 1,
@@ -34,10 +34,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_934692-MLB112504793167_052026-B-kit-3-sutian-soutien-nadador-com-bojo-atacado-cores-basicas.webp",
       "horarioProgramado": "09:14",
       "janela": "09:00-10:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-17T12:14:55.331Z"
     },
     {
       "posicao": 3,
