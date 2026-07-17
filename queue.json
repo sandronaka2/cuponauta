@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-17T19:33:52.254Z",
-  "exportedAt": "17/07/2026, 16:33:52",
+  "lastExport": "2026-07-17T19:43:52.262Z",
+  "exportedAt": "17/07/2026, 16:43:52",
   "total": 100,
-  "pendentes": 67,
-  "postados": 33,
+  "pendentes": 66,
+  "postados": 34,
   "queue": [
     {
       "posicao": 1,
@@ -859,18 +859,18 @@
       "posicao": 51,
       "id": "wa-1639-50",
       "titulo": "Espelho Bubble 3d Decorativo Com Bolinhas Alto Relevo Luxo Branco Off White",
-      "preco": "R$ 322,15",
+      "preco": "R$ 379",
       "precoOriginal": "R$470,60",
       "desconto": "19% OFF no Pix ou Saldo no Mercado Pago",
-      "cupom": "CORRELEVAR",
+      "cupom": null,
       "link": "https://meli.la/1c49B28",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_975992-MLA111342394451_052026-B.webp",
       "horarioProgramado": "16:39",
       "janela": "14:00-18:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-17T19:39:49.279Z"
     },
     {
       "posicao": 52,
