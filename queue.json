@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-17T00:07:25.407Z",
-  "exportedAt": "16/07/2026, 21:07:25",
+  "lastExport": "2026-07-17T00:14:52.037Z",
+  "exportedAt": "16/07/2026, 21:14:52",
   "total": 100,
-  "pendentes": 10,
-  "postados": 90,
+  "pendentes": 9,
+  "postados": 91,
   "queue": [
     {
       "posicao": 1,
@@ -1539,18 +1539,18 @@
       "posicao": 91,
       "id": "wa-2112-90",
       "titulo": "Boné Masculino Original Hurley Five Panel Leve Ajustavel Preto Un Geométrico",
-      "preco": "R$ 175,95",
+      "preco": "R$ 207",
       "precoOriginal": "R$274,88",
       "desconto": null,
-      "cupom": "COMPRAHOJE",
+      "cupom": null,
       "link": "https://meli.la/1qtGjbn",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_760760-MLB112690974297_062026-AB.webp",
       "horarioProgramado": "21:12",
       "janela": "21:00-22:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-17T00:12:54.909Z"
     },
     {
       "posicao": 92,
