@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-17T12:35:35.256Z",
-  "exportedAt": "17/07/2026, 09:35:35",
+  "lastExport": "2026-07-17T12:46:08.854Z",
+  "exportedAt": "17/07/2026, 09:46:08",
   "total": 100,
-  "pendentes": 98,
-  "postados": 2,
+  "pendentes": 97,
+  "postados": 3,
   "queue": [
     {
       "posicao": 1,
@@ -60,18 +60,18 @@
       "posicao": 4,
       "id": "wa-0937-3",
       "titulo": "Supercoffee 380g Cafeína Taurina Coenzima Q10 Caffeine Army",
-      "preco": "R$ 175,10",
+      "preco": "R$ 206",
       "precoOriginal": "R$224",
       "desconto": null,
-      "cupom": "CORRELEVAR",
+      "cupom": null,
       "link": "https://meli.la/1165KrW",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_626896-MLB95237781547_102025-B-supercoffee-380g-cafeina-taurina-coenzima-q10-caffeine-army.webp",
       "horarioProgramado": "09:37",
       "janela": "09:00-10:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-17T12:37:54.899Z"
     },
     {
       "posicao": 5,
