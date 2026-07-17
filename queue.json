@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-17T18:23:52.165Z",
-  "exportedAt": "17/07/2026, 15:23:52",
+  "lastExport": "2026-07-17T18:33:52.176Z",
+  "exportedAt": "17/07/2026, 15:33:52",
   "total": 100,
-  "pendentes": 73,
-  "postados": 27,
+  "pendentes": 72,
+  "postados": 28,
   "queue": [
     {
       "posicao": 1,
@@ -757,18 +757,18 @@
       "posicao": 45,
       "id": "wa-1526-44",
       "titulo": "Casaco Teddy Dupla Face Reversível Feminino Inverno 2 Em 1 Branco-marrom U",
-      "preco": "R$ 82,45",
+      "preco": "R$ 97",
       "precoOriginal": "R$139",
       "desconto": null,
-      "cupom": "CORRELEVAR",
+      "cupom": null,
       "link": "https://meli.la/1rn9MVq",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_608317-MLB110753641710_052026-AB.webp",
       "horarioProgramado": "15:26",
       "janela": "14:00-18:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-17T18:26:38.235Z"
     },
     {
       "posicao": 46,
