@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-17T18:14:02.278Z",
-  "exportedAt": "17/07/2026, 15:14:02",
+  "lastExport": "2026-07-17T18:23:52.165Z",
+  "exportedAt": "17/07/2026, 15:23:52",
   "total": 100,
-  "pendentes": 74,
-  "postados": 26,
+  "pendentes": 73,
+  "postados": 27,
   "queue": [
     {
       "posicao": 1,
@@ -740,18 +740,18 @@
       "posicao": 44,
       "id": "wa-1514-43",
       "titulo": "Kit 2 Conjuntos Térmicos Peluciado Unissex Infantil 1 Ao 14",
-      "preco": "R$ 80,75",
+      "preco": "R$ 95",
       "precoOriginal": "R$99,90",
       "desconto": "no Pix",
-      "cupom": "CORRELEVAR",
+      "cupom": null,
       "link": "https://meli.la/1Sg9biQ",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_713510-MLB108650168568_032026-B-kit-2-conjuntos-termicos-peluciado-unissex-infantil-1-ao-14.webp",
       "horarioProgramado": "15:14",
       "janela": "14:00-18:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-17T18:14:14.231Z"
     },
     {
       "posicao": 45,
