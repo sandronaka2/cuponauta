@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-16T23:54:52.029Z",
-  "exportedAt": "16/07/2026, 20:54:52",
+  "lastExport": "2026-07-17T00:04:43.419Z",
+  "exportedAt": "16/07/2026, 21:04:43",
   "total": 100,
-  "pendentes": 13,
-  "postados": 87,
+  "pendentes": 11,
+  "postados": 89,
   "queue": [
     {
       "posicao": 1,
@@ -1496,10 +1496,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_914544-MLA106374897474_022026-L.webp",
       "horarioProgramado": "20:58",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-16T23:58:30.397Z"
     },
     {
       "posicao": 89,
@@ -1513,10 +1513,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_968004-MLB111597055677_052026-L-saco-de-lixo-preto-reforcado-resistente-uso-pesado-embalar.webp",
       "horarioProgramado": "21:01",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-17T00:01:44.429Z"
     },
     {
       "posicao": 90,
