@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-17T00:24:52.047Z",
-  "exportedAt": "16/07/2026, 21:24:52",
+  "lastExport": "2026-07-17T00:34:52.065Z",
+  "exportedAt": "16/07/2026, 21:34:52",
   "total": 100,
-  "pendentes": 7,
-  "postados": 93,
+  "pendentes": 5,
+  "postados": 95,
   "queue": [
     {
       "posicao": 1,
@@ -1598,10 +1598,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_703984-MLA99596977230_122025-B.webp",
       "horarioProgramado": "21:28",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-17T00:28:43.811Z"
     },
     {
       "posicao": 95,
@@ -1615,10 +1615,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_984343-MLB89335891801_082025-L-tornozeleira-de-compresso-sense-com-faixa-tecnologia-knit.webp",
       "horarioProgramado": "21:33",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-17T00:33:39.961Z"
     },
     {
       "posicao": 96,
