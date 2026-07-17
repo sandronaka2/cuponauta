@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-17T20:33:52.355Z",
-  "exportedAt": "17/07/2026, 17:33:52",
+  "lastExport": "2026-07-17T20:43:52.353Z",
+  "exportedAt": "17/07/2026, 17:43:52",
   "total": 100,
-  "pendentes": 62,
-  "postados": 38,
+  "pendentes": 61,
+  "postados": 39,
   "queue": [
     {
       "posicao": 1,
@@ -944,18 +944,18 @@
       "posicao": 56,
       "id": "wa-1737-55",
       "titulo": "Banqueta Alta Cozinha Balcão 1747 Carraro Areia Rose",
-      "preco": "R$ 181,90",
+      "preco": "R$ 214",
       "precoOriginal": "R$547,36",
       "desconto": "60% OFF",
-      "cupom": "CORRELEVAR",
+      "cupom": null,
       "link": "https://meli.la/2pgyEU2",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_937271-MLA96715503507_102025-L.webp",
       "horarioProgramado": "17:37",
       "janela": "14:00-18:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-17T20:37:37.229Z"
     },
     {
       "posicao": 57,
