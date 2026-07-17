@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-17T12:46:35.365Z",
-  "exportedAt": "17/07/2026, 09:46:35",
+  "lastExport": "2026-07-17T12:57:29.854Z",
+  "exportedAt": "17/07/2026, 09:57:29",
   "total": 100,
-  "pendentes": 97,
-  "postados": 3,
+  "pendentes": 96,
+  "postados": 4,
   "queue": [
     {
       "posicao": 1,
@@ -77,18 +77,18 @@
       "posicao": 5,
       "id": "wa-0948-4",
       "titulo": "Pijama Macacão Menina Infantil Kigurumi De Pelúcia Com Botão",
-      "preco": "R$ 123,25",
+      "preco": "R$ 145",
       "precoOriginal": "R$151,67",
       "desconto": "no Pix",
-      "cupom": "CORRELEVAR",
+      "cupom": null,
       "link": "https://meli.la/1QUQ4xD",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_885883-MLB91499979391_092025-N-pijama-macaco-menina-infantil-kigurumi-de-pelucia-com-boto.webp",
       "horarioProgramado": "09:48",
       "janela": "09:00-10:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-17T12:48:49.893Z"
     },
     {
       "posicao": 6,
