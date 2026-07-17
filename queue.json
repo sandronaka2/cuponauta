@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-17T17:53:52.117Z",
-  "exportedAt": "17/07/2026, 14:53:52",
+  "lastExport": "2026-07-17T18:03:52.363Z",
+  "exportedAt": "17/07/2026, 15:03:52",
   "total": 100,
-  "pendentes": 75,
-  "postados": 25,
+  "pendentes": 74,
+  "postados": 26,
   "queue": [
     {
       "posicao": 1,
@@ -723,18 +723,18 @@
       "posicao": 43,
       "id": "wa-1500-42",
       "titulo": "Mala Pequena Up4you Bombinhas 4 Rodas 55x23x36 Cm Luxcel",
-      "preco": "R$ 252,45",
+      "preco": "R$ 297",
       "precoOriginal": "R$479,99",
       "desconto": "38% OFF no Pix ou Saldo no Mercado Pago",
-      "cupom": "CORRELEVAR",
+      "cupom": null,
       "link": "https://meli.la/26PPnGA",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_779495-MLB82765168052_032025-B.webp",
       "horarioProgramado": "15:00",
       "janela": "14:00-18:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-17T18:00:20.218Z"
     },
     {
       "posicao": 44,
