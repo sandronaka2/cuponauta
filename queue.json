@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-17T00:05:07.069Z",
-  "exportedAt": "16/07/2026, 21:05:07",
+  "lastExport": "2026-07-17T00:07:25.407Z",
+  "exportedAt": "16/07/2026, 21:07:25",
   "total": 100,
-  "pendentes": 11,
-  "postados": 89,
+  "pendentes": 10,
+  "postados": 90,
   "queue": [
     {
       "posicao": 1,
@@ -1522,18 +1522,18 @@
       "posicao": 90,
       "id": "wa-2106-89",
       "titulo": "Bolsa Feminina Santa Lolla Pequena Flap Bag Alça Corrente",
-      "preco": "R$ 188,70",
+      "preco": "R$ 222",
       "precoOriginal": "R$299,90",
       "desconto": null,
-      "cupom": "COMPRAHOJE",
+      "cupom": null,
       "link": "https://www.mercadolivre.com.br/social/boga2387860?matt_word=cuponauta&matt_tool=63923128&forceInApp=true&ref=BLX3BShJjjgQdDqex3V2VkZgPfzhFYQbKmiEKnOoSp%2BeSWdX0%2B6HNjXq5GSNpA0wT7kr7eE5M4HsuFTqmrMrRQAdtVwDsRYop9am%2FKU4cMSB2pVm%2FpeENM9micvp3zCAUNwEf2cy4q09sSwPKFpK54udSR%2BGEiM1LBisCVrEWNI8WeaZ1qfisBQLeeQ0DuWZMEO4QQ%3D%3D",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_884769-MLB109269053394_042026-B-bolsa-feminina-santa-lolla-pequena-flap-bag-alca-corrente.webp",
       "horarioProgramado": "21:06",
       "janela": "21:00-22:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-17T00:06:40.019Z"
     },
     {
       "posicao": 91,
