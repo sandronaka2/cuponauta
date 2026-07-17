@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-17T21:33:52.422Z",
-  "exportedAt": "17/07/2026, 18:33:52",
+  "lastExport": "2026-07-17T21:43:52.427Z",
+  "exportedAt": "17/07/2026, 18:43:52",
   "total": 100,
-  "pendentes": 53,
-  "postados": 47,
+  "pendentes": 52,
+  "postados": 48,
   "queue": [
     {
       "posicao": 1,
@@ -1097,18 +1097,18 @@
       "posicao": 65,
       "id": "wa-1838-64",
       "titulo": "Smart Robô Aspirador Wi-Fi 3 em 1 com sensor inteligente cor branco positivo",
-      "preco": "R$ 467,00",
+      "preco": "R$ 527",
       "precoOriginal": "R$1.099",
       "desconto": "52% OFF no Pix ou Saldo no Mercado Pago",
-      "cupom": "CORRELEVAR",
+      "cupom": null,
       "link": "https://meli.la/312XEzW",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_741478-MLA108938502993_032026-B.webp",
       "horarioProgramado": "18:38",
       "janela": "18:00-21:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-17T21:38:05.235Z"
     },
     {
       "posicao": 66,
