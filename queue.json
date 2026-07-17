@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-17T19:03:52.202Z",
-  "exportedAt": "17/07/2026, 16:03:52",
+  "lastExport": "2026-07-17T19:13:50.423Z",
+  "exportedAt": "17/07/2026, 16:13:50",
   "total": 100,
-  "pendentes": 69,
-  "postados": 31,
+  "pendentes": 68,
+  "postados": 32,
   "queue": [
     {
       "posicao": 1,
@@ -825,18 +825,18 @@
       "posicao": 49,
       "id": "wa-1613-48",
       "titulo": "Kit Aparador De Barba E Cabelo 5 Em 1 Preto 127/220v",
-      "preco": "R$ 90,95",
+      "preco": "R$ 107",
       "precoOriginal": "R$135,79",
       "desconto": null,
-      "cupom": "CORRELEVAR",
+      "cupom": null,
       "link": "https://meli.la/2Ygimvj",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_876810-CBT110771366064_052026-AB.webp",
       "horarioProgramado": "16:13",
       "janela": "14:00-18:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-17T19:13:17.243Z"
     },
     {
       "posicao": 50,
