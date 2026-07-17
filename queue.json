@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-17T00:54:52.076Z",
-  "exportedAt": "16/07/2026, 21:54:52",
+  "lastExport": "2026-07-17T01:04:43.433Z",
+  "exportedAt": "16/07/2026, 22:04:43",
   "total": 100,
-  "pendentes": 2,
-  "postados": 98,
+  "pendentes": 0,
+  "postados": 100,
   "queue": [
     {
       "posicao": 1,
@@ -1683,27 +1683,27 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_752743-MLA88000262940_072025-B.webp",
       "horarioProgramado": "21:55",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-17T00:55:33.301Z"
     },
     {
       "posicao": 100,
       "id": "wa-2158-99",
       "titulo": "Mesa Gamer Escrivaninha De Jogos Leds Rgb Suporte P/ Copo",
-      "preco": "R$ 569,00",
+      "preco": "R$ 629",
       "precoOriginal": "R$799,90",
       "desconto": "21% OFF",
-      "cupom": "COMPRAHOJE",
+      "cupom": null,
       "link": "https://meli.la/1mNT1DJ",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_620748-MLB90660857810_082025-L.webp",
       "horarioProgramado": "21:58",
       "janela": "21:00-22:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-17T00:58:25.905Z"
     }
   ]
 }
