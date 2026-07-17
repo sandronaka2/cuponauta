@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-17T12:58:35.540Z",
-  "exportedAt": "17/07/2026, 09:58:35",
+  "lastExport": "2026-07-17T13:24:26.206Z",
+  "exportedAt": "17/07/2026, 10:24:26",
   "total": 100,
-  "pendentes": 95,
-  "postados": 5,
+  "pendentes": 92,
+  "postados": 8,
   "queue": [
     {
       "posicao": 1,
@@ -111,18 +111,18 @@
       "posicao": 7,
       "id": "wa-1002-6",
       "titulo": "Casaco Masculino Formal De Lã Com Fechamento De Peito Único",
-      "preco": "R$ 192,95",
+      "preco": "R$ 227",
       "precoOriginal": "R$249",
       "desconto": "8% OFF no Pix",
-      "cupom": "CORRELEVAR",
+      "cupom": null,
       "link": "https://meli.la/2wMCF2e",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_676625-MLB96808092091_102025-N-casaco-masculino-formal-de-l-com-fechamento-de-peito-unico.webp",
       "horarioProgramado": "10:02",
       "janela": "10:00-12:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-17T13:02:15.013Z"
     },
     {
       "posicao": 8,
@@ -136,10 +136,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_761727-CBT111495865804_062026-AB.webp",
       "horarioProgramado": "10:14",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-17T13:14:24.181Z"
     },
     {
       "posicao": 9,
@@ -153,10 +153,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_791808-MLB97815636494_112025-L.webp",
       "horarioProgramado": "10:24",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-17T13:24:25.724Z"
     },
     {
       "posicao": 10,
