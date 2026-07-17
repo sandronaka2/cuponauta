@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-17T17:43:52.111Z",
-  "exportedAt": "17/07/2026, 14:43:52",
+  "lastExport": "2026-07-17T17:53:52.117Z",
+  "exportedAt": "17/07/2026, 14:53:52",
   "total": 100,
-  "pendentes": 76,
-  "postados": 24,
+  "pendentes": 75,
+  "postados": 25,
   "queue": [
     {
       "posicao": 1,
@@ -706,18 +706,18 @@
       "posicao": 42,
       "id": "wa-1447-41",
       "titulo": "Calça Flare Petit Jeans Hering Feminina Cintura Média Básic",
-      "preco": "R$ 181,05",
+      "preco": "R$ 213",
       "precoOriginal": "R$247,48",
       "desconto": "13% OFF no Pix",
-      "cupom": "CORRELEVAR",
+      "cupom": null,
       "link": "https://meli.la/1WcjMBE",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_782305-MLB96861585899_102025-B-calca-flare-petit-jeans-hering-feminina-cintura-media-basic.webp",
       "horarioProgramado": "14:47",
       "janela": "14:00-18:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-17T17:47:06.236Z"
     },
     {
       "posicao": 43,
