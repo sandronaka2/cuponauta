@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-17T13:25:35.893Z",
-  "exportedAt": "17/07/2026, 10:25:35",
+  "lastExport": "2026-07-17T14:12:57.105Z",
+  "exportedAt": "17/07/2026, 11:12:57",
   "total": 100,
-  "pendentes": 92,
-  "postados": 8,
+  "pendentes": 88,
+  "postados": 12,
   "queue": [
     {
       "posicao": 1,
@@ -162,18 +162,18 @@
       "posicao": 10,
       "id": "wa-1034-9",
       "titulo": "Jogo Lençol Éden Solteiro Elastico 180 Fios Hotelaria Karsten",
-      "preco": "R$ 119,00",
+      "preco": "R$ 140",
       "precoOriginal": "R$269,97",
       "desconto": null,
-      "cupom": "CORRELEVAR",
+      "cupom": null,
       "link": "https://meli.la/2NycWds",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_859787-MLA113150293762_072026-AB.webp",
       "horarioProgramado": "10:34",
       "janela": "10:00-12:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-17T13:34:29.909Z"
     },
     {
       "posicao": 11,
@@ -187,10 +187,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_848083-MLU74945495621_032024-N.webp",
       "horarioProgramado": "10:45",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-17T13:45:39.366Z"
     },
     {
       "posicao": 12,
@@ -204,27 +204,27 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_713061-MLB79383268986_092024-AB-vestido-midi-tricline-estampado-algodo-com-babada-manga.webp",
       "horarioProgramado": "10:56",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-17T13:56:46.646Z"
     },
     {
       "posicao": 13,
       "id": "wa-1106-12",
       "titulo": "Kingston Dt Microduo 64gb Usb 3.2 200mb Preto Cor Preta Memória USB-C/USB-A lisa",
-      "preco": "R$ 130,90",
+      "preco": "R$ 154",
       "precoOriginal": "R$562,46",
       "desconto": "72% OFF",
-      "cupom": "CORRELEVAR",
+      "cupom": null,
       "link": "https://meli.la/2wezbRR",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_791223-MLM53486106371_012023-N.webp",
       "horarioProgramado": "11:06",
       "janela": "10:00-12:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-17T14:06:39.901Z"
     },
     {
       "posicao": 14,
