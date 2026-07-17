@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-17T12:57:29.854Z",
-  "exportedAt": "17/07/2026, 09:57:29",
+  "lastExport": "2026-07-17T12:58:35.540Z",
+  "exportedAt": "17/07/2026, 09:58:35",
   "total": 100,
-  "pendentes": 96,
-  "postados": 4,
+  "pendentes": 95,
+  "postados": 5,
   "queue": [
     {
       "posicao": 1,
@@ -94,18 +94,18 @@
       "posicao": 6,
       "id": "wa-0958-5",
       "titulo": "Corrente E Pulseira Grumet Masculina 3mm Banhado A Ouro 18k",
-      "preco": "R$ 125,80",
+      "preco": "R$ 148",
       "precoOriginal": "R$193,91",
       "desconto": "23% OFF",
-      "cupom": "CORRELEVAR",
+      "cupom": null,
       "link": "https://meli.la/29ise52",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_948319-MLB79374976230_092024-B-corrente-e-pulseira-grumet-masculina-3mm-banhado-a-ouro-18k.webp",
       "horarioProgramado": "09:58",
       "janela": "09:00-10:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-17T12:58:20.990Z"
     },
     {
       "posicao": 7,
