@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-17T20:53:52.368Z",
-  "exportedAt": "17/07/2026, 17:53:52",
+  "lastExport": "2026-07-17T21:03:52.393Z",
+  "exportedAt": "17/07/2026, 18:03:52",
   "total": 100,
-  "pendentes": 60,
-  "postados": 40,
+  "pendentes": 58,
+  "postados": 42,
   "queue": [
     {
       "posicao": 1,
@@ -978,18 +978,18 @@
       "posicao": 58,
       "id": "wa-1758-57",
       "titulo": "Conjunto Sala De Jantar 6 Cadeiras Fênix Carraro Dourada",
-      "preco": "R$ 1239,00",
+      "preco": "R$ 1.299",
       "precoOriginal": "R$2.359",
       "desconto": "44% OFF",
-      "cupom": "CORRELEVAR",
+      "cupom": null,
       "link": "https://meli.la/28wmhcA",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_881555-MLA111230505519_052026-L.webp",
       "horarioProgramado": "17:58",
       "janela": "14:00-18:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-17T20:58:48.250Z"
     },
     {
       "posicao": 59,
@@ -1003,10 +1003,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_921573-MLA105890093222_022026-N.webp",
       "horarioProgramado": "18:01",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-17T21:01:37.322Z"
     },
     {
       "posicao": 60,
