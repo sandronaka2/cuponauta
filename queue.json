@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-17T18:33:52.176Z",
-  "exportedAt": "17/07/2026, 15:33:52",
+  "lastExport": "2026-07-17T18:43:52.192Z",
+  "exportedAt": "17/07/2026, 15:43:52",
   "total": 100,
-  "pendentes": 72,
-  "postados": 28,
+  "pendentes": 71,
+  "postados": 29,
   "queue": [
     {
       "posicao": 1,
@@ -774,18 +774,18 @@
       "posicao": 46,
       "id": "wa-1538-45",
       "titulo": "Conjunto Sala Jantar 4 Cadeiras San Francisco Carraro Prata",
-      "preco": "R$ 807,00",
+      "preco": "R$ 867",
       "precoOriginal": "R$1.631",
       "desconto": "46% OFF no Pix",
-      "cupom": "CORRELEVAR",
+      "cupom": null,
       "link": "https://meli.la/1VtRFGL",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_716175-MLA95663067627_102025-L.webp",
       "horarioProgramado": "15:38",
       "janela": "14:00-18:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-17T18:38:06.251Z"
     },
     {
       "posicao": 47,
