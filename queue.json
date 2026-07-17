@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-17T22:43:52.489Z",
-  "exportedAt": "17/07/2026, 19:43:52",
+  "lastExport": "2026-07-17T22:53:52.516Z",
+  "exportedAt": "17/07/2026, 19:53:52",
   "total": 100,
-  "pendentes": 42,
-  "postados": 58,
+  "pendentes": 40,
+  "postados": 60,
   "queue": [
     {
       "posicao": 1,
@@ -1292,10 +1292,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_874755-MLB112285720687_052026-B-kit-4-cuecas-lupo-boxer-poliamida-box-sem-costura-original.webp",
       "horarioProgramado": "19:46",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-17T22:46:23.736Z"
     },
     {
       "posicao": 77,
@@ -1309,10 +1309,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_783979-MLB112770356386_062026-V.webp",
       "horarioProgramado": "19:52",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-17T22:52:13.575Z"
     },
     {
       "posicao": 78,
