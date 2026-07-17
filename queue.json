@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-17T22:14:01.068Z",
-  "exportedAt": "17/07/2026, 19:14:01",
+  "lastExport": "2026-07-17T22:23:52.491Z",
+  "exportedAt": "17/07/2026, 19:23:52",
   "total": 100,
-  "pendentes": 47,
-  "postados": 53,
+  "pendentes": 45,
+  "postados": 55,
   "queue": [
     {
       "posicao": 1,
@@ -1199,18 +1199,18 @@
       "posicao": 71,
       "id": "wa-1915-70",
       "titulo": "Headset Gamer Sem Fio Attack Shark L30 Pro Branco",
-      "preco": "R$ 169,15",
+      "preco": "R$ 199",
       "precoOriginal": "R$287,49",
       "desconto": null,
-      "cupom": "CORRELEVAR",
+      "cupom": null,
       "link": "https://meli.la/1iPrvdP",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_600931-CBT111780187537_052026-AB.webp",
       "horarioProgramado": "19:15",
       "janela": "18:00-21:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-17T22:15:15.242Z"
     },
     {
       "posicao": 72,
@@ -1224,10 +1224,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_650485-MLA99531578208_122025-T.webp",
       "horarioProgramado": "19:21",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-17T22:21:34.942Z"
     },
     {
       "posicao": 73,
