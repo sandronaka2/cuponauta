@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-18T15:23:53.637Z",
-  "exportedAt": "18/07/2026, 12:23:53",
+  "lastExport": "2026-07-18T15:33:53.640Z",
+  "exportedAt": "18/07/2026, 12:33:53",
   "total": 100,
-  "pendentes": 78,
-  "postados": 22,
+  "pendentes": 76,
+  "postados": 24,
   "queue": [
     {
       "posicao": 1,
@@ -391,10 +391,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_656392-MLB85703512813_062025-E-agasalho-essentials-3-stripes-adidas.webp",
       "horarioProgramado": "12:26",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-18T15:26:29.351Z"
     },
     {
       "posicao": 24,
@@ -408,10 +408,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_686179-MLA100005509753_122025-L.webp",
       "horarioProgramado": "12:32",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-18T15:32:22.335Z"
     },
     {
       "posicao": 25,
