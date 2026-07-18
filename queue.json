@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-18T00:23:52.622Z",
-  "exportedAt": "17/07/2026, 21:23:52",
+  "lastExport": "2026-07-18T00:33:52.692Z",
+  "exportedAt": "17/07/2026, 21:33:52",
   "total": 100,
-  "pendentes": 24,
-  "postados": 76,
+  "pendentes": 22,
+  "postados": 78,
   "queue": [
     {
       "posicao": 1,
@@ -1598,27 +1598,27 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_917115-CBT111717985063_052026-AB.webp",
       "horarioProgramado": "21:27",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-18T00:27:16.068Z"
     },
     {
       "posicao": 95,
       "id": "wa-2132-94",
       "titulo": "Bolsa Feminina Transversal Passeio Gash Pu Bs72942",
-      "preco": "R$ 96,05",
+      "preco": "R$ 113",
       "precoOriginal": "R$249,99",
       "desconto": null,
-      "cupom": "CORRELEVAR",
+      "cupom": null,
       "link": "https://meli.la/2emrswc",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_654607-MLB109320633236_042026-B.webp",
       "horarioProgramado": "21:32",
       "janela": "21:00-22:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-18T00:32:32.253Z"
     },
     {
       "posicao": 96,
