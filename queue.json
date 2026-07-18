@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-18T00:33:52.692Z",
-  "exportedAt": "17/07/2026, 21:33:52",
+  "lastExport": "2026-07-18T00:43:52.676Z",
+  "exportedAt": "17/07/2026, 21:43:52",
   "total": 100,
-  "pendentes": 22,
-  "postados": 78,
+  "pendentes": 20,
+  "postados": 80,
   "queue": [
     {
       "posicao": 1,
@@ -1624,18 +1624,18 @@
       "posicao": 96,
       "id": "wa-2138-95",
       "titulo": "Balcão 600 Atlanta Carraro Preto Touch 2 Portas 1 Gaveta",
-      "preco": "R$ 254,15",
+      "preco": "R$ 299",
       "precoOriginal": "R$547,36",
       "desconto": "45% OFF",
-      "cupom": "CORRELEVAR",
+      "cupom": null,
       "link": "https://meli.la/2WWJY3R",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_826255-MLA95527621218_102025-L.webp",
       "horarioProgramado": "21:38",
       "janela": "21:00-22:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-18T00:38:40.244Z"
     },
     {
       "posicao": 97,
@@ -1649,10 +1649,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_616699-CBT113278078343_062026-AB.webp",
       "horarioProgramado": "21:43",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-18T00:43:22.920Z"
     },
     {
       "posicao": 98,
