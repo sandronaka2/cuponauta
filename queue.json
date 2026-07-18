@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-18T00:43:52.676Z",
-  "exportedAt": "17/07/2026, 21:43:52",
+  "lastExport": "2026-07-18T00:53:52.683Z",
+  "exportedAt": "17/07/2026, 21:53:52",
   "total": 100,
-  "pendentes": 20,
-  "postados": 80,
+  "pendentes": 18,
+  "postados": 82,
   "queue": [
     {
       "posicao": 1,
@@ -1666,27 +1666,27 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_957115-CBT112739245885_062026-AB.webp",
       "horarioProgramado": "21:48",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-18T00:48:25.370Z"
     },
     {
       "posicao": 99,
       "id": "wa-2153-98",
       "titulo": "Kit Coberta Casal Queen Edredom 3 Peças Dupla Face 400 Fios",
-      "preco": "R$ 214,20",
+      "preco": "R$ 252",
       "precoOriginal": "R$309,90",
       "desconto": "18% OFF no Pix",
-      "cupom": "CORRELEVAR",
+      "cupom": null,
       "link": "https://meli.la/1xnrYLA",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_686327-MLB83354254252_042025-B-kit-coberta-casal-queen-edredom-3-pecas-dupla-face-400-fios.webp",
       "horarioProgramado": "21:53",
       "janela": "21:00-22:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-18T00:53:08.243Z"
     },
     {
       "posicao": 100,
