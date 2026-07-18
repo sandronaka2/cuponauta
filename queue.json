@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-18T23:23:55.914Z",
-  "exportedAt": "18/07/2026, 20:23:55",
+  "lastExport": "2026-07-18T23:33:55.927Z",
+  "exportedAt": "18/07/2026, 20:33:55",
   "total": 100,
-  "pendentes": 18,
-  "postados": 82,
+  "pendentes": 17,
+  "postados": 83,
   "queue": [
     {
       "posicao": 1,
@@ -1411,10 +1411,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_737446-MLB72539286465_102023-T-capa-sofa-3-lugares-malha-agarradinha-varias-cores-fixador.webp",
       "horarioProgramado": "20:30",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-18T23:30:37.265Z"
     },
     {
       "posicao": 84,
