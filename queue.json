@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-18T18:23:53.827Z",
-  "exportedAt": "18/07/2026, 15:23:53",
+  "lastExport": "2026-07-18T18:33:53.846Z",
+  "exportedAt": "18/07/2026, 15:33:53",
   "total": 100,
-  "pendentes": 56,
-  "postados": 44,
+  "pendentes": 55,
+  "postados": 45,
   "queue": [
     {
       "posicao": 1,
@@ -765,10 +765,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_689011-MLB108569404388_032026-T-kit-3-espelhos-orgnico-grandes-moldura-couro-design-moderno.webp",
       "horarioProgramado": "15:25",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-18T18:25:15.487Z"
     },
     {
       "posicao": 46,
