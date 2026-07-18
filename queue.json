@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-18T00:14:01.306Z",
-  "exportedAt": "17/07/2026, 21:14:01",
+  "lastExport": "2026-07-18T00:23:52.622Z",
+  "exportedAt": "17/07/2026, 21:23:52",
   "total": 100,
-  "pendentes": 26,
-  "postados": 74,
+  "pendentes": 24,
+  "postados": 76,
   "queue": [
     {
       "posicao": 1,
@@ -1556,18 +1556,18 @@
       "posicao": 92,
       "id": "wa-2116-91",
       "titulo": "Teclado Mecânico Gamer Attack Shark X87 80% Rgb Star Black Us English",
-      "preco": "R$ 180,20",
+      "preco": "R$ 212",
       "precoOriginal": "R$305,13",
       "desconto": null,
-      "cupom": "CORRELEVAR",
+      "cupom": null,
       "link": "https://meli.la/2GaUkYL",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_902125-CBT111333882698_052026-AB.webp",
       "horarioProgramado": "21:16",
       "janela": "21:00-22:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-18T00:16:27.241Z"
     },
     {
       "posicao": 93,
@@ -1581,10 +1581,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_949846-MLA112368844650_062026-B.webp",
       "horarioProgramado": "21:21",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-18T00:21:17.730Z"
     },
     {
       "posicao": 94,
