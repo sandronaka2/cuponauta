@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-17T23:53:52.581Z",
-  "exportedAt": "17/07/2026, 20:53:52",
+  "lastExport": "2026-07-18T00:03:52.593Z",
+  "exportedAt": "17/07/2026, 21:03:52",
   "total": 100,
-  "pendentes": 31,
-  "postados": 69,
+  "pendentes": 28,
+  "postados": 72,
   "queue": [
     {
       "posicao": 1,
@@ -1471,18 +1471,18 @@
       "posicao": 87,
       "id": "wa-2054-86",
       "titulo": "Perfume Rabanne Invictus Eau De Toilette 100 Ml Masculino",
-      "preco": "R$ 395,00",
+      "preco": "R$ 455",
       "precoOriginal": "R$769",
       "desconto": "40% OFF no Pix",
-      "cupom": "CORRELEVAR",
+      "cupom": null,
       "link": "https://meli.la/2rcb425",
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_612185-MLA93461919705_092025-AB.webp",
       "horarioProgramado": "20:54",
       "janela": "18:00-21:00",
-      "status": "pendente",
-      "fonte": "CUPOM",
+      "status": "postado",
+      "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-17T23:54:51.228Z"
     },
     {
       "posicao": 88,
@@ -1496,10 +1496,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_694430-MLA80687100912_112024-AB.webp",
       "horarioProgramado": "20:58",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-17T23:58:33.983Z"
     },
     {
       "posicao": 89,
@@ -1513,10 +1513,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_824190-MLA107458841957_022026-N.webp",
       "horarioProgramado": "21:01",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-18T00:01:50.970Z"
     },
     {
       "posicao": 90,
