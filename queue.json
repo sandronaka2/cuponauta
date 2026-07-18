@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-18T12:53:53.432Z",
-  "exportedAt": "18/07/2026, 09:53:53",
+  "lastExport": "2026-07-18T13:03:53.446Z",
+  "exportedAt": "18/07/2026, 10:03:53",
   "total": 100,
-  "pendentes": 95,
-  "postados": 5,
+  "pendentes": 94,
+  "postados": 6,
   "queue": [
     {
       "posicao": 1,
@@ -102,10 +102,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_855193-MLB108433230449_032026-E-tnis-fila-freestyle-2-masculino-esportivo-leve-confortavel.webp",
       "horarioProgramado": "09:55",
       "janela": "09:00-10:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-18T12:55:49.409Z"
     },
     {
       "posicao": 7,
