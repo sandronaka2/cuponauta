@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-18T21:33:55.714Z",
-  "exportedAt": "18/07/2026, 18:33:55",
+  "lastExport": "2026-07-18T21:43:55.733Z",
+  "exportedAt": "18/07/2026, 18:43:55",
   "total": 100,
-  "pendentes": 36,
-  "postados": 64,
+  "pendentes": 34,
+  "postados": 66,
   "queue": [
     {
       "posicao": 1,
@@ -1105,10 +1105,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_647818-MLB51677515456_092022-E-kit-10-pares-meias-lupo-cano-medio-alto-atoalhada-original.webp",
       "horarioProgramado": "18:37",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-18T21:37:44.970Z"
     },
     {
       "posicao": 66,
@@ -1122,10 +1122,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_995361-MLA110157953034_042026-E.webp",
       "horarioProgramado": "18:43",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-18T21:43:34.430Z"
     },
     {
       "posicao": 67,
