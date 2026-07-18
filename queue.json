@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-18T16:33:53.721Z",
-  "exportedAt": "18/07/2026, 13:33:53",
+  "lastExport": "2026-07-18T16:43:53.734Z",
+  "exportedAt": "18/07/2026, 13:43:53",
   "total": 100,
-  "pendentes": 68,
-  "postados": 32,
+  "pendentes": 66,
+  "postados": 34,
   "queue": [
     {
       "posicao": 1,
@@ -561,10 +561,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_995160-MLB86807849240_072025-E-body-redutor-bojo-renda-miracle-belt.webp",
       "horarioProgramado": "13:34",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-18T16:34:51.759Z"
     },
     {
       "posicao": 34,
@@ -578,10 +578,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_807762-MLA88132255409_072025-E.webp",
       "horarioProgramado": "13:40",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-18T16:40:17.310Z"
     },
     {
       "posicao": 35,
