@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-19T00:43:56.034Z",
-  "exportedAt": "18/07/2026, 21:43:56",
+  "lastExport": "2026-07-19T00:53:56.040Z",
+  "exportedAt": "18/07/2026, 21:53:56",
   "total": 100,
-  "pendentes": 3,
-  "postados": 97,
+  "pendentes": 2,
+  "postados": 98,
   "queue": [
     {
       "posicao": 1,
@@ -1666,10 +1666,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_918444-MLB114066056487_072026-T-coberdrom-queen-dupla-face-sherpa-manta-soft-aveludado.webp",
       "horarioProgramado": "21:49",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "CUPOM",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-19T00:49:29.911Z"
     },
     {
       "posicao": 99,
