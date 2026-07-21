@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-21T21:08:33.077Z",
-  "exportedAt": "21/07/2026, 18:08:33",
+  "lastExport": "2026-07-21T21:14:05.335Z",
+  "exportedAt": "21/07/2026, 18:14:05",
   "total": 100,
-  "pendentes": 40,
-  "postados": 60,
+  "pendentes": 39,
+  "postados": 61,
   "queue": [
     {
       "posicao": 1,
@@ -1037,10 +1037,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_754051-MLB113320112688_072026-AB-clareador-de-manchas-oral-oli-ola-pinus-pinaster-30-caps.webp",
       "horarioProgramado": "18:12",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-21T21:12:09.557Z"
     },
     {
       "posicao": 62,
