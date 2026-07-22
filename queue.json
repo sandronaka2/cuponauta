@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-22T12:34:06.175Z",
-  "exportedAt": "22/07/2026, 09:34:06",
+  "lastExport": "2026-07-22T12:44:06.181Z",
+  "exportedAt": "22/07/2026, 09:44:06",
   "total": 100,
-  "pendentes": 97,
-  "postados": 3,
+  "pendentes": 96,
+  "postados": 4,
   "queue": [
     {
       "posicao": 1,
@@ -68,10 +68,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_646914-MLB111857947725_052026-AB--hidratante-carmed-selecoes-copa-do-mundo-surpresa-5g-cimed.webp",
       "horarioProgramado": "09:38",
       "janela": "09:00-10:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-22T12:38:33.974Z"
     },
     {
       "posicao": 5,
