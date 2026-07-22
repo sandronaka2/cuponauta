@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-22T16:34:06.478Z",
-  "exportedAt": "22/07/2026, 13:34:06",
+  "lastExport": "2026-07-22T16:44:06.482Z",
+  "exportedAt": "22/07/2026, 13:44:06",
   "total": 100,
-  "pendentes": 68,
-  "postados": 32,
+  "pendentes": 66,
+  "postados": 34,
   "queue": [
     {
       "posicao": 1,
@@ -561,10 +561,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_826528-MLB86165186110_062025-AB--poncho-casaco-la-feminino-trico-blusa-de-frio-inverno-bico.webp",
       "horarioProgramado": "13:34",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-22T16:34:49.418Z"
     },
     {
       "posicao": 34,
@@ -578,10 +578,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_857366-MLB114179768159_072026-AB--kit-2-cif-espuma-milagrosa-derrete-gordura-refil-450ml.webp",
       "horarioProgramado": "13:40",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-22T16:40:14.375Z"
     },
     {
       "posicao": 35,
