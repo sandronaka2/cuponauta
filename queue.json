@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-22T21:34:08.547Z",
-  "exportedAt": "22/07/2026, 18:34:08",
+  "lastExport": "2026-07-22T21:40:21.431Z",
+  "exportedAt": "22/07/2026, 18:40:21",
   "total": 100,
-  "pendentes": 36,
-  "postados": 64,
+  "pendentes": 35,
+  "postados": 65,
   "queue": [
     {
       "posicao": 1,
@@ -1105,10 +1105,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_798698-MLB110071457694_042026-AB--kit-10-pote-marmita-1000-ml-1kg-bpa-free-freezer-microondas.webp",
       "horarioProgramado": "18:37",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-22T21:37:23.513Z"
     },
     {
       "posicao": 66,
