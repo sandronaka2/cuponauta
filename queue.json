@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-22T22:14:18.911Z",
-  "exportedAt": "22/07/2026, 19:14:18",
+  "lastExport": "2026-07-22T22:24:08.613Z",
+  "exportedAt": "22/07/2026, 19:24:08",
   "total": 100,
-  "pendentes": 30,
-  "postados": 70,
+  "pendentes": 28,
+  "postados": 72,
   "queue": [
     {
       "posicao": 1,
@@ -1207,10 +1207,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_732657-MLA99990199265_112025-AB.webp",
       "horarioProgramado": "19:14",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-22T22:14:39.563Z"
     },
     {
       "posicao": 72,
@@ -1224,10 +1224,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_795362-MLB110918561477_042026-AB--quadros-decorativos-gratidao-flores-cerejeiras-sala-122x60.webp",
       "horarioProgramado": "19:20",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-22T22:20:23.686Z"
     },
     {
       "posicao": 73,
