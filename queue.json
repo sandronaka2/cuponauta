@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-22T22:38:55.605Z",
-  "exportedAt": "22/07/2026, 19:38:55",
+  "lastExport": "2026-07-22T22:44:08.629Z",
+  "exportedAt": "22/07/2026, 19:44:08",
   "total": 100,
-  "pendentes": 26,
-  "postados": 74,
+  "pendentes": 25,
+  "postados": 75,
   "queue": [
     {
       "posicao": 1,
@@ -1275,10 +1275,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_668952-MLB109801124437_032026-AB--blusa-camisa-feminina-manga-longa-bufante-botoes-moda-social.webp",
       "horarioProgramado": "19:39",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-22T22:39:16.988Z"
     },
     {
       "posicao": 76,
