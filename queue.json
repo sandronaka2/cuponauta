@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-22T20:54:08.493Z",
-  "exportedAt": "22/07/2026, 17:54:08",
+  "lastExport": "2026-07-22T21:04:08.509Z",
+  "exportedAt": "22/07/2026, 18:04:08",
   "total": 100,
-  "pendentes": 43,
-  "postados": 57,
+  "pendentes": 41,
+  "postados": 59,
   "queue": [
     {
       "posicao": 1,
@@ -986,10 +986,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_897564-MLB111796381233_052026-AB--estrela-fidget-toy-sensorial-anti-stress-ansiedade.webp",
       "horarioProgramado": "17:58",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-22T20:58:15.769Z"
     },
     {
       "posicao": 59,
@@ -1003,10 +1003,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_821316-MLB109389348485_032026-AB--camisa-poliamida-uv-tech-longa-toque-gelado-academia-corrida.webp",
       "horarioProgramado": "18:01",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-22T21:01:54.017Z"
     },
     {
       "posicao": 60,
