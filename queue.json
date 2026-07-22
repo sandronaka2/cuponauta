@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-22T21:04:08.509Z",
-  "exportedAt": "22/07/2026, 18:04:08",
+  "lastExport": "2026-07-22T21:14:08.530Z",
+  "exportedAt": "22/07/2026, 18:14:08",
   "total": 100,
-  "pendentes": 41,
-  "postados": 59,
+  "pendentes": 39,
+  "postados": 61,
   "queue": [
     {
       "posicao": 1,
@@ -1020,10 +1020,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_703625-MLB112935652585_062026-AB--figurinha-personalizada-copa-do-mundo-2026-fundo-gold-legend.webp",
       "horarioProgramado": "18:07",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-22T21:07:54.912Z"
     },
     {
       "posicao": 61,
@@ -1037,10 +1037,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_924571-MLA93501938208_102025-AB.webp",
       "horarioProgramado": "18:13",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-22T21:13:28.529Z"
     },
     {
       "posicao": 62,
