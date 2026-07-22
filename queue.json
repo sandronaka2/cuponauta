@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-22T12:24:06.163Z",
-  "exportedAt": "22/07/2026, 09:24:06",
+  "lastExport": "2026-07-22T12:34:06.175Z",
+  "exportedAt": "22/07/2026, 09:34:06",
   "total": 100,
-  "pendentes": 98,
-  "postados": 2,
+  "pendentes": 97,
+  "postados": 3,
   "queue": [
     {
       "posicao": 1,
@@ -51,10 +51,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_785723-MLB89201236288_082025-AB--adesivo-anti-rugas-silicone-estimulador-de-colageno-natural.webp",
       "horarioProgramado": "09:26",
       "janela": "09:00-10:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-22T12:26:50.817Z"
     },
     {
       "posicao": 4,
