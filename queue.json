@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-22T20:34:08.453Z",
-  "exportedAt": "22/07/2026, 17:34:08",
+  "lastExport": "2026-07-22T20:44:08.465Z",
+  "exportedAt": "22/07/2026, 17:44:08",
   "total": 100,
-  "pendentes": 45,
-  "postados": 55,
+  "pendentes": 44,
+  "postados": 56,
   "queue": [
     {
       "posicao": 1,
@@ -952,10 +952,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_852423-MLB108035246377_032026-AB--vestido-casual-feminino-manga-curta-midi-moda-verao-elegante.webp",
       "horarioProgramado": "17:34",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-22T20:34:20.171Z"
     },
     {
       "posicao": 57,
