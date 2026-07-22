@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-22T13:04:06.217Z",
-  "exportedAt": "22/07/2026, 10:04:06",
+  "lastExport": "2026-07-22T13:14:51.002Z",
+  "exportedAt": "22/07/2026, 10:14:51",
   "total": 100,
-  "pendentes": 93,
-  "postados": 7,
+  "pendentes": 92,
+  "postados": 8,
   "queue": [
     {
       "posicao": 1,
@@ -136,10 +136,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_951784-MLB109928609808_042026-AB--caixa-de-som-zealot-mp1-300-w-bluetooth-potencia-e-portatil.webp",
       "horarioProgramado": "10:11",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-22T13:11:45.391Z"
     },
     {
       "posicao": 9,
