@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-22T12:44:06.181Z",
-  "exportedAt": "22/07/2026, 09:44:06",
+  "lastExport": "2026-07-22T12:54:06.187Z",
+  "exportedAt": "22/07/2026, 09:54:06",
   "total": 100,
-  "pendentes": 96,
-  "postados": 4,
+  "pendentes": 95,
+  "postados": 5,
   "queue": [
     {
       "posicao": 1,
@@ -85,10 +85,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_936967-MLB109926890243_042026-AB--garotas-enraizadas-em-deus.webp",
       "horarioProgramado": "09:49",
       "janela": "09:00-10:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-22T12:49:43.104Z"
     },
     {
       "posicao": 6,
