@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-22T17:19:52.409Z",
-  "exportedAt": "22/07/2026, 14:19:52",
+  "lastExport": "2026-07-22T17:24:06.534Z",
+  "exportedAt": "22/07/2026, 14:24:06",
   "total": 100,
-  "pendentes": 61,
-  "postados": 39,
+  "pendentes": 60,
+  "postados": 40,
   "queue": [
     {
       "posicao": 1,
@@ -680,10 +680,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_855365-MLB95050151929_102025-AB--gloss-fran-by-franciny-ehlke-liphoney-mel.webp",
       "horarioProgramado": "14:23",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-22T17:23:43.012Z"
     },
     {
       "posicao": 41,
