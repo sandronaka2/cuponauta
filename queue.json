@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-22T14:44:06.340Z",
-  "exportedAt": "22/07/2026, 11:44:06",
+  "lastExport": "2026-07-22T14:54:06.361Z",
+  "exportedAt": "22/07/2026, 11:54:06",
   "total": 100,
-  "pendentes": 84,
-  "postados": 16,
+  "pendentes": 83,
+  "postados": 17,
   "queue": [
     {
       "posicao": 1,
@@ -289,10 +289,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_916572-MLB109126258091_032026-AB--vitaminac-serum-niacinamidaacido-hialuronicocuidados-pele.webp",
       "horarioProgramado": "11:49",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-22T14:49:31.781Z"
     },
     {
       "posicao": 18,
