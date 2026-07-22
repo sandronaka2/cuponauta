@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-22T16:19:48.576Z",
-  "exportedAt": "22/07/2026, 13:19:48",
+  "lastExport": "2026-07-22T16:24:06.449Z",
+  "exportedAt": "22/07/2026, 13:24:06",
   "total": 100,
-  "pendentes": 70,
-  "postados": 30,
+  "pendentes": 69,
+  "postados": 31,
   "queue": [
     {
       "posicao": 1,
@@ -527,10 +527,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_622477-MLB112608151466_062026-AB--serum-antienvelhecimento-os-olhos-com-retinol-cafeina-20-ml.webp",
       "horarioProgramado": "13:22",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-22T16:22:49.724Z"
     },
     {
       "posicao": 32,
