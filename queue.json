@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-22T12:14:15.828Z",
-  "exportedAt": "22/07/2026, 09:14:15",
+  "lastExport": "2026-07-22T12:24:06.163Z",
+  "exportedAt": "22/07/2026, 09:24:06",
   "total": 100,
-  "pendentes": 99,
-  "postados": 1,
+  "pendentes": 98,
+  "postados": 2,
   "queue": [
     {
       "posicao": 1,
@@ -34,10 +34,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_742581-MLB88812315264_082025-AB--adesivo-silicone-reutilizavel-anti-rugas-rosto-testa-5-pecas.webp",
       "horarioProgramado": "09:15",
       "janela": "09:00-10:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-22T12:15:26.009Z"
     },
     {
       "posicao": 3,
