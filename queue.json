@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-22T16:44:06.482Z",
-  "exportedAt": "22/07/2026, 13:44:06",
+  "lastExport": "2026-07-22T16:54:06.489Z",
+  "exportedAt": "22/07/2026, 13:54:06",
   "total": 100,
-  "pendentes": 66,
-  "postados": 34,
+  "pendentes": 64,
+  "postados": 36,
   "queue": [
     {
       "posicao": 1,
@@ -595,10 +595,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_798444-MLB96681873753_102025-AB--relogio-smartwatch-aurafit-trek1-com-gps-a-prova-dagua-5atm.webp",
       "horarioProgramado": "13:47",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-22T16:47:30.238Z"
     },
     {
       "posicao": 36,
@@ -612,10 +612,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_770800-MLB109096695981_032026-AB--camisa-poliamida-uv-tecnologica-treino-corrida-alto-padrao.webp",
       "horarioProgramado": "13:53",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-22T16:53:13.866Z"
     },
     {
       "posicao": 37,
