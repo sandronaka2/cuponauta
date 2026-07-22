@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-22T23:34:08.709Z",
-  "exportedAt": "22/07/2026, 20:34:08",
+  "lastExport": "2026-07-22T23:38:58.686Z",
+  "exportedAt": "22/07/2026, 20:38:58",
   "total": 100,
-  "pendentes": 17,
-  "postados": 83,
+  "pendentes": 16,
+  "postados": 84,
   "queue": [
     {
       "posicao": 1,
@@ -1428,10 +1428,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_845297-MLB111687958000_062026-AB--60g-phansta-natural-sekoll-desodorante-pedra-sem-aluminio.webp",
       "horarioProgramado": "20:34",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-22T23:34:52.306Z"
     },
     {
       "posicao": 85,
