@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-22T14:34:06.326Z",
-  "exportedAt": "22/07/2026, 11:34:06",
+  "lastExport": "2026-07-22T14:44:06.340Z",
+  "exportedAt": "22/07/2026, 11:44:06",
   "total": 100,
-  "pendentes": 85,
-  "postados": 15,
+  "pendentes": 84,
+  "postados": 16,
   "queue": [
     {
       "posicao": 1,
@@ -272,10 +272,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_673416-MLB105888822971_012026-AB--vestido-longo-feminino-alcas-fina-estampa-folhas-moda-verao.webp",
       "horarioProgramado": "11:37",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-22T14:37:33.854Z"
     },
     {
       "posicao": 17,
