@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-22T14:14:16.063Z",
-  "exportedAt": "22/07/2026, 11:14:16",
+  "lastExport": "2026-07-22T14:19:46.071Z",
+  "exportedAt": "22/07/2026, 11:19:46",
   "total": 100,
-  "pendentes": 87,
-  "postados": 13,
+  "pendentes": 86,
+  "postados": 14,
   "queue": [
     {
       "posicao": 1,
@@ -238,10 +238,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_707997-MLB104236891176_012026-AB--cinto-feminino-de-couro-fivela-quadrada-prata-moda-feminina.webp",
       "horarioProgramado": "11:16",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-22T14:16:25.636Z"
     },
     {
       "posicao": 15,
