@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-22T16:24:06.449Z",
-  "exportedAt": "22/07/2026, 13:24:06",
+  "lastExport": "2026-07-22T16:34:06.478Z",
+  "exportedAt": "22/07/2026, 13:34:06",
   "total": 100,
-  "pendentes": 69,
-  "postados": 31,
+  "pendentes": 68,
+  "postados": 32,
   "queue": [
     {
       "posicao": 1,
@@ -544,10 +544,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_714307-MLB114435367845_072026-AB--kit-2-calcas-esportiva-jogger-tactel-masculina-voker.webp",
       "horarioProgramado": "13:28",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-22T16:28:37.421Z"
     },
     {
       "posicao": 33,
