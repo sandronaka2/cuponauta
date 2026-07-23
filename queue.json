@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-23T12:56:38.017Z",
-  "exportedAt": "23/07/2026, 09:56:38",
+  "lastExport": "2026-07-23T13:03:48.534Z",
+  "exportedAt": "23/07/2026, 10:03:48",
   "total": 100,
-  "pendentes": 100,
-  "postados": 0,
+  "pendentes": 98,
+  "postados": 2,
   "queue": [
     {
       "posicao": 1,
@@ -102,10 +102,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_711935-MLB111112822995_052026-AB--livro-de-colorir-mundo-torajo-estilo-bobbie-goods-50-paginas.webp",
       "horarioProgramado": "09:58",
       "janela": "09:00-10:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-23T12:58:44.303Z"
     },
     {
       "posicao": 7,
@@ -119,10 +119,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_715477-MLA108553364167_032026-AB.webp",
       "horarioProgramado": "10:01",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-23T13:01:11.914Z"
     },
     {
       "posicao": 8,
