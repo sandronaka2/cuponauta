@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-23T12:24:10.137Z",
-  "exportedAt": "23/07/2026, 09:24:10",
+  "lastExport": "2026-07-23T12:34:16.205Z",
+  "exportedAt": "23/07/2026, 09:34:16",
   "total": 100,
-  "pendentes": 88,
-  "postados": 2,
+  "pendentes": 87,
+  "postados": 3,
   "queue": [
     {
       "posicao": 1,
@@ -51,10 +51,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_751178-MLB101662448092_122025-AB--kit-10-cuecas-boxer-lisa-polo-wear-sortido.webp",
       "horarioProgramado": "09:25",
       "janela": "09:00-10:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-23T12:25:35.990Z"
     },
     {
       "posicao": 4,
