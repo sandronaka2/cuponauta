@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-23T13:36:38.052Z",
-  "exportedAt": "23/07/2026, 10:36:38",
+  "lastExport": "2026-07-23T13:46:38.072Z",
+  "exportedAt": "23/07/2026, 10:46:38",
   "total": 100,
-  "pendentes": 95,
-  "postados": 5,
+  "pendentes": 94,
+  "postados": 6,
   "queue": [
     {
       "posicao": 1,
@@ -187,10 +187,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_703949-MLB112998129886_072026-AB--camisa-social-masculina-manga-longa-slim-fit-com-elastano.webp",
       "horarioProgramado": "10:43",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-23T13:43:40.630Z"
     },
     {
       "posicao": 12,
