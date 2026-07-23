@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-23T22:18:42.697Z",
-  "exportedAt": "23/07/2026, 19:18:42",
+  "lastExport": "2026-07-23T22:26:38.728Z",
+  "exportedAt": "23/07/2026, 19:26:38",
   "total": 100,
-  "pendentes": 34,
-  "postados": 66,
+  "pendentes": 33,
+  "postados": 67,
   "queue": [
     {
       "posicao": 1,
@@ -1224,10 +1224,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_626243-MLB76673968041_052024-AB--sabonete-liquido-cicatrizante-shopping-line-220ml.webp",
       "horarioProgramado": "19:21",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-23T22:21:52.106Z"
     },
     {
       "posicao": 73,
