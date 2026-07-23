@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-23T21:46:38.676Z",
-  "exportedAt": "23/07/2026, 18:46:38",
+  "lastExport": "2026-07-23T21:56:38.689Z",
+  "exportedAt": "23/07/2026, 18:56:38",
   "total": 100,
-  "pendentes": 39,
-  "postados": 61,
+  "pendentes": 38,
+  "postados": 62,
   "queue": [
     {
       "posicao": 1,
@@ -1139,10 +1139,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_969660-MLB108358464815_032026-AB--camisa-social-manga-curta-masculina-microleve--nao-amassa.webp",
       "horarioProgramado": "18:50",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-23T21:50:44.059Z"
     },
     {
       "posicao": 68,
