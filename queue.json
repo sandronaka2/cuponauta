@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-23T14:36:38.131Z",
-  "exportedAt": "23/07/2026, 11:36:38",
+  "lastExport": "2026-07-23T14:46:38.154Z",
+  "exportedAt": "23/07/2026, 11:46:38",
   "total": 100,
-  "pendentes": 90,
-  "postados": 10,
+  "pendentes": 89,
+  "postados": 11,
   "queue": [
     {
       "posicao": 1,
@@ -272,10 +272,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_923950-MLB89804623670_082025-AB--tenis-feminino-nyx-olympikus.webp",
       "horarioProgramado": "11:37",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-23T14:37:09.754Z"
     },
     {
       "posicao": 17,
