@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-23T16:56:38.321Z",
-  "exportedAt": "23/07/2026, 13:56:38",
+  "lastExport": "2026-07-23T17:03:55.304Z",
+  "exportedAt": "23/07/2026, 14:03:55",
   "total": 100,
-  "pendentes": 69,
-  "postados": 31,
+  "pendentes": 67,
+  "postados": 33,
   "queue": [
     {
       "posicao": 1,
@@ -629,10 +629,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_732068-MLB113252605239_062026-AB--mouse-sem-fio-24g-silencioso-recarregavel-usb-dpi-ajustavel.webp",
       "horarioProgramado": "13:58",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-23T16:58:07.876Z"
     },
     {
       "posicao": 38,
@@ -646,10 +646,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_900831-MLA99524454428_122025-AB.webp",
       "horarioProgramado": "14:01",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-23T17:01:50.973Z"
     },
     {
       "posicao": 39,
