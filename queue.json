@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-23T14:46:38.154Z",
-  "exportedAt": "23/07/2026, 11:46:38",
+  "lastExport": "2026-07-23T14:56:38.158Z",
+  "exportedAt": "23/07/2026, 11:56:38",
   "total": 100,
-  "pendentes": 89,
-  "postados": 11,
+  "pendentes": 88,
+  "postados": 12,
   "queue": [
     {
       "posicao": 1,
@@ -289,10 +289,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_667650-MLB92319207125_092025-AB--cilios-posticos-naturais-10-pares-yk304-meio-cilios-de-gato.webp",
       "horarioProgramado": "11:47",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-23T14:47:18.452Z"
     },
     {
       "posicao": 18,
