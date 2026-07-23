@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-23T21:18:39.094Z",
-  "exportedAt": "23/07/2026, 18:18:39",
+  "lastExport": "2026-07-23T21:26:38.665Z",
+  "exportedAt": "23/07/2026, 18:26:38",
   "total": 100,
-  "pendentes": 43,
-  "postados": 57,
+  "pendentes": 42,
+  "postados": 58,
   "queue": [
     {
       "posicao": 1,
@@ -1071,10 +1071,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_601968-CBT115007572821_072026-AB--camisa-feminina-social-casual-manga-longa.webp",
       "horarioProgramado": "18:25",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-23T21:25:22.968Z"
     },
     {
       "posicao": 64,
