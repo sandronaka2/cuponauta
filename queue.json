@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-23T18:06:38.467Z",
-  "exportedAt": "23/07/2026, 15:06:38",
+  "lastExport": "2026-07-23T18:16:38.439Z",
+  "exportedAt": "23/07/2026, 15:16:38",
   "total": 100,
-  "pendentes": 62,
-  "postados": 38,
+  "pendentes": 61,
+  "postados": 39,
   "queue": [
     {
       "posicao": 1,
@@ -748,10 +748,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_926871-MLB113036132919_062026-AB--body-splash-divine-desodorante-colonia-200ml--wepink.webp",
       "horarioProgramado": "15:13",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-23T18:13:32.830Z"
     },
     {
       "posicao": 45,
