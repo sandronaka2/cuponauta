@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-23T17:18:33.830Z",
-  "exportedAt": "23/07/2026, 14:18:33",
+  "lastExport": "2026-07-23T17:26:38.541Z",
+  "exportedAt": "23/07/2026, 14:26:38",
   "total": 100,
-  "pendentes": 66,
-  "postados": 34,
+  "pendentes": 65,
+  "postados": 35,
   "queue": [
     {
       "posicao": 1,
@@ -680,10 +680,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_994134-MLB113566454463_062026-AB--corretivo-liquido-boca-rosa-beauty-by-payot.webp",
       "horarioProgramado": "14:24",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-23T17:24:28.929Z"
     },
     {
       "posicao": 41,
