@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-23T11:54:09.539Z",
-  "exportedAt": "23/07/2026, 08:54:09",
+  "lastExport": "2026-07-23T12:03:20.507Z",
+  "exportedAt": "23/07/2026, 09:03:20",
   "total": 100,
-  "pendentes": 100,
-  "postados": 0,
+  "pendentes": 89,
+  "postados": 1,
   "queue": [
     {
       "posicao": 1,
@@ -17,10 +17,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_871171-MLA101470832323_122025-AB.webp",
       "horarioProgramado": "09:01",
       "janela": "09:00-10:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-23T12:01:17.513Z"
     },
     {
       "posicao": 2,
@@ -136,7 +136,7 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_649799-MLB100159424747_122025-AB--kit-7-anti-rugas-silicone-reutilizavel-estimulador-colageno.webp",
       "horarioProgramado": "10:10",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "reprovado",
       "fonte": "OFERTA",
       "boostType": null,
       "postedAt": null
@@ -153,7 +153,7 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_667650-MLB92319207125_092025-AB--cilios-posticos-naturais-10-pares-yk304-meio-cilios-de-gato.webp",
       "horarioProgramado": "10:21",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "reprovado",
       "fonte": "OFERTA",
       "boostType": null,
       "postedAt": null
@@ -170,7 +170,7 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_761296-MLB96632199893_102025-AB--kit-7-anti-rugas-rosto-silicone-peito-colo-skin-care-30-usos.webp",
       "horarioProgramado": "10:32",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "reprovado",
       "fonte": "OFERTA",
       "boostType": null,
       "postedAt": null
@@ -187,7 +187,7 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_799502-MLB92654226969_092025-AB--cartela-com-cilios-posticos-maquiagem-3d-mink-naturais-x08.webp",
       "horarioProgramado": "10:45",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "reprovado",
       "fonte": "OFERTA",
       "boostType": null,
       "postedAt": null
@@ -391,7 +391,7 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_989308-MLB97603150953_112025-AB--fone-de-ouvido-bluetooth-54-compativel-iphone-airpods.webp",
       "horarioProgramado": "12:25",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "reprovado",
       "fonte": "OFERTA",
       "boostType": null,
       "postedAt": null
@@ -408,7 +408,7 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_931434-MLB111855618881_052026-AB--fone-de-ouvido-bluetooth--brindes-para-iphone-e-android.webp",
       "horarioProgramado": "12:32",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "reprovado",
       "fonte": "OFERTA",
       "boostType": null,
       "postedAt": null
@@ -459,7 +459,7 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_755609-MLB97807751026_112025-AB--fone-de-ouvido-bluetooth-54-para-iphone-airpods-android.webp",
       "horarioProgramado": "12:54",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "reprovado",
       "fonte": "OFERTA",
       "boostType": null,
       "postedAt": null
@@ -476,7 +476,7 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_922280-MLB75131830271_032024-AB--adesivo-silicone-reutilizavel-anti-rugas-pescoco-skin-care.webp",
       "horarioProgramado": "13:00",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "reprovado",
       "fonte": "OFERTA",
       "boostType": null,
       "postedAt": null
@@ -527,7 +527,7 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_746540-MLB112734551352_062026-AB--fone-de-ouvido-bluetooth-54-para-iphone-airpods-premium.webp",
       "horarioProgramado": "13:20",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "reprovado",
       "fonte": "OFERTA",
       "boostType": null,
       "postedAt": null
@@ -578,7 +578,7 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_995403-MLB99755407501_112025-AB--fone-bluetooth-54-3a-geracao-compativel-c-airpods-premium.webp",
       "horarioProgramado": "13:39",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "reprovado",
       "fonte": "OFERTA",
       "boostType": null,
       "postedAt": null
