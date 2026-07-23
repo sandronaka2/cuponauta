@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-23T15:26:38.229Z",
-  "exportedAt": "23/07/2026, 12:26:38",
+  "lastExport": "2026-07-23T15:36:38.242Z",
+  "exportedAt": "23/07/2026, 12:36:38",
   "total": 100,
-  "pendentes": 83,
-  "postados": 17,
+  "pendentes": 81,
+  "postados": 19,
   "queue": [
     {
       "posicao": 1,
@@ -391,10 +391,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_924406-MLB113552486897_062026-AB--relogio-de-pulso-prata-digital-retro-pulseira-ajuste-unissex.webp",
       "horarioProgramado": "12:27",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-23T15:27:55.459Z"
     },
     {
       "posicao": 24,
@@ -408,10 +408,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_873441-MLA99871145261_112025-AB.webp",
       "horarioProgramado": "12:33",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-23T15:33:43.794Z"
     },
     {
       "posicao": 25,
