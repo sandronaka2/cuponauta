@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-23T19:46:38.565Z",
-  "exportedAt": "23/07/2026, 16:46:38",
+  "lastExport": "2026-07-23T19:56:38.566Z",
+  "exportedAt": "23/07/2026, 16:56:38",
   "total": 100,
-  "pendentes": 54,
-  "postados": 46,
+  "pendentes": 53,
+  "postados": 47,
   "queue": [
     {
       "posicao": 1,
@@ -884,10 +884,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_743753-MLB89179931028_082025-AB--kit-anti-rugas-para-rosto-e-pescoco-feito-de-silicone.webp",
       "horarioProgramado": "16:47",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-23T19:47:35.846Z"
     },
     {
       "posicao": 53,
