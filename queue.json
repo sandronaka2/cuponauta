@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-23T15:56:38.256Z",
-  "exportedAt": "23/07/2026, 12:56:38",
+  "lastExport": "2026-07-23T16:03:53.049Z",
+  "exportedAt": "23/07/2026, 13:03:53",
   "total": 100,
-  "pendentes": 78,
-  "postados": 22,
+  "pendentes": 77,
+  "postados": 23,
   "queue": [
     {
       "posicao": 1,
@@ -476,10 +476,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_680137-MLA110586282358_052026-AB--suporte-porta-controle-remoto-luxuoso-metalizado-brilhoso.webp",
       "horarioProgramado": "13:01",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-23T16:01:55.197Z"
     },
     {
       "posicao": 29,
