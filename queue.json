@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-23T19:56:38.566Z",
-  "exportedAt": "23/07/2026, 16:56:38",
+  "lastExport": "2026-07-23T20:06:38.576Z",
+  "exportedAt": "23/07/2026, 17:06:38",
   "total": 100,
-  "pendentes": 53,
-  "postados": 47,
+  "pendentes": 52,
+  "postados": 48,
   "queue": [
     {
       "posicao": 1,
@@ -901,10 +901,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_947629-MLA101811640473_122025-AB--shorts-mizuno-running-5-m.webp",
       "horarioProgramado": "16:58",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-23T19:58:22.710Z"
     },
     {
       "posicao": 54,
