@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-23T14:03:50.179Z",
-  "exportedAt": "23/07/2026, 11:03:50",
+  "lastExport": "2026-07-23T14:06:38.083Z",
+  "exportedAt": "23/07/2026, 11:06:38",
   "total": 100,
-  "pendentes": 93,
-  "postados": 7,
+  "pendentes": 92,
+  "postados": 8,
   "queue": [
     {
       "posicao": 1,
@@ -221,10 +221,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_727903-MLB92317627897_092025-AB--cilios-tufinhos-tufos-extensao-de-pestanas-volume-cilios-30d.webp",
       "horarioProgramado": "11:05",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-23T14:05:31.430Z"
     },
     {
       "posicao": 14,
