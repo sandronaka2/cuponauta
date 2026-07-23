@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-23T16:46:38.301Z",
-  "exportedAt": "23/07/2026, 13:46:38",
+  "lastExport": "2026-07-23T16:56:38.321Z",
+  "exportedAt": "23/07/2026, 13:56:38",
   "total": 100,
-  "pendentes": 71,
-  "postados": 29,
+  "pendentes": 69,
+  "postados": 31,
   "queue": [
     {
       "posicao": 1,
@@ -595,10 +595,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_927609-MLA105587101429_012026-AB.webp",
       "horarioProgramado": "13:48",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-23T16:48:32.386Z"
     },
     {
       "posicao": 36,
@@ -612,10 +612,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_873636-MLB108720089554_032026-AB--camisa-social-masculina-manga-longa-slim-fit-de-algodao.webp",
       "horarioProgramado": "13:54",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-23T16:54:26.448Z"
     },
     {
       "posicao": 37,
