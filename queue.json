@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-23T13:46:38.072Z",
-  "exportedAt": "23/07/2026, 10:46:38",
+  "lastExport": "2026-07-23T13:56:38.071Z",
+  "exportedAt": "23/07/2026, 10:56:38",
   "total": 100,
-  "pendentes": 94,
-  "postados": 6,
+  "pendentes": 93,
+  "postados": 7,
   "queue": [
     {
       "posicao": 1,
@@ -204,10 +204,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_755598-MLB107449464325_022026-AB--camisa-masculina-social-manga-curta-slim-lisa-plus-size.webp",
       "horarioProgramado": "10:53",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-23T13:53:36.991Z"
     },
     {
       "posicao": 13,
