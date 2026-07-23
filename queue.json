@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-23T23:46:38.785Z",
-  "exportedAt": "23/07/2026, 20:46:38",
+  "lastExport": "2026-07-23T23:56:38.819Z",
+  "exportedAt": "23/07/2026, 20:56:38",
   "total": 100,
-  "pendentes": 20,
-  "postados": 80,
+  "pendentes": 18,
+  "postados": 82,
   "queue": [
     {
       "posicao": 1,
@@ -1462,10 +1462,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_922280-MLB75131830271_032024-AB--adesivo-silicone-reutilizavel-anti-rugas-pescoco-skin-care.webp",
       "horarioProgramado": "20:48",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-23T23:48:37.016Z"
     },
     {
       "posicao": 87,
@@ -1479,10 +1479,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_659443-MLA110556235569_042026-AB.webp",
       "horarioProgramado": "20:54",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-23T23:54:39.555Z"
     },
     {
       "posicao": 88,
