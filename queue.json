@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-23T14:56:38.158Z",
-  "exportedAt": "23/07/2026, 11:56:38",
+  "lastExport": "2026-07-23T15:03:51.165Z",
+  "exportedAt": "23/07/2026, 12:03:51",
   "total": 100,
-  "pendentes": 88,
-  "postados": 12,
+  "pendentes": 86,
+  "postados": 14,
   "queue": [
     {
       "posicao": 1,
@@ -306,10 +306,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_720999-MLB109880596949_032026-AB--vestido-trico-longo-tranca-fenda-inverno-manga-longa-tricot.webp",
       "horarioProgramado": "11:58",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-23T14:58:46.637Z"
     },
     {
       "posicao": 19,
@@ -323,10 +323,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_815916-MLA95648094482_102025-AB.webp",
       "horarioProgramado": "12:01",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-23T15:01:56.196Z"
     },
     {
       "posicao": 20,
