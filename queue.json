@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-23T15:46:38.239Z",
-  "exportedAt": "23/07/2026, 12:46:38",
+  "lastExport": "2026-07-23T15:56:38.256Z",
+  "exportedAt": "23/07/2026, 12:56:38",
   "total": 100,
-  "pendentes": 80,
-  "postados": 20,
+  "pendentes": 78,
+  "postados": 22,
   "queue": [
     {
       "posicao": 1,
@@ -442,10 +442,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_994599-MLB111346912093_052026-AB--suporte-teclado-computador-universal-apoio-ergonomico.webp",
       "horarioProgramado": "12:46",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-23T15:46:52.269Z"
     },
     {
       "posicao": 27,
@@ -459,10 +459,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_811620-MLA112470638111_052026-AB.webp",
       "horarioProgramado": "12:54",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-23T15:54:11.160Z"
     },
     {
       "posicao": 28,
