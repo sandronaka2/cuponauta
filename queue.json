@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-23T19:26:38.542Z",
-  "exportedAt": "23/07/2026, 16:26:38",
+  "lastExport": "2026-07-23T19:36:38.573Z",
+  "exportedAt": "23/07/2026, 16:36:38",
   "total": 100,
-  "pendentes": 55,
-  "postados": 45,
+  "pendentes": 54,
+  "postados": 46,
   "queue": [
     {
       "posicao": 1,
@@ -867,10 +867,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_739604-MLB82784957641_022025-AB--tenis-esportivo-masculino-voa-2-olympikus.webp",
       "horarioProgramado": "16:36",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-23T19:36:12.735Z"
     },
     {
       "posicao": 52,
