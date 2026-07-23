@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-23T21:06:38.632Z",
-  "exportedAt": "23/07/2026, 18:06:38",
+  "lastExport": "2026-07-23T21:16:38.670Z",
+  "exportedAt": "23/07/2026, 18:16:38",
   "total": 100,
-  "pendentes": 45,
-  "postados": 55,
+  "pendentes": 44,
+  "postados": 56,
   "queue": [
     {
       "posicao": 1,
@@ -1037,10 +1037,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_995403-MLB99755407501_112025-AB--fone-bluetooth-54-3a-geracao-compativel-c-airpods-premium.webp",
       "horarioProgramado": "18:12",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-23T21:12:09.067Z"
     },
     {
       "posicao": 62,
