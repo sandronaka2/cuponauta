@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-23T12:34:16.205Z",
-  "exportedAt": "23/07/2026, 09:34:16",
+  "lastExport": "2026-07-23T12:44:20.295Z",
+  "exportedAt": "23/07/2026, 09:44:20",
   "total": 100,
-  "pendentes": 87,
-  "postados": 3,
+  "pendentes": 86,
+  "postados": 4,
   "queue": [
     {
       "posicao": 1,
@@ -68,10 +68,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_752128-CBT114356766687_072026-AB--smartwatch-esportivo-152-chamadas-bluetooth.webp",
       "horarioProgramado": "09:36",
       "janela": "09:00-10:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-23T12:36:08.600Z"
     },
     {
       "posicao": 5,
