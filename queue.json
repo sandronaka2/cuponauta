@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-23T16:26:38.289Z",
-  "exportedAt": "23/07/2026, 13:26:38",
+  "lastExport": "2026-07-23T16:36:38.303Z",
+  "exportedAt": "23/07/2026, 13:36:38",
   "total": 100,
-  "pendentes": 74,
-  "postados": 26,
+  "pendentes": 72,
+  "postados": 28,
   "queue": [
     {
       "posicao": 1,
@@ -544,10 +544,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_625391-MLA113886134329_062026-AB.webp",
       "horarioProgramado": "13:29",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-23T16:29:48.182Z"
     },
     {
       "posicao": 33,
@@ -561,10 +561,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_649799-MLB100159424747_122025-AB--kit-7-anti-rugas-silicone-reutilizavel-estimulador-colageno.webp",
       "horarioProgramado": "13:35",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-23T16:35:13.163Z"
     },
     {
       "posicao": 34,
