@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-24T23:09:21.408Z",
-  "exportedAt": "24/07/2026, 20:09:21",
+  "lastExport": "2026-07-24T23:16:40.545Z",
+  "exportedAt": "24/07/2026, 20:16:40",
   "total": 100,
-  "pendentes": 21,
-  "postados": 79,
+  "pendentes": 19,
+  "postados": 81,
   "queue": [
     {
       "posicao": 1,
@@ -1360,10 +1360,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_806583-MLB113584515766_072026-AB--vestido-trico-tranca-listras-fenda-longo-manga-longa-inverno.webp",
       "horarioProgramado": "20:10",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-24T23:10:55.476Z"
     },
     {
       "posicao": 81,
@@ -1377,10 +1377,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_897544-MLB106914598964_022026-AB--anel-solitario-prata-925-virginia-zirconia-10mm-feminino.webp",
       "horarioProgramado": "20:16",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-24T23:16:27.428Z"
     },
     {
       "posicao": 82,
