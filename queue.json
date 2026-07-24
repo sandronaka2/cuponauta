@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-24T15:26:39.844Z",
-  "exportedAt": "24/07/2026, 12:26:39",
+  "lastExport": "2026-07-24T15:36:39.862Z",
+  "exportedAt": "24/07/2026, 12:36:39",
   "total": 100,
-  "pendentes": 78,
-  "postados": 22,
+  "pendentes": 76,
+  "postados": 24,
   "queue": [
     {
       "posicao": 1,
@@ -391,10 +391,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_657180-CBT112651703112_062026-AB.webp",
       "horarioProgramado": "12:26",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-24T15:26:43.968Z"
     },
     {
       "posicao": 24,
@@ -408,10 +408,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_873158-CBT112473906628_062026-AB--relogio-smartwatch-esportivo-bluetooth-monitor-de.webp",
       "horarioProgramado": "12:32",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-24T15:32:29.234Z"
     },
     {
       "posicao": 25,
