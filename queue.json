@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-24T00:36:38.850Z",
-  "exportedAt": "23/07/2026, 21:36:38",
+  "lastExport": "2026-07-24T00:46:38.862Z",
+  "exportedAt": "23/07/2026, 21:46:38",
   "total": 100,
-  "pendentes": 10,
-  "postados": 90,
+  "pendentes": 8,
+  "postados": 92,
   "queue": [
     {
       "posicao": 1,
@@ -1632,10 +1632,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_728082-MLB114451137715_072026-AB--feno-grego-liquido-30ml-estimulante-masculino-libido-forte.webp",
       "horarioProgramado": "21:38",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-24T00:38:14.065Z"
     },
     {
       "posicao": 97,
@@ -1649,10 +1649,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_950390-MLB113675252045_062026-AB--kit-3-camisetas-masculinas-polo-wear.webp",
       "horarioProgramado": "21:44",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-24T00:44:27.369Z"
     },
     {
       "posicao": 98,
