@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-24T15:01:11.168Z",
-  "exportedAt": "24/07/2026, 12:01:11",
+  "lastExport": "2026-07-24T15:06:39.837Z",
+  "exportedAt": "24/07/2026, 12:06:39",
   "total": 100,
-  "pendentes": 82,
-  "postados": 18,
+  "pendentes": 81,
+  "postados": 19,
   "queue": [
     {
       "posicao": 1,
@@ -323,10 +323,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_703387-CBT112034168268_062026-AB--jaqueta-masculina-de-inverno-com-forro-peluciado-e-gola-alta-termica.webp",
       "horarioProgramado": "12:01",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-24T15:01:56.435Z"
     },
     {
       "posicao": 20,
