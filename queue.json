@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-24T16:46:39.953Z",
-  "exportedAt": "24/07/2026, 13:46:39",
+  "lastExport": "2026-07-24T16:56:40.041Z",
+  "exportedAt": "24/07/2026, 13:56:40",
   "total": 100,
-  "pendentes": 66,
-  "postados": 34,
+  "pendentes": 64,
+  "postados": 36,
   "queue": [
     {
       "posicao": 1,
@@ -595,10 +595,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_806278-MLA109591292172_042026-AB.webp",
       "horarioProgramado": "13:46",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-24T16:46:46.701Z"
     },
     {
       "posicao": 36,
@@ -612,10 +612,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_890142-MLB70387165762_072023-AB--kit-com-10-cueca-slip-masculino-mash.webp",
       "horarioProgramado": "13:52",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-24T16:52:23.371Z"
     },
     {
       "posicao": 37,
