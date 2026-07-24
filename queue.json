@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-24T00:26:38.846Z",
-  "exportedAt": "23/07/2026, 21:26:38",
+  "lastExport": "2026-07-24T00:36:38.850Z",
+  "exportedAt": "23/07/2026, 21:36:38",
   "total": 100,
-  "pendentes": 12,
-  "postados": 88,
+  "pendentes": 10,
+  "postados": 90,
   "queue": [
     {
       "posicao": 1,
@@ -1598,10 +1598,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_852029-MLB112727484478_062026-AB--camisa-social-manga-longa-blusa-social-masculina-nao-amassa.webp",
       "horarioProgramado": "21:28",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-24T00:28:13.747Z"
     },
     {
       "posicao": 95,
@@ -1615,10 +1615,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_700735-MLB113429959139_062026-AB--tenis-kappa-pulse-evo-masculino-feminino.webp",
       "horarioProgramado": "21:33",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-24T00:33:47.494Z"
     },
     {
       "posicao": 96,
