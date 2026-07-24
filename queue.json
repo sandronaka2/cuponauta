@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-24T00:18:46.720Z",
-  "exportedAt": "23/07/2026, 21:18:46",
+  "lastExport": "2026-07-24T00:26:38.846Z",
+  "exportedAt": "23/07/2026, 21:26:38",
   "total": 100,
-  "pendentes": 13,
-  "postados": 87,
+  "pendentes": 12,
+  "postados": 88,
   "queue": [
     {
       "posicao": 1,
@@ -1581,10 +1581,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_761296-MLB96632199893_102025-AB--kit-7-anti-rugas-rosto-silicone-peito-colo-skin-care-30-usos.webp",
       "horarioProgramado": "21:23",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-24T00:23:46.395Z"
     },
     {
       "posicao": 94,
