@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-24T23:36:40.684Z",
-  "exportedAt": "24/07/2026, 20:36:40",
+  "lastExport": "2026-07-24T23:46:40.541Z",
+  "exportedAt": "24/07/2026, 20:46:40",
   "total": 100,
-  "pendentes": 16,
-  "postados": 84,
+  "pendentes": 15,
+  "postados": 85,
   "queue": [
     {
       "posicao": 1,
@@ -1445,10 +1445,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_669861-CBT113984018179_072026-AB--controle-sem-fio-fonkiidokii-g6-multiplataforma.webp",
       "horarioProgramado": "20:41",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-24T23:41:49.225Z"
     },
     {
       "posicao": 86,
