@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-24T22:19:21.460Z",
-  "exportedAt": "24/07/2026, 19:19:21",
+  "lastExport": "2026-07-24T22:26:40.396Z",
+  "exportedAt": "24/07/2026, 19:26:40",
   "total": 100,
-  "pendentes": 29,
-  "postados": 71,
+  "pendentes": 28,
+  "postados": 72,
   "queue": [
     {
       "posicao": 1,
@@ -1224,10 +1224,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_628024-MLB51694656869_092022-AB--kit-3-cuecas-masculinas-boxer-cotton-calvin-klein.webp",
       "horarioProgramado": "19:20",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-24T22:20:42.623Z"
     },
     {
       "posicao": 73,
