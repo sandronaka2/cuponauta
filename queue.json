@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-24T13:19:11.542Z",
-  "exportedAt": "24/07/2026, 10:19:11",
+  "lastExport": "2026-07-24T13:26:39.684Z",
+  "exportedAt": "24/07/2026, 10:26:39",
   "total": 100,
-  "pendentes": 92,
-  "postados": 8,
+  "pendentes": 91,
+  "postados": 9,
   "queue": [
     {
       "posicao": 1,
@@ -153,10 +153,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_851088-MLB112551696989_062026-AB--dia-facial-bastao-antirrugas-com-colageno-creme-hidratante.webp",
       "horarioProgramado": "10:25",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-24T13:25:47.867Z"
     },
     {
       "posicao": 10,
