@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-24T15:46:39.871Z",
-  "exportedAt": "24/07/2026, 12:46:39",
+  "lastExport": "2026-07-24T15:56:39.884Z",
+  "exportedAt": "24/07/2026, 12:56:39",
   "total": 100,
-  "pendentes": 75,
-  "postados": 25,
+  "pendentes": 73,
+  "postados": 27,
   "queue": [
     {
       "posicao": 1,
@@ -442,10 +442,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_759138-MLA106938421611_022026-AB--livro-bobbie-goods-original-editora-harpercollins-brasil-criancas-adultos-desenhos-variados-e-detalhados.webp",
       "horarioProgramado": "12:46",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-24T15:46:57.917Z"
     },
     {
       "posicao": 27,
@@ -459,10 +459,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_852996-MLA99937703973_112025-AB.webp",
       "horarioProgramado": "12:53",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-24T15:53:46.534Z"
     },
     {
       "posicao": 28,
