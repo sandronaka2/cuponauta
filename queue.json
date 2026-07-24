@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-24T22:46:40.417Z",
-  "exportedAt": "24/07/2026, 19:46:40",
+  "lastExport": "2026-07-24T22:56:40.432Z",
+  "exportedAt": "24/07/2026, 19:56:40",
   "total": 100,
-  "pendentes": 24,
-  "postados": 76,
+  "pendentes": 23,
+  "postados": 77,
   "queue": [
     {
       "posicao": 1,
@@ -1309,10 +1309,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_705836-CBT111830103591_052026-AB--teclado-para-jogos-sem-fio-freewolf-m75-com-toque-mecanico.webp",
       "horarioProgramado": "19:51",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-24T22:51:20.384Z"
     },
     {
       "posicao": 78,
