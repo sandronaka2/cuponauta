@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-24T22:36:40.452Z",
-  "exportedAt": "24/07/2026, 19:36:40",
+  "lastExport": "2026-07-24T22:46:40.417Z",
+  "exportedAt": "24/07/2026, 19:46:40",
   "total": 100,
-  "pendentes": 26,
-  "postados": 74,
+  "pendentes": 24,
+  "postados": 76,
   "queue": [
     {
       "posicao": 1,
@@ -1275,10 +1275,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_679016-MLB86037226507_062025-AB--kit-4-cuecas-masculina-low-rise-trunk-algodao-calvin-klein.webp",
       "horarioProgramado": "19:39",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-24T22:39:42.584Z"
     },
     {
       "posicao": 76,
@@ -1292,10 +1292,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_626854-CBT111100574149_052026-AB--teclado-mecanico-sem-fio-60-k68-24g-e-bluetooth.webp",
       "horarioProgramado": "19:45",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-24T22:45:37.367Z"
     },
     {
       "posicao": 77,
