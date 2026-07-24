@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-24T19:56:40.197Z",
-  "exportedAt": "24/07/2026, 16:56:40",
+  "lastExport": "2026-07-24T20:06:40.212Z",
+  "exportedAt": "24/07/2026, 17:06:40",
   "total": 100,
-  "pendentes": 48,
-  "postados": 52,
+  "pendentes": 47,
+  "postados": 53,
   "queue": [
     {
       "posicao": 1,
@@ -901,10 +901,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_639580-CBT114411806931_072026-AB--camera-digital-retro-lente-dupla-para-selfie.webp",
       "horarioProgramado": "16:57",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-24T19:57:09.908Z"
     },
     {
       "posicao": 54,
