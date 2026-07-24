@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-24T14:46:39.806Z",
-  "exportedAt": "24/07/2026, 11:46:39",
+  "lastExport": "2026-07-24T14:56:39.822Z",
+  "exportedAt": "24/07/2026, 11:56:39",
   "total": 100,
-  "pendentes": 84,
-  "postados": 16,
+  "pendentes": 83,
+  "postados": 17,
   "queue": [
     {
       "posicao": 1,
@@ -289,10 +289,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_977178-MLB89101615800_082025-AB--organizador-talheres-gavetas-com-divisorias-ajustaveis.webp",
       "horarioProgramado": "11:49",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-24T14:49:09.257Z"
     },
     {
       "posicao": 18,
