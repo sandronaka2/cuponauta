@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-24T00:06:38.822Z",
-  "exportedAt": "23/07/2026, 21:06:38",
+  "lastExport": "2026-07-24T00:16:38.831Z",
+  "exportedAt": "23/07/2026, 21:16:38",
   "total": 100,
-  "pendentes": 16,
-  "postados": 84,
+  "pendentes": 14,
+  "postados": 86,
   "queue": [
     {
       "posicao": 1,
@@ -1530,10 +1530,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_959936-MLA101310339874_122025-AB--bermuda-mizuno-run-easy-6f.webp",
       "horarioProgramado": "21:06",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-24T00:06:52.692Z"
     },
     {
       "posicao": 91,
@@ -1547,10 +1547,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_968107-MLB82790209831_022025-AB--tenis-esportivo-feminino-voa-2-olympikus.webp",
       "horarioProgramado": "21:12",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-24T00:12:50.452Z"
     },
     {
       "posicao": 92,
