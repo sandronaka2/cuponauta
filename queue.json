@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-24T21:56:40.363Z",
-  "exportedAt": "24/07/2026, 18:56:40",
+  "lastExport": "2026-07-24T22:06:40.407Z",
+  "exportedAt": "24/07/2026, 19:06:40",
   "total": 100,
-  "pendentes": 33,
-  "postados": 67,
+  "pendentes": 31,
+  "postados": 69,
   "queue": [
     {
       "posicao": 1,
@@ -1156,10 +1156,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_766123-MLB110116536149_042026-AB--sandalia-salto-bloco-ramarim-2539202.webp",
       "horarioProgramado": "18:56",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-24T21:56:53.373Z"
     },
     {
       "posicao": 69,
@@ -1173,10 +1173,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_894617-MLB106193563339_012026-AB--sandalia-kenner-kyra-duo.webp",
       "horarioProgramado": "19:02",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-24T22:02:39.246Z"
     },
     {
       "posicao": 70,
