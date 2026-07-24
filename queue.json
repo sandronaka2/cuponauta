@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-24T19:19:21.371Z",
-  "exportedAt": "24/07/2026, 16:19:21",
+  "lastExport": "2026-07-24T19:26:40.167Z",
+  "exportedAt": "24/07/2026, 16:26:40",
   "total": 100,
-  "pendentes": 51,
-  "postados": 49,
+  "pendentes": 50,
+  "postados": 50,
   "queue": [
     {
       "posicao": 1,
@@ -850,10 +850,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_876854-MLB90875751882_082025-AB--chinelo--kenner-masculino-kivah-new-force-palmilha-em-eva.webp",
       "horarioProgramado": "16:21",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-24T19:21:50.718Z"
     },
     {
       "posicao": 51,
