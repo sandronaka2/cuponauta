@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-25T19:53:45.184Z",
-  "exportedAt": "25/07/2026, 16:53:45",
+  "lastExport": "2026-07-25T20:03:45.211Z",
+  "exportedAt": "25/07/2026, 17:03:45",
   "total": 100,
-  "pendentes": 48,
-  "postados": 52,
+  "pendentes": 47,
+  "postados": 53,
   "queue": [
     {
       "posicao": 1,
@@ -901,10 +901,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_910370-MLB110075937964_042026-AB--kit-2-cuecas-boxer-cotton-intense-power-calvin-klein.webp",
       "horarioProgramado": "17:00",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-25T20:00:26.498Z"
     },
     {
       "posicao": 54,
