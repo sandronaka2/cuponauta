@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-25T00:26:40.525Z",
-  "exportedAt": "24/07/2026, 21:26:40",
+  "lastExport": "2026-07-25T00:36:40.854Z",
+  "exportedAt": "24/07/2026, 21:36:40",
   "total": 100,
-  "pendentes": 7,
-  "postados": 93,
+  "pendentes": 5,
+  "postados": 95,
   "queue": [
     {
       "posicao": 1,
@@ -1598,10 +1598,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_965211-MLA99447258444_112025-AB.webp",
       "horarioProgramado": "21:27",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-25T00:27:07.525Z"
     },
     {
       "posicao": 95,
@@ -1615,10 +1615,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_806333-MLB97455171257_112025-AB--relogio-feminino-dourado-quartz--kit-joias-colar-e-brincos.webp",
       "horarioProgramado": "21:33",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-25T00:33:40.668Z"
     },
     {
       "posicao": 96,
