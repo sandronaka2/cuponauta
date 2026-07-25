@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-25T14:56:41.584Z",
-  "exportedAt": "25/07/2026, 11:56:41",
+  "lastExport": "2026-07-25T15:06:41.580Z",
+  "exportedAt": "25/07/2026, 12:06:41",
   "total": 100,
-  "pendentes": 83,
-  "postados": 17,
+  "pendentes": 81,
+  "postados": 19,
   "queue": [
     {
       "posicao": 1,
@@ -306,10 +306,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_814267-MLB95328692057_102025-AB--kit-4-calcinhas-biquini-100-algodao-lupo-feminino.webp",
       "horarioProgramado": "11:58",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-25T14:58:44.821Z"
     },
     {
       "posicao": 19,
@@ -323,10 +323,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_637360-MLB53861338294_022023-AB--kit-com-10-calcinhas-infantil-menina-cotton-miss-delrio.webp",
       "horarioProgramado": "12:01",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-25T15:01:44.871Z"
     },
     {
       "posicao": 20,
