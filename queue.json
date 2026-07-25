@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-25T15:19:46.637Z",
-  "exportedAt": "25/07/2026, 12:19:46",
+  "lastExport": "2026-07-25T15:26:41.593Z",
+  "exportedAt": "25/07/2026, 12:26:41",
   "total": 100,
-  "pendentes": 79,
-  "postados": 21,
+  "pendentes": 78,
+  "postados": 22,
   "queue": [
     {
       "posicao": 1,
@@ -374,10 +374,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_698506-MLB95963746569_102025-AB--meia-masculina-1802-34-de-compressao-kendall.webp",
       "horarioProgramado": "12:21",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-25T15:21:41.174Z"
     },
     {
       "posicao": 23,
