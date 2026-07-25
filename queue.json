@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-25T00:46:40.569Z",
-  "exportedAt": "24/07/2026, 21:46:40",
+  "lastExport": "2026-07-25T00:56:40.569Z",
+  "exportedAt": "24/07/2026, 21:56:40",
   "total": 100,
-  "pendentes": 3,
-  "postados": 97,
+  "pendentes": 1,
+  "postados": 99,
   "queue": [
     {
       "posicao": 1,
@@ -1666,10 +1666,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_825059-MLA99821523933_112025-AB.webp",
       "horarioProgramado": "21:49",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-25T00:49:18.190Z"
     },
     {
       "posicao": 99,
@@ -1683,10 +1683,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_997943-CBT106633810695_022026-AB--jaqueta-moletom-com-capuz-forrada-de-pelucia-inverno.webp",
       "horarioProgramado": "21:54",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-25T00:54:47.778Z"
     },
     {
       "posicao": 100,
