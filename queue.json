@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-25T21:23:45.304Z",
-  "exportedAt": "25/07/2026, 18:23:45",
+  "lastExport": "2026-07-25T21:33:45.318Z",
+  "exportedAt": "25/07/2026, 18:33:45",
   "total": 100,
-  "pendentes": 38,
-  "postados": 62,
+  "pendentes": 36,
+  "postados": 64,
   "queue": [
     {
       "posicao": 1,
@@ -1071,10 +1071,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_641174-MLB110118147731_042026-AB--mocassim-feminino-loafer-tratorado-vizzano.webp",
       "horarioProgramado": "18:25",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-25T21:25:42.189Z"
     },
     {
       "posicao": 64,
@@ -1088,10 +1088,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_651960-MLB108308442248_032026-AB--scarpin-feminino-slingback-salto-fino-moderno-original.webp",
       "horarioProgramado": "18:32",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-25T21:32:54.667Z"
     },
     {
       "posicao": 65,
