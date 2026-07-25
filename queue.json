@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-25T13:56:41.564Z",
-  "exportedAt": "25/07/2026, 10:56:41",
+  "lastExport": "2026-07-25T14:06:41.494Z",
+  "exportedAt": "25/07/2026, 11:06:41",
   "total": 100,
-  "pendentes": 89,
-  "postados": 11,
+  "pendentes": 88,
+  "postados": 12,
   "queue": [
     {
       "posicao": 1,
@@ -204,10 +204,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_632668-MLB94895416288_102025-AB--kit-4-calcinhas-biquini-100-algodao-lupo-feminino.webp",
       "horarioProgramado": "10:57",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-25T13:57:18.405Z"
     },
     {
       "posicao": 13,
