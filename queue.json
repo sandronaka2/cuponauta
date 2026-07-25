@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-24T23:56:40.494Z",
-  "exportedAt": "24/07/2026, 20:56:40",
+  "lastExport": "2026-07-25T00:06:40.517Z",
+  "exportedAt": "24/07/2026, 21:06:40",
   "total": 100,
-  "pendentes": 13,
-  "postados": 87,
+  "pendentes": 10,
+  "postados": 90,
   "queue": [
     {
       "posicao": 1,
@@ -1496,10 +1496,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_985866-MLB113305025838_072026-AB--kit-3-vasos-modelo-espiral-decoracao-moderna-sala-cozinha.webp",
       "horarioProgramado": "20:58",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-24T23:58:49.937Z"
     },
     {
       "posicao": 89,
@@ -1513,10 +1513,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_727987-MLA94570272613_102025-AB.webp",
       "horarioProgramado": "21:01",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-25T00:01:41.665Z"
     },
     {
       "posicao": 90,
@@ -1530,10 +1530,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_836342-CBT110179145146_052026-AB--teclado-duplo-sem-fio-de-24-g-e-bluetooth-m96.webp",
       "horarioProgramado": "21:06",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-25T00:06:08.171Z"
     },
     {
       "posicao": 91,
