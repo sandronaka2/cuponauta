@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-25T20:43:45.266Z",
-  "exportedAt": "25/07/2026, 17:43:45",
+  "lastExport": "2026-07-25T20:53:45.264Z",
+  "exportedAt": "25/07/2026, 17:53:45",
   "total": 100,
-  "pendentes": 44,
-  "postados": 56,
+  "pendentes": 43,
+  "postados": 57,
   "queue": [
     {
       "posicao": 1,
@@ -969,10 +969,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_657487-MLB105909113208_022026-AB--relogio-feminino-quartzo-conjunto-colar-par-de-brincos-luxo.webp",
       "horarioProgramado": "17:48",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-25T20:48:46.756Z"
     },
     {
       "posicao": 58,
