@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-25T17:36:45.763Z",
-  "exportedAt": "25/07/2026, 14:36:45",
+  "lastExport": "2026-07-25T17:46:45.776Z",
+  "exportedAt": "25/07/2026, 14:46:45",
   "total": 100,
-  "pendentes": 60,
-  "postados": 40,
+  "pendentes": 59,
+  "postados": 41,
   "queue": [
     {
       "posicao": 1,
@@ -697,10 +697,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_662701-MLB84763533723_052025-AB--vestido-midi-manga-princesa-tule-brilho-festa-tubinho.webp",
       "horarioProgramado": "14:39",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-25T17:39:40.697Z"
     },
     {
       "posicao": 42,
