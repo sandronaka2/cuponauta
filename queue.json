@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-25T22:43:45.418Z",
-  "exportedAt": "25/07/2026, 19:43:45",
+  "lastExport": "2026-07-25T22:53:45.447Z",
+  "exportedAt": "25/07/2026, 19:53:45",
   "total": 100,
-  "pendentes": 25,
-  "postados": 75,
+  "pendentes": 23,
+  "postados": 77,
   "queue": [
     {
       "posicao": 1,
@@ -1292,10 +1292,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_693766-MLB96430231089_102025-AB--kit-4-cuecas-masculinas-boxer-cotton-calvin-klein.webp",
       "horarioProgramado": "19:46",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-25T22:46:27.187Z"
     },
     {
       "posicao": 77,
@@ -1309,10 +1309,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_950778-CBT113342399665_062026-AB--combo-teclado-e-mouse-sem-fio-hp-24ghz.webp",
       "horarioProgramado": "19:52",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-25T22:52:55.082Z"
     },
     {
       "posicao": 78,
