@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-25T21:43:45.323Z",
-  "exportedAt": "25/07/2026, 18:43:45",
+  "lastExport": "2026-07-25T21:53:45.345Z",
+  "exportedAt": "25/07/2026, 18:53:45",
   "total": 100,
-  "pendentes": 35,
-  "postados": 65,
+  "pendentes": 33,
+  "postados": 67,
   "queue": [
     {
       "posicao": 1,
@@ -1122,10 +1122,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_621505-CBT112877636590_072026-AB--console-de-videogame-portatil-x7-com-dois-joysticks-saida-para-tv.webp",
       "horarioProgramado": "18:44",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-25T21:44:35.811Z"
     },
     {
       "posicao": 67,
@@ -1139,10 +1139,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_822478-MLA96417463253_102025-AB.webp",
       "horarioProgramado": "18:50",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-25T21:50:30.365Z"
     },
     {
       "posicao": 68,
