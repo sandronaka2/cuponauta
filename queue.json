@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-25T00:36:40.854Z",
-  "exportedAt": "24/07/2026, 21:36:40",
+  "lastExport": "2026-07-25T00:46:40.569Z",
+  "exportedAt": "24/07/2026, 21:46:40",
   "total": 100,
-  "pendentes": 5,
-  "postados": 95,
+  "pendentes": 3,
+  "postados": 97,
   "queue": [
     {
       "posicao": 1,
@@ -1632,10 +1632,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_622329-MLA100059139627_122025-AB.webp",
       "horarioProgramado": "21:38",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-25T00:38:12.136Z"
     },
     {
       "posicao": 97,
@@ -1649,10 +1649,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_698900-CBT113078830838_072026-AB--teclado-mecanico-attack-shark-x98-pro-sem-fio.webp",
       "horarioProgramado": "21:44",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-25T00:44:36.276Z"
     },
     {
       "posicao": 98,
