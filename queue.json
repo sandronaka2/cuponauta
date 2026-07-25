@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-25T12:26:41.381Z",
-  "exportedAt": "25/07/2026, 09:26:41",
+  "lastExport": "2026-07-25T12:36:41.393Z",
+  "exportedAt": "25/07/2026, 09:36:41",
   "total": 100,
-  "pendentes": 97,
-  "postados": 3,
+  "pendentes": 96,
+  "postados": 4,
   "queue": [
     {
       "posicao": 1,
@@ -68,10 +68,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_888405-MLB92251180070_092025-AB--6-pares-de-cilios-posticos-naturais-yk404-mink-meia-cilios.webp",
       "horarioProgramado": "09:34",
       "janela": "09:00-10:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-25T12:34:18.682Z"
     },
     {
       "posicao": 5,
