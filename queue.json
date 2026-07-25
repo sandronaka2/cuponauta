@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-25T12:36:41.393Z",
-  "exportedAt": "25/07/2026, 09:36:41",
+  "lastExport": "2026-07-25T12:46:41.395Z",
+  "exportedAt": "25/07/2026, 09:46:41",
   "total": 100,
-  "pendentes": 96,
-  "postados": 4,
+  "pendentes": 95,
+  "postados": 5,
   "queue": [
     {
       "posicao": 1,
@@ -85,10 +85,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_747262-MLB112948041249_062026-AB--kit-2-figurinhas-personalizada-copa-do-mundo-album-2026-gold.webp",
       "horarioProgramado": "09:45",
       "janela": "09:00-10:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-25T12:45:12.177Z"
     },
     {
       "posicao": 6,
