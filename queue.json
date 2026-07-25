@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-25T16:56:41.683Z",
-  "exportedAt": "25/07/2026, 13:56:41",
+  "lastExport": "2026-07-25T17:06:41.706Z",
+  "exportedAt": "25/07/2026, 14:06:41",
   "total": 100,
-  "pendentes": 64,
-  "postados": 36,
+  "pendentes": 62,
+  "postados": 38,
   "queue": [
     {
       "posicao": 1,
@@ -629,10 +629,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_716451-CBT111881840417_052026-AB--camisa-polo-masculina-manga-curta-tecido-waffle.webp",
       "horarioProgramado": "13:58",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-25T16:58:11.712Z"
     },
     {
       "posicao": 38,
@@ -646,10 +646,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_703625-MLB112935652585_062026-AB--figurinha-personalizada-copa-do-mundo-2026-fundo-gold-legend.webp",
       "horarioProgramado": "14:04",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-25T17:04:54.724Z"
     },
     {
       "posicao": 39,
