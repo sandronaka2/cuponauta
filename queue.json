@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-25T11:56:41.347Z",
-  "exportedAt": "25/07/2026, 08:56:41",
+  "lastExport": "2026-07-25T12:06:41.380Z",
+  "exportedAt": "25/07/2026, 09:06:41",
   "total": 100,
-  "pendentes": 100,
-  "postados": 0,
+  "pendentes": 99,
+  "postados": 1,
   "queue": [
     {
       "posicao": 1,
@@ -17,10 +17,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_819440-MLB114982351473_072026-AB--lip-combo-boca-perfeita-dabelle-beauty.webp",
       "horarioProgramado": "09:01",
       "janela": "09:00-10:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-25T12:01:20.482Z"
     },
     {
       "posicao": 2,
