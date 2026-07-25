@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-25T16:46:41.687Z",
-  "exportedAt": "25/07/2026, 13:46:41",
+  "lastExport": "2026-07-25T16:56:41.683Z",
+  "exportedAt": "25/07/2026, 13:56:41",
   "total": 100,
-  "pendentes": 66,
-  "postados": 34,
+  "pendentes": 64,
+  "postados": 36,
   "queue": [
     {
       "posicao": 1,
@@ -595,10 +595,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_995045-MLB110354189686_052026-AB--scarpin-vizzano-feminino-1122897.webp",
       "horarioProgramado": "13:47",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-25T16:47:19.054Z"
     },
     {
       "posicao": 36,
@@ -612,10 +612,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_809915-MLB113774158015_062026-AB--kit-limpeza-profissional-multiuso-3-escova-raspador-box-luva.webp",
       "horarioProgramado": "13:53",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-25T16:53:42.481Z"
     },
     {
       "posicao": 37,
