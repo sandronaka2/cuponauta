@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-25T15:56:41.665Z",
-  "exportedAt": "25/07/2026, 12:56:41",
+  "lastExport": "2026-07-25T16:06:41.816Z",
+  "exportedAt": "25/07/2026, 13:06:41",
   "total": 100,
-  "pendentes": 73,
-  "postados": 27,
+  "pendentes": 71,
+  "postados": 29,
   "queue": [
     {
       "posicao": 1,
@@ -476,10 +476,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_727330-CBT112983462990_072026-AB--relogio-masculino-analogicodigital-ogeda-sport-steel.webp",
       "horarioProgramado": "13:00",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-25T16:00:49.837Z"
     },
     {
       "posicao": 29,
@@ -493,10 +493,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_967603-MLA97215018777_112025-AB.webp",
       "horarioProgramado": "13:06",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-25T16:06:18.773Z"
     },
     {
       "posicao": 30,
