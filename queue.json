@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-25T23:23:45.471Z",
-  "exportedAt": "25/07/2026, 20:23:45",
+  "lastExport": "2026-07-25T23:33:45.485Z",
+  "exportedAt": "25/07/2026, 20:33:45",
   "total": 100,
-  "pendentes": 18,
-  "postados": 82,
+  "pendentes": 17,
+  "postados": 83,
   "queue": [
     {
       "posicao": 1,
@@ -1411,10 +1411,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_626553-MLB107862069484_032026-AB--maquina-digital-infantil-camera-video-jogo-foto-recarregavel.webp",
       "horarioProgramado": "20:29",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-25T23:29:35.048Z"
     },
     {
       "posicao": 84,
