@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-26T13:13:46.204Z",
-  "exportedAt": "26/07/2026, 10:13:46",
+  "lastExport": "2026-07-26T13:23:46.233Z",
+  "exportedAt": "26/07/2026, 10:23:46",
   "total": 100,
-  "pendentes": 92,
-  "postados": 8,
+  "pendentes": 91,
+  "postados": 9,
   "queue": [
     {
       "posicao": 1,
@@ -153,10 +153,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_751737-MLB106521343477_022026-AB--relogio-feminino-digital-led-original--colar-par-de-brincos.webp",
       "horarioProgramado": "10:21",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-26T13:21:47.387Z"
     },
     {
       "posicao": 10,
