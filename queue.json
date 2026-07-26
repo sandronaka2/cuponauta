@@ -1,8 +1,8 @@
 {
-  "lastExport": "2026-07-26T22:33:46.911Z",
-  "exportedAt": "26/07/2026, 19:33:46",
+  "lastExport": "2026-07-26T22:43:46.926Z",
+  "exportedAt": "26/07/2026, 19:43:46",
   "total": 100,
-  "pendentes": 27,
+  "pendentes": 25,
   "postados": 13,
   "queue": [
     {
@@ -1258,7 +1258,7 @@
       "imagem": null,
       "horarioProgramado": "19:33",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "erro",
       "fonte": "OFERTA",
       "boostType": null,
       "postedAt": null
@@ -1275,7 +1275,7 @@
       "imagem": null,
       "horarioProgramado": "19:39",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "erro",
       "fonte": "OFERTA",
       "boostType": null,
       "postedAt": null
