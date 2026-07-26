@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-26T12:53:46.191Z",
-  "exportedAt": "26/07/2026, 09:53:46",
+  "lastExport": "2026-07-26T13:03:46.199Z",
+  "exportedAt": "26/07/2026, 10:03:46",
   "total": 100,
-  "pendentes": 95,
-  "postados": 5,
+  "pendentes": 93,
+  "postados": 7,
   "queue": [
     {
       "posicao": 1,
@@ -102,10 +102,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_638204-MLU73122319784_122023-AB.webp",
       "horarioProgramado": "09:58",
       "janela": "09:00-10:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-26T12:58:19.531Z"
     },
     {
       "posicao": 7,
@@ -119,10 +119,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_855365-MLB95050151929_102025-AB--gloss-fran-by-franciny-ehlke-liphoney-mel.webp",
       "horarioProgramado": "10:01",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-26T13:01:11.229Z"
     },
     {
       "posicao": 8,
