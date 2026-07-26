@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-26T00:33:45.560Z",
-  "exportedAt": "25/07/2026, 21:33:45",
+  "lastExport": "2026-07-26T00:43:45.564Z",
+  "exportedAt": "25/07/2026, 21:43:45",
   "total": 100,
-  "pendentes": 5,
-  "postados": 95,
+  "pendentes": 4,
+  "postados": 96,
   "queue": [
     {
       "posicao": 1,
@@ -1632,10 +1632,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_612814-CBT113385215125_062026-AB--esmalte-de-gel-nude-xeijayi-1-peca-de-longa-duracao-e-dura.webp",
       "horarioProgramado": "21:39",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-26T00:39:17.161Z"
     },
     {
       "posicao": 97,
