@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-26T00:43:45.564Z",
-  "exportedAt": "25/07/2026, 21:43:45",
+  "lastExport": "2026-07-26T00:53:45.573Z",
+  "exportedAt": "25/07/2026, 21:53:45",
   "total": 100,
-  "pendentes": 4,
-  "postados": 96,
+  "pendentes": 2,
+  "postados": 98,
   "queue": [
     {
       "posicao": 1,
@@ -1649,10 +1649,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_896760-CBT112827570086_072026-AB--escova-massageadora-couro-cabeludo-pentear.webp",
       "horarioProgramado": "21:44",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-26T00:44:46.186Z"
     },
     {
       "posicao": 98,
@@ -1666,10 +1666,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_969656-MLA110626429275_042026-AB.webp",
       "horarioProgramado": "21:49",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-26T00:49:18.506Z"
     },
     {
       "posicao": 99,
