@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-25T23:53:45.502Z",
-  "exportedAt": "25/07/2026, 20:53:45",
+  "lastExport": "2026-07-26T00:03:45.503Z",
+  "exportedAt": "25/07/2026, 21:03:45",
   "total": 100,
-  "pendentes": 14,
-  "postados": 86,
+  "pendentes": 11,
+  "postados": 89,
   "queue": [
     {
       "posicao": 1,
@@ -1479,10 +1479,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_690544-MLB112948988248_072026-AB--vestido-trico-longo-tranca-fenda-inverno-manga-longa-tricot.webp",
       "horarioProgramado": "20:54",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-25T23:54:55.146Z"
     },
     {
       "posicao": 88,
@@ -1496,10 +1496,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_839709-MLB79908342218_102024-AB--sapato-scarpin-feminino-agulha-95-cm-vizzano.webp",
       "horarioProgramado": "20:58",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-25T23:58:54.006Z"
     },
     {
       "posicao": 89,
@@ -1513,10 +1513,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_700216-MLA101798908935_122025-AB--kit-10-lampadas-led-bulbo-49w-e27-6500k-branca-fria-bivolt.webp",
       "horarioProgramado": "21:01",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-26T00:01:42.534Z"
     },
     {
       "posicao": 90,
