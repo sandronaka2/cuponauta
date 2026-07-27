@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-27T12:53:47.762Z",
-  "exportedAt": "27/07/2026, 09:53:47",
+  "lastExport": "2026-07-27T13:03:47.811Z",
+  "exportedAt": "27/07/2026, 10:03:47",
   "total": 100,
-  "pendentes": 95,
-  "postados": 5,
+  "pendentes": 93,
+  "postados": 7,
   "queue": [
     {
       "posicao": 1,
@@ -102,10 +102,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_978610-CBT112777407637_062026-AB.webp",
       "horarioProgramado": "09:58",
       "janela": "09:00-10:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-27T12:58:36.436Z"
     },
     {
       "posicao": 7,
@@ -119,10 +119,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_669962-CBT111903502618_062026-AB--escova-de-cabelo-redonda-55cm-x-255cm.webp",
       "horarioProgramado": "10:01",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-27T13:01:13.467Z"
     },
     {
       "posicao": 8,
