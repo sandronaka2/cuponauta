@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-27T14:03:47.863Z",
-  "exportedAt": "27/07/2026, 11:03:47",
+  "lastExport": "2026-07-27T14:07:12.905Z",
+  "exportedAt": "27/07/2026, 11:07:12",
   "total": 100,
-  "pendentes": 99,
-  "postados": 1,
+  "pendentes": 98,
+  "postados": 2,
   "queue": [
     {
       "posicao": 1,
@@ -221,10 +221,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_878660-MLB110307915796_052026-AB--suporte-teclado-computador-universal-apoio-ergonomico-11.webp",
       "horarioProgramado": "11:04",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-27T14:04:10.806Z"
     },
     {
       "posicao": 14,
