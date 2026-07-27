@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-27T15:07:19.665Z",
-  "exportedAt": "27/07/2026, 12:07:19",
+  "lastExport": "2026-07-27T15:17:16.673Z",
+  "exportedAt": "27/07/2026, 12:17:16",
   "total": 100,
-  "pendentes": 92,
-  "postados": 8,
+  "pendentes": 90,
+  "postados": 10,
   "queue": [
     {
       "posicao": 1,
@@ -340,10 +340,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_982152-MLB110086909161_042026-AB--dispenser-porta-touca-tnt-descartavel-suporte-parede-ramebel.webp",
       "horarioProgramado": "12:08",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-27T15:08:39.512Z"
     },
     {
       "posicao": 21,
@@ -357,10 +357,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_823259-MLB113786870837_062026-AB--50ml-35facial-acido-salicilico-manchas-acne-rosto-oleoso.webp",
       "horarioProgramado": "12:14",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-27T15:14:36.391Z"
     },
     {
       "posicao": 22,
