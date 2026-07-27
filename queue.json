@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-27T16:07:17.703Z",
-  "exportedAt": "27/07/2026, 13:07:17",
+  "lastExport": "2026-07-27T16:17:16.711Z",
+  "exportedAt": "27/07/2026, 13:17:16",
   "total": 100,
-  "pendentes": 83,
-  "postados": 17,
+  "pendentes": 81,
+  "postados": 19,
   "queue": [
     {
       "posicao": 1,
@@ -493,10 +493,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_930773-MLB112636772548_062026-AB--modelador-cachos-estilo-ceramica-cacheador-de-cabelos-bivolt.webp",
       "horarioProgramado": "13:08",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-27T16:08:13.673Z"
     },
     {
       "posicao": 30,
@@ -510,10 +510,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_785723-MLB89201236288_082025-AB--adesivo-anti-rugas-silicone-estimulador-de-colageno-natural.webp",
       "horarioProgramado": "13:15",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-27T16:15:26.266Z"
     },
     {
       "posicao": 31,
