@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-27T16:57:16.763Z",
-  "exportedAt": "27/07/2026, 13:57:16",
+  "lastExport": "2026-07-27T17:07:13.348Z",
+  "exportedAt": "27/07/2026, 14:07:13",
   "total": 100,
-  "pendentes": 75,
-  "postados": 25,
+  "pendentes": 73,
+  "postados": 27,
   "queue": [
     {
       "posicao": 1,
@@ -629,10 +629,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_987669-MLB112925462900_072026-AB--vestido-trico-longo-tranca-fenda-inverno-manga-longa-tricot.webp",
       "horarioProgramado": "13:58",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-27T16:58:27.664Z"
     },
     {
       "posicao": 38,
@@ -646,10 +646,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_849187-MLB111610518002_062026-AB--kit-acabamento-registro-pressao-cromado-com-reparo-1416-luxo.webp",
       "horarioProgramado": "14:01",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-27T17:01:20.405Z"
     },
     {
       "posicao": 39,
