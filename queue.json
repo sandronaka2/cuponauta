@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-27T16:27:16.742Z",
-  "exportedAt": "27/07/2026, 13:27:16",
+  "lastExport": "2026-07-27T16:37:16.749Z",
+  "exportedAt": "27/07/2026, 13:37:16",
   "total": 100,
-  "pendentes": 80,
-  "postados": 20,
+  "pendentes": 78,
+  "postados": 22,
   "queue": [
     {
       "posicao": 1,
@@ -544,10 +544,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_984504-MLB109211410323_032026-AB--quadro-decorativo-metal-nordico-ouro-leao-aguia-tigre-3-peca.webp",
       "horarioProgramado": "13:27",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-27T16:27:20.697Z"
     },
     {
       "posicao": 33,
@@ -561,10 +561,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_608487-MLB111490561979_052026-AB--relogio-minimalista-phatom-quartz-branco-analogico.webp",
       "horarioProgramado": "13:34",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-27T16:34:22.878Z"
     },
     {
       "posicao": 34,
