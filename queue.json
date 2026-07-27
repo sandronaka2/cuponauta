@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-27T18:44:58.531Z",
-  "exportedAt": "27/07/2026, 15:44:58",
+  "lastExport": "2026-07-27T18:55:02.964Z",
+  "exportedAt": "27/07/2026, 15:55:02",
   "total": 100,
-  "pendentes": 65,
-  "postados": 35,
+  "pendentes": 64,
+  "postados": 36,
   "queue": [
     {
       "posicao": 1,
@@ -799,10 +799,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_976714-MLB112608706560_062026-AB--fps90-bastao-de-protetor-solar-facial-protetor-solar-atacado.webp",
       "horarioProgramado": "15:45",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-27T18:45:15.879Z"
     },
     {
       "posicao": 48,
