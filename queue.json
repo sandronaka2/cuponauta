@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-27T18:07:17.837Z",
-  "exportedAt": "27/07/2026, 15:07:17",
+  "lastExport": "2026-07-27T18:17:16.848Z",
+  "exportedAt": "27/07/2026, 15:17:16",
   "total": 100,
-  "pendentes": 68,
-  "postados": 32,
+  "pendentes": 67,
+  "postados": 33,
   "queue": [
     {
       "posicao": 1,
@@ -748,10 +748,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_644472-MLB108037660032_032026-AB--adaptador-true-link-12v-24v-cabo-3m-para-starlink-mini-cinza.webp",
       "horarioProgramado": "15:10",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-27T18:10:17.854Z"
     },
     {
       "posicao": 45,
