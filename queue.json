@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-27T18:17:16.848Z",
-  "exportedAt": "27/07/2026, 15:17:16",
+  "lastExport": "2026-07-27T18:22:21.780Z",
+  "exportedAt": "27/07/2026, 15:22:21",
   "total": 100,
-  "pendentes": 67,
-  "postados": 33,
+  "pendentes": 66,
+  "postados": 34,
   "queue": [
     {
       "posicao": 1,
@@ -765,10 +765,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_807876-MLB111512800329_052026-AB--depilador-eletrico-feminino-4-em-1-aparador-coporal-pelos.webp",
       "horarioProgramado": "15:21",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-27T18:21:11.258Z"
     },
     {
       "posicao": 46,
