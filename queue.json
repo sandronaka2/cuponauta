@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-27T16:47:16.768Z",
-  "exportedAt": "27/07/2026, 13:47:16",
+  "lastExport": "2026-07-27T16:57:16.763Z",
+  "exportedAt": "27/07/2026, 13:57:16",
   "total": 100,
-  "pendentes": 77,
-  "postados": 23,
+  "pendentes": 75,
+  "postados": 25,
   "queue": [
     {
       "posicao": 1,
@@ -595,10 +595,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_761248-MLB87226554113_072025-AB--blusa-blusinha-feminina-vest-legging-manga-curta-canelada.webp",
       "horarioProgramado": "13:47",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-27T16:47:32.265Z"
     },
     {
       "posicao": 36,
@@ -612,10 +612,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_745088-MLB111185009380_052026-AB--camiseta-colcci-feminina-0340107053-preto.webp",
       "horarioProgramado": "13:53",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-27T16:53:48.732Z"
     },
     {
       "posicao": 37,
