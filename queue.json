@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-27T13:07:10.729Z",
-  "exportedAt": "27/07/2026, 10:07:10",
+  "lastExport": "2026-07-27T13:13:47.817Z",
+  "exportedAt": "27/07/2026, 10:13:47",
   "total": 100,
-  "pendentes": 93,
-  "postados": 7,
+  "pendentes": 92,
+  "postados": 8,
   "queue": [
     {
       "posicao": 1,
@@ -136,10 +136,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_981479-MLB113845222396_072026-AB--kit-maca-peruana-beterraba-guarana-7x100g-pretreino-natural.webp",
       "horarioProgramado": "10:10",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-27T13:10:16.434Z"
     },
     {
       "posicao": 9,
