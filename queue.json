@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-27T14:57:16.659Z",
-  "exportedAt": "27/07/2026, 11:57:16",
+  "lastExport": "2026-07-27T15:07:13.299Z",
+  "exportedAt": "27/07/2026, 12:07:13",
   "total": 100,
-  "pendentes": 94,
-  "postados": 6,
+  "pendentes": 92,
+  "postados": 8,
   "queue": [
     {
       "posicao": 1,
@@ -306,10 +306,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_894101-MLB113771452945_062026-AB--kit-2-cintas-macaquinho-modelador--alta-compressao-com-bojo.webp",
       "horarioProgramado": "11:58",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-27T14:58:27.391Z"
     },
     {
       "posicao": 19,
@@ -323,10 +323,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_793315-MLB87202269215_072025-AB--blusa-feminina-manga-longa-bufante-crepe-decote-transpassado.webp",
       "horarioProgramado": "12:01",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-27T15:01:16.590Z"
     },
     {
       "posicao": 20,
