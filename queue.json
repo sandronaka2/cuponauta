@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-28T15:20:03.025Z",
-  "exportedAt": "28/07/2026, 12:20:03",
+  "lastExport": "2026-07-28T15:26:14.040Z",
+  "exportedAt": "28/07/2026, 12:26:14",
   "total": 100,
-  "pendentes": 80,
-  "postados": 20,
+  "pendentes": 79,
+  "postados": 21,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -377,10 +377,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_717616-MLB111185005062_052026-AB--camiseta-colcci-feminina-0340107047-bordo-bloodstone.webp",
       "horarioProgramado": "12:22",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-28T15:22:55.274Z"
     },
     {
       "posicao": 23,
