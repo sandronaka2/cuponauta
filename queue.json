@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-28T16:56:14.109Z",
-  "exportedAt": "28/07/2026, 13:56:14",
+  "lastExport": "2026-07-28T17:00:03.192Z",
+  "exportedAt": "28/07/2026, 14:00:03",
   "total": 100,
-  "pendentes": 65,
-  "postados": 35,
+  "pendentes": 64,
+  "postados": 36,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -632,10 +632,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_808255-MLB109819891456_042026-AB--serum-facial-rejuvenescedor-resveratrol-phallebeauty-vegano.webp",
       "horarioProgramado": "13:58",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-28T16:58:08.822Z"
     },
     {
       "posicao": 38,
