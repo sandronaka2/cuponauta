@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-28T14:36:35.327Z",
-  "exportedAt": "28/07/2026, 11:36:35",
+  "lastExport": "2026-07-28T14:40:03.105Z",
+  "exportedAt": "28/07/2026, 11:40:03",
   "total": 100,
-  "pendentes": 86,
-  "postados": 14,
+  "pendentes": 85,
+  "postados": 15,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -275,10 +275,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_834445-MLB110670733769_042026-AB--capinha-protecao-total-e-estilo-para-garmin-novo-vivoactive6.webp",
       "horarioProgramado": "11:38",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-28T14:38:20.909Z"
     },
     {
       "posicao": 17,
