@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-28T14:56:13.981Z",
-  "exportedAt": "28/07/2026, 11:56:13",
+  "lastExport": "2026-07-28T15:00:03.066Z",
+  "exportedAt": "28/07/2026, 12:00:03",
   "total": 100,
-  "pendentes": 84,
-  "postados": 16,
+  "pendentes": 83,
+  "postados": 17,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -309,10 +309,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_891294-MLB114380850293_072026-AB--pulseira-magnetica-para-galaxy-watch-8-samsung-fecho-ima.webp",
       "horarioProgramado": "11:58",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-28T14:58:20.358Z"
     },
     {
       "posicao": 19,
