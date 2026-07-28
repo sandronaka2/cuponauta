@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-28T17:20:03.181Z",
-  "exportedAt": "28/07/2026, 14:20:03",
+  "lastExport": "2026-07-28T17:26:14.242Z",
+  "exportedAt": "28/07/2026, 14:26:14",
   "total": 100,
-  "pendentes": 62,
-  "postados": 38,
+  "pendentes": 61,
+  "postados": 39,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -683,10 +683,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_849999-MLB112318919161_052026-AB--body-splash-masculino-zafran-fragrancia-insp-arabe-200ml.webp",
       "horarioProgramado": "14:25",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-28T17:25:48.050Z"
     },
     {
       "posicao": 41,
