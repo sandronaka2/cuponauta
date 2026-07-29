@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-29T00:00:03.573Z",
-  "exportedAt": "28/07/2026, 21:00:03",
+  "lastExport": "2026-07-29T00:07:16.359Z",
+  "exportedAt": "28/07/2026, 21:07:16",
   "total": 100,
-  "pendentes": 13,
-  "postados": 87,
+  "pendentes": 11,
+  "postados": 89,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -1516,10 +1516,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_832614-CBT102394431100_122025-AB--relogio-smartwatch-simsonlab-p98-com-chamadas-bluetooth.webp",
       "horarioProgramado": "21:01",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-29T00:01:32.709Z"
     },
     {
       "posicao": 90,
@@ -1533,10 +1533,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_615828-MLB113119754334_072026-AB--caixa-de-som-zealot-pt02-bluetooth-portatil-potencia-hifi.webp",
       "horarioProgramado": "21:05",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-29T00:05:32.303Z"
     },
     {
       "posicao": 91,
