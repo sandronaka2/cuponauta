@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-29T17:47:18.961Z",
-  "exportedAt": "29/07/2026, 14:47:18",
+  "lastExport": "2026-07-29T17:50:05.931Z",
+  "exportedAt": "29/07/2026, 14:50:05",
   "total": 100,
-  "pendentes": 59,
-  "postados": 41,
+  "pendentes": 58,
+  "postados": 42,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -717,10 +717,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_684941-MLB110849763603_042026-AB--kit-6-pares-meia-antiderrapante-pilates-yoga-hidro-academia.webp",
       "horarioProgramado": "14:49",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-29T17:49:37.098Z"
     },
     {
       "posicao": 43,
