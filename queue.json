@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-29T17:00:04.275Z",
-  "exportedAt": "29/07/2026, 14:00:04",
+  "lastExport": "2026-07-29T17:07:17.271Z",
+  "exportedAt": "29/07/2026, 14:07:17",
   "total": 100,
-  "pendentes": 63,
-  "postados": 37,
+  "pendentes": 62,
+  "postados": 38,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -649,10 +649,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_906126-MLB114450509275_072026-AB--suporte-base-de-carregador-de-mesa-para-relogio-garmin-dock.webp",
       "horarioProgramado": "14:01",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-29T17:01:27.574Z"
     },
     {
       "posicao": 39,
