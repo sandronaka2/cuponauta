@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-29T19:37:19.082Z",
-  "exportedAt": "29/07/2026, 16:37:19",
+  "lastExport": "2026-07-29T19:40:05.992Z",
+  "exportedAt": "29/07/2026, 16:40:05",
   "total": 100,
-  "pendentes": 50,
-  "postados": 50,
+  "pendentes": 49,
+  "postados": 51,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -870,10 +870,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_643776-MLA93390821216_092025-AB--sandalia-usaflex-feminino-uc21004.webp",
       "horarioProgramado": "16:38",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-29T19:38:41.758Z"
     },
     {
       "posicao": 52,
