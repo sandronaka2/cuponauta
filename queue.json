@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-29T14:27:17.191Z",
-  "exportedAt": "29/07/2026, 11:27:17",
+  "lastExport": "2026-07-29T14:30:04.137Z",
+  "exportedAt": "29/07/2026, 11:30:04",
   "total": 100,
-  "pendentes": 86,
-  "postados": 14,
+  "pendentes": 85,
+  "postados": 15,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -258,10 +258,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_840176-CBT113127691368_072026-AB--baralho-luxo-cartas-de-poker-metalicas-douradas.webp",
       "horarioProgramado": "11:28",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-29T14:28:18.085Z"
     },
     {
       "posicao": 16,
