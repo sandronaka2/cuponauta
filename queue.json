@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-29T23:00:06.202Z",
-  "exportedAt": "29/07/2026, 20:00:06",
+  "lastExport": "2026-07-29T23:07:19.266Z",
+  "exportedAt": "29/07/2026, 20:07:19",
   "total": 100,
-  "pendentes": 22,
-  "postados": 78,
+  "pendentes": 21,
+  "postados": 79,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -1346,10 +1346,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_616516-CBT112940752594_072026-AB--gel-de-banho-caqui-limpeza-profunda-100-ml.webp",
       "horarioProgramado": "20:04",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-29T23:04:52.192Z"
     },
     {
       "posicao": 80,
