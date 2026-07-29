@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-29T21:40:06.129Z",
-  "exportedAt": "29/07/2026, 18:40:06",
+  "lastExport": "2026-07-29T21:47:19.182Z",
+  "exportedAt": "29/07/2026, 18:47:19",
   "total": 100,
-  "pendentes": 35,
-  "postados": 65,
+  "pendentes": 34,
+  "postados": 66,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -1125,10 +1125,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_878660-MLB110307915796_052026-AB--suporte-teclado-computador-universal-apoio-ergonomico-11.webp",
       "horarioProgramado": "18:44",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-29T21:44:22.908Z"
     },
     {
       "posicao": 67,
