@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-29T15:20:04.189Z",
-  "exportedAt": "29/07/2026, 12:20:04",
+  "lastExport": "2026-07-29T15:27:17.237Z",
+  "exportedAt": "29/07/2026, 12:27:17",
   "total": 100,
-  "pendentes": 79,
-  "postados": 21,
+  "pendentes": 77,
+  "postados": 23,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -377,10 +377,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_940656-MLB113786153749_062026-AB--fps90-bastao-de-protetor-solar-facial-protetor-solar-atacado.webp",
       "horarioProgramado": "12:20",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-29T15:20:19.755Z"
     },
     {
       "posicao": 23,
@@ -394,10 +394,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_600123-MLB109880835681_032026-AB--vestido-trico-longo-tranca-fenda-inverno-manga-longa-tricot.webp",
       "horarioProgramado": "12:27",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-29T15:27:16.245Z"
     },
     {
       "posicao": 24,
