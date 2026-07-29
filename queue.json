@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-29T16:17:17.234Z",
-  "exportedAt": "29/07/2026, 13:17:17",
+  "lastExport": "2026-07-29T16:20:04.215Z",
+  "exportedAt": "29/07/2026, 13:20:04",
   "total": 100,
-  "pendentes": 70,
-  "postados": 30,
+  "pendentes": 69,
+  "postados": 31,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -530,10 +530,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_852208-MLB111230803539_052026-AB--kit-12-pares-meia-soquete-meias-cano-curto-feminina-premium.webp",
       "horarioProgramado": "13:19",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-29T16:19:10.372Z"
     },
     {
       "posicao": 32,
