@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-29T13:20:04.051Z",
-  "exportedAt": "29/07/2026, 10:20:04",
+  "lastExport": "2026-07-29T13:27:17.066Z",
+  "exportedAt": "29/07/2026, 10:27:17",
   "total": 100,
-  "pendentes": 92,
-  "postados": 8,
+  "pendentes": 91,
+  "postados": 9,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -156,10 +156,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_910476-MLB113033587620_072026-AB--kit-15-pares-meias-sport-algodao-cano-medio-sandrini-confort.webp",
       "horarioProgramado": "10:21",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-29T13:21:12.456Z"
     },
     {
       "posicao": 10,
