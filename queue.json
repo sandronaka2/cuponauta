@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-29T13:50:04.075Z",
-  "exportedAt": "29/07/2026, 10:50:04",
+  "lastExport": "2026-07-29T13:57:17.141Z",
+  "exportedAt": "29/07/2026, 10:57:17",
   "total": 100,
-  "pendentes": 89,
-  "postados": 11,
+  "pendentes": 88,
+  "postados": 12,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -207,10 +207,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_713706-MLB113961492689_062026-AB--kit-comfort-amaciante-500ml--perfume-cristais-rosa-2.webp",
       "horarioProgramado": "10:56",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-29T13:56:28.987Z"
     },
     {
       "posicao": 13,
