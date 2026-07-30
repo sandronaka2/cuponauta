@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-30T20:57:20.261Z",
-  "exportedAt": "30/07/2026, 17:57:20",
+  "lastExport": "2026-07-30T21:00:07.199Z",
+  "exportedAt": "30/07/2026, 18:00:07",
   "total": 100,
-  "pendentes": 89,
-  "postados": 11,
+  "pendentes": 88,
+  "postados": 12,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -989,10 +989,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_679103-MLB114921531271_072026-AB--torneira-lavatorio-de-mesa-pia-banheiro-lavabo-inox-escovado.webp",
       "horarioProgramado": "17:58",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-30T20:58:55.913Z"
     },
     {
       "posicao": 59,
