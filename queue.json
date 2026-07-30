@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-30T21:30:07.241Z",
-  "exportedAt": "30/07/2026, 18:30:07",
+  "lastExport": "2026-07-30T21:37:20.343Z",
+  "exportedAt": "30/07/2026, 18:37:20",
   "total": 100,
-  "pendentes": 83,
-  "postados": 17,
+  "pendentes": 81,
+  "postados": 19,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -1091,10 +1091,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_691995-MLB106750395938_022026-AB--prateleira-inox-gradeada-aparador-escorredor-40x26-multiuso.webp",
       "horarioProgramado": "18:31",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-30T21:31:45.005Z"
     },
     {
       "posicao": 65,
@@ -1108,10 +1108,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_678908-MLB114644297449_072026-AB--camiseta-masculina-ess-small-no-1-logo-tee-puma.webp",
       "horarioProgramado": "18:37",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-30T21:37:20.253Z"
     },
     {
       "posicao": 66,
