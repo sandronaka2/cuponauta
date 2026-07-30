@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-30T14:07:19.856Z",
-  "exportedAt": "30/07/2026, 11:07:19",
+  "lastExport": "2026-07-30T14:08:23.554Z",
+  "exportedAt": "30/07/2026, 11:08:23",
   "total": 100,
-  "pendentes": 82,
-  "postados": 9,
+  "pendentes": 81,
+  "postados": 10,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -224,10 +224,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_924224-MLB110129391476_042026-AB--figurinha-copa-do-mundo-oficial-2026-1-envelope-com-7-unidades-futebol-selecao.webp",
       "horarioProgramado": "11:07",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-30T14:07:26.832Z"
     },
     {
       "posicao": 14,
