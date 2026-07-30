@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-30T14:57:19.914Z",
-  "exportedAt": "30/07/2026, 11:57:19",
+  "lastExport": "2026-07-30T15:00:06.864Z",
+  "exportedAt": "30/07/2026, 12:00:06",
   "total": 100,
-  "pendentes": 77,
-  "postados": 14,
+  "pendentes": 76,
+  "postados": 15,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -309,10 +309,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_632730-MLB91861738488_092025-AB--3-cloreto-de-calcio-refil-antimofo-granulado-bolinhas-5-pot.webp",
       "horarioProgramado": "11:58",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-30T14:58:14.700Z"
     },
     {
       "posicao": 19,
