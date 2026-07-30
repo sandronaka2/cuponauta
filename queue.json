@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-30T12:10:06.739Z",
-  "exportedAt": "30/07/2026, 09:10:06",
+  "lastExport": "2026-07-30T12:17:19.753Z",
+  "exportedAt": "30/07/2026, 09:17:19",
   "total": 100,
-  "pendentes": 90,
-  "postados": 1,
+  "pendentes": 89,
+  "postados": 2,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -37,10 +37,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_790118-MLB91111856158_092025-AB--hub-adaptador-usb-30-7-em-1-turbo-5gbps-botoes-individuais.webp",
       "horarioProgramado": "09:12",
       "janela": "09:00-10:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-30T12:12:39.427Z"
     },
     {
       "posicao": 3,
