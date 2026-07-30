@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-30T15:50:06.874Z",
-  "exportedAt": "30/07/2026, 12:50:06",
+  "lastExport": "2026-07-30T15:57:19.941Z",
+  "exportedAt": "30/07/2026, 12:57:19",
   "total": 100,
-  "pendentes": 70,
-  "postados": 21,
+  "pendentes": 69,
+  "postados": 22,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -462,10 +462,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_961607-MLB109635940052_042026-AB--livrinho-de-adesivos-de-cenarios-3d-com-pinca-desenhos-entretenimento-passatempo-atividades.webp",
       "horarioProgramado": "12:55",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-30T15:55:23.634Z"
     },
     {
       "posicao": 28,
