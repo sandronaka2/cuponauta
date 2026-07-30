@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-30T22:10:07.287Z",
-  "exportedAt": "30/07/2026, 19:10:07",
+  "lastExport": "2026-07-30T22:20:07.291Z",
+  "exportedAt": "30/07/2026, 19:20:07",
   "total": 100,
-  "pendentes": 76,
-  "postados": 24,
+  "pendentes": 75,
+  "postados": 25,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -1210,10 +1210,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_711814-MLB91728324500_092025-AB--kit-100-forma-de-airfryer-descartavel-quadrada-papel-20x20cm.webp",
       "horarioProgramado": "19:15",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-30T22:15:28.237Z"
     },
     {
       "posicao": 72,
