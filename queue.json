@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-30T21:00:07.199Z",
-  "exportedAt": "30/07/2026, 18:00:07",
+  "lastExport": "2026-07-30T21:07:20.276Z",
+  "exportedAt": "30/07/2026, 18:07:20",
   "total": 100,
-  "pendentes": 88,
-  "postados": 12,
+  "pendentes": 86,
+  "postados": 14,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -1006,10 +1006,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_745152-MLB113402829449_062026-AB--torneira-para-banheiro-preta-pia-lavatorio-cuba-bancada-abs.webp",
       "horarioProgramado": "18:01",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-30T21:01:40.707Z"
     },
     {
       "posicao": 60,
@@ -1023,10 +1023,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_754138-MLB110437827195_042026-AB--scarpin-vizzano-feminino-11841716.webp",
       "horarioProgramado": "18:06",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-30T21:06:49.347Z"
     },
     {
       "posicao": 61,
