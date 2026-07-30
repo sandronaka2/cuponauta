@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-30T19:00:07.096Z",
-  "exportedAt": "30/07/2026, 16:00:07",
+  "lastExport": "2026-07-30T19:07:20.216Z",
+  "exportedAt": "30/07/2026, 16:07:20",
   "total": 100,
-  "pendentes": 99,
-  "postados": 1,
+  "pendentes": 98,
+  "postados": 2,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -819,10 +819,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_709489-MLB112850231646_072026-AB--scarpin-beira-rio-feminino-40761350.webp",
       "horarioProgramado": "16:04",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-30T19:04:48.923Z"
     },
     {
       "posicao": 49,
