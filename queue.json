@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-30T16:57:20.000Z",
-  "exportedAt": "30/07/2026, 13:57:20",
+  "lastExport": "2026-07-30T17:00:06.934Z",
+  "exportedAt": "30/07/2026, 14:00:06",
   "total": 100,
-  "pendentes": 60,
-  "postados": 31,
+  "pendentes": 59,
+  "postados": 32,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -632,10 +632,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_995441-MLB94135656534_102025-AB--pipoqueira-45l-aluminio-polido-utensilios-cozinha-pipoca.webp",
       "horarioProgramado": "13:58",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-30T16:58:17.106Z"
     },
     {
       "posicao": 38,
