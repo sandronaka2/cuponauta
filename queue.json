@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-30T16:30:06.908Z",
-  "exportedAt": "30/07/2026, 13:30:06",
+  "lastExport": "2026-07-30T16:37:19.969Z",
+  "exportedAt": "30/07/2026, 13:37:19",
   "total": 100,
-  "pendentes": 64,
-  "postados": 27,
+  "pendentes": 63,
+  "postados": 28,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -564,10 +564,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_767603-MLA114615618093_072026-AB--cosmetico-rejuvenescedor-ghkcu-100mg---diluente.webp",
       "horarioProgramado": "13:35",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-30T16:35:39.801Z"
     },
     {
       "posicao": 34,
