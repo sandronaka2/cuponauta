@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-31T14:00:08.017Z",
-  "exportedAt": "31/07/2026, 11:00:08",
+  "lastExport": "2026-07-31T14:07:53.011Z",
+  "exportedAt": "31/07/2026, 11:07:53",
   "total": 100,
-  "pendentes": 88,
-  "postados": 12,
+  "pendentes": 87,
+  "postados": 13,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -224,10 +224,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_901777-MLB114205748289_072026-AB--mule-feminino-confortavel-minimalista-fivela-original.webp",
       "horarioProgramado": "11:05",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-31T14:05:34.654Z"
     },
     {
       "posicao": 14,
