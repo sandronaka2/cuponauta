@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-31T14:50:08.063Z",
-  "exportedAt": "31/07/2026, 11:50:08",
+  "lastExport": "2026-07-31T14:57:53.044Z",
+  "exportedAt": "31/07/2026, 11:57:53",
   "total": 100,
-  "pendentes": 83,
-  "postados": 17,
+  "pendentes": 82,
+  "postados": 18,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -309,10 +309,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_686356-MLB110927822714_052026-AB--conjunto-infantil-camiseta-com-bermuda-trick-nick-bege.webp",
       "horarioProgramado": "11:57",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-31T14:57:50.905Z"
     },
     {
       "posicao": 19,
