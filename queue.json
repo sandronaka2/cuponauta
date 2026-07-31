@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-31T14:40:08.111Z",
-  "exportedAt": "31/07/2026, 11:40:08",
+  "lastExport": "2026-07-31T14:47:53.031Z",
+  "exportedAt": "31/07/2026, 11:47:53",
   "total": 100,
-  "pendentes": 84,
-  "postados": 16,
+  "pendentes": 83,
+  "postados": 17,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -292,10 +292,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_707997-MLB104236891176_012026-AB--cinto-feminino-de-couro-fivela-quadrada-prata-moda-feminina.webp",
       "horarioProgramado": "11:46",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-31T14:46:48.704Z"
     },
     {
       "posicao": 18,
