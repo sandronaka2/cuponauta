@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-31T12:10:07.918Z",
-  "exportedAt": "31/07/2026, 09:10:07",
+  "lastExport": "2026-07-31T12:17:52.914Z",
+  "exportedAt": "31/07/2026, 09:17:52",
   "total": 100,
-  "pendentes": 99,
-  "postados": 1,
+  "pendentes": 98,
+  "postados": 2,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -37,10 +37,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_756249-MLB89963838359_082025-AB--cabo-internet-cat8-alta-velocidade-cat8-2-metros-cat8-giga.webp",
       "horarioProgramado": "09:16",
       "janela": "09:00-10:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-31T12:16:55.720Z"
     },
     {
       "posicao": 3,
