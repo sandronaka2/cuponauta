@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-31T16:37:53.112Z",
-  "exportedAt": "31/07/2026, 13:37:53",
+  "lastExport": "2026-07-31T16:40:08.186Z",
+  "exportedAt": "31/07/2026, 13:40:08",
   "total": 100,
-  "pendentes": 67,
-  "postados": 33,
+  "pendentes": 66,
+  "postados": 34,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -581,10 +581,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_891039-MLA101310339892_122025-AB--regata-mizuno-nirvana-f.webp",
       "horarioProgramado": "13:39",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-31T16:39:57.045Z"
     },
     {
       "posicao": 35,
