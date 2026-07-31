@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-31T16:00:08.152Z",
-  "exportedAt": "31/07/2026, 13:00:08",
+  "lastExport": "2026-07-31T16:07:53.097Z",
+  "exportedAt": "31/07/2026, 13:07:53",
   "total": 100,
-  "pendentes": 72,
-  "postados": 28,
+  "pendentes": 71,
+  "postados": 29,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -496,10 +496,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_646019-MLB111746658431_052026-AB--jaqueta-masc-pu-broken-rules-520156.webp",
       "horarioProgramado": "13:05",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-31T16:05:40.515Z"
     },
     {
       "posicao": 30,
