@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-31T21:30:10.180Z",
-  "exportedAt": "31/07/2026, 18:30:10",
+  "lastExport": "2026-07-31T21:37:55.126Z",
+  "exportedAt": "31/07/2026, 18:37:55",
   "total": 100,
-  "pendentes": 37,
-  "postados": 63,
+  "pendentes": 35,
+  "postados": 65,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -1091,10 +1091,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_940636-MLB94576148260_102025-AB--alicate-corte-diagonal-eletricista-alta-tensao-cabo-profissi.webp",
       "horarioProgramado": "18:31",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-31T21:31:53.353Z"
     },
     {
       "posicao": 65,
@@ -1108,10 +1108,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_904920-MLA92031894675_092025-AB.webp",
       "horarioProgramado": "18:37",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-31T21:37:19.074Z"
     },
     {
       "posicao": 66,
