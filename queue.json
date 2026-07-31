@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-07-31T00:47:20.482Z",
-  "exportedAt": "30/07/2026, 21:47:20",
+  "lastExport": "2026-07-31T00:50:07.407Z",
+  "exportedAt": "30/07/2026, 21:50:07",
   "total": 100,
-  "pendentes": 49,
-  "postados": 51,
+  "pendentes": 48,
+  "postados": 52,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -1669,10 +1669,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_812096-MLB112400314307_052026-AB--kit-2-cinto-feminino-couro-montana-fivela-dourada-ajustavel.webp",
       "horarioProgramado": "21:49",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-07-31T00:49:41.534Z"
     },
     {
       "posicao": 99,
