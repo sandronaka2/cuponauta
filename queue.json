@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-01T15:30:11.117Z",
-  "exportedAt": "01/08/2026, 12:30:11",
+  "lastExport": "2026-08-01T15:37:56.091Z",
+  "exportedAt": "01/08/2026, 12:37:56",
   "total": 100,
-  "pendentes": 77,
-  "postados": 23,
+  "pendentes": 76,
+  "postados": 24,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -411,10 +411,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_992641-MLA104571872871_012026-AB--chinelo-feminino-on-the-go-600--skechers.webp",
       "horarioProgramado": "12:32",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-01T15:32:41.940Z"
     },
     {
       "posicao": 25,
