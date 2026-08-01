@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-01T13:20:10.964Z",
-  "exportedAt": "01/08/2026, 10:20:10",
+  "lastExport": "2026-08-01T13:27:55.945Z",
+  "exportedAt": "01/08/2026, 10:27:55",
   "total": 100,
-  "pendentes": 92,
-  "postados": 8,
+  "pendentes": 91,
+  "postados": 9,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -156,10 +156,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_878004-MLB93973475621_102025-AB--3x-testo-120-capsulas-original-importado--30-caps-gratis.webp",
       "horarioProgramado": "10:23",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-01T13:23:22.877Z"
     },
     {
       "posicao": 10,
