@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-01T00:00:10.345Z",
-  "exportedAt": "31/07/2026, 21:00:10",
+  "lastExport": "2026-08-01T00:07:55.253Z",
+  "exportedAt": "31/07/2026, 21:07:55",
   "total": 100,
-  "pendentes": 12,
-  "postados": 88,
+  "pendentes": 10,
+  "postados": 90,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -1516,10 +1516,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_964518-MLB88919975034_082025-AB--cabo-carregador-p-samsung-galaxy-watch4-r860--40mm.webp",
       "horarioProgramado": "21:02",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-01T00:02:19.123Z"
     },
     {
       "posicao": 90,
@@ -1533,10 +1533,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_976850-MLA112857136870_072026-AB.webp",
       "horarioProgramado": "21:07",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-01T00:07:08.947Z"
     },
     {
       "posicao": 91,
