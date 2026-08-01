@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-01T14:57:56.061Z",
-  "exportedAt": "01/08/2026, 11:57:56",
+  "lastExport": "2026-08-01T15:00:11.109Z",
+  "exportedAt": "01/08/2026, 12:00:11",
   "total": 100,
-  "pendentes": 83,
-  "postados": 17,
+  "pendentes": 82,
+  "postados": 18,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -309,10 +309,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_917025-MLB108177443400_032026-AB--kit-3-regatas-cavadas-algodao-prime-metamorfose-brasil.webp",
       "horarioProgramado": "11:58",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-01T14:58:11.243Z"
     },
     {
       "posicao": 19,
