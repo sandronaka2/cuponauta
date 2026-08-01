@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-01T21:50:11.520Z",
-  "exportedAt": "01/08/2026, 18:50:11",
+  "lastExport": "2026-08-01T21:57:56.467Z",
+  "exportedAt": "01/08/2026, 18:57:56",
   "total": 100,
-  "pendentes": 34,
-  "postados": 66,
+  "pendentes": 32,
+  "postados": 68,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -1142,10 +1142,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_813846-MLB112608147516_062026-AB--50ml-35facial-acido-salicilico-manchas-acne-rosto-oleoso.webp",
       "horarioProgramado": "18:50",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-01T21:50:51.930Z"
     },
     {
       "posicao": 68,
@@ -1159,10 +1159,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_974609-MLA99999958069_112025-AB.webp",
       "horarioProgramado": "18:56",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-01T21:56:42.960Z"
     },
     {
       "posicao": 69,
