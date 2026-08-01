@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-01T19:20:11.347Z",
-  "exportedAt": "01/08/2026, 16:20:11",
+  "lastExport": "2026-08-01T19:27:56.329Z",
+  "exportedAt": "01/08/2026, 16:27:56",
   "total": 100,
-  "pendentes": 51,
-  "postados": 49,
+  "pendentes": 50,
+  "postados": 50,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -853,10 +853,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_858460-MLB107735917577_022026-AB--roupao-feminino-masculino-adulto-microfibra-banho-quentinho.webp",
       "horarioProgramado": "16:24",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-01T19:24:36.721Z"
     },
     {
       "posicao": 51,
