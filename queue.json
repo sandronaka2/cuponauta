@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-01T13:50:11.002Z",
-  "exportedAt": "01/08/2026, 10:50:11",
+  "lastExport": "2026-08-01T13:57:55.993Z",
+  "exportedAt": "01/08/2026, 10:57:55",
   "total": 100,
-  "pendentes": 89,
-  "postados": 11,
+  "pendentes": 88,
+  "postados": 12,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -207,10 +207,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_692937-MLB112166509082_062026-AB--arandela-led-externa-bivolt-moderna-parede-jardim-varanda.webp",
       "horarioProgramado": "10:55",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-01T13:55:44.572Z"
     },
     {
       "posicao": 13,
