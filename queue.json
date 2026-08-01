@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-01T21:30:11.506Z",
-  "exportedAt": "01/08/2026, 18:30:11",
+  "lastExport": "2026-08-01T21:37:56.449Z",
+  "exportedAt": "01/08/2026, 18:37:56",
   "total": 100,
-  "pendentes": 37,
-  "postados": 63,
+  "pendentes": 35,
+  "postados": 65,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -1091,10 +1091,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_977454-MLB43754357391_102020-AB.webp",
       "horarioProgramado": "18:31",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-01T21:31:31.551Z"
     },
     {
       "posicao": 65,
@@ -1108,10 +1108,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_865341-MLB114644438953_072026-AB--polo-colcci-masculino-0250103502.webp",
       "horarioProgramado": "18:37",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-01T21:37:24.106Z"
     },
     {
       "posicao": 66,
