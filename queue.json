@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-02T19:37:59.158Z",
-  "exportedAt": "02/08/2026, 16:37:59",
+  "lastExport": "2026-08-02T19:40:14.222Z",
+  "exportedAt": "02/08/2026, 16:40:14",
   "total": 100,
-  "pendentes": 50,
-  "postados": 50,
+  "pendentes": 49,
+  "postados": 51,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -870,10 +870,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_825129-MLB111047406640_052026-AB--pulseira-compativel-huawei-watch-fit-3-fit-4-fit-5-fit-5-pro.webp",
       "horarioProgramado": "16:39",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-02T19:39:23.833Z"
     },
     {
       "posicao": 52,
