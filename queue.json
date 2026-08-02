@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-02T13:50:12.298Z",
-  "exportedAt": "02/08/2026, 10:50:12",
+  "lastExport": "2026-08-02T13:57:57.263Z",
+  "exportedAt": "02/08/2026, 10:57:57",
   "total": 100,
-  "pendentes": 89,
-  "postados": 11,
+  "pendentes": 88,
+  "postados": 12,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -207,10 +207,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_663895-MLB81619777646_012025-AB--kit-10-cueca-boxer-lisa-sem-costura-logo-mash.webp",
       "horarioProgramado": "10:56",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-02T13:56:11.427Z"
     },
     {
       "posicao": 13,
