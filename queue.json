@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-02T17:10:12.467Z",
-  "exportedAt": "02/08/2026, 14:10:12",
+  "lastExport": "2026-08-02T17:17:57.411Z",
+  "exportedAt": "02/08/2026, 14:17:57",
   "total": 100,
-  "pendentes": 62,
-  "postados": 38,
+  "pendentes": 61,
+  "postados": 39,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -666,10 +666,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_970933-CBT111180607463_052026-AB--polo-masculina-casual-manga-curta.webp",
       "horarioProgramado": "14:16",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-02T17:16:33.675Z"
     },
     {
       "posicao": 40,
