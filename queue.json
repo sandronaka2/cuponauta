@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-02T12:40:12.245Z",
-  "exportedAt": "02/08/2026, 09:40:12",
+  "lastExport": "2026-08-02T12:47:57.194Z",
+  "exportedAt": "02/08/2026, 09:47:57",
   "total": 100,
-  "pendentes": 96,
-  "postados": 4,
+  "pendentes": 95,
+  "postados": 5,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -88,10 +88,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_659836-MLB109537307003_032026-AB--kit-3-cuecas-boxer-masculina-trunk-cotton-rib-calvin-klein.webp",
       "horarioProgramado": "09:47",
       "janela": "09:00-10:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-02T12:47:33.564Z"
     },
     {
       "posicao": 6,
