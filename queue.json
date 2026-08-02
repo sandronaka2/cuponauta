@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-02T15:40:12.394Z",
-  "exportedAt": "02/08/2026, 12:40:12",
+  "lastExport": "2026-08-02T15:47:57.339Z",
+  "exportedAt": "02/08/2026, 12:47:57",
   "total": 100,
-  "pendentes": 76,
-  "postados": 24,
+  "pendentes": 74,
+  "postados": 26,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -428,10 +428,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_831081-MLB80815278819_112024-AB--kit-2-cuecas-masculinas-boxer-branca-calvin-klein-oferta.webp",
       "horarioProgramado": "12:41",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-02T15:41:37.355Z"
     },
     {
       "posicao": 26,
@@ -445,10 +445,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_949232-CBT111829088699_052026-AB--teclado-attack-shark-x68he-interruptor-magnetico-de-8k-rt.webp",
       "horarioProgramado": "12:47",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-02T15:47:43.079Z"
     },
     {
       "posicao": 27,
