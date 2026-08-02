@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-02T16:57:57.391Z",
-  "exportedAt": "02/08/2026, 13:57:57",
+  "lastExport": "2026-08-02T17:00:12.467Z",
+  "exportedAt": "02/08/2026, 14:00:12",
   "total": 100,
-  "pendentes": 64,
-  "postados": 36,
+  "pendentes": 63,
+  "postados": 37,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -632,10 +632,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_914749-MLB109504485856_042026-AB--sandalia-masculina-pegada-134103.webp",
       "horarioProgramado": "13:58",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-02T16:58:08.122Z"
     },
     {
       "posicao": 38,
