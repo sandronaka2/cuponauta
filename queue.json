@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-02T22:30:14.412Z",
-  "exportedAt": "02/08/2026, 19:30:14",
+  "lastExport": "2026-08-02T22:36:19.894Z",
+  "exportedAt": "02/08/2026, 19:36:19",
   "total": 100,
-  "pendentes": 27,
-  "postados": 73,
+  "pendentes": 26,
+  "postados": 74,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -1261,10 +1261,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_716851-CBT111102809535_052026-AB--polo-masculina-social-guizubao-manga-curta.webp",
       "horarioProgramado": "19:33",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-02T22:33:48.661Z"
     },
     {
       "posicao": 75,
