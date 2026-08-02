@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-02T21:00:14.286Z",
-  "exportedAt": "02/08/2026, 18:00:14",
+  "lastExport": "2026-08-02T21:07:59.212Z",
+  "exportedAt": "02/08/2026, 18:07:59",
   "total": 100,
-  "pendentes": 42,
-  "postados": 58,
+  "pendentes": 40,
+  "postados": 60,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -1006,10 +1006,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_613756-CBT114101044469_072026-AB--colete-puffer-acolchoado-sem-mangas-gola-alta-masculino.webp",
       "horarioProgramado": "18:01",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-02T21:01:12.584Z"
     },
     {
       "posicao": 60,
@@ -1023,10 +1023,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_715164-MLB112564892253_062026-AB--fixador-trio-sombra-sobrancelha-3-tonalidades-make-ruby-rose.webp",
       "horarioProgramado": "18:06",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-02T21:06:41.251Z"
     },
     {
       "posicao": 61,
