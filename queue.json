@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-02T21:40:14.307Z",
-  "exportedAt": "02/08/2026, 18:40:14",
+  "lastExport": "2026-08-02T21:47:59.247Z",
+  "exportedAt": "02/08/2026, 18:47:59",
   "total": 100,
-  "pendentes": 35,
-  "postados": 65,
+  "pendentes": 34,
+  "postados": 66,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -1125,10 +1125,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_749439-MLB111010623091_042026-AB--maquina-depilador-eletrico-feminino-4-em-1-pelos-intimos.webp",
       "horarioProgramado": "18:43",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-02T21:43:34.736Z"
     },
     {
       "posicao": 67,
