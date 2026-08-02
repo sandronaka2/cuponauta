@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-02T14:57:57.303Z",
-  "exportedAt": "02/08/2026, 11:57:57",
+  "lastExport": "2026-08-02T15:00:12.340Z",
+  "exportedAt": "02/08/2026, 12:00:12",
   "total": 100,
-  "pendentes": 83,
-  "postados": 17,
+  "pendentes": 82,
+  "postados": 18,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -309,10 +309,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_688671-CBT112670569229_062026-AB--6-pecas-discos-reutilizaveis-de-limpeza-facial.webp",
       "horarioProgramado": "11:58",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-02T14:58:09.063Z"
     },
     {
       "posicao": 19,
