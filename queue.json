@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-02T16:10:12.395Z",
-  "exportedAt": "02/08/2026, 13:10:12",
+  "lastExport": "2026-08-02T16:17:57.386Z",
+  "exportedAt": "02/08/2026, 13:17:57",
   "total": 100,
-  "pendentes": 71,
-  "postados": 29,
+  "pendentes": 70,
+  "postados": 30,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -513,10 +513,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_985717-CBT112613495300_062026-AB--fones-lenovo-rs105-bluetooth-sem-fio.webp",
       "horarioProgramado": "13:14",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-02T16:14:43.140Z"
     },
     {
       "posicao": 31,
