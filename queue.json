@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-03T14:28:00.226Z",
-  "exportedAt": "03/08/2026, 11:28:00",
+  "lastExport": "2026-08-03T14:30:15.205Z",
+  "exportedAt": "03/08/2026, 11:30:15",
   "total": 100,
-  "pendentes": 86,
-  "postados": 14,
+  "pendentes": 85,
+  "postados": 15,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -258,10 +258,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_723332-MLA101811639917_122025-AB--tshirt-mizuno-spark-mescl-m.webp",
       "horarioProgramado": "11:28",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-03T14:28:25.917Z"
     },
     {
       "posicao": 16,
