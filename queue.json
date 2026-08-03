@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-03T15:40:15.268Z",
-  "exportedAt": "03/08/2026, 12:40:15",
+  "lastExport": "2026-08-03T15:48:00.270Z",
+  "exportedAt": "03/08/2026, 12:48:00",
   "total": 100,
-  "pendentes": 76,
-  "postados": 24,
+  "pendentes": 74,
+  "postados": 26,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -428,10 +428,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_786125-MLA90888558202_082025-AB.webp",
       "horarioProgramado": "12:40",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-03T15:40:17.191Z"
     },
     {
       "posicao": 26,
@@ -445,10 +445,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_623807-CBT113128260282_072026-AB--kit-gel-degrade-unhas-16-cores-100-esponjas.webp",
       "horarioProgramado": "12:47",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-03T15:47:49.750Z"
     },
     {
       "posicao": 27,
