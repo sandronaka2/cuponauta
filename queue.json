@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-03T13:40:15.142Z",
-  "exportedAt": "03/08/2026, 10:40:15",
+  "lastExport": "2026-08-03T13:48:00.158Z",
+  "exportedAt": "03/08/2026, 10:48:00",
   "total": 100,
-  "pendentes": 90,
-  "postados": 10,
+  "pendentes": 89,
+  "postados": 11,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -190,10 +190,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_968107-MLB82790209831_022025-AB--tenis-esportivo-feminino-voa-2-olympikus.webp",
       "horarioProgramado": "10:45",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-03T13:45:30.657Z"
     },
     {
       "posicao": 12,
