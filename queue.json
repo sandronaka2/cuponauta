@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-03T15:00:15.225Z",
-  "exportedAt": "03/08/2026, 12:00:15",
+  "lastExport": "2026-08-03T15:08:00.236Z",
+  "exportedAt": "03/08/2026, 12:08:00",
   "total": 100,
-  "pendentes": 82,
-  "postados": 18,
+  "pendentes": 80,
+  "postados": 20,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -326,10 +326,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_617280-MLA111859136610_062026-AB.webp",
       "horarioProgramado": "12:01",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-03T15:01:22.931Z"
     },
     {
       "posicao": 20,
@@ -343,10 +343,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_964061-CBT102571121638_122025-AB--bastao-blush-3-em-1-com-pincel-heci-beauty.webp",
       "horarioProgramado": "12:06",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-03T15:06:34.310Z"
     },
     {
       "posicao": 21,
