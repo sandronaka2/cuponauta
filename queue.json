@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-03T22:50:15.730Z",
-  "exportedAt": "03/08/2026, 19:50:15",
+  "lastExport": "2026-08-03T22:58:00.767Z",
+  "exportedAt": "03/08/2026, 19:58:00",
   "total": 100,
-  "pendentes": 24,
-  "postados": 76,
+  "pendentes": 22,
+  "postados": 78,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -1312,10 +1312,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_900432-MLA113518359539_062026-AB.webp",
       "horarioProgramado": "19:51",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-03T22:51:31.164Z"
     },
     {
       "posicao": 78,
@@ -1329,10 +1329,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_891028-CBT111624422681_052026-AB--camisola-curta-em-cetim-feminino.webp",
       "horarioProgramado": "19:57",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-03T22:57:51.595Z"
     },
     {
       "posicao": 79,
