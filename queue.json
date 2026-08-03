@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-03T12:40:15.074Z",
-  "exportedAt": "03/08/2026, 09:40:15",
+  "lastExport": "2026-08-03T12:48:00.119Z",
+  "exportedAt": "03/08/2026, 09:48:00",
   "total": 100,
-  "pendentes": 96,
-  "postados": 4,
+  "pendentes": 95,
+  "postados": 5,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -88,10 +88,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_651923-CBT112662074249_062026-AB--jaqueta-camisa-casual-masculina-com-forro-xadrez-interno.webp",
       "horarioProgramado": "09:46",
       "janela": "09:00-10:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-03T12:46:11.435Z"
     },
     {
       "posicao": 6,
