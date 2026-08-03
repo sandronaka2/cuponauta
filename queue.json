@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-03T15:50:15.274Z",
-  "exportedAt": "03/08/2026, 12:50:15",
+  "lastExport": "2026-08-03T15:58:00.279Z",
+  "exportedAt": "03/08/2026, 12:58:00",
   "total": 100,
-  "pendentes": 74,
-  "postados": 26,
+  "pendentes": 73,
+  "postados": 27,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -462,10 +462,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_672933-MLB95481657440_102025-AB--peliculas-de-protecao-para-amazfit-bip-6--2uni.webp",
       "horarioProgramado": "12:53",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-03T15:53:33.570Z"
     },
     {
       "posicao": 28,
