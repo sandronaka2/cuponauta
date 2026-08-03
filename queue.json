@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-03T23:00:15.753Z",
-  "exportedAt": "03/08/2026, 20:00:15",
+  "lastExport": "2026-08-03T23:08:00.777Z",
+  "exportedAt": "03/08/2026, 20:08:00",
   "total": 100,
-  "pendentes": 22,
-  "postados": 78,
+  "pendentes": 21,
+  "postados": 79,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -1346,10 +1346,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_856039-MLB108078386988_032026-AB--relogio-smartwatch-esportivo-aurafit-gps-tela-143--amoled.webp",
       "horarioProgramado": "20:03",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-03T23:03:33.542Z"
     },
     {
       "posicao": 80,
