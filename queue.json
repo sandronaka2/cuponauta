@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-03T15:20:15.243Z",
-  "exportedAt": "03/08/2026, 12:20:15",
+  "lastExport": "2026-08-03T15:28:00.235Z",
+  "exportedAt": "03/08/2026, 12:28:00",
   "total": 100,
-  "pendentes": 79,
-  "postados": 21,
+  "pendentes": 77,
+  "postados": 23,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -377,10 +377,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_775206-MLA99638334974_122025-AB.webp",
       "horarioProgramado": "12:20",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-03T15:20:23.587Z"
     },
     {
       "posicao": 23,
@@ -394,10 +394,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_629850-CBT110730245184_052026-AB--fone-de-ouvido-bluetooth-tws-com-estojo-carregador.webp",
       "horarioProgramado": "12:26",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-03T15:26:28.390Z"
     },
     {
       "posicao": 24,
