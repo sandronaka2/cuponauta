@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-03T12:00:41.235Z",
-  "exportedAt": "03/08/2026, 09:00:41",
+  "lastExport": "2026-08-03T12:08:00.065Z",
+  "exportedAt": "03/08/2026, 09:08:00",
   "total": 100,
-  "pendentes": 100,
-  "postados": 0,
+  "pendentes": 99,
+  "postados": 1,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -20,10 +20,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_839846-MLB105589731838_012026-AB--tenis-rainha-drive-v.webp",
       "horarioProgramado": "09:02",
       "janela": "09:00-10:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-03T12:02:15.212Z"
     },
     {
       "posicao": 2,
