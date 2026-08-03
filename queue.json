@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-03T00:40:14.508Z",
-  "exportedAt": "02/08/2026, 21:40:14",
+  "lastExport": "2026-08-03T00:47:59.439Z",
+  "exportedAt": "02/08/2026, 21:47:59",
   "total": 100,
-  "pendentes": 4,
-  "postados": 96,
+  "pendentes": 3,
+  "postados": 97,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -1652,10 +1652,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_879655-MLB71570566280_092023-AB--kit-10-calcinhas-classica-cintura-media-algodao-delrio.webp",
       "horarioProgramado": "21:45",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-03T00:45:26.657Z"
     },
     {
       "posicao": 98,
