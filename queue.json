@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-03T22:00:15.662Z",
-  "exportedAt": "03/08/2026, 19:00:15",
+  "lastExport": "2026-08-03T22:08:00.712Z",
+  "exportedAt": "03/08/2026, 19:08:00",
   "total": 100,
-  "pendentes": 32,
-  "postados": 68,
+  "pendentes": 31,
+  "postados": 69,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -1176,10 +1176,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_791746-CBT111675144643_052026-AB--teclado-mecanico-sem-fio-attack-shark-m86.webp",
       "horarioProgramado": "19:02",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-03T22:02:54.839Z"
     },
     {
       "posicao": 70,
