@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-03T18:37:05.722Z",
-  "exportedAt": "03/08/2026, 15:37:05",
+  "lastExport": "2026-08-03T18:38:00.456Z",
+  "exportedAt": "03/08/2026, 15:38:00",
   "total": 100,
-  "pendentes": 55,
-  "postados": 45,
+  "pendentes": 54,
+  "postados": 46,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -785,10 +785,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_941757-MLB101866388760_122025-AB--bolsa-esportiva-magnetica-com-3-imas-para-treino.webp",
       "horarioProgramado": "15:37",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-03T18:37:56.874Z"
     },
     {
       "posicao": 47,
