@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-03T16:10:15.304Z",
-  "exportedAt": "03/08/2026, 13:10:15",
+  "lastExport": "2026-08-03T16:18:00.305Z",
+  "exportedAt": "03/08/2026, 13:18:00",
   "total": 100,
-  "pendentes": 71,
-  "postados": 29,
+  "pendentes": 70,
+  "postados": 30,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -513,10 +513,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_986031-MLB114664494279_072026-AB--cortina-box-impermeavel-resistente-antimofo-visor-ganchos.webp",
       "horarioProgramado": "13:12",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-03T16:12:11.242Z"
     },
     {
       "posicao": 31,
