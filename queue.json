@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-03T14:58:00.218Z",
-  "exportedAt": "03/08/2026, 11:58:00",
+  "lastExport": "2026-08-03T15:00:15.225Z",
+  "exportedAt": "03/08/2026, 12:00:15",
   "total": 100,
-  "pendentes": 83,
-  "postados": 17,
+  "pendentes": 82,
+  "postados": 18,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -309,10 +309,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_611266-MLB109705255348_042026-AB--borrifador-spray-continuo-nevoa-fina-multiuso-limpeza-500ml.webp",
       "horarioProgramado": "11:58",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-03T14:58:56.972Z"
     },
     {
       "posicao": 19,
