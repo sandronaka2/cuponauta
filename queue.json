@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-04T15:10:16.593Z",
-  "exportedAt": "04/08/2026, 12:10:16",
+  "lastExport": "2026-08-04T15:18:01.752Z",
+  "exportedAt": "04/08/2026, 12:18:01",
   "total": 100,
-  "pendentes": 81,
-  "postados": 19,
+  "pendentes": 79,
+  "postados": 21,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -343,10 +343,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_940656-MLB113786153749_062026-AB--fps90-bastao-de-protetor-solar-facial-protetor-solar-atacado.webp",
       "horarioProgramado": "12:11",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-04T15:11:52.094Z"
     },
     {
       "posicao": 21,
@@ -360,10 +360,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_928331-MLA99599229698_122025-AB.webp",
       "horarioProgramado": "12:17",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-04T15:17:14.334Z"
     },
     {
       "posicao": 22,
