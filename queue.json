@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-04T16:28:01.818Z",
-  "exportedAt": "04/08/2026, 13:28:01",
+  "lastExport": "2026-08-04T16:30:16.779Z",
+  "exportedAt": "04/08/2026, 13:30:16",
   "total": 100,
-  "pendentes": 69,
-  "postados": 31,
+  "pendentes": 68,
+  "postados": 32,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -547,10 +547,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_699072-MLB115193950047_072026-AB--tenis-feminino-grand-court-base-30-adidas.webp",
       "horarioProgramado": "13:28",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-04T16:28:20.483Z"
     },
     {
       "posicao": 33,
