@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-04T14:28:01.679Z",
-  "exportedAt": "04/08/2026, 11:28:01",
+  "lastExport": "2026-08-04T14:30:16.553Z",
+  "exportedAt": "04/08/2026, 11:30:16",
   "total": 100,
-  "pendentes": 86,
-  "postados": 14,
+  "pendentes": 85,
+  "postados": 15,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -258,10 +258,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_730853-MLB113431658518_072026-AB--caixa-de-som-bluetooth-mlove-e6l-portatil-ipx7-prova-dagua.webp",
       "horarioProgramado": "11:28",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-04T14:28:20.768Z"
     },
     {
       "posicao": 16,
