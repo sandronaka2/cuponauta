@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-04T21:30:18.724Z",
-  "exportedAt": "04/08/2026, 18:30:18",
+  "lastExport": "2026-08-04T21:37:44.603Z",
+  "exportedAt": "04/08/2026, 18:37:44",
   "total": 100,
-  "pendentes": 37,
-  "postados": 63,
+  "pendentes": 35,
+  "postados": 65,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -1091,10 +1091,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_994648-MLB108966036708_032026-AB--kit-com-10-cuecas-slip-100-algodao-zorba-lisa.webp",
       "horarioProgramado": "18:31",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-04T21:31:31.267Z"
     },
     {
       "posicao": 65,
@@ -1108,10 +1108,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_663310-MLA101811640399_122025-AB--tshirt-mizuno-spark-mescl-m.webp",
       "horarioProgramado": "18:37",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-04T21:37:25.465Z"
     },
     {
       "posicao": 66,
