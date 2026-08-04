@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-04T22:30:18.730Z",
-  "exportedAt": "04/08/2026, 19:30:18",
+  "lastExport": "2026-08-04T22:40:18.751Z",
+  "exportedAt": "04/08/2026, 19:40:18",
   "total": 100,
-  "pendentes": 27,
-  "postados": 73,
+  "pendentes": 26,
+  "postados": 74,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -1261,10 +1261,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_871883-MLB110177211815_042026-AB--oculos-de-sol-hexagonal-black-elegante-casual-preto-2026.webp",
       "horarioProgramado": "19:33",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-04T22:33:51.770Z"
     },
     {
       "posicao": 75,
