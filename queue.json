@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-04T16:10:16.706Z",
-  "exportedAt": "04/08/2026, 13:10:16",
+  "lastExport": "2026-08-04T16:18:01.835Z",
+  "exportedAt": "04/08/2026, 13:18:01",
   "total": 100,
-  "pendentes": 72,
-  "postados": 28,
+  "pendentes": 70,
+  "postados": 30,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -496,10 +496,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_666524-MLA80164536377_102024-AB.webp",
       "horarioProgramado": "13:10",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-04T16:10:56.924Z"
     },
     {
       "posicao": 30,
@@ -513,10 +513,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_925668-MLB105838629606_022026-AB--vitaminac-serum-niacinamidaacido-hialuronicocuidados-pele.webp",
       "horarioProgramado": "13:16",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-04T16:16:37.133Z"
     },
     {
       "posicao": 31,
