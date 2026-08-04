@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-04T15:40:16.622Z",
-  "exportedAt": "04/08/2026, 12:40:16",
+  "lastExport": "2026-08-04T15:48:01.783Z",
+  "exportedAt": "04/08/2026, 12:48:01",
   "total": 100,
-  "pendentes": 76,
-  "postados": 24,
+  "pendentes": 75,
+  "postados": 25,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -428,10 +428,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_626553-MLB107862069484_032026-AB--maquina-digital-infantil-camera-video-jogo-foto-recarregavel.webp",
       "horarioProgramado": "12:43",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-04T15:43:12.059Z"
     },
     {
       "posicao": 26,
