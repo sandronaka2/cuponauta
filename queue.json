@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-04T00:38:00.873Z",
-  "exportedAt": "03/08/2026, 21:38:00",
+  "lastExport": "2026-08-04T00:40:15.853Z",
+  "exportedAt": "03/08/2026, 21:40:15",
   "total": 100,
-  "pendentes": 5,
-  "postados": 95,
+  "pendentes": 4,
+  "postados": 96,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -1635,10 +1635,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_604921-CBT112430323588_062026-AB--boneca-bzdoll-de-48-cm-e-19-polegadas-de-tecido-body-reborn.webp",
       "horarioProgramado": "21:38",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-04T00:38:31.684Z"
     },
     {
       "posicao": 97,
