@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-05T17:20:19.958Z",
-  "exportedAt": "05/08/2026, 14:20:19",
+  "lastExport": "2026-08-05T17:28:05.091Z",
+  "exportedAt": "05/08/2026, 14:28:05",
   "total": 100,
-  "pendentes": 61,
-  "postados": 39,
+  "pendentes": 60,
+  "postados": 40,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -683,10 +683,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_993976-MLB110741239805_042026-AB--tenis-oakley-masculino-teeth-noise-fof10054620a.webp",
       "horarioProgramado": "14:26",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-05T17:26:19.601Z"
     },
     {
       "posicao": 41,
