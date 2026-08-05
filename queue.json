@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-05T23:20:20.289Z",
-  "exportedAt": "05/08/2026, 20:20:20",
+  "lastExport": "2026-08-05T23:28:05.487Z",
+  "exportedAt": "05/08/2026, 20:28:05",
   "total": 100,
-  "pendentes": 19,
-  "postados": 81,
+  "pendentes": 18,
+  "postados": 82,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -1397,10 +1397,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_696210-MLB107664020609_022026-AB--lixeira-de-rua-suspensa-retratil-grade-reforcada-em-aco.webp",
       "horarioProgramado": "20:22",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-05T23:22:30.427Z"
     },
     {
       "posicao": 83,
