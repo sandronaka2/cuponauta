@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-05T21:30:20.194Z",
-  "exportedAt": "05/08/2026, 18:30:20",
+  "lastExport": "2026-08-05T21:37:54.395Z",
+  "exportedAt": "05/08/2026, 18:37:54",
   "total": 100,
-  "pendentes": 37,
-  "postados": 63,
+  "pendentes": 36,
+  "postados": 64,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -1091,10 +1091,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_695112-MLB113771697697_062026-AB--vestido-longo-feminino-duna-soltinho-festa-ombro-so-elegante.webp",
       "horarioProgramado": "18:31",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-05T21:31:20.538Z"
     },
     {
       "posicao": 65,
