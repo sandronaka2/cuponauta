@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-05T17:50:19.972Z",
-  "exportedAt": "05/08/2026, 14:50:19",
+  "lastExport": "2026-08-05T17:48:05.096Z",
+  "exportedAt": "05/08/2026, 14:48:05",
   "total": 100,
-  "pendentes": 58,
-  "postados": 42,
+  "pendentes": 59,
+  "postados": 41,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -717,10 +717,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_808219-MLB82682111907_022025-AB--cinto-country-feminino-corrente-fivela-medalha-cavalo-texas.webp",
       "horarioProgramado": "14:49",
       "janela": "14:00-18:00",
-      "status": "postado",
+      "status": "pendente",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": "2026-08-05T17:49:13.585Z"
+      "postedAt": null
     },
     {
       "posicao": 43,
