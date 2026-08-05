@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-05T14:10:19.695Z",
-  "exportedAt": "05/08/2026, 11:10:19",
+  "lastExport": "2026-08-05T14:18:04.763Z",
+  "exportedAt": "05/08/2026, 11:18:04",
   "total": 100,
-  "pendentes": 87,
-  "postados": 13,
+  "pendentes": 86,
+  "postados": 14,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -241,10 +241,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_880734-CBT104095786579_012026-AB--kit-12-pares-de-meias-soquete-curtas-adulto.webp",
       "horarioProgramado": "11:16",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-05T14:16:35.323Z"
     },
     {
       "posicao": 15,
