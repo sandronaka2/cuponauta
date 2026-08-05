@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-05T13:00:19.573Z",
-  "exportedAt": "05/08/2026, 10:00:19",
+  "lastExport": "2026-08-05T13:08:04.681Z",
+  "exportedAt": "05/08/2026, 10:08:04",
   "total": 100,
-  "pendentes": 94,
-  "postados": 6,
+  "pendentes": 93,
+  "postados": 7,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -122,10 +122,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_679016-MLB86037226507_062025-AB--kit-4-cuecas-masculina-low-rise-trunk-algodao-calvin-klein.webp",
       "horarioProgramado": "10:01",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-05T13:01:24.005Z"
     },
     {
       "posicao": 8,
