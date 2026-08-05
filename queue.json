@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-05T21:18:05.359Z",
-  "exportedAt": "05/08/2026, 18:18:05",
+  "lastExport": "2026-08-05T21:28:05.385Z",
+  "exportedAt": "05/08/2026, 18:28:05",
   "total": 100,
-  "pendentes": 39,
-  "postados": 61,
+  "pendentes": 37,
+  "postados": 63,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -1057,10 +1057,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_987741-CBT112570389676_062026-AB--fone-bluetooth-miniso-ms219-esportivo-com-gancho.webp",
       "horarioProgramado": "18:19",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-05T21:19:49.905Z"
     },
     {
       "posicao": 63,
@@ -1074,10 +1074,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_851317-MLB114861430229_072026-AB--chinelo-sem-genero-kenner-rakka.webp",
       "horarioProgramado": "18:25",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-05T21:25:22.362Z"
     },
     {
       "posicao": 64,
