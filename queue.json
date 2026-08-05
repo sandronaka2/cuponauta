@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-05T16:58:05.000Z",
-  "exportedAt": "05/08/2026, 13:58:05",
+  "lastExport": "2026-08-05T17:00:19.869Z",
+  "exportedAt": "05/08/2026, 14:00:19",
   "total": 100,
-  "pendentes": 64,
-  "postados": 36,
+  "pendentes": 63,
+  "postados": 37,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -632,10 +632,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_931178-MLB111588150871_052026-AB--relogio-pokemon-infantil-oficial-pikachu-charmander-digital.webp",
       "horarioProgramado": "13:58",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-05T16:58:08.013Z"
     },
     {
       "posicao": 38,
