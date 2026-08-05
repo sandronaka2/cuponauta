@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-05T18:30:20.051Z",
-  "exportedAt": "05/08/2026, 15:30:20",
+  "lastExport": "2026-08-05T18:37:53.949Z",
+  "exportedAt": "05/08/2026, 15:37:53",
   "total": 100,
-  "pendentes": 55,
-  "postados": 45,
+  "pendentes": 54,
+  "postados": 46,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -785,10 +785,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_716012-MLB113743962951_062026-AB--relogio-masculino-quartz-octo-quartzo-aco-inox-42mm.webp",
       "horarioProgramado": "15:37",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-05T18:37:17.046Z"
     },
     {
       "posicao": 47,
