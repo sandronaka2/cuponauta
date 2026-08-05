@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-05T18:10:20.003Z",
-  "exportedAt": "05/08/2026, 15:10:20",
+  "lastExport": "2026-08-05T18:18:05.138Z",
+  "exportedAt": "05/08/2026, 15:18:05",
   "total": 100,
-  "pendentes": 57,
-  "postados": 43,
+  "pendentes": 56,
+  "postados": 44,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -751,10 +751,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_895917-MLB113036585513_062026-AB--vestido-manga-longa-feminino-farm.webp",
       "horarioProgramado": "15:12",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-05T18:12:36.156Z"
     },
     {
       "posicao": 45,
