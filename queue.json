@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-05T20:30:20.144Z",
-  "exportedAt": "05/08/2026, 17:30:20",
+  "lastExport": "2026-08-05T20:37:54.278Z",
+  "exportedAt": "05/08/2026, 17:37:54",
   "total": 100,
-  "pendentes": 45,
-  "postados": 55,
+  "pendentes": 44,
+  "postados": 56,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -955,10 +955,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_893426-MLB100769058173_122025-AB--resistencia-fio-niquel-cromo-1mm-x-10-metros.webp",
       "horarioProgramado": "17:36",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-05T20:36:17.023Z"
     },
     {
       "posicao": 57,
