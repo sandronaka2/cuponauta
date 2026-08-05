@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-05T20:37:54.278Z",
-  "exportedAt": "05/08/2026, 17:37:54",
+  "lastExport": "2026-08-05T20:48:05.375Z",
+  "exportedAt": "05/08/2026, 17:48:05",
   "total": 100,
-  "pendentes": 44,
-  "postados": 56,
+  "pendentes": 43,
+  "postados": 57,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -972,10 +972,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_616795-MLB113033611362_072026-AB--relogio-masculino-de-pulso-quartzo-aco-inox-casual-caixa.webp",
       "horarioProgramado": "17:47",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-05T20:47:20.807Z"
     },
     {
       "posicao": 58,
