@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-05T19:40:20.104Z",
-  "exportedAt": "05/08/2026, 16:40:20",
+  "lastExport": "2026-08-05T19:50:20.112Z",
+  "exportedAt": "05/08/2026, 16:50:20",
   "total": 100,
-  "pendentes": 49,
-  "postados": 51,
+  "pendentes": 48,
+  "postados": 52,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -887,10 +887,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_866933-MLB110560461007_042026-AB--3-un-maxpower-auxilio-na-potencia-e-disposicao-180-capsulas.webp",
       "horarioProgramado": "16:47",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-05T19:47:28.273Z"
     },
     {
       "posicao": 53,
