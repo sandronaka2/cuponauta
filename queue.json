@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-05T16:00:19.804Z",
-  "exportedAt": "05/08/2026, 13:00:19",
+  "lastExport": "2026-08-05T16:08:04.917Z",
+  "exportedAt": "05/08/2026, 13:08:04",
   "total": 100,
-  "pendentes": 73,
-  "postados": 27,
+  "pendentes": 71,
+  "postados": 29,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -479,10 +479,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_798444-MLB96681873753_102025-AB--relogio-smartwatch-aurafit-trek1-com-gps-a-prova-dagua-5atm.webp",
       "horarioProgramado": "13:01",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-05T16:01:28.920Z"
     },
     {
       "posicao": 29,
@@ -496,10 +496,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_628100-MLA99480320238_112025-AB.webp",
       "horarioProgramado": "13:07",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-05T16:07:57.317Z"
     },
     {
       "posicao": 30,
