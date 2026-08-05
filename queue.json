@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-05T22:00:20.219Z",
-  "exportedAt": "05/08/2026, 19:00:20",
+  "lastExport": "2026-08-05T22:08:05.425Z",
+  "exportedAt": "05/08/2026, 19:08:05",
   "total": 100,
-  "pendentes": 32,
-  "postados": 68,
+  "pendentes": 31,
+  "postados": 69,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -1176,10 +1176,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_753611-CBT112469576535_052026-AB--kit-4-pares-de-meias-grossas-de-la-termicas-para-inverno-adu.webp",
       "horarioProgramado": "19:01",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-05T22:01:24.680Z"
     },
     {
       "posicao": 70,
