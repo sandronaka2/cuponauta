@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-06T17:49:14.183Z",
-  "exportedAt": "06/08/2026, 14:49:14",
+  "lastExport": "2026-08-06T18:03:42.100Z",
+  "exportedAt": "06/08/2026, 15:03:42",
   "total": 100,
-  "pendentes": 58,
-  "postados": 42,
+  "pendentes": 57,
+  "postados": 43,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -734,10 +734,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_940124-MLB110977459190_052026-AB--relogio-masculino-prova-dagua-digital-funcional-ajustavel.webp",
       "horarioProgramado": "14:57",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-06T17:57:45.362Z"
     },
     {
       "posicao": 44,
