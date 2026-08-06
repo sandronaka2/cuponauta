@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-06T18:48:55.295Z",
-  "exportedAt": "06/08/2026, 15:48:55",
+  "lastExport": "2026-08-06T18:59:03.739Z",
+  "exportedAt": "06/08/2026, 15:59:03",
   "total": 100,
-  "pendentes": 53,
-  "postados": 47,
+  "pendentes": 52,
+  "postados": 48,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -819,10 +819,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_807885-MLB112803901709_062026-AB--kit-2-luminaria-solar-externa-800w-ip67-potente-com-sensor.webp",
       "horarioProgramado": "15:56",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-06T18:56:57.138Z"
     },
     {
       "posicao": 49,
