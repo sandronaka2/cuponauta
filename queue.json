@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-06T16:50:21.171Z",
-  "exportedAt": "06/08/2026, 13:50:21",
+  "lastExport": "2026-08-06T17:00:21.175Z",
+  "exportedAt": "06/08/2026, 14:00:21",
   "total": 100,
-  "pendentes": 65,
-  "postados": 35,
+  "pendentes": 63,
+  "postados": 37,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -615,10 +615,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_721459-CBT111067599355_042026-AB--mouse-gamer-sem-fio-attack-shark-x3-26000-dpi.webp",
       "horarioProgramado": "13:53",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-06T16:53:44.229Z"
     },
     {
       "posicao": 37,
@@ -632,10 +632,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_862275-MLA104274378661_012026-AB.webp",
       "horarioProgramado": "13:58",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-06T16:58:41.933Z"
     },
     {
       "posicao": 38,
