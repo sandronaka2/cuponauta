@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-06T21:40:23.070Z",
-  "exportedAt": "06/08/2026, 18:40:23",
+  "lastExport": "2026-08-06T21:48:35.294Z",
+  "exportedAt": "06/08/2026, 18:48:35",
   "total": 100,
-  "pendentes": 35,
-  "postados": 65,
+  "pendentes": 34,
+  "postados": 66,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -1125,10 +1125,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_767130-MLB84388923413_052025-AB--lixeira-inox-com-pedal-balde-5-litros-lixeiro-para-banheiro.webp",
       "horarioProgramado": "18:43",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-06T21:43:34.126Z"
     },
     {
       "posicao": 67,
