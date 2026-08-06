@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-06T22:00:23.121Z",
-  "exportedAt": "06/08/2026, 19:00:23",
+  "lastExport": "2026-08-06T22:09:37.871Z",
+  "exportedAt": "06/08/2026, 19:09:37",
   "total": 100,
-  "pendentes": 32,
-  "postados": 68,
+  "pendentes": 30,
+  "postados": 70,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -1176,10 +1176,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_742852-CBT113838872197_062026-AB--fone-lenovo-xf38-com-traducao-ia-tela-touch.webp",
       "horarioProgramado": "19:02",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-06T22:02:22.002Z"
     },
     {
       "posicao": 70,
@@ -1193,10 +1193,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_642995-CBT110755662374_052026-AB.webp",
       "horarioProgramado": "19:08",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-06T22:08:47.205Z"
     },
     {
       "posicao": 71,
