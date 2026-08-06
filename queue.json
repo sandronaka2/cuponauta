@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-06T17:20:21.183Z",
-  "exportedAt": "06/08/2026, 14:20:21",
+  "lastExport": "2026-08-06T17:29:01.206Z",
+  "exportedAt": "06/08/2026, 14:29:01",
   "total": 100,
-  "pendentes": 61,
-  "postados": 39,
+  "pendentes": 60,
+  "postados": 40,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -683,10 +683,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_653833-MLB114343072961_072026-AB--meia-maluca-divertida-3d-3035-unissex-personagens-variados.webp",
       "horarioProgramado": "14:23",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-06T17:23:29.527Z"
     },
     {
       "posicao": 41,
