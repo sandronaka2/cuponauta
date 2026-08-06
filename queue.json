@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-06T21:18:29.437Z",
-  "exportedAt": "06/08/2026, 18:18:29",
+  "lastExport": "2026-08-06T21:20:23.083Z",
+  "exportedAt": "06/08/2026, 18:20:23",
   "total": 100,
-  "pendentes": 39,
-  "postados": 61,
+  "pendentes": 38,
+  "postados": 62,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -1057,10 +1057,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_901640-MLB104872526696_012026-AB--sandalias-surfer-coast-havaianas.webp",
       "horarioProgramado": "18:19",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-06T21:19:42.313Z"
     },
     {
       "posicao": 63,
