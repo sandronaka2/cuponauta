@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-06T21:48:59.783Z",
-  "exportedAt": "06/08/2026, 18:48:59",
+  "lastExport": "2026-08-06T21:59:08.304Z",
+  "exportedAt": "06/08/2026, 18:59:08",
   "total": 100,
-  "pendentes": 34,
-  "postados": 66,
+  "pendentes": 32,
+  "postados": 68,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -1142,10 +1142,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_814554-MLB113532481240_072026-AB--kit-c3-touca-de-banho-impermeavel--com-elastico-reforcado.webp",
       "horarioProgramado": "18:49",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-06T21:49:32.548Z"
     },
     {
       "posicao": 68,
@@ -1159,10 +1159,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_719193-MLB113052243291_062026-AB--vestido-longo-feminino-lastex-costas-alcinha-soltinho-poa.webp",
       "horarioProgramado": "18:56",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-06T21:56:26.838Z"
     },
     {
       "posicao": 69,
