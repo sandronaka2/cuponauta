@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-07T15:20:24.004Z",
-  "exportedAt": "07/08/2026, 12:20:24",
+  "lastExport": "2026-08-07T15:27:10.115Z",
+  "exportedAt": "07/08/2026, 12:27:10",
   "total": 100,
-  "pendentes": 79,
-  "postados": 21,
+  "pendentes": 77,
+  "postados": 23,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -377,10 +377,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_887693-MLA112213198430_062026-AB.webp",
       "horarioProgramado": "12:20",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-07T15:20:42.854Z"
     },
     {
       "posicao": 23,
@@ -394,10 +394,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_703766-CBT111781067609_052026-AB--kit-2-cameras-wifi-seguranca-audio-visao.webp",
       "horarioProgramado": "12:26",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-07T15:26:44.179Z"
     },
     {
       "posicao": 24,
