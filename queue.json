@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-07T20:57:10.324Z",
-  "exportedAt": "07/08/2026, 17:57:10",
+  "lastExport": "2026-08-07T21:07:10.359Z",
+  "exportedAt": "07/08/2026, 18:07:10",
   "total": 100,
-  "pendentes": 43,
-  "postados": 57,
+  "pendentes": 40,
+  "postados": 60,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -989,10 +989,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_734337-MLA115657904125_082026-AB.webp",
       "horarioProgramado": "17:58",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-07T20:58:48.870Z"
     },
     {
       "posicao": 59,
@@ -1006,10 +1006,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_863767-MLA92767024955_092025-AB.webp",
       "horarioProgramado": "18:01",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-07T21:01:42.669Z"
     },
     {
       "posicao": 60,
@@ -1023,10 +1023,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_720988-MLA99936559163_112025-AB.webp",
       "horarioProgramado": "18:06",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-07T21:06:30.138Z"
     },
     {
       "posicao": 61,
