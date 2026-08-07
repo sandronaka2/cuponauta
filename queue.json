@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-07T21:20:24.335Z",
-  "exportedAt": "07/08/2026, 18:20:24",
+  "lastExport": "2026-08-07T21:27:10.382Z",
+  "exportedAt": "07/08/2026, 18:27:10",
   "total": 100,
-  "pendentes": 38,
-  "postados": 62,
+  "pendentes": 37,
+  "postados": 63,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -1074,10 +1074,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_716245-MLB111226944533_052026-AB--tenis-masculino-infinity-go-reserva.webp",
       "horarioProgramado": "18:25",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-07T21:25:33.418Z"
     },
     {
       "posicao": 64,
