@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-07T18:17:10.231Z",
-  "exportedAt": "07/08/2026, 15:17:10",
+  "lastExport": "2026-08-07T18:37:10.258Z",
+  "exportedAt": "07/08/2026, 15:37:10",
   "total": 100,
-  "pendentes": 56,
-  "postados": 44,
+  "pendentes": 55,
+  "postados": 45,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -768,10 +768,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_850763-MLB108595901666_032026-AB--enssu-aparador-corporal-eletrico-impermeavel-para-homens.webp",
       "horarioProgramado": "15:28",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-07T18:28:11.527Z"
     },
     {
       "posicao": 46,
