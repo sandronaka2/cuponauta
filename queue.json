@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-07T13:40:23.897Z",
-  "exportedAt": "07/08/2026, 10:40:23",
+  "lastExport": "2026-08-07T13:47:09.996Z",
+  "exportedAt": "07/08/2026, 10:47:09",
   "total": 100,
-  "pendentes": 90,
-  "postados": 10,
+  "pendentes": 89,
+  "postados": 11,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -190,10 +190,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_702630-MLB110127767580_042026-AB--rejuvex-ultra--60-caps--colageno--acido-hialuronico.webp",
       "horarioProgramado": "10:43",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-07T13:43:11.890Z"
     },
     {
       "posicao": 12,
