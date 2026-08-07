@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-07T23:27:10.467Z",
-  "exportedAt": "07/08/2026, 20:27:10",
+  "lastExport": "2026-08-07T23:30:24.449Z",
+  "exportedAt": "07/08/2026, 20:30:24",
   "total": 100,
-  "pendentes": 18,
-  "postados": 82,
+  "pendentes": 17,
+  "postados": 83,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -1414,10 +1414,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_628794-MLB94713714326_102025-AB--pijama-algodao-manga-curta-gola-v-mash.webp",
       "horarioProgramado": "20:29",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-07T23:29:34.899Z"
     },
     {
       "posicao": 84,
