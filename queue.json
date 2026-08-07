@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-07T14:10:23.930Z",
-  "exportedAt": "07/08/2026, 11:10:23",
+  "lastExport": "2026-08-07T14:17:10.016Z",
+  "exportedAt": "07/08/2026, 11:17:10",
   "total": 100,
-  "pendentes": 87,
-  "postados": 13,
+  "pendentes": 86,
+  "postados": 14,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -241,10 +241,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_675293-MLB107638770124_032026-AB--camisa-polo-reserva-pica-pau-vermelho.webp",
       "horarioProgramado": "11:15",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-07T14:15:38.036Z"
     },
     {
       "posicao": 15,
