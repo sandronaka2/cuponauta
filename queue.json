@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-07T14:20:23.941Z",
-  "exportedAt": "07/08/2026, 11:20:23",
+  "lastExport": "2026-08-07T14:27:10.022Z",
+  "exportedAt": "07/08/2026, 11:27:10",
   "total": 100,
-  "pendentes": 86,
-  "postados": 14,
+  "pendentes": 85,
+  "postados": 15,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -258,10 +258,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_933668-MLB110752118686_052026-AB--2un-oleo-de-semente-de-abobora-120-capsulas-healthplant.webp",
       "horarioProgramado": "11:26",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-07T14:26:25.314Z"
     },
     {
       "posicao": 16,
