@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-07T20:00:24.441Z",
-  "exportedAt": "07/08/2026, 17:00:24",
+  "lastExport": "2026-08-07T20:07:10.292Z",
+  "exportedAt": "07/08/2026, 17:07:10",
   "total": 100,
-  "pendentes": 48,
-  "postados": 52,
+  "pendentes": 47,
+  "postados": 53,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -904,10 +904,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_734127-CBT110175393528_042026-AB--teclado-mecanico-gamer-60-k61-com-fio-e-iluminacao.webp",
       "horarioProgramado": "17:01",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-07T20:01:18.902Z"
     },
     {
       "posicao": 54,
