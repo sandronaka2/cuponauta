@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-07T21:47:10.353Z",
-  "exportedAt": "07/08/2026, 18:47:10",
+  "lastExport": "2026-08-07T21:57:10.361Z",
+  "exportedAt": "07/08/2026, 18:57:10",
   "total": 100,
-  "pendentes": 34,
-  "postados": 66,
+  "pendentes": 32,
+  "postados": 68,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -1142,10 +1142,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_729687-MLB108551266457_032026-AB--kit-6-cuecas-reebok-boxer-masculino-poliamida.webp",
       "horarioProgramado": "18:49",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-07T21:49:11.059Z"
     },
     {
       "posicao": 68,
@@ -1159,10 +1159,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_772868-MLB91606760518_092025-AB--kit-10-meias-cano-curto-unissex-especial-au-walk-lupo.webp",
       "horarioProgramado": "18:55",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-07T21:55:07.456Z"
     },
     {
       "posicao": 69,
