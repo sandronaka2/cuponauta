@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-07T00:00:23.529Z",
-  "exportedAt": "06/08/2026, 21:00:23",
+  "lastExport": "2026-08-07T00:20:23.281Z",
+  "exportedAt": "06/08/2026, 21:20:23",
   "total": 100,
-  "pendentes": 12,
-  "postados": 88,
+  "pendentes": 8,
+  "postados": 92,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -1516,10 +1516,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_913530-MLA95057743387_102025-AB--kit-6-cuecas-boxer-zorba-seamless-extreme-sport.webp",
       "horarioProgramado": "21:01",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-07T00:01:50.868Z"
     },
     {
       "posicao": 90,
@@ -1533,10 +1533,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_772868-MLB91606760518_092025-AB--kit-10-meias-cano-curto-unissex-especial-au-walk-lupo.webp",
       "horarioProgramado": "21:05",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-07T00:05:34.019Z"
     },
     {
       "posicao": 91,
@@ -1550,10 +1550,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_748709-MLA100102933929_122025-AB.webp",
       "horarioProgramado": "21:11",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-07T00:11:26.973Z"
     },
     {
       "posicao": 92,
@@ -1567,10 +1567,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_921326-MLA96421415295_102025-AB.webp",
       "horarioProgramado": "21:16",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-07T00:16:43.689Z"
     },
     {
       "posicao": 93,
