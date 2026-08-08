@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-08T13:40:25.269Z",
-  "exportedAt": "08/08/2026, 10:40:25",
+  "lastExport": "2026-08-08T13:47:11.173Z",
+  "exportedAt": "08/08/2026, 10:47:11",
   "total": 100,
-  "pendentes": 90,
-  "postados": 10,
+  "pendentes": 89,
+  "postados": 11,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -190,10 +190,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_759757-MLA93093060657_092025-AB--kit-4-cuecas-boxer-sem-costura-algodao-zorba.webp",
       "horarioProgramado": "10:45",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-08T13:45:21.556Z"
     },
     {
       "posicao": 12,
