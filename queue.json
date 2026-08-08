@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-08T17:10:25.405Z",
-  "exportedAt": "08/08/2026, 14:10:25",
+  "lastExport": "2026-08-08T17:17:11.415Z",
+  "exportedAt": "08/08/2026, 14:17:11",
   "total": 100,
-  "pendentes": 62,
-  "postados": 38,
+  "pendentes": 61,
+  "postados": 39,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -666,10 +666,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_627234-MLB113557674400_072026-AB--barbeador-eletrico--rotacoes-prova-dagua-auto-afiavel-usb.webp",
       "horarioProgramado": "14:14",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-08T17:14:15.392Z"
     },
     {
       "posicao": 40,
