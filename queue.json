@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-08T16:10:25.346Z",
-  "exportedAt": "08/08/2026, 13:10:25",
+  "lastExport": "2026-08-08T16:17:11.335Z",
+  "exportedAt": "08/08/2026, 13:17:11",
   "total": 100,
-  "pendentes": 71,
-  "postados": 29,
+  "pendentes": 70,
+  "postados": 30,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -513,10 +513,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_688858-MLB108559815486_032026-AB--tenis-chuck-taylor-cano-curto-tecido-all-star.webp",
       "horarioProgramado": "13:11",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-08T16:11:07.225Z"
     },
     {
       "posicao": 31,
