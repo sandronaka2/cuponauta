@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-08T21:10:27.294Z",
-  "exportedAt": "08/08/2026, 18:10:27",
+  "lastExport": "2026-08-08T21:17:13.364Z",
+  "exportedAt": "08/08/2026, 18:17:13",
   "total": 100,
-  "pendentes": 40,
-  "postados": 60,
+  "pendentes": 39,
+  "postados": 61,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -1040,10 +1040,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_772712-MLB115397576421_072026-AB--kit-make-luxo--blush--iluminador-liquido--pincel-premium.webp",
       "horarioProgramado": "18:12",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-08T21:12:11.358Z"
     },
     {
       "posicao": 62,
