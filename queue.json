@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-08T00:10:24.492Z",
-  "exportedAt": "07/08/2026, 21:10:24",
+  "lastExport": "2026-08-08T00:17:10.495Z",
+  "exportedAt": "07/08/2026, 21:17:10",
   "total": 100,
-  "pendentes": 10,
-  "postados": 90,
+  "pendentes": 9,
+  "postados": 91,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -1550,10 +1550,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_702575-MLB111372915994_052026-AB--kit-5-pano-prato-copa-atoalhado-xadrez-100-algodao-colorido.webp",
       "horarioProgramado": "21:12",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-08T00:12:23.623Z"
     },
     {
       "posicao": 92,
