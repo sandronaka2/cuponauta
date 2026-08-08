@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-08T18:20:25.455Z",
-  "exportedAt": "08/08/2026, 15:20:25",
+  "lastExport": "2026-08-08T18:27:11.457Z",
+  "exportedAt": "08/08/2026, 15:27:11",
   "total": 100,
-  "pendentes": 56,
-  "postados": 44,
+  "pendentes": 55,
+  "postados": 45,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -768,10 +768,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_785262-MLB113049791914_072026-AB--smartwatch-aurafit-g6-tatico-com-gps-e-amoled-143--preto.webp",
       "horarioProgramado": "15:26",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-08T18:26:22.067Z"
     },
     {
       "posicao": 46,
