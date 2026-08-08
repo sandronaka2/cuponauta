@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-08T23:30:27.445Z",
-  "exportedAt": "08/08/2026, 20:30:27",
+  "lastExport": "2026-08-08T23:37:13.546Z",
+  "exportedAt": "08/08/2026, 20:37:13",
   "total": 100,
-  "pendentes": 17,
-  "postados": 83,
+  "pendentes": 16,
+  "postados": 84,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -1431,10 +1431,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_658475-MLB84463670672_052025-AB--tapete-sisal-natural-basic-plus-bege-redondo-casa-095x095.webp",
       "horarioProgramado": "20:35",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-08T23:35:35.610Z"
     },
     {
       "posicao": 85,
