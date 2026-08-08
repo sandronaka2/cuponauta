@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-08T21:38:29.987Z",
-  "exportedAt": "08/08/2026, 18:38:29",
+  "lastExport": "2026-08-08T21:40:27.313Z",
+  "exportedAt": "08/08/2026, 18:40:27",
   "total": 100,
-  "pendentes": 36,
-  "postados": 64,
+  "pendentes": 35,
+  "postados": 65,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -1108,10 +1108,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_861037-MLB111393599690_052026-AB--ventilador-mondial-vtx408p-super-turbo-140w-8-pas-40cm.webp",
       "horarioProgramado": "18:38",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-08T21:38:43.954Z"
     },
     {
       "posicao": 66,
