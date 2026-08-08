@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-08T20:20:27.245Z",
-  "exportedAt": "08/08/2026, 17:20:27",
+  "lastExport": "2026-08-08T20:27:13.364Z",
+  "exportedAt": "08/08/2026, 17:27:13",
   "total": 100,
-  "pendentes": 46,
-  "postados": 54,
+  "pendentes": 45,
+  "postados": 55,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -938,10 +938,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_743173-MLB110269620771_042026-AB--ar-condicionado-split-lg-ai-dual-inverter-compact-9000-btuh.webp",
       "horarioProgramado": "17:23",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-08T20:23:12.425Z"
     },
     {
       "posicao": 56,
