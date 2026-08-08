@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-08T12:10:25.144Z",
-  "exportedAt": "08/08/2026, 09:10:25",
+  "lastExport": "2026-08-08T12:17:11.061Z",
+  "exportedAt": "08/08/2026, 09:17:11",
   "total": 100,
-  "pendentes": 99,
-  "postados": 1,
+  "pendentes": 98,
+  "postados": 2,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -37,10 +37,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_729291-MLB96969921316_112025-AB--sandalia-lycra-almond-lycra-super-leve-comfortflex.webp",
       "horarioProgramado": "09:12",
       "janela": "09:00-10:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-08T12:12:28.086Z"
     },
     {
       "posicao": 3,
