@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-08T20:40:27.275Z",
-  "exportedAt": "08/08/2026, 17:40:27",
+  "lastExport": "2026-08-08T20:47:13.332Z",
+  "exportedAt": "08/08/2026, 17:47:13",
   "total": 100,
-  "pendentes": 44,
-  "postados": 56,
+  "pendentes": 43,
+  "postados": 57,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -972,10 +972,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_619148-MLB104555510529_012026-AB--kit-com-2-camisas-polo-lisa-hering-3m7t1aen.webp",
       "horarioProgramado": "17:46",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-08T20:46:09.010Z"
     },
     {
       "posicao": 58,
