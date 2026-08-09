@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-09T17:10:28.220Z",
-  "exportedAt": "09/08/2026, 14:10:28",
+  "lastExport": "2026-08-09T17:17:14.408Z",
+  "exportedAt": "09/08/2026, 14:17:14",
   "total": 100,
-  "pendentes": 62,
-  "postados": 38,
+  "pendentes": 61,
+  "postados": 39,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -666,10 +666,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_881576-MLB108241079126_032026-AB--vestido-super-midi-evase.webp",
       "horarioProgramado": "14:15",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-09T17:15:22.296Z"
     },
     {
       "posicao": 40,
