@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-09T13:50:28.059Z",
-  "exportedAt": "09/08/2026, 10:50:28",
+  "lastExport": "2026-08-09T13:57:14.163Z",
+  "exportedAt": "09/08/2026, 10:57:14",
   "total": 100,
-  "pendentes": 89,
-  "postados": 11,
+  "pendentes": 88,
+  "postados": 12,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -207,10 +207,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_889728-MLB108812929939_032026-AB--kit-10-calcinhas-feminina-microfibra-cintura-alta-trifil.webp",
       "horarioProgramado": "10:55",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-09T13:55:31.373Z"
     },
     {
       "posicao": 13,
