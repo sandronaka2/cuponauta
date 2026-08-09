@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-09T15:57:14.275Z",
-  "exportedAt": "09/08/2026, 12:57:14",
+  "lastExport": "2026-08-09T16:00:28.159Z",
+  "exportedAt": "09/08/2026, 13:00:28",
   "total": 100,
-  "pendentes": 73,
-  "postados": 27,
+  "pendentes": 72,
+  "postados": 28,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -479,10 +479,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_723393-MLB113910835317_062026-AB--vestido-curto-moletom-selos-do-brasil-farm.webp",
       "horarioProgramado": "12:58",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-09T15:58:45.816Z"
     },
     {
       "posicao": 29,
