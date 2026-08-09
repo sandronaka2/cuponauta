@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-09T23:20:28.487Z",
-  "exportedAt": "09/08/2026, 20:20:28",
+  "lastExport": "2026-08-09T23:27:14.760Z",
+  "exportedAt": "09/08/2026, 20:27:14",
   "total": 100,
-  "pendentes": 19,
-  "postados": 81,
+  "pendentes": 18,
+  "postados": 82,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -1397,10 +1397,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_773484-MLA92681572094_092025-AB--kit-6-cuecas-slip-zorba-linea.webp",
       "horarioProgramado": "20:23",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-09T23:23:12.348Z"
     },
     {
       "posicao": 83,
