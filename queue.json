@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-09T12:37:14.087Z",
-  "exportedAt": "09/08/2026, 09:37:14",
+  "lastExport": "2026-08-09T12:38:43.211Z",
+  "exportedAt": "09/08/2026, 09:38:43",
   "total": 100,
-  "pendentes": 97,
-  "postados": 3,
+  "pendentes": 96,
+  "postados": 4,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -71,10 +71,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_627024-CBT112598643213_062026-AB--refletor-solar-74-led-com-sensor-de-movimento.webp",
       "horarioProgramado": "09:38",
       "janela": "09:00-10:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-09T12:38:22.504Z"
     },
     {
       "posicao": 5,
