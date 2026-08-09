@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-09T21:30:28.369Z",
-  "exportedAt": "09/08/2026, 18:30:28",
+  "lastExport": "2026-08-09T21:37:14.624Z",
+  "exportedAt": "09/08/2026, 18:37:14",
   "total": 100,
-  "pendentes": 37,
-  "postados": 63,
+  "pendentes": 36,
+  "postados": 64,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -1091,10 +1091,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_980897-MLB105590766743_012026-AB--ducha-higienica-com-registro-e-derivacao-docol-next-cromado.webp",
       "horarioProgramado": "18:32",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-09T21:32:51.973Z"
     },
     {
       "posicao": 65,
