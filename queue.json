@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-09T18:47:14.454Z",
-  "exportedAt": "09/08/2026, 15:47:14",
+  "lastExport": "2026-08-09T18:50:28.269Z",
+  "exportedAt": "09/08/2026, 15:50:28",
   "total": 100,
-  "pendentes": 54,
-  "postados": 46,
+  "pendentes": 53,
+  "postados": 47,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -802,10 +802,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_942987-CBT112134463252_062026-AB--fone-bluetooth-netac-com-cancelamento-de-ruido.webp",
       "horarioProgramado": "15:49",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-09T18:49:47.225Z"
     },
     {
       "posicao": 48,
