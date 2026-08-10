@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-10T20:40:31.274Z",
-  "exportedAt": "10/08/2026, 17:40:31",
+  "lastExport": "2026-08-10T20:47:17.447Z",
+  "exportedAt": "10/08/2026, 17:47:17",
   "total": 100,
-  "pendentes": 44,
-  "postados": 56,
+  "pendentes": 43,
+  "postados": 57,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -972,10 +972,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_872608-MLB115741016927_082026-AB--ar-condicionado-split-inverter-philco-12000-btus-frio-220v.webp",
       "horarioProgramado": "17:47",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-10T20:47:15.451Z"
     },
     {
       "posicao": 58,
