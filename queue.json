@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-10T23:50:31.437Z",
-  "exportedAt": "10/08/2026, 20:50:31",
+  "lastExport": "2026-08-10T23:57:17.639Z",
+  "exportedAt": "10/08/2026, 20:57:17",
   "total": 100,
-  "pendentes": 14,
-  "postados": 86,
+  "pendentes": 13,
+  "postados": 87,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -1482,10 +1482,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_859164-MLB75609758527_042024-AB--tenis-masculino-skyrocket-lite-puma.webp",
       "horarioProgramado": "20:53",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-10T23:53:24.326Z"
     },
     {
       "posicao": 88,
