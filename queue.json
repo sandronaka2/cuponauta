@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-10T21:30:31.301Z",
-  "exportedAt": "10/08/2026, 18:30:31",
+  "lastExport": "2026-08-10T21:37:17.502Z",
+  "exportedAt": "10/08/2026, 18:37:17",
   "total": 100,
-  "pendentes": 37,
-  "postados": 63,
+  "pendentes": 36,
+  "postados": 64,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -1091,10 +1091,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_700074-MLB113571767122_072026-AB--tshirt-media-taxi-araras-farm-rio-farm.webp",
       "horarioProgramado": "18:31",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-10T21:31:51.694Z"
     },
     {
       "posicao": 65,
