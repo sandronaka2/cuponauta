@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-10T14:57:15.447Z",
-  "exportedAt": "10/08/2026, 11:57:15",
+  "lastExport": "2026-08-10T15:00:29.259Z",
+  "exportedAt": "10/08/2026, 12:00:29",
   "total": 100,
-  "pendentes": 83,
-  "postados": 17,
+  "pendentes": 82,
+  "postados": 18,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -309,10 +309,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_833983-MLB83406911166_042025-AB--kit-6-cuecas-lupo-am-boxer-sem-costura.webp",
       "horarioProgramado": "11:58",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-10T14:58:23.069Z"
     },
     {
       "posicao": 19,
