@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-10T15:40:29.268Z",
-  "exportedAt": "10/08/2026, 12:40:29",
+  "lastExport": "2026-08-10T15:47:15.448Z",
+  "exportedAt": "10/08/2026, 12:47:15",
   "total": 100,
-  "pendentes": 76,
-  "postados": 24,
+  "pendentes": 74,
+  "postados": 26,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -428,10 +428,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_713706-MLB113961492689_062026-AB--kit-comfort-amaciante-500ml--perfume-cristais-rosa-2.webp",
       "horarioProgramado": "12:40",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-10T15:40:29.610Z"
     },
     {
       "posicao": 26,
@@ -445,10 +445,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_849407-MLB108368175141_032026-AB--ar-condicionado-elgin-9000-btus-eco-inverter-iii-wifi-frio.webp",
       "horarioProgramado": "12:46",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-10T15:46:12.580Z"
     },
     {
       "posicao": 27,
