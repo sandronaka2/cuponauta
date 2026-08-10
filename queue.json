@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-10T13:30:29.162Z",
-  "exportedAt": "10/08/2026, 10:30:29",
+  "lastExport": "2026-08-10T13:37:15.350Z",
+  "exportedAt": "10/08/2026, 10:37:15",
   "total": 100,
-  "pendentes": 91,
-  "postados": 9,
+  "pendentes": 90,
+  "postados": 10,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -173,10 +173,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_843166-MLB114060373826_072026-AB--cabideiro-de-roupas-80cm-com-cesto-organizador.webp",
       "horarioProgramado": "10:33",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-10T13:33:22.624Z"
     },
     {
       "posicao": 11,
