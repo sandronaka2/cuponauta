@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-11T15:40:01.697Z",
-  "exportedAt": "11/08/2026, 12:40:01",
+  "lastExport": "2026-08-11T15:40:32.382Z",
+  "exportedAt": "11/08/2026, 12:40:32",
   "total": 100,
-  "pendentes": 76,
-  "postados": 24,
+  "pendentes": 75,
+  "postados": 25,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -428,10 +428,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_963280-MLB114546543953_072026-AB--colete-feminino-trico-inverno-tricot.webp",
       "horarioProgramado": "12:40",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-11T15:40:22.344Z"
     },
     {
       "posicao": 26,
