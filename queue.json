@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-11T18:30:32.683Z",
-  "exportedAt": "11/08/2026, 15:30:32",
+  "lastExport": "2026-08-11T18:37:18.717Z",
+  "exportedAt": "11/08/2026, 15:37:18",
   "total": 100,
-  "pendentes": 55,
-  "postados": 45,
+  "pendentes": 54,
+  "postados": 46,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -785,10 +785,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_897372-MLB114207948301_072026-AB--figurinha-adesiva-fotografica-neymar-copa-2026-holografica.webp",
       "horarioProgramado": "15:33",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-11T18:33:26.328Z"
     },
     {
       "posicao": 47,
