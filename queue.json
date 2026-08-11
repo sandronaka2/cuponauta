@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-11T12:50:32.236Z",
-  "exportedAt": "11/08/2026, 09:50:32",
+  "lastExport": "2026-08-11T12:57:18.306Z",
+  "exportedAt": "11/08/2026, 09:57:18",
   "total": 100,
-  "pendentes": 95,
-  "postados": 5,
+  "pendentes": 94,
+  "postados": 6,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -105,10 +105,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_723529-MLB113726470338_072026-AB--kit-2-oculos-de-sol-unissex-polarizado-preto-efeito-madeira.webp",
       "horarioProgramado": "09:57",
       "janela": "09:00-10:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-11T12:57:14.176Z"
     },
     {
       "posicao": 7,
