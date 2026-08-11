@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-11T21:20:32.853Z",
-  "exportedAt": "11/08/2026, 18:20:32",
+  "lastExport": "2026-08-11T21:27:18.846Z",
+  "exportedAt": "11/08/2026, 18:27:18",
   "total": 100,
-  "pendentes": 38,
-  "postados": 62,
+  "pendentes": 37,
+  "postados": 63,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -1074,10 +1074,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_729183-MLB108952324201_032026-AB--kit-10-cuecas-slip-algodao-basicas-com-elastico-logo-mash.webp",
       "horarioProgramado": "18:25",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-11T21:25:44.132Z"
     },
     {
       "posicao": 64,
