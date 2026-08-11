@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-11T16:30:32.471Z",
-  "exportedAt": "11/08/2026, 13:30:32",
+  "lastExport": "2026-08-11T16:37:18.518Z",
+  "exportedAt": "11/08/2026, 13:37:18",
   "total": 100,
-  "pendentes": 68,
-  "postados": 32,
+  "pendentes": 67,
+  "postados": 33,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -564,10 +564,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_791372-MLB94631064360_102025-AB--kit-com-10-cuecas-boxer-infantil-seamless-zorba.webp",
       "horarioProgramado": "13:35",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-11T16:35:26.982Z"
     },
     {
       "posicao": 34,
