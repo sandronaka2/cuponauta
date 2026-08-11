@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-11T17:30:32.537Z",
-  "exportedAt": "11/08/2026, 14:30:32",
+  "lastExport": "2026-08-11T17:37:18.625Z",
+  "exportedAt": "11/08/2026, 14:37:18",
   "total": 100,
-  "pendentes": 60,
-  "postados": 40,
+  "pendentes": 59,
+  "postados": 41,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -700,10 +700,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_608304-CBT111538162696_062026-AB--fone-de-ouvido-in-ear-com-microfone-usbc.webp",
       "horarioProgramado": "14:36",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-11T17:36:16.929Z"
     },
     {
       "posicao": 42,
