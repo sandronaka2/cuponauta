@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-11T21:00:32.789Z",
-  "exportedAt": "11/08/2026, 18:00:32",
+  "lastExport": "2026-08-11T21:06:35.715Z",
+  "exportedAt": "11/08/2026, 18:06:35",
   "total": 100,
-  "pendentes": 42,
-  "postados": 58,
+  "pendentes": 40,
+  "postados": 60,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -1006,10 +1006,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_818845-MLB112317977086_062026-AB--colchao-solteiro-espuma-d20-gazin-supreme-88cm.webp",
       "horarioProgramado": "18:01",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-11T21:01:14.383Z"
     },
     {
       "posicao": 60,
@@ -1023,10 +1023,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_608863-MLB112633206812_062026-AB--mega-hair-humanizado-liso-preto-70cm-100grs-cabelo-premium.webp",
       "horarioProgramado": "18:06",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-11T21:06:10.266Z"
     },
     {
       "posicao": 61,
