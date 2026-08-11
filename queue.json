@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-11T15:50:32.400Z",
-  "exportedAt": "11/08/2026, 12:50:32",
+  "lastExport": "2026-08-11T15:57:18.492Z",
+  "exportedAt": "11/08/2026, 12:57:18",
   "total": 100,
-  "pendentes": 74,
-  "postados": 26,
+  "pendentes": 73,
+  "postados": 27,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -462,10 +462,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_935295-MLB115896055519_082026-AB--bata-farm-feminina.webp",
       "horarioProgramado": "12:54",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-11T15:54:14.582Z"
     },
     {
       "posicao": 28,
