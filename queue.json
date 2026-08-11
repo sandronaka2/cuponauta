@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-11T22:57:18.943Z",
-  "exportedAt": "11/08/2026, 19:57:18",
+  "lastExport": "2026-08-11T23:00:32.870Z",
+  "exportedAt": "11/08/2026, 20:00:32",
   "total": 100,
-  "pendentes": 23,
-  "postados": 77,
+  "pendentes": 22,
+  "postados": 78,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -1329,10 +1329,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_930319-MLB114662082237_072026-AB--varal-vertical-3-andares-chao-grande-forte-resistencia-60kg.webp",
       "horarioProgramado": "19:59",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-11T22:59:36.332Z"
     },
     {
       "posicao": 79,
