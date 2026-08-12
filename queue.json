@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-12T15:10:33.907Z",
-  "exportedAt": "12/08/2026, 12:10:33",
+  "lastExport": "2026-08-12T15:20:33.936Z",
+  "exportedAt": "12/08/2026, 12:20:33",
   "total": 100,
-  "pendentes": 80,
-  "postados": 20,
+  "pendentes": 78,
+  "postados": 22,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -360,10 +360,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_961424-MLB112806764784_072026-AB--cabo-cinzeiro-starlink-mini-2-metros.webp",
       "horarioProgramado": "12:12",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-12T15:12:34.052Z"
     },
     {
       "posicao": 22,
@@ -377,10 +377,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_728229-CBT92610961123_092025-AB--kit-relogio-masculino-geneva-com-pulseira-anel-e-colar.webp",
       "horarioProgramado": "12:18",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-12T15:18:24.570Z"
     },
     {
       "posicao": 23,
