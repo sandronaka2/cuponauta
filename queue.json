@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-12T13:00:33.894Z",
-  "exportedAt": "12/08/2026, 10:00:33",
+  "lastExport": "2026-08-12T13:06:59.561Z",
+  "exportedAt": "12/08/2026, 10:06:59",
   "total": 100,
-  "pendentes": 94,
-  "postados": 6,
+  "pendentes": 93,
+  "postados": 7,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -122,10 +122,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_817323-MLB112508244068_062026-AB--oculos-de-sol-masculino-moderno-estiloso-casual-uv-premium.webp",
       "horarioProgramado": "10:02",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-12T13:02:12.940Z"
     },
     {
       "posicao": 8,
