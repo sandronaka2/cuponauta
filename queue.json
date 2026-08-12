@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-12T21:40:36.017Z",
-  "exportedAt": "12/08/2026, 18:40:36",
+  "lastExport": "2026-08-12T21:50:36.032Z",
+  "exportedAt": "12/08/2026, 18:50:36",
   "total": 100,
-  "pendentes": 36,
-  "postados": 64,
+  "pendentes": 35,
+  "postados": 65,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -1125,10 +1125,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_954697-CBT110627544684_052026-AB--mouse-gamer-sem-fio-attack-shark-v3-pro-com-dock-carga.webp",
       "horarioProgramado": "18:44",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-12T21:44:22.115Z"
     },
     {
       "posicao": 67,
