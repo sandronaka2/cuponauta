@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-12T12:10:33.746Z",
-  "exportedAt": "12/08/2026, 09:10:33",
+  "lastExport": "2026-08-12T12:17:19.660Z",
+  "exportedAt": "12/08/2026, 09:17:19",
   "total": 100,
-  "pendentes": 99,
-  "postados": 1,
+  "pendentes": 98,
+  "postados": 2,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -37,10 +37,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_900210-CBT106174980605_012026-AB-oculos-inteligentes-com-ia-e-lente-fotocromatica.webp",
       "horarioProgramado": "09:12",
       "janela": "09:00-10:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-12T12:12:42.072Z"
     },
     {
       "posicao": 3,
