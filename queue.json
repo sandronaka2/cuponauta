@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-12T21:50:36.032Z",
-  "exportedAt": "12/08/2026, 18:50:36",
+  "lastExport": "2026-08-12T21:57:21.912Z",
+  "exportedAt": "12/08/2026, 18:57:21",
   "total": 100,
-  "pendentes": 35,
-  "postados": 65,
+  "pendentes": 33,
+  "postados": 67,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -1142,10 +1142,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_670684-MLA99962097649_112025-AB.webp",
       "horarioProgramado": "18:50",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-12T21:50:40.031Z"
     },
     {
       "posicao": 68,
@@ -1159,10 +1159,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_634437-MLB114100775731_072026-AB--smartwatch-aurafit-g12-gps-resistencia-a-agua-3atm-preto.webp",
       "horarioProgramado": "18:57",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-12T21:57:12.486Z"
     },
     {
       "posicao": 69,
