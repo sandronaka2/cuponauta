@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-12T00:40:32.992Z",
-  "exportedAt": "11/08/2026, 21:40:32",
+  "lastExport": "2026-08-12T00:47:19.041Z",
+  "exportedAt": "11/08/2026, 21:47:19",
   "total": 100,
-  "pendentes": 4,
-  "postados": 96,
+  "pendentes": 3,
+  "postados": 97,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -1652,10 +1652,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_914818-CBT112180001553_052026-AB--aviao-drone-rc-com-controle-remoto-recarregavel.webp",
       "horarioProgramado": "21:44",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-12T00:44:31.527Z"
     },
     {
       "posicao": 98,
