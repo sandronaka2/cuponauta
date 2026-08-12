@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-12T19:20:35.906Z",
-  "exportedAt": "12/08/2026, 16:20:35",
+  "lastExport": "2026-08-12T19:37:21.770Z",
+  "exportedAt": "12/08/2026, 16:37:21",
   "total": 100,
-  "pendentes": 52,
-  "postados": 48,
+  "pendentes": 50,
+  "postados": 50,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -853,10 +853,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_951122-MLA110467988157_042026-AB.webp",
       "horarioProgramado": "16:24",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-12T19:24:32.822Z"
     },
     {
       "posicao": 51,
@@ -870,10 +870,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_688303-MLB70459195088_072023-AB--kit-10-cuecas-mash-boxer-meninos-criancas-11163.webp",
       "horarioProgramado": "16:36",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-12T19:36:35.679Z"
     },
     {
       "posicao": 52,
