@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-12T20:57:21.866Z",
-  "exportedAt": "12/08/2026, 17:57:21",
+  "lastExport": "2026-08-12T21:00:36.000Z",
+  "exportedAt": "12/08/2026, 18:00:36",
   "total": 100,
-  "pendentes": 44,
-  "postados": 56,
+  "pendentes": 43,
+  "postados": 57,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -989,10 +989,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_810330-MLB113381582965_062026-AB--prateleira-extensivel-para-pia-de-cozinha-evita-tubulagoes.webp",
       "horarioProgramado": "17:58",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-12T20:58:15.046Z"
     },
     {
       "posicao": 59,
