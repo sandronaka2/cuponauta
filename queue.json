@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-12T13:20:33.768Z",
-  "exportedAt": "12/08/2026, 10:20:33",
+  "lastExport": "2026-08-12T13:27:19.762Z",
+  "exportedAt": "12/08/2026, 10:27:19",
   "total": 100,
-  "pendentes": 92,
-  "postados": 8,
+  "pendentes": 91,
+  "postados": 9,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -156,10 +156,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_698506-MLB95963746569_102025-AB--meia-masculina-1802-34-de-compressao-kendall.webp",
       "horarioProgramado": "10:24",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-12T13:24:10.435Z"
     },
     {
       "posicao": 10,
