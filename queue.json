@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-12T18:20:34.140Z",
-  "exportedAt": "12/08/2026, 15:20:34",
+  "lastExport": "2026-08-12T18:30:34.228Z",
+  "exportedAt": "12/08/2026, 15:30:34",
   "total": 100,
-  "pendentes": 57,
-  "postados": 43,
+  "pendentes": 56,
+  "postados": 44,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -768,10 +768,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_918095-MLB114649881675_072026-AB--pijama-longo-personagem-adulto-feminino-inverno-frio-dormir.webp",
       "horarioProgramado": "15:24",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-12T18:24:24.475Z"
     },
     {
       "posicao": 46,
