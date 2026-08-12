@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-12T21:20:35.988Z",
-  "exportedAt": "12/08/2026, 18:20:35",
+  "lastExport": "2026-08-12T21:27:21.878Z",
+  "exportedAt": "12/08/2026, 18:27:21",
   "total": 100,
-  "pendentes": 39,
-  "postados": 61,
+  "pendentes": 38,
+  "postados": 62,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -1074,10 +1074,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_855031-MLB110796857218_052026-AB--kit-5-refletor-led-holofote-2000w-prova-dagua-6500k.webp",
       "horarioProgramado": "18:25",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-12T21:25:09.445Z"
     },
     {
       "posicao": 64,
