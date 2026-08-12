@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-12T19:47:21.800Z",
-  "exportedAt": "12/08/2026, 16:47:21",
+  "lastExport": "2026-08-12T20:07:17.201Z",
+  "exportedAt": "12/08/2026, 17:07:17",
   "total": 100,
-  "pendentes": 50,
-  "postados": 50,
+  "pendentes": 48,
+  "postados": 52,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -887,10 +887,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_771764-MLB78996771679_092024-AB--kit-10-mash-boxer-masculino--boxer-cotton-11020.webp",
       "horarioProgramado": "16:47",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-12T19:47:32.165Z"
     },
     {
       "posicao": 53,
@@ -904,10 +904,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_616795-MLB113033611362_072026-AB--relogio-masculino-de-pulso-quartzo-aco-inox-casual-caixa.webp",
       "horarioProgramado": "16:59",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-12T19:59:16.200Z"
     },
     {
       "posicao": 54,
