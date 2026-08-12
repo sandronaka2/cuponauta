@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-12T17:00:34.103Z",
-  "exportedAt": "12/08/2026, 14:00:34",
+  "lastExport": "2026-08-12T17:07:07.983Z",
+  "exportedAt": "12/08/2026, 14:07:07",
   "total": 100,
-  "pendentes": 64,
-  "postados": 36,
+  "pendentes": 63,
+  "postados": 37,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -649,10 +649,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_862053-CBT113190233949_062026-AB--jaqueta-masculina-xadrez-resistente-ao-desgaste-de-estilo-casual.webp",
       "horarioProgramado": "14:01",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-12T17:01:24.195Z"
     },
     {
       "posicao": 39,
