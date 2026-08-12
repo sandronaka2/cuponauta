@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-12T15:40:33.965Z",
-  "exportedAt": "12/08/2026, 12:40:33",
+  "lastExport": "2026-08-12T15:47:19.904Z",
+  "exportedAt": "12/08/2026, 12:47:19",
   "total": 100,
-  "pendentes": 76,
-  "postados": 24,
+  "pendentes": 75,
+  "postados": 25,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -428,10 +428,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_821210-CBT114989817401_072026-AB--kit-esmalte-em-gel-limegirl-6-cores-uv-led.webp",
       "horarioProgramado": "12:40",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-12T15:40:35.745Z"
     },
     {
       "posicao": 26,
