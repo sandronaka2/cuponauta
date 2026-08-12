@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-12T00:00:32.906Z",
-  "exportedAt": "11/08/2026, 21:00:32",
+  "lastExport": "2026-08-12T00:06:41.212Z",
+  "exportedAt": "11/08/2026, 21:06:41",
   "total": 100,
-  "pendentes": 12,
-  "postados": 88,
+  "pendentes": 10,
+  "postados": 90,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -1516,10 +1516,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_948190-MLB113402911425_062026-AB--meia-calca-pelucia-translucida-forro-calido-termica-nua-fem.webp",
       "horarioProgramado": "21:01",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-12T00:01:10.539Z"
     },
     {
       "posicao": 90,
@@ -1533,10 +1533,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_980781-MLA95057742607_102025-AB--kit-6-cuecas-boxer-zorba-masculino--liso-0839.webp",
       "horarioProgramado": "21:06",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-12T00:06:22.074Z"
     },
     {
       "posicao": 91,
