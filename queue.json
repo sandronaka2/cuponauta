@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-12T12:00:33.849Z",
-  "exportedAt": "12/08/2026, 09:00:33",
+  "lastExport": "2026-08-12T12:06:57.324Z",
+  "exportedAt": "12/08/2026, 09:06:57",
   "total": 100,
-  "pendentes": 100,
-  "postados": 0,
+  "pendentes": 99,
+  "postados": 1,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -20,10 +20,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_939877-MLB109880519111_032026-AB--refletor-luminaria-led-1500w-quadra-e-campo-de-futebol-6500k.webp",
       "horarioProgramado": "09:01",
       "janela": "09:00-10:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-12T12:01:11.349Z"
     },
     {
       "posicao": 2,
