@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-12T00:10:33.016Z",
-  "exportedAt": "11/08/2026, 21:10:33",
+  "lastExport": "2026-08-12T00:17:18.990Z",
+  "exportedAt": "11/08/2026, 21:17:18",
   "total": 100,
-  "pendentes": 10,
-  "postados": 90,
+  "pendentes": 8,
+  "postados": 92,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -1550,10 +1550,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_12840-MLB20067428702_032014-AB--chico-bento-moco-panini-varias-edicoes-r-3000-cada.webp",
       "horarioProgramado": "21:11",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-12T00:11:26.174Z"
     },
     {
       "posicao": 92,
@@ -1567,10 +1567,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_706949-MLB102169744139_122025-AB--fone-de-ouvido-gamer-bluetooth-sem-fio-com-microfone-usbc.webp",
       "horarioProgramado": "21:16",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-12T00:16:44.280Z"
     },
     {
       "posicao": 93,
