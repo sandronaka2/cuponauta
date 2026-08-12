@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-12T15:50:33.946Z",
-  "exportedAt": "12/08/2026, 12:50:33",
+  "lastExport": "2026-08-12T15:57:19.884Z",
+  "exportedAt": "12/08/2026, 12:57:19",
   "total": 100,
-  "pendentes": 74,
-  "postados": 26,
+  "pendentes": 73,
+  "postados": 27,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -462,10 +462,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_977178-MLB89101615800_082025-AB--organizador-talheres-gavetas-com-divisorias-ajustaveis.webp",
       "horarioProgramado": "12:54",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-12T15:54:13.346Z"
     },
     {
       "posicao": 28,
