@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-13T00:07:35.632Z",
-  "exportedAt": "12/08/2026, 21:07:35",
+  "lastExport": "2026-08-13T00:10:36.190Z",
+  "exportedAt": "12/08/2026, 21:10:36",
   "total": 100,
-  "pendentes": 11,
-  "postados": 89,
+  "pendentes": 10,
+  "postados": 90,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -1550,10 +1550,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_716451-CBT111881840417_052026-AB--camisa-polo-masculina-manga-curta-tecido-waffle.webp",
       "horarioProgramado": "21:10",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-13T00:10:27.104Z"
     },
     {
       "posicao": 92,
