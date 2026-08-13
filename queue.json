@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-13T19:20:37.180Z",
-  "exportedAt": "13/08/2026, 16:20:37",
+  "lastExport": "2026-08-13T19:27:23.289Z",
+  "exportedAt": "13/08/2026, 16:27:23",
   "total": 100,
-  "pendentes": 51,
-  "postados": 49,
+  "pendentes": 50,
+  "postados": 50,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -853,10 +853,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_764979-MLB111796854769_052026-AB--estrela-fidget-toy-sensorial-anti-stress-ansiedade.webp",
       "horarioProgramado": "16:26",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-13T19:26:14.955Z"
     },
     {
       "posicao": 51,
