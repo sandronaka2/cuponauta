@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-13T21:10:37.280Z",
-  "exportedAt": "13/08/2026, 18:10:37",
+  "lastExport": "2026-08-13T21:20:37.298Z",
+  "exportedAt": "13/08/2026, 18:20:37",
   "total": 100,
-  "pendentes": 40,
-  "postados": 60,
+  "pendentes": 38,
+  "postados": 62,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -1040,10 +1040,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_619952-MLB89573336002_082025-AB--varal-retratil-de-parede-dobravel-facil-instalacao-compacto.webp",
       "horarioProgramado": "18:12",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-13T21:12:28.180Z"
     },
     {
       "posicao": 62,
@@ -1057,10 +1057,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_692251-MLB112692804980_062026-AB--camiseta-manga-longa-lisa-malha-fria-dry-cacau-esporte.webp",
       "horarioProgramado": "18:19",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-13T21:19:07.758Z"
     },
     {
       "posicao": 63,
