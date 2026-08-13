@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-13T16:10:36.918Z",
-  "exportedAt": "13/08/2026, 13:10:36",
+  "lastExport": "2026-08-13T16:17:23.059Z",
+  "exportedAt": "13/08/2026, 13:17:23",
   "total": 100,
-  "pendentes": 71,
-  "postados": 29,
+  "pendentes": 70,
+  "postados": 30,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -513,10 +513,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_842955-CBT113430745661_062026-AB-kit-50-agulhas-cnula-18g-50mm-ponta-romba-esteril.webp",
       "horarioProgramado": "13:15",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-13T16:15:46.514Z"
     },
     {
       "posicao": 31,
