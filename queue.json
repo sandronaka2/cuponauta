@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-13T14:37:22.929Z",
-  "exportedAt": "13/08/2026, 11:37:22",
+  "lastExport": "2026-08-13T14:40:36.845Z",
+  "exportedAt": "13/08/2026, 11:40:36",
   "total": 100,
-  "pendentes": 85,
-  "postados": 15,
+  "pendentes": 84,
+  "postados": 16,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -275,10 +275,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_721374-MLA107323928303_022026-AB--calca-moletom-menina-infantil-flanelada-roupa-juvenil-escola.webp",
       "horarioProgramado": "11:39",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-13T14:39:25.961Z"
     },
     {
       "posicao": 17,
