@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-13T20:20:37.246Z",
-  "exportedAt": "13/08/2026, 17:20:37",
+  "lastExport": "2026-08-13T20:27:23.369Z",
+  "exportedAt": "13/08/2026, 17:27:23",
   "total": 100,
-  "pendentes": 46,
-  "postados": 54,
+  "pendentes": 45,
+  "postados": 55,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -938,10 +938,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_891005-MLB108491030102_032026-AB--kit-500-bolinhas-decorativas-de-gel-fluorescente.webp",
       "horarioProgramado": "17:24",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-13T20:24:09.300Z"
     },
     {
       "posicao": 56,
