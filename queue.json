@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-13T00:57:22.376Z",
-  "exportedAt": "12/08/2026, 21:57:22",
+  "lastExport": "2026-08-13T01:00:36.253Z",
+  "exportedAt": "12/08/2026, 22:00:36",
   "total": 100,
-  "pendentes": 2,
-  "postados": 98,
+  "pendentes": 1,
+  "postados": 99,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -1703,10 +1703,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_722083-MLB112358178504_062026-AB--jato-de-plasma-plasmax-kld-caneta-portatil-5-ponteiras-kit.webp",
       "horarioProgramado": "21:58",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-13T00:58:45.784Z"
     }
   ]
 }
