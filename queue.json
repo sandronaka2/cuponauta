@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-13T14:17:22.909Z",
-  "exportedAt": "13/08/2026, 11:17:22",
+  "lastExport": "2026-08-13T14:20:36.817Z",
+  "exportedAt": "13/08/2026, 11:20:36",
   "total": 100,
-  "pendentes": 87,
-  "postados": 13,
+  "pendentes": 86,
+  "postados": 14,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -241,10 +241,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_711441-MLB114538303422_082026-AB--vestido-curto-selva-de-flor-farm.webp",
       "horarioProgramado": "11:18",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-13T14:18:33.705Z"
     },
     {
       "posicao": 15,
