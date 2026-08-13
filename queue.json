@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-13T16:20:36.939Z",
-  "exportedAt": "13/08/2026, 13:20:36",
+  "lastExport": "2026-08-13T16:27:23.069Z",
+  "exportedAt": "13/08/2026, 13:27:23",
   "total": 100,
-  "pendentes": 70,
-  "postados": 30,
+  "pendentes": 69,
+  "postados": 31,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -530,10 +530,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_652618-MLB112021389526_062026-AB--gloss-tint-cor-au-lait-e-lapis-labial-banoffee-choco-fun.webp",
       "horarioProgramado": "13:21",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-13T16:21:40.763Z"
     },
     {
       "posicao": 32,
