@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-13T21:27:23.437Z",
-  "exportedAt": "13/08/2026, 18:27:23",
+  "lastExport": "2026-08-13T21:37:23.445Z",
+  "exportedAt": "13/08/2026, 18:37:23",
   "total": 100,
-  "pendentes": 37,
-  "postados": 63,
+  "pendentes": 35,
+  "postados": 65,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -1091,10 +1091,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_616925-MLA91552839085_092025-AB.webp",
       "horarioProgramado": "18:31",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-13T21:31:12.663Z"
     },
     {
       "posicao": 65,
@@ -1108,10 +1108,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_967799-MLB108101140958_032026-AB--kit-teclado-e-mouse-44cm-sem-fio-wireless-profissional.webp",
       "horarioProgramado": "18:37",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-13T21:37:16.933Z"
     },
     {
       "posicao": 66,
