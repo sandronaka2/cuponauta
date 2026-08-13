@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-13T22:30:37.399Z",
-  "exportedAt": "13/08/2026, 19:30:37",
+  "lastExport": "2026-08-13T22:37:23.557Z",
+  "exportedAt": "13/08/2026, 19:37:23",
   "total": 100,
-  "pendentes": 27,
-  "postados": 73,
+  "pendentes": 26,
+  "postados": 74,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -1261,10 +1261,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_857366-MLB114179768159_072026-AB--kit-2-cif-espuma-milagrosa-derrete-gordura-refil-450ml.webp",
       "horarioProgramado": "19:33",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-13T22:33:31.746Z"
     },
     {
       "posicao": 75,
