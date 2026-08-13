@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-13T20:40:37.276Z",
-  "exportedAt": "13/08/2026, 17:40:37",
+  "lastExport": "2026-08-13T20:47:23.407Z",
+  "exportedAt": "13/08/2026, 17:47:23",
   "total": 100,
-  "pendentes": 44,
-  "postados": 56,
+  "pendentes": 43,
+  "postados": 57,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -972,10 +972,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_708450-MLB113721573326_072026-AB--amortecedor-a-gas-pistao-para-niveladora-docas-120kgf-1200n.webp",
       "horarioProgramado": "17:46",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-13T20:46:33.294Z"
     },
     {
       "posicao": 58,
