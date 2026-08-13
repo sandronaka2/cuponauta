@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-13T12:00:36.668Z",
-  "exportedAt": "13/08/2026, 09:00:36",
+  "lastExport": "2026-08-13T12:07:22.769Z",
+  "exportedAt": "13/08/2026, 09:07:22",
   "total": 100,
-  "pendentes": 100,
-  "postados": 0,
+  "pendentes": 99,
+  "postados": 1,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -20,10 +20,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_693370-MLB113028560032_072026-AB--relogio-feminino-de-pulso-quartz-pulseira-ajustavel-aco-inox.webp",
       "horarioProgramado": "09:02",
       "janela": "09:00-10:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-13T12:02:25.876Z"
     },
     {
       "posicao": 2,
