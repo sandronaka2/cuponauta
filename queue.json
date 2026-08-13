@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-13T00:40:36.201Z",
-  "exportedAt": "12/08/2026, 21:40:36",
+  "lastExport": "2026-08-13T00:47:22.298Z",
+  "exportedAt": "12/08/2026, 21:47:22",
   "total": 100,
-  "pendentes": 5,
-  "postados": 95,
+  "pendentes": 4,
+  "postados": 96,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -1652,10 +1652,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_991371-CBT112188193486_062026-AB--vestido-esportivo-sem-mangas-feminino-com-ziper.webp",
       "horarioProgramado": "21:43",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-13T00:43:13.082Z"
     },
     {
       "posicao": 98,
