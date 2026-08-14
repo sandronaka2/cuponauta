@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-14T15:27:24.407Z",
-  "exportedAt": "14/08/2026, 12:27:24",
+  "lastExport": "2026-08-14T15:37:24.401Z",
+  "exportedAt": "14/08/2026, 12:37:24",
   "total": 100,
-  "pendentes": 78,
-  "postados": 22,
+  "pendentes": 76,
+  "postados": 24,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -394,10 +394,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_788431-MLB112586087014_062026-AB--relogio-masculino-led-digital-preto-prova-dagua-funcional.webp",
       "horarioProgramado": "12:28",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-14T15:28:17.862Z"
     },
     {
       "posicao": 24,
@@ -411,10 +411,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_674699-MLB109567633633_032026-AB--kit-10-porta-retrato-10x15-a6-moldura-preta-com-acetato.webp",
       "horarioProgramado": "12:35",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-14T15:35:18.649Z"
     },
     {
       "posicao": 25,
