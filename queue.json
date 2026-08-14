@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-14T17:57:26.252Z",
-  "exportedAt": "14/08/2026, 14:57:26",
+  "lastExport": "2026-08-14T18:00:40.595Z",
+  "exportedAt": "14/08/2026, 15:00:40",
   "total": 100,
-  "pendentes": 58,
-  "postados": 42,
+  "pendentes": 57,
+  "postados": 43,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -734,10 +734,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_838839-MLB115896194351_082026-AB--vestido-curto-floral-maye-azul-farm.webp",
       "horarioProgramado": "14:58",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-14T17:58:38.235Z"
     },
     {
       "posicao": 44,
