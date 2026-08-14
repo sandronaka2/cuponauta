@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-14T12:57:24.233Z",
-  "exportedAt": "14/08/2026, 09:57:24",
+  "lastExport": "2026-08-14T13:00:38.312Z",
+  "exportedAt": "14/08/2026, 10:00:38",
   "total": 100,
-  "pendentes": 95,
-  "postados": 5,
+  "pendentes": 94,
+  "postados": 6,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -105,10 +105,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_975780-MLB115444072159_082026-AB--suporte-base-carregador-galaxy-watch-5-pro-6-7-8.webp",
       "horarioProgramado": "09:58",
       "janela": "09:00-10:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-14T12:58:11.333Z"
     },
     {
       "posicao": 7,
