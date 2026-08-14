@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-14T13:50:38.288Z",
-  "exportedAt": "14/08/2026, 10:50:38",
+  "lastExport": "2026-08-14T13:57:24.303Z",
+  "exportedAt": "14/08/2026, 10:57:24",
   "total": 100,
-  "pendentes": 89,
-  "postados": 11,
+  "pendentes": 88,
+  "postados": 12,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -207,10 +207,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_832816-MLB114060546214_072026-AB--cabideiro-arara-80cm-com-cesto-e-rodinhas.webp",
       "horarioProgramado": "10:53",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-14T13:53:18.851Z"
     },
     {
       "posicao": 13,
