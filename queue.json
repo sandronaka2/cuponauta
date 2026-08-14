@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-14T16:37:24.431Z",
-  "exportedAt": "14/08/2026, 13:37:24",
+  "lastExport": "2026-08-14T16:40:38.468Z",
+  "exportedAt": "14/08/2026, 13:40:38",
   "total": 100,
-  "pendentes": 67,
-  "postados": 33,
+  "pendentes": 66,
+  "postados": 34,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -581,10 +581,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_665882-MLB96734555069_102025-AB--tesoura-ergonomica-inox-corte-profissional-leve-confortavel.webp",
       "horarioProgramado": "13:40",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-14T16:40:30.837Z"
     },
     {
       "posicao": 35,
