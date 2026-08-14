@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-14T17:00:38.516Z",
-  "exportedAt": "14/08/2026, 14:00:38",
+  "lastExport": "2026-08-14T17:07:24.488Z",
+  "exportedAt": "14/08/2026, 14:07:24",
   "total": 100,
-  "pendentes": 63,
-  "postados": 37,
+  "pendentes": 62,
+  "postados": 38,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -649,10 +649,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_703928-CBT113812435754_072026-AB--2-pares-de-fones-de-ouvido-sem-fio-dual-fit-in-ear-semi-in-e.webp",
       "horarioProgramado": "14:01",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-14T17:01:20.742Z"
     },
     {
       "posicao": 39,
