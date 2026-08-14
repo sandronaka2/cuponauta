@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-14T13:20:38.263Z",
-  "exportedAt": "14/08/2026, 10:20:38",
+  "lastExport": "2026-08-14T13:27:24.272Z",
+  "exportedAt": "14/08/2026, 10:27:24",
   "total": 100,
-  "pendentes": 92,
-  "postados": 8,
+  "pendentes": 91,
+  "postados": 9,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -156,10 +156,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_644472-MLB108037660032_032026-AB--adaptador-true-link-12v-24v-cabo-3m-para-starlink-mini-cinza.webp",
       "horarioProgramado": "10:22",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-14T13:22:09.903Z"
     },
     {
       "posicao": 10,
