@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-14T23:10:40.627Z",
-  "exportedAt": "14/08/2026, 20:10:40",
+  "lastExport": "2026-08-14T23:20:40.605Z",
+  "exportedAt": "14/08/2026, 20:20:40",
   "total": 100,
-  "pendentes": 20,
-  "postados": 80,
+  "pendentes": 19,
+  "postados": 81,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -1380,10 +1380,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_666639-MLB113118021852_072026-AB--tira-grude-limpa-removedor-de-etiquetas-adesivo-vmd-240ml.webp",
       "horarioProgramado": "20:16",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-14T23:16:28.878Z"
     },
     {
       "posicao": 82,
