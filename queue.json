@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-14T21:47:26.406Z",
-  "exportedAt": "14/08/2026, 18:47:26",
+  "lastExport": "2026-08-14T21:57:26.400Z",
+  "exportedAt": "14/08/2026, 18:57:26",
   "total": 100,
-  "pendentes": 34,
-  "postados": 66,
+  "pendentes": 32,
+  "postados": 68,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -1142,10 +1142,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_803960-MLB110453765488_052026-AB--tenis-casual-masculino-go-troy-com-forro-em-textil-reserva.webp",
       "horarioProgramado": "18:49",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-14T21:49:17.133Z"
     },
     {
       "posicao": 68,
@@ -1159,10 +1159,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_736218-MLB114296940365_072026-AB--par-pistao-a-gas-p-box-bau-igual-ao-mg-20087-65kgf650n.webp",
       "horarioProgramado": "18:55",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-14T21:55:07.412Z"
     },
     {
       "posicao": 69,
