@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-14T18:10:40.304Z",
-  "exportedAt": "14/08/2026, 15:10:40",
+  "lastExport": "2026-08-14T18:08:23.955Z",
+  "exportedAt": "14/08/2026, 15:08:23",
   "total": 100,
-  "pendentes": 56,
-  "postados": 44,
+  "pendentes": 57,
+  "postados": 43,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -751,10 +751,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_641612-MLB111977781921_052026-AB--lancador-de-agua-pistola-arma-de-agua-jato-infantil-piscina.webp",
       "horarioProgramado": "15:10",
       "janela": "14:00-18:00",
-      "status": "postado",
+      "status": "pendente",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": "2026-08-14T18:10:18.097Z"
+      "postedAt": null
     },
     {
       "posicao": 45,
