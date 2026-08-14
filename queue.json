@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-14T17:20:38.525Z",
-  "exportedAt": "14/08/2026, 14:20:38",
+  "lastExport": "2026-08-14T17:27:24.511Z",
+  "exportedAt": "14/08/2026, 14:27:24",
   "total": 100,
-  "pendentes": 61,
-  "postados": 39,
+  "pendentes": 60,
+  "postados": 40,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -683,10 +683,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_644931-CBT113187788271_062026-AB--kit-3-pecas-regata-feminina-canelada-com-bojo.webp",
       "horarioProgramado": "14:23",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-14T17:23:17.451Z"
     },
     {
       "posicao": 41,
