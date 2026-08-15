@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-15T17:57:27.743Z",
-  "exportedAt": "15/08/2026, 14:57:27",
+  "lastExport": "2026-08-15T18:00:41.611Z",
+  "exportedAt": "15/08/2026, 15:00:41",
   "total": 100,
-  "pendentes": 58,
-  "postados": 42,
+  "pendentes": 57,
+  "postados": 43,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -734,10 +734,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_955307-CBT114619136741_072026-AB--cilios-posticos-em-tufos-efeito-manga-volume.webp",
       "horarioProgramado": "15:00",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-15T18:00:30.807Z"
     },
     {
       "posicao": 44,
