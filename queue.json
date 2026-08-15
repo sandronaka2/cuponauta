@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-15T15:27:27.508Z",
-  "exportedAt": "15/08/2026, 12:27:27",
+  "lastExport": "2026-08-15T15:30:41.463Z",
+  "exportedAt": "15/08/2026, 12:30:41",
   "total": 100,
-  "pendentes": 78,
-  "postados": 22,
+  "pendentes": 77,
+  "postados": 23,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -394,10 +394,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_678332-MLB97850235465_112025-AB--lampada-led-bulbo-t80-20w-6500k-branco-frio-bivolt.webp",
       "horarioProgramado": "12:27",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-15T15:27:34.796Z"
     },
     {
       "posicao": 24,
