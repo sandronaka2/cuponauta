@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-15T16:40:41.538Z",
-  "exportedAt": "15/08/2026, 13:40:41",
+  "lastExport": "2026-08-15T16:47:27.664Z",
+  "exportedAt": "15/08/2026, 13:47:27",
   "total": 100,
-  "pendentes": 67,
-  "postados": 33,
+  "pendentes": 65,
+  "postados": 35,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -581,10 +581,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_914979-MLB112379897465_052026-AB--pijama-feminino-adulto-meia-estacao-ribsuede-estampado.webp",
       "horarioProgramado": "13:41",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-15T16:41:49.871Z"
     },
     {
       "posicao": 35,
@@ -598,10 +598,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_716851-CBT111102809535_052026-AB--camisa-polo-masculina-manga-curta.webp",
       "horarioProgramado": "13:47",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-15T16:47:11.693Z"
     },
     {
       "posicao": 36,
