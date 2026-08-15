@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-15T16:00:41.529Z",
-  "exportedAt": "15/08/2026, 13:00:41",
+  "lastExport": "2026-08-15T16:07:27.582Z",
+  "exportedAt": "15/08/2026, 13:07:27",
   "total": 100,
-  "pendentes": 73,
-  "postados": 27,
+  "pendentes": 72,
+  "postados": 28,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -479,10 +479,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_960251-MLB95870265008_102025-AB--carregador-usb-para-garmin-forerunner--165265255955945.webp",
       "horarioProgramado": "13:03",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-15T16:03:43.937Z"
     },
     {
       "posicao": 29,
