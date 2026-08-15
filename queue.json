@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-15T15:47:27.536Z",
-  "exportedAt": "15/08/2026, 12:47:27",
+  "lastExport": "2026-08-15T15:50:41.399Z",
+  "exportedAt": "15/08/2026, 12:50:41",
   "total": 100,
-  "pendentes": 75,
-  "postados": 25,
+  "pendentes": 74,
+  "postados": 26,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -445,10 +445,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_852080-MLB114422540504_082026-AB--refletor-led-holofote-1000w-premium-6500k-prova-dagua-ip66.webp",
       "horarioProgramado": "12:49",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-15T15:49:49.171Z"
     },
     {
       "posicao": 27,
