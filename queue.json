@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-15T17:00:41.662Z",
-  "exportedAt": "15/08/2026, 14:00:41",
+  "lastExport": "2026-08-15T17:07:27.674Z",
+  "exportedAt": "15/08/2026, 14:07:27",
   "total": 100,
-  "pendentes": 63,
-  "postados": 37,
+  "pendentes": 62,
+  "postados": 38,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -649,10 +649,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_612786-MLB109058785880_032026-AB--tenis-kappa-sparta-unissex-original-confortavel--caminhada.webp",
       "horarioProgramado": "14:01",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-15T17:01:20.482Z"
     },
     {
       "posicao": 39,
