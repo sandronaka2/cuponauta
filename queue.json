@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-15T00:00:40.734Z",
-  "exportedAt": "14/08/2026, 21:00:40",
+  "lastExport": "2026-08-15T00:10:40.639Z",
+  "exportedAt": "14/08/2026, 21:10:40",
   "total": 100,
-  "pendentes": 12,
-  "postados": 88,
+  "pendentes": 10,
+  "postados": 90,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -1516,10 +1516,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_923496-MLA99932624719_112025-AB.webp",
       "horarioProgramado": "21:01",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-15T00:01:09.692Z"
     },
     {
       "posicao": 90,
@@ -1533,10 +1533,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_636702-MLB114428039198_082026-AB--sandalia-feminina-flatform-slide-tira-cruzada-confortavel.webp",
       "horarioProgramado": "21:06",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-15T00:06:34.369Z"
     },
     {
       "posicao": 91,
