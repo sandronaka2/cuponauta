@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-16T15:47:29.012Z",
-  "exportedAt": "16/08/2026, 12:47:29",
+  "lastExport": "2026-08-16T15:57:28.918Z",
+  "exportedAt": "16/08/2026, 12:57:28",
   "total": 100,
-  "pendentes": 75,
-  "postados": 25,
+  "pendentes": 73,
+  "postados": 27,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -445,10 +445,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_655319-CBT115799974893_082026-AB--fone-bluetooth-sem-fio-musica-chamadas-externas.webp",
       "horarioProgramado": "12:48",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-16T15:48:13.245Z"
     },
     {
       "posicao": 27,
@@ -462,10 +462,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_981950-MLA105674031825_012026-AB.webp",
       "horarioProgramado": "12:55",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-16T15:55:25.111Z"
     },
     {
       "posicao": 28,
