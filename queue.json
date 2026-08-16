@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-16T23:27:31.414Z",
-  "exportedAt": "16/08/2026, 20:27:31",
+  "lastExport": "2026-08-16T23:37:31.477Z",
+  "exportedAt": "16/08/2026, 20:37:31",
   "total": 100,
-  "pendentes": 18,
-  "postados": 82,
+  "pendentes": 16,
+  "postados": 84,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -1414,10 +1414,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_677464-MLB115348512363_072026-AB--5-000-bolinhas-de-gel-fluorescente-decorativa-brilhante.webp",
       "horarioProgramado": "20:29",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-16T23:29:18.220Z"
     },
     {
       "posicao": 84,
@@ -1431,10 +1431,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_802328-MLB112504194030_062026-AB--cabo-alimentacao-starlink-mini-30v-entrada-12v24v-plug-dc.webp",
       "horarioProgramado": "20:35",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-16T23:35:26.272Z"
     },
     {
       "posicao": 85,
