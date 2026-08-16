@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-16T18:27:29.115Z",
-  "exportedAt": "16/08/2026, 15:27:29",
+  "lastExport": "2026-08-16T18:37:29.152Z",
+  "exportedAt": "16/08/2026, 15:37:29",
   "total": 100,
-  "pendentes": 55,
-  "postados": 45,
+  "pendentes": 54,
+  "postados": 46,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -785,10 +785,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_850422-MLB115010267519_072026-AB--suporte-prolongador-2-cabecas-p-camera-seguranca-50cm.webp",
       "horarioProgramado": "15:37",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-16T18:37:15.655Z"
     },
     {
       "posicao": 47,
