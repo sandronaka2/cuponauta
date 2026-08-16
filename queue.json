@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-16T14:27:28.871Z",
-  "exportedAt": "16/08/2026, 11:27:28",
+  "lastExport": "2026-08-16T14:37:28.889Z",
+  "exportedAt": "16/08/2026, 11:37:28",
   "total": 100,
-  "pendentes": 86,
-  "postados": 14,
+  "pendentes": 84,
+  "postados": 16,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -258,10 +258,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_862950-MLB114847874083_072026-AB--calca-feminina-alfaiataria-moda-plus-size-tendencia-social.webp",
       "horarioProgramado": "11:27",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-16T14:27:32.302Z"
     },
     {
       "posicao": 16,
@@ -275,10 +275,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_696208-MLA84869476171_052025-AB--aquecedor-goodgo-caloventor-1500w-termostato-127v-branco.webp",
       "horarioProgramado": "11:37",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-16T14:37:10.004Z"
     },
     {
       "posicao": 17,
