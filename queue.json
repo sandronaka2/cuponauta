@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-16T18:57:31.027Z",
-  "exportedAt": "16/08/2026, 15:57:31",
+  "lastExport": "2026-08-16T19:09:56.590Z",
+  "exportedAt": "16/08/2026, 16:09:56",
   "total": 100,
-  "pendentes": 53,
-  "postados": 47,
+  "pendentes": 52,
+  "postados": 48,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -819,10 +819,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_816671-MLB106258396837_012026-AB--cabo-para-ligar-starlink-mini-no-carro-3-metros-12-24-v.webp",
       "horarioProgramado": "16:00",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-16T19:00:38.127Z"
     },
     {
       "posicao": 49,
