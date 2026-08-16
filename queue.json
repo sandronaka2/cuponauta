@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-16T16:07:28.944Z",
-  "exportedAt": "16/08/2026, 13:07:28",
+  "lastExport": "2026-08-16T16:09:52.760Z",
+  "exportedAt": "16/08/2026, 13:09:52",
   "total": 100,
-  "pendentes": 72,
-  "postados": 28,
+  "pendentes": 71,
+  "postados": 29,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -496,10 +496,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_619952-MLB89573336002_082025-AB--varal-retratil-de-parede-dobravel-facil-instalacao-compacto.webp",
       "horarioProgramado": "13:08",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-16T16:08:13.701Z"
     },
     {
       "posicao": 30,
