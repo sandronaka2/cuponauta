@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-16T00:17:28.017Z",
-  "exportedAt": "15/08/2026, 21:17:28",
+  "lastExport": "2026-08-16T00:27:28.039Z",
+  "exportedAt": "15/08/2026, 21:27:28",
   "total": 100,
-  "pendentes": 8,
-  "postados": 92,
+  "pendentes": 6,
+  "postados": 94,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -1584,10 +1584,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_659486-MLB79938441224_102024-AB--kit-10-cuecas-boxer-lupo-masculino-algodao.webp",
       "horarioProgramado": "21:22",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-16T00:22:38.093Z"
     },
     {
       "posicao": 94,
@@ -1601,10 +1601,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_618177-MLB109334057086_042026-AB--oculos-de-sol-unissex-retangular-retro-quadrando-preto-2026.webp",
       "horarioProgramado": "21:27",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-16T00:27:07.362Z"
     },
     {
       "posicao": 95,
