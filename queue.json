@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-16T00:09:25.242Z",
-  "exportedAt": "15/08/2026, 21:09:25",
+  "lastExport": "2026-08-16T00:17:28.017Z",
+  "exportedAt": "15/08/2026, 21:17:28",
   "total": 100,
-  "pendentes": 10,
-  "postados": 90,
+  "pendentes": 8,
+  "postados": 92,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -1550,10 +1550,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_810644-MLA99552783268_122025-AB.webp",
       "horarioProgramado": "21:11",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-16T00:11:20.229Z"
     },
     {
       "posicao": 92,
@@ -1567,10 +1567,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_666560-MLB86536041722_062025-AB--arandela-parede-externa-e-interna--lampada-led-g9.webp",
       "horarioProgramado": "21:16",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-16T00:16:32.609Z"
     },
     {
       "posicao": 93,
