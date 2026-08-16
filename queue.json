@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-16T14:57:28.888Z",
-  "exportedAt": "16/08/2026, 11:57:28",
+  "lastExport": "2026-08-16T15:07:28.893Z",
+  "exportedAt": "16/08/2026, 12:07:28",
   "total": 100,
-  "pendentes": 83,
-  "postados": 17,
+  "pendentes": 80,
+  "postados": 20,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -309,10 +309,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_693370-MLB113028560032_072026-AB--relogio-feminino-de-pulso-quartz-pulseira-ajustavel-aco-inox.webp",
       "horarioProgramado": "11:58",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-16T14:58:08.989Z"
     },
     {
       "posicao": 19,
@@ -326,10 +326,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_722083-MLB112358178504_062026-AB--jato-de-plasma-plasmax-kld-caneta-portatil-5-ponteiras-kit.webp",
       "horarioProgramado": "12:01",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-16T15:01:41.679Z"
     },
     {
       "posicao": 20,
@@ -343,10 +343,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_872243-MLB110421084986_052026-AB--mini-cama-infantil-juvenil-carros-stockcar-azul-lojas-bela.webp",
       "horarioProgramado": "12:07",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-16T15:07:26.843Z"
     },
     {
       "posicao": 21,
