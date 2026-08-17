@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-17T17:57:32.366Z",
-  "exportedAt": "17/08/2026, 14:57:32",
+  "lastExport": "2026-08-17T18:10:43.023Z",
+  "exportedAt": "17/08/2026, 15:10:43",
   "total": 100,
-  "pendentes": 58,
-  "postados": 42,
+  "pendentes": 57,
+  "postados": 43,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -734,10 +734,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_837007-CBT114236311023_072026-AB--fones-bluetooth-hp-h10m-sem-fio.webp",
       "horarioProgramado": "15:01",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-17T18:01:14.379Z"
     },
     {
       "posicao": 44,
