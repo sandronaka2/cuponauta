@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-17T23:37:32.732Z",
-  "exportedAt": "17/08/2026, 20:37:32",
+  "lastExport": "2026-08-17T23:47:32.687Z",
+  "exportedAt": "17/08/2026, 20:47:32",
   "total": 100,
-  "pendentes": 16,
-  "postados": 84,
+  "pendentes": 14,
+  "postados": 86,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -1448,10 +1448,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_795971-CBT114141916553_072026-AB--moletom-masculino-meio-ziper-com-capuz-bolso-canguru-bolso-com-ziper-na-manga.webp",
       "horarioProgramado": "20:41",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-17T23:41:13.567Z"
     },
     {
       "posicao": 86,
@@ -1465,10 +1465,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_827595-MLA100080927347_122025-AB.webp",
       "horarioProgramado": "20:47",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-17T23:47:11.822Z"
     },
     {
       "posicao": 87,
