@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-17T22:10:50.450Z",
-  "exportedAt": "17/08/2026, 19:10:50",
+  "lastExport": "2026-08-17T22:17:32.625Z",
+  "exportedAt": "17/08/2026, 19:17:32",
   "total": 100,
-  "pendentes": 30,
-  "postados": 70,
+  "pendentes": 29,
+  "postados": 71,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -1210,10 +1210,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_772868-MLB91606760518_092025-AB--kit-10-meias-cano-curto-unissex-especial-au-walk-lupo.webp",
       "horarioProgramado": "19:14",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-17T22:14:18.826Z"
     },
     {
       "posicao": 72,
