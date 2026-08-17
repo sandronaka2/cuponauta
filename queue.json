@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-17T14:10:31.819Z",
-  "exportedAt": "17/08/2026, 11:10:31",
+  "lastExport": "2026-08-17T14:17:32.140Z",
+  "exportedAt": "17/08/2026, 11:17:32",
   "total": 100,
-  "pendentes": 87,
-  "postados": 13,
+  "pendentes": 86,
+  "postados": 14,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -241,10 +241,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_998393-CBT111160984334_052026-AB--teclado-para-jogos-de-uma-mao-attack-shark-m36he-hall-switch.webp",
       "horarioProgramado": "11:14",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-17T14:14:09.372Z"
     },
     {
       "posicao": 15,
