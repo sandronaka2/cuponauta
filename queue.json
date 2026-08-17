@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-17T12:10:31.793Z",
-  "exportedAt": "17/08/2026, 09:10:31",
+  "lastExport": "2026-08-17T12:17:32.068Z",
+  "exportedAt": "17/08/2026, 09:17:32",
   "total": 100,
-  "pendentes": 99,
-  "postados": 1,
+  "pendentes": 98,
+  "postados": 2,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -37,10 +37,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_617474-MLB54863695282_042023-AB--kit-com-10-cuecas--masculina-boxer-de-algodao-mash-lisas.webp",
       "horarioProgramado": "09:15",
       "janela": "09:00-10:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-17T12:15:21.438Z"
     },
     {
       "posicao": 3,
