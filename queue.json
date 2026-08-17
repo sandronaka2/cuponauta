@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-17T16:17:32.270Z",
-  "exportedAt": "17/08/2026, 13:17:32",
+  "lastExport": "2026-08-17T16:27:32.286Z",
+  "exportedAt": "17/08/2026, 13:27:32",
   "total": 100,
-  "pendentes": 70,
-  "postados": 30,
+  "pendentes": 68,
+  "postados": 32,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -530,10 +530,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_955190-MLB111034777209_042026-AB--plaquete-penquete-dentada-cabeleireiro-mechas-reflexo-luzes.webp",
       "horarioProgramado": "13:19",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-17T16:19:36.576Z"
     },
     {
       "posicao": 32,
@@ -547,10 +547,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_918579-MLB50650708888_072022-AB--circulacao-e-alivio-muscular-creme-castanhadaindia.webp",
       "horarioProgramado": "13:26",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-17T16:26:27.650Z"
     },
     {
       "posicao": 33,
