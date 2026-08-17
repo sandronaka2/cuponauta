@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-17T12:57:32.096Z",
-  "exportedAt": "17/08/2026, 09:57:32",
+  "lastExport": "2026-08-17T13:07:32.089Z",
+  "exportedAt": "17/08/2026, 10:07:32",
   "total": 100,
-  "pendentes": 95,
-  "postados": 5,
+  "pendentes": 93,
+  "postados": 7,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -105,10 +105,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_702492-MLA99925261543_112025-AB.webp",
       "horarioProgramado": "09:58",
       "janela": "09:00-10:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-17T12:58:10.441Z"
     },
     {
       "posicao": 7,
@@ -122,10 +122,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_743250-CBT112389003455_052026-AB--caixa-de-som-bluetooth-portatil-mini-graves-potentes-resiste.webp",
       "horarioProgramado": "10:01",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-17T13:01:15.215Z"
     },
     {
       "posicao": 8,
