@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-17T15:27:32.223Z",
-  "exportedAt": "17/08/2026, 12:27:32",
+  "lastExport": "2026-08-17T15:37:32.230Z",
+  "exportedAt": "17/08/2026, 12:37:32",
   "total": 100,
-  "pendentes": 77,
-  "postados": 23,
+  "pendentes": 76,
+  "postados": 24,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -411,10 +411,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_895570-MLB107172619231_022026-AB--cabo-starlink-mini-plug-dc-3-metros.webp",
       "horarioProgramado": "12:33",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-17T15:33:23.197Z"
     },
     {
       "posicao": 25,
