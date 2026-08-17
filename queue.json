@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-17T12:17:32.068Z",
-  "exportedAt": "17/08/2026, 09:17:32",
+  "lastExport": "2026-08-17T12:27:32.054Z",
+  "exportedAt": "17/08/2026, 09:27:32",
   "total": 100,
-  "pendentes": 98,
-  "postados": 2,
+  "pendentes": 97,
+  "postados": 3,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -54,10 +54,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_740614-MLB109654886607_032026-AB--refletor-led-300w-com-placa-solar-area-externa-a-bateria.webp",
       "horarioProgramado": "09:26",
       "janela": "09:00-10:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-17T12:26:20.178Z"
     },
     {
       "posicao": 4,
