@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-17T00:37:31.414Z",
-  "exportedAt": "16/08/2026, 21:37:31",
+  "lastExport": "2026-08-17T00:47:31.499Z",
+  "exportedAt": "16/08/2026, 21:47:31",
   "total": 100,
-  "pendentes": 5,
-  "postados": 95,
+  "pendentes": 3,
+  "postados": 97,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -1635,10 +1635,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_732653-MLB113520781845_062026-AB--camiseta-lupo-termica-70040001.webp",
       "horarioProgramado": "21:39",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-17T00:39:16.152Z"
     },
     {
       "posicao": 97,
@@ -1652,10 +1652,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_738639-MLB114397243614_082026-AB--depilador-eletrico-feminino-2-em-1-intimo-virilha-rosto.webp",
       "horarioProgramado": "21:44",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-17T00:44:48.164Z"
     },
     {
       "posicao": 98,
