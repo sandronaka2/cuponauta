@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-17T19:10:45.609Z",
-  "exportedAt": "17/08/2026, 16:10:45",
+  "lastExport": "2026-08-17T19:17:32.453Z",
+  "exportedAt": "17/08/2026, 16:17:32",
   "total": 100,
-  "pendentes": 52,
-  "postados": 48,
+  "pendentes": 51,
+  "postados": 49,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -836,10 +836,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_703387-CBT112034168268_062026-AB--jaqueta-masculina-de-inverno-com-forro-peluciado-e-gola-alta-termica.webp",
       "horarioProgramado": "16:13",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-17T19:13:39.660Z"
     },
     {
       "posicao": 50,
