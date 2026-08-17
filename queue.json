@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-17T19:27:32.447Z",
-  "exportedAt": "17/08/2026, 16:27:32",
+  "lastExport": "2026-08-17T19:37:32.480Z",
+  "exportedAt": "17/08/2026, 16:37:32",
   "total": 100,
-  "pendentes": 50,
-  "postados": 50,
+  "pendentes": 49,
+  "postados": 51,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -870,10 +870,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_864907-MLB113571764434_072026-AB--holofote-led-solar-potente-de-energia-a-prova-d-agua-forte.webp",
       "horarioProgramado": "16:36",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-17T19:36:24.910Z"
     },
     {
       "posicao": 52,
