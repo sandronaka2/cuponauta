@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-17T11:57:32.016Z",
-  "exportedAt": "17/08/2026, 08:57:32",
+  "lastExport": "2026-08-17T12:07:32.121Z",
+  "exportedAt": "17/08/2026, 09:07:32",
   "total": 100,
-  "pendentes": 100,
-  "postados": 0,
+  "pendentes": 99,
+  "postados": 1,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -20,10 +20,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_868628-MLB90930318771_082025-AB--gloss-labial-sweet-lips-nutricao-hidratacao-15g-tulipia.webp",
       "horarioProgramado": "09:02",
       "janela": "09:00-10:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-17T12:02:09.208Z"
     },
     {
       "posicao": 2,
