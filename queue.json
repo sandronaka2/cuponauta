@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-17T22:07:32.560Z",
-  "exportedAt": "17/08/2026, 19:07:32",
+  "lastExport": "2026-08-17T22:10:50.450Z",
+  "exportedAt": "17/08/2026, 19:10:50",
   "total": 100,
-  "pendentes": 31,
-  "postados": 69,
+  "pendentes": 30,
+  "postados": 70,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -1193,10 +1193,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_660095-CBT113126120449_062026-AB--tenis-masculino-para-corrida-leve-e-respiravel.webp",
       "horarioProgramado": "19:08",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-17T22:08:39.180Z"
     },
     {
       "posicao": 71,
