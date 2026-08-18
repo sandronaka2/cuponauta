@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-18T13:24:32.937Z",
-  "exportedAt": "18/08/2026, 10:24:32",
+  "lastExport": "2026-08-18T13:44:32.952Z",
+  "exportedAt": "18/08/2026, 10:44:32",
   "total": 100,
-  "pendentes": 91,
-  "postados": 9,
+  "pendentes": 89,
+  "postados": 11,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -173,10 +173,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_627616-MLA99439270890_112025-AB.webp",
       "horarioProgramado": "10:32",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-18T13:32:11.820Z"
     },
     {
       "posicao": 11,
@@ -190,10 +190,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_916851-MLB77122162691_062024-AB--manta-filtrante-g3-pcabines-e-ar-condicionado-5x1m.webp",
       "horarioProgramado": "10:44",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-18T13:44:18.308Z"
     },
     {
       "posicao": 12,
