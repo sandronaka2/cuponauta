@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-18T00:47:32.827Z",
-  "exportedAt": "17/08/2026, 21:47:32",
+  "lastExport": "2026-08-18T01:07:32.753Z",
+  "exportedAt": "17/08/2026, 22:07:32",
   "total": 100,
-  "pendentes": 3,
-  "postados": 97,
+  "pendentes": 0,
+  "postados": 100,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -1669,10 +1669,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_725853-MLA82186133062_022025-AB.webp",
       "horarioProgramado": "21:49",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-18T00:49:15.521Z"
     },
     {
       "posicao": 99,
@@ -1686,10 +1686,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_739202-CBT111336377777_052026-AB--fones-de-ouvido-bluetooth-tws-sem-fio-com-case.webp",
       "horarioProgramado": "21:54",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-18T00:54:45.715Z"
     },
     {
       "posicao": 100,
@@ -1703,10 +1703,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_790682-MLA99900407409_112025-AB.webp",
       "horarioProgramado": "21:58",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-18T00:58:08.077Z"
     }
   ]
 }
