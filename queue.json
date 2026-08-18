@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-18T19:14:33.306Z",
-  "exportedAt": "18/08/2026, 16:14:33",
+  "lastExport": "2026-08-18T19:24:33.309Z",
+  "exportedAt": "18/08/2026, 16:24:33",
   "total": 100,
-  "pendentes": 52,
-  "postados": 48,
+  "pendentes": 51,
+  "postados": 49,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -836,10 +836,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_717084-CBT114839697299_072026-AB--teclado-mecanico-attack-shark-x98-pro-sem-fio.webp",
       "horarioProgramado": "16:14",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-18T19:14:43.634Z"
     },
     {
       "posicao": 50,
