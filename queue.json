@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-18T16:34:33.177Z",
-  "exportedAt": "18/08/2026, 13:34:33",
+  "lastExport": "2026-08-18T16:54:10.464Z",
+  "exportedAt": "18/08/2026, 13:54:10",
   "total": 100,
-  "pendentes": 68,
-  "postados": 32,
+  "pendentes": 64,
+  "postados": 36,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -564,10 +564,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_826897-MLA105493148208_012026-AB.webp",
       "horarioProgramado": "13:34",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-18T16:34:35.240Z"
     },
     {
       "posicao": 34,
@@ -581,10 +581,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_613398-CBT115860704587_082026-AB--carregador-bateria-automotiva-12v-25a-tela-lcd.webp",
       "horarioProgramado": "13:40",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-18T16:40:20.518Z"
     },
     {
       "posicao": 35,
@@ -598,10 +598,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_716959-MLA99993917157_112025-AB.webp",
       "horarioProgramado": "13:46",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-18T16:46:27.740Z"
     },
     {
       "posicao": 36,
@@ -615,10 +615,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_707532-MLA99600138032_122025-AB.webp",
       "horarioProgramado": "13:53",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-18T16:53:21.092Z"
     },
     {
       "posicao": 37,
