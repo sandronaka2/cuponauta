@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-18T17:04:33.185Z",
-  "exportedAt": "18/08/2026, 14:04:33",
+  "lastExport": "2026-08-18T17:14:33.230Z",
+  "exportedAt": "18/08/2026, 14:14:33",
   "total": 100,
-  "pendentes": 62,
-  "postados": 38,
+  "pendentes": 61,
+  "postados": 39,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -666,10 +666,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_772878-CBT110256744440_052026-AB--fone-de-ouvido-inear-kz-zs10-pro-x-hibrido-com-mic.webp",
       "horarioProgramado": "14:13",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-18T17:13:38.203Z"
     },
     {
       "posicao": 40,
