@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-18T12:34:32.870Z",
-  "exportedAt": "18/08/2026, 09:34:32",
+  "lastExport": "2026-08-18T12:44:32.925Z",
+  "exportedAt": "18/08/2026, 09:44:32",
   "total": 100,
-  "pendentes": 97,
-  "postados": 3,
+  "pendentes": 96,
+  "postados": 4,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -71,10 +71,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_773858-MLB110788955808_052026-AB--kit-10-toucas-de-cetim--10-xuxinha-antifrizz-cores-sortidas.webp",
       "horarioProgramado": "09:35",
       "janela": "09:00-10:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-18T12:35:52.995Z"
     },
     {
       "posicao": 5,
