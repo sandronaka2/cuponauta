@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-18T15:04:33.035Z",
-  "exportedAt": "18/08/2026, 12:04:33",
+  "lastExport": "2026-08-18T15:24:33.097Z",
+  "exportedAt": "18/08/2026, 12:24:33",
   "total": 100,
-  "pendentes": 81,
-  "postados": 19,
+  "pendentes": 78,
+  "postados": 22,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -343,10 +343,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_643187-MLA99350501712_112025-AB.webp",
       "horarioProgramado": "12:06",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-18T15:06:31.006Z"
     },
     {
       "posicao": 21,
@@ -360,10 +360,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_640597-MLA92434312427_092025-AB.webp",
       "horarioProgramado": "12:13",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-18T15:13:21.911Z"
     },
     {
       "posicao": 22,
@@ -377,10 +377,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_634145-CBT115115818723_072026-AB--fone-de-ouvido-bluetooth-aoc-com-cancelamento.webp",
       "horarioProgramado": "12:20",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-18T15:20:11.391Z"
     },
     {
       "posicao": 23,
