@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-18T18:44:33.411Z",
-  "exportedAt": "18/08/2026, 15:44:33",
+  "lastExport": "2026-08-18T18:54:17.455Z",
+  "exportedAt": "18/08/2026, 15:54:17",
   "total": 100,
-  "pendentes": 54,
-  "postados": 46,
+  "pendentes": 53,
+  "postados": 47,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -802,10 +802,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_838768-MLB106591802406_022026-AB--cabo-starlink-12v24v-mini-plug-dc-veicular-carregador-2m.webp",
       "horarioProgramado": "15:49",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-18T18:49:11.527Z"
     },
     {
       "posicao": 48,
