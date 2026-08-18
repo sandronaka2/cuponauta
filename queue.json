@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-18T16:14:33.131Z",
-  "exportedAt": "18/08/2026, 13:14:33",
+  "lastExport": "2026-08-18T16:24:33.120Z",
+  "exportedAt": "18/08/2026, 13:24:33",
   "total": 100,
-  "pendentes": 71,
-  "postados": 29,
+  "pendentes": 69,
+  "postados": 31,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -513,10 +513,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_834606-MLB109279523400_042026-AB--mocassim-feminino-loafer-casual-vizzano.webp",
       "horarioProgramado": "13:15",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-18T16:15:12.420Z"
     },
     {
       "posicao": 31,
@@ -530,10 +530,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_849020-CBT112984348052_072026-AB--fone-bluetooth-tws-clip-com-brincos.webp",
       "horarioProgramado": "13:21",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-18T16:21:26.003Z"
     },
     {
       "posicao": 32,
