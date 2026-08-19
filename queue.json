@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-19T00:34:48.049Z",
-  "exportedAt": "18/08/2026, 21:34:48",
+  "lastExport": "2026-08-19T00:44:47.977Z",
+  "exportedAt": "18/08/2026, 21:44:47",
   "total": 100,
-  "pendentes": 5,
-  "postados": 95,
+  "pendentes": 4,
+  "postados": 96,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -1635,10 +1635,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_941748-MLA99933256895_112025-AB.webp",
       "horarioProgramado": "21:39",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-19T00:39:19.439Z"
     },
     {
       "posicao": 97,
