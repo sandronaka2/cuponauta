@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-19T16:31:36.504Z",
-  "exportedAt": "19/08/2026, 13:31:36",
+  "lastExport": "2026-08-19T16:41:36.450Z",
+  "exportedAt": "19/08/2026, 13:41:36",
   "total": 100,
-  "pendentes": 68,
-  "postados": 32,
+  "pendentes": 66,
+  "postados": 34,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -564,10 +564,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_657116-MLA115437427043_082026-AB.webp",
       "horarioProgramado": "13:33",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-19T16:33:42.087Z"
     },
     {
       "posicao": 34,
@@ -581,10 +581,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_748717-MLA100687251372_122025-AB--tenis-masculino-goya-3-mizuno.webp",
       "horarioProgramado": "13:40",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-19T16:40:38.469Z"
     },
     {
       "posicao": 35,
