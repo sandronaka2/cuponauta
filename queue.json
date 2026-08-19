@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-19T17:54:59.801Z",
-  "exportedAt": "19/08/2026, 14:54:59",
+  "lastExport": "2026-08-19T18:01:36.600Z",
+  "exportedAt": "19/08/2026, 15:01:36",
   "total": 100,
-  "pendentes": 58,
-  "postados": 42,
+  "pendentes": 57,
+  "postados": 43,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -734,10 +734,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_758819-MLB82785016095_022025-AB--tenis-esportivo-masculino-voa-2-olympikus.webp",
       "horarioProgramado": "14:58",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-19T17:58:21.940Z"
     },
     {
       "posicao": 44,
