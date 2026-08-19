@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-19T15:21:36.341Z",
-  "exportedAt": "19/08/2026, 12:21:36",
+  "lastExport": "2026-08-19T15:31:36.375Z",
+  "exportedAt": "19/08/2026, 12:31:36",
   "total": 100,
-  "pendentes": 79,
-  "postados": 21,
+  "pendentes": 77,
+  "postados": 23,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -377,10 +377,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_714997-MLB114942735299_072026-AB--smartwatch-feminino-aurafit-am23-tela-132-douradochampanhe.webp",
       "horarioProgramado": "12:24",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-19T15:24:10.723Z"
     },
     {
       "posicao": 23,
@@ -394,10 +394,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_769989-MLB115156851725_072026-AB--kit-4-shorts-treino-academia-dry-fit-esportiva-casual-leve.webp",
       "horarioProgramado": "12:30",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-19T15:30:18.346Z"
     },
     {
       "posicao": 24,
