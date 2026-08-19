@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-19T14:41:36.316Z",
-  "exportedAt": "19/08/2026, 11:41:36",
+  "lastExport": "2026-08-19T14:51:36.325Z",
+  "exportedAt": "19/08/2026, 11:51:36",
   "total": 100,
-  "pendentes": 84,
-  "postados": 16,
+  "pendentes": 83,
+  "postados": 17,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -292,10 +292,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_855365-MLB95050151929_102025-AB--gloss-fran-by-franciny-ehlke-liphoney-mel.webp",
       "horarioProgramado": "11:47",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-19T14:47:10.337Z"
     },
     {
       "posicao": 18,
