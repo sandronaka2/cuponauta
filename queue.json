@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-19T00:45:11.415Z",
-  "exportedAt": "18/08/2026, 21:45:11",
+  "lastExport": "2026-08-19T01:06:01.950Z",
+  "exportedAt": "18/08/2026, 22:06:01",
   "total": 100,
-  "pendentes": 3,
-  "postados": 97,
+  "pendentes": 0,
+  "postados": 100,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -1669,10 +1669,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_932445-CBT114886442293_072026-AB--ventilador-turbo-portatil-recarregavel-de-199-velocidades-co.webp",
       "horarioProgramado": "21:49",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-19T00:49:31.377Z"
     },
     {
       "posicao": 99,
@@ -1686,10 +1686,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_633535-MLA98780126119_112025-AB.webp",
       "horarioProgramado": "21:55",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-19T00:55:29.368Z"
     },
     {
       "posicao": 100,
@@ -1703,10 +1703,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_624774-MLA84175736382_052025-AB.webp",
       "horarioProgramado": "21:58",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-19T00:58:21.536Z"
     }
   ]
 }
