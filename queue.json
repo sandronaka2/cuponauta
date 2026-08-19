@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-19T20:55:06.784Z",
-  "exportedAt": "19/08/2026, 17:55:06",
+  "lastExport": "2026-08-19T21:01:36.942Z",
+  "exportedAt": "19/08/2026, 18:01:36",
   "total": 100,
-  "pendentes": 43,
-  "postados": 57,
+  "pendentes": 41,
+  "postados": 59,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -989,10 +989,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_629579-MLB113041802249_062026-AB--tenis-olympikus-masculino-veloz-3-nuevo-144.webp",
       "horarioProgramado": "17:58",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-19T20:58:13.425Z"
     },
     {
       "posicao": 59,
@@ -1006,10 +1006,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_677536-MLA84847527505_052025-AB.webp",
       "horarioProgramado": "18:01",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-19T21:01:14.236Z"
     },
     {
       "posicao": 60,
