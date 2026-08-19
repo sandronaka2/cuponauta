@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-19T16:11:36.440Z",
-  "exportedAt": "19/08/2026, 13:11:36",
+  "lastExport": "2026-08-19T16:21:36.424Z",
+  "exportedAt": "19/08/2026, 13:21:36",
   "total": 100,
-  "pendentes": 71,
-  "postados": 29,
+  "pendentes": 70,
+  "postados": 30,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -513,10 +513,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_733465-MLB113614252528_072026-AB--50ml-sos-antienvelhecimento-serum-facial-produtos-creme.webp",
       "horarioProgramado": "13:14",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-19T16:14:32.054Z"
     },
     {
       "posicao": 31,
