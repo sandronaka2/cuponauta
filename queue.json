@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-19T14:54:52.876Z",
-  "exportedAt": "19/08/2026, 11:54:52",
+  "lastExport": "2026-08-19T15:01:36.330Z",
+  "exportedAt": "19/08/2026, 12:01:36",
   "total": 100,
-  "pendentes": 83,
-  "postados": 17,
+  "pendentes": 81,
+  "postados": 19,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -309,10 +309,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_722020-MLB114894202406_082026-AB--kit-5-cuecas-box-boxer-infantil-algodao-menino-crianca-murys.webp",
       "horarioProgramado": "11:58",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-19T14:58:33.845Z"
     },
     {
       "posicao": 19,
@@ -326,10 +326,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_711612-MLA107443099267_022026-AB.webp",
       "horarioProgramado": "12:01",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-19T15:01:19.508Z"
     },
     {
       "posicao": 20,
