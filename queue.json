@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-19T13:21:36.276Z",
-  "exportedAt": "19/08/2026, 10:21:36",
+  "lastExport": "2026-08-19T13:31:36.284Z",
+  "exportedAt": "19/08/2026, 10:31:36",
   "total": 100,
-  "pendentes": 92,
-  "postados": 8,
+  "pendentes": 91,
+  "postados": 9,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -156,10 +156,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_811415-MLB109873271208_042026-AB--sueter-inverno-masculino-canelado-poliester-algodao-premium.webp",
       "horarioProgramado": "10:23",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-19T13:23:08.507Z"
     },
     {
       "posicao": 10,
