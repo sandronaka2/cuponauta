@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-19T16:21:36.424Z",
-  "exportedAt": "19/08/2026, 13:21:36",
+  "lastExport": "2026-08-19T16:31:36.504Z",
+  "exportedAt": "19/08/2026, 13:31:36",
   "total": 100,
-  "pendentes": 70,
-  "postados": 30,
+  "pendentes": 68,
+  "postados": 32,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -530,10 +530,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_802576-MLB107634412211_022026-AB--refletor-led-100w-200w-300w-holofote-prova-dagua.webp",
       "horarioProgramado": "13:21",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-19T16:21:40.433Z"
     },
     {
       "posicao": 32,
@@ -547,10 +547,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_886370-MLB114894207764_082026-AB--kit-5-cuecas-boxer-infantil-algodao-menino-crianca-juvenil.webp",
       "horarioProgramado": "13:27",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-19T16:27:41.125Z"
     },
     {
       "posicao": 33,
