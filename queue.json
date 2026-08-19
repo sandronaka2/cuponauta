@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-19T17:31:36.517Z",
-  "exportedAt": "19/08/2026, 14:31:36",
+  "lastExport": "2026-08-19T17:41:36.567Z",
+  "exportedAt": "19/08/2026, 14:41:36",
   "total": 100,
-  "pendentes": 60,
-  "postados": 40,
+  "pendentes": 59,
+  "postados": 41,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -700,10 +700,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_679849-MLB93634160940_102025-AB--po-translucido-hd-dailus-toque-aveludado-alta-cobertura.webp",
       "horarioProgramado": "14:35",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-19T17:35:42.982Z"
     },
     {
       "posicao": 42,
