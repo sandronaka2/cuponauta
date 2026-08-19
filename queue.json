@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-19T12:54:48.181Z",
-  "exportedAt": "19/08/2026, 09:54:48",
+  "lastExport": "2026-08-19T13:01:36.236Z",
+  "exportedAt": "19/08/2026, 10:01:36",
   "total": 100,
-  "pendentes": 95,
-  "postados": 5,
+  "pendentes": 93,
+  "postados": 7,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -105,10 +105,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_731611-MLA104867288743_012026-AB.webp",
       "horarioProgramado": "09:56",
       "janela": "09:00-10:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-19T12:56:45.715Z"
     },
     {
       "posicao": 7,
@@ -122,10 +122,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_822373-MLB112604638889_062026-AB--localizador-3-cm-tag-rastreador-para-criancas-pet-e-objetos.webp",
       "horarioProgramado": "10:01",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-19T13:01:25.968Z"
     },
     {
       "posicao": 8,
