@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-19T17:21:36.548Z",
-  "exportedAt": "19/08/2026, 14:21:36",
+  "lastExport": "2026-08-19T17:31:36.517Z",
+  "exportedAt": "19/08/2026, 14:31:36",
   "total": 100,
-  "pendentes": 61,
-  "postados": 39,
+  "pendentes": 60,
+  "postados": 40,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -683,10 +683,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_702116-MLB110867838074_052026-AB--presente-namorada-15-porta-pefume-5-ml-decanter-recarregavel.webp",
       "horarioProgramado": "14:23",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-19T17:23:28.326Z"
     },
     {
       "posicao": 41,
