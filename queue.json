@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-20T16:55:31.800Z",
-  "exportedAt": "20/08/2026, 13:55:31",
+  "lastExport": "2026-08-20T17:11:37.960Z",
+  "exportedAt": "20/08/2026, 14:11:37",
   "total": 100,
-  "pendentes": 64,
-  "postados": 36,
+  "pendentes": 61,
+  "postados": 39,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -632,10 +632,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_910370-MLB110075937964_042026-AB--kit-2-cuecas-boxer-cotton-intense-power-calvin-klein.webp",
       "horarioProgramado": "13:58",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-20T16:58:20.529Z"
     },
     {
       "posicao": 38,
@@ -649,10 +649,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_787028-MLA101310333492_122025-AB--legging-mizuno-essence-f.webp",
       "horarioProgramado": "14:01",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-20T17:01:30.296Z"
     },
     {
       "posicao": 39,
@@ -666,10 +666,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_830947-CBT112414101306_062026-AB.webp",
       "horarioProgramado": "14:11",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-20T17:11:24.313Z"
     },
     {
       "posicao": 40,
