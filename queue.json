@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-20T13:21:37.701Z",
-  "exportedAt": "20/08/2026, 10:21:37",
+  "lastExport": "2026-08-20T13:31:37.816Z",
+  "exportedAt": "20/08/2026, 10:31:37",
   "total": 100,
-  "pendentes": 92,
-  "postados": 8,
+  "pendentes": 91,
+  "postados": 9,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -156,10 +156,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_999786-MLB109854444636_042026-AB--kit-2-bermudas-masculinas-tamanhos-nobres-plus-size-lote.webp",
       "horarioProgramado": "10:23",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-20T13:23:14.542Z"
     },
     {
       "posicao": 10,
