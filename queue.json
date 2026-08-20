@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-20T12:51:37.667Z",
-  "exportedAt": "20/08/2026, 09:51:37",
+  "lastExport": "2026-08-20T13:01:37.714Z",
+  "exportedAt": "20/08/2026, 10:01:37",
   "total": 100,
-  "pendentes": 95,
-  "postados": 5,
+  "pendentes": 93,
+  "postados": 7,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -105,10 +105,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_920186-MLB111980426881_052026-AB--lancador-de-agua-pistola-arma-de-agua-jato-infantil-piscina.webp",
       "horarioProgramado": "09:57",
       "janela": "09:00-10:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-20T12:57:20.485Z"
     },
     {
       "posicao": 7,
@@ -122,10 +122,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_740614-MLB109654886607_032026-AB--refletor-led-300w-com-placa-solar-area-externa-a-bateria.webp",
       "horarioProgramado": "10:01",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-20T13:01:17.894Z"
     },
     {
       "posicao": 8,
