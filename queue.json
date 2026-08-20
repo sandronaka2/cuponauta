@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-20T00:01:37.075Z",
-  "exportedAt": "19/08/2026, 21:01:37",
+  "lastExport": "2026-08-20T00:11:37.008Z",
+  "exportedAt": "19/08/2026, 21:11:37",
   "total": 100,
-  "pendentes": 11,
-  "postados": 89,
+  "pendentes": 9,
+  "postados": 91,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -1533,10 +1533,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_784080-CBT111717958731_052026-AB--camisa-feminina-manga-longa-casual-social.webp",
       "horarioProgramado": "21:05",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-20T00:05:33.802Z"
     },
     {
       "posicao": 91,
@@ -1550,10 +1550,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_856336-MLA95708108458_102025-AB.webp",
       "horarioProgramado": "21:10",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-20T00:10:25.243Z"
     },
     {
       "posicao": 92,
