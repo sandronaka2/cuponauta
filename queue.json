@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-08-20T15:31:37.830Z",
-  "exportedAt": "20/08/2026, 12:31:37",
+  "lastExport": "2026-08-20T15:41:37.840Z",
+  "exportedAt": "20/08/2026, 12:41:37",
   "total": 100,
-  "pendentes": 77,
-  "postados": 23,
+  "pendentes": 75,
+  "postados": 25,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -411,10 +411,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_751894-MLA100687250854_122025-AB--tenis-masculino-space-6-mizuno.webp",
       "horarioProgramado": "12:32",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-20T15:32:40.344Z"
     },
     {
       "posicao": 25,
@@ -428,10 +428,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_726439-MLB102286207754_122025-AB--carregador-ps5-rapido-base-carregamento-controle-dock-forte.webp",
       "horarioProgramado": "12:38",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-08-20T15:38:30.658Z"
     },
     {
       "posicao": 26,
