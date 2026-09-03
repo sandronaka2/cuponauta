@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-03T19:11:59.645Z",
-  "exportedAt": "03/09/2026, 16:11:59",
+  "lastExport": "2026-09-03T19:21:59.574Z",
+  "exportedAt": "03/09/2026, 16:21:59",
   "total": 100,
-  "pendentes": 52,
-  "postados": 48,
+  "pendentes": 51,
+  "postados": 49,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -836,10 +836,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_984679-MLB111455330378_052026-AB--mascara-de-cilios-preto-volumizador-lashup-mari-maria-makeup.webp",
       "horarioProgramado": "16:14",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-03T19:14:14.991Z"
     },
     {
       "posicao": 50,
