@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-03T22:11:59.752Z",
-  "exportedAt": "03/09/2026, 19:11:59",
+  "lastExport": "2026-09-03T22:21:59.722Z",
+  "exportedAt": "03/09/2026, 19:21:59",
   "total": 100,
-  "pendentes": 30,
-  "postados": 70,
+  "pendentes": 28,
+  "postados": 72,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -1210,10 +1210,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_827975-CBT115864192549_082026-AB--kit-barbear-3-pecas-aparador-t-barbeador.webp",
       "horarioProgramado": "19:14",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-03T22:14:22.270Z"
     },
     {
       "posicao": 72,
@@ -1227,10 +1227,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_671107-MLB116389557737_082026-AB--fone-de-ouvido-bluetooth-54-para-iphone-premium-branco.webp",
       "horarioProgramado": "19:21",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-03T22:21:34.246Z"
     },
     {
       "posicao": 73,
