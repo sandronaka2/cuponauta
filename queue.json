@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-03T14:41:59.157Z",
-  "exportedAt": "03/09/2026, 11:41:59",
+  "lastExport": "2026-09-03T14:51:59.157Z",
+  "exportedAt": "03/09/2026, 11:51:59",
   "total": 100,
-  "pendentes": 84,
-  "postados": 16,
+  "pendentes": 83,
+  "postados": 17,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -292,10 +292,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_637360-MLB53861338294_022023-AB--kit-com-10-calcinhas-infantil-menina-cotton-miss-delrio.webp",
       "horarioProgramado": "11:48",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-03T14:48:33.054Z"
     },
     {
       "posicao": 18,
