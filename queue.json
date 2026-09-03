@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-03T17:31:59.404Z",
-  "exportedAt": "03/09/2026, 14:31:59",
+  "lastExport": "2026-09-03T17:41:59.404Z",
+  "exportedAt": "03/09/2026, 14:41:59",
   "total": 100,
-  "pendentes": 60,
-  "postados": 40,
+  "pendentes": 59,
+  "postados": 41,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -700,10 +700,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_706363-MLB82579547788_032025-AB-vestido-de-malha-premium-alto-padro-luxo-tendncia-da-moda.webp",
       "horarioProgramado": "14:37",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-03T17:37:41.223Z"
     },
     {
       "posicao": 42,
