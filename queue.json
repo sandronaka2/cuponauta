@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-03T16:11:59.320Z",
-  "exportedAt": "03/09/2026, 13:11:59",
+  "lastExport": "2026-09-03T16:21:59.352Z",
+  "exportedAt": "03/09/2026, 13:21:59",
   "total": 100,
-  "pendentes": 71,
-  "postados": 29,
+  "pendentes": 69,
+  "postados": 31,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -513,10 +513,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_609621-CBT115562174764_082026-AB--brinquedo-antiestresse-apertavel-uva-cristal.webp",
       "horarioProgramado": "13:14",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-03T16:14:18.454Z"
     },
     {
       "posicao": 31,
@@ -530,10 +530,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_843677-MLA84213371966_052025-AB--hair-skin--nails-cabelo-pele-unhas-250-cps-natures-bounty-sabor-softgels.webp",
       "horarioProgramado": "13:20",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-03T16:20:23.055Z"
     },
     {
       "posicao": 32,
