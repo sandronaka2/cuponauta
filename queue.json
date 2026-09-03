@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-03T20:41:59.620Z",
-  "exportedAt": "03/09/2026, 17:41:59",
+  "lastExport": "2026-09-03T20:51:59.630Z",
+  "exportedAt": "03/09/2026, 17:51:59",
   "total": 100,
-  "pendentes": 44,
-  "postados": 56,
+  "pendentes": 43,
+  "postados": 57,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -972,10 +972,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_749973-CBT114392095019_072026-AB-jaqueta-masculina-corta-vento-trekking-moda.webp",
       "horarioProgramado": "17:46",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-03T20:46:36.874Z"
     },
     {
       "posicao": 58,
