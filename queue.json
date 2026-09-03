@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-03T13:21:59.052Z",
-  "exportedAt": "03/09/2026, 10:21:59",
+  "lastExport": "2026-09-03T13:31:59.085Z",
+  "exportedAt": "03/09/2026, 10:31:59",
   "total": 100,
-  "pendentes": 92,
-  "postados": 8,
+  "pendentes": 91,
+  "postados": 9,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -156,10 +156,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_752472-MLA83047652386_032025-AB--fleece-feminino-glacier-full-zip-the-north-face.webp",
       "horarioProgramado": "10:22",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-03T13:22:24.642Z"
     },
     {
       "posicao": 10,
