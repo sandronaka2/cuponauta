@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-03T12:01:59.048Z",
-  "exportedAt": "03/09/2026, 09:01:59",
+  "lastExport": "2026-09-03T12:05:44.262Z",
+  "exportedAt": "03/09/2026, 09:05:44",
   "total": 100,
-  "pendentes": 100,
-  "postados": 0,
+  "pendentes": 99,
+  "postados": 1,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -20,10 +20,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_712117-MLB116526929047_082026-AB--colchao-inflavel-queen-com-c-bomba-bivolt-usb2-travesseiro.webp",
       "horarioProgramado": "09:02",
       "janela": "09:00-10:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-03T12:02:19.423Z"
     },
     {
       "posicao": 2,
