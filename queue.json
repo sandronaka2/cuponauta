@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-03T14:51:59.157Z",
-  "exportedAt": "03/09/2026, 11:51:59",
+  "lastExport": "2026-09-03T15:01:59.233Z",
+  "exportedAt": "03/09/2026, 12:01:59",
   "total": 100,
-  "pendentes": 83,
-  "postados": 17,
+  "pendentes": 81,
+  "postados": 19,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -309,10 +309,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_927988-MLA99469885866_112025-AB.webp",
       "horarioProgramado": "11:58",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-03T14:58:17.626Z"
     },
     {
       "posicao": 19,
@@ -326,10 +326,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_757223-MLB113663680619_062026-AB-kit-whey-protein-isolado-creatina-pre-treino-shaker.webp",
       "horarioProgramado": "12:01",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-03T15:01:13.524Z"
     },
     {
       "posicao": 20,
