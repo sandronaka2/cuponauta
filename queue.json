@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-03T22:31:59.720Z",
-  "exportedAt": "03/09/2026, 19:31:59",
+  "lastExport": "2026-09-03T22:41:59.752Z",
+  "exportedAt": "03/09/2026, 19:41:59",
   "total": 100,
-  "pendentes": 27,
-  "postados": 73,
+  "pendentes": 25,
+  "postados": 75,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -1261,10 +1261,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_763661-CBT114407495573_072026-AB--blusa-feminina-manga-longa-soltinha-social.webp",
       "horarioProgramado": "19:33",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-03T22:33:08.310Z"
     },
     {
       "posicao": 75,
@@ -1278,10 +1278,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_960853-MLA105957677466_022026-AB.webp",
       "horarioProgramado": "19:39",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-03T22:39:15.908Z"
     },
     {
       "posicao": 76,
