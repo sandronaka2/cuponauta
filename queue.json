@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-03T18:01:59.552Z",
-  "exportedAt": "03/09/2026, 15:01:59",
+  "lastExport": "2026-09-03T18:05:52.539Z",
+  "exportedAt": "03/09/2026, 15:05:52",
   "total": 100,
-  "pendentes": 58,
-  "postados": 42,
+  "pendentes": 57,
+  "postados": 43,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -734,10 +734,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_812243-MLB114500556353_072026-AB-sandalia-infantil-molekinha-menina-strass-leve-confortavel.webp",
       "horarioProgramado": "15:02",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-03T18:02:52.947Z"
     },
     {
       "posicao": 44,
