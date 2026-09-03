@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-03T12:21:58.936Z",
-  "exportedAt": "03/09/2026, 09:21:58",
+  "lastExport": "2026-09-03T12:31:58.948Z",
+  "exportedAt": "03/09/2026, 09:31:58",
   "total": 100,
-  "pendentes": 98,
-  "postados": 2,
+  "pendentes": 97,
+  "postados": 3,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -54,10 +54,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_694319-MLB111406010716_052026-AB--jaqueta-the-north-face-feminina-junction-insulated-88tg.webp",
       "horarioProgramado": "09:26",
       "janela": "09:00-10:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-03T12:26:19.630Z"
     },
     {
       "posicao": 4,
