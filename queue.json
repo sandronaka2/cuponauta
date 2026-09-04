@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-04T00:06:10.974Z",
-  "exportedAt": "03/09/2026, 21:06:10",
+  "lastExport": "2026-09-04T00:11:59.867Z",
+  "exportedAt": "03/09/2026, 21:11:59",
   "total": 100,
-  "pendentes": 11,
-  "postados": 89,
+  "pendentes": 9,
+  "postados": 91,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -1533,10 +1533,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_698506-MLB95963746569_102025-AB--meia-masculina-1802-34-de-compressao-kendall.webp",
       "horarioProgramado": "21:06",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-04T00:06:29.228Z"
     },
     {
       "posicao": 91,
@@ -1550,10 +1550,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_683656-MLA91549667162_092025-AB--jaqueta-feminina-antora-rain-the-north-face.webp",
       "horarioProgramado": "21:11",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-04T00:11:36.105Z"
     },
     {
       "posicao": 92,
