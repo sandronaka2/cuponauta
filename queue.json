@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-04T18:32:24.192Z",
-  "exportedAt": "04/09/2026, 15:32:24",
+  "lastExport": "2026-09-04T18:42:24.205Z",
+  "exportedAt": "04/09/2026, 15:42:24",
   "total": 100,
-  "pendentes": 55,
-  "postados": 45,
+  "pendentes": 54,
+  "postados": 46,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -785,10 +785,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_920071-MLB110045932532_042026-AB--tenis-de-corrida-feminino-questar-4-adidas.webp",
       "horarioProgramado": "15:39",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-04T18:39:25.518Z"
     },
     {
       "posicao": 47,
