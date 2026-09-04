@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-04T16:42:24.002Z",
-  "exportedAt": "04/09/2026, 13:42:24",
+  "lastExport": "2026-09-04T16:52:24.148Z",
+  "exportedAt": "04/09/2026, 13:52:24",
   "total": 100,
-  "pendentes": 66,
-  "postados": 34,
+  "pendentes": 65,
+  "postados": 35,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -598,10 +598,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_962331-MLB107515644375_022026-AB--lampada-decorativa-filamento-de-led-globo-g804w-ambar-quente.webp",
       "horarioProgramado": "13:48",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-04T16:48:24.983Z"
     },
     {
       "posicao": 36,
