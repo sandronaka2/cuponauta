@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-04T21:22:24.369Z",
-  "exportedAt": "04/09/2026, 18:22:24",
+  "lastExport": "2026-09-04T21:32:24.396Z",
+  "exportedAt": "04/09/2026, 18:32:24",
   "total": 100,
-  "pendentes": 38,
-  "postados": 62,
+  "pendentes": 36,
+  "postados": 64,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -1074,10 +1074,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_619826-MLB113888856850_072026-AB--kit-3-calcinhas-tanga-delrio-feminino-52509k80.webp",
       "horarioProgramado": "18:25",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-04T21:25:26.923Z"
     },
     {
       "posicao": 64,
@@ -1091,10 +1091,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_825916-MLA104887242939_012026-AB.webp",
       "horarioProgramado": "18:31",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-04T21:31:23.907Z"
     },
     {
       "posicao": 65,
