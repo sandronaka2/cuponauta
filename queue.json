@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-04T21:12:24.356Z",
-  "exportedAt": "04/09/2026, 18:12:24",
+  "lastExport": "2026-09-04T21:22:24.369Z",
+  "exportedAt": "04/09/2026, 18:22:24",
   "total": 100,
-  "pendentes": 40,
-  "postados": 60,
+  "pendentes": 38,
+  "postados": 62,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -1040,10 +1040,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_759757-MLA93093060657_092025-AB--kit-4-cuecas-boxer-sem-costura-algodao-zorba.webp",
       "horarioProgramado": "18:13",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-04T21:13:15.820Z"
     },
     {
       "posicao": 62,
@@ -1057,10 +1057,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_869504-MLB116497826553_082026-AB--jaqueta-de-corrida-masculina-adizero-essentials-adidas.webp",
       "horarioProgramado": "18:19",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-04T21:19:14.979Z"
     },
     {
       "posicao": 63,
