@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-04T16:12:23.965Z",
-  "exportedAt": "04/09/2026, 13:12:23",
+  "lastExport": "2026-09-04T16:22:23.970Z",
+  "exportedAt": "04/09/2026, 13:22:23",
   "total": 100,
-  "pendentes": 71,
-  "postados": 29,
+  "pendentes": 69,
+  "postados": 31,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -513,10 +513,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_854354-MLB108773508488_032026-AB--projetor-portatil-ac1085-13000lm-4k-full-hd-dongle-gtv.webp",
       "horarioProgramado": "13:12",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-04T16:12:40.977Z"
     },
     {
       "posicao": 31,
@@ -530,10 +530,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_702426-MLA98781855471_112025-AB.webp",
       "horarioProgramado": "13:20",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-04T16:20:36.488Z"
     },
     {
       "posicao": 32,
