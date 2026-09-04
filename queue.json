@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-04T14:52:23.980Z",
-  "exportedAt": "04/09/2026, 11:52:23",
+  "lastExport": "2026-09-04T15:02:23.886Z",
+  "exportedAt": "04/09/2026, 12:02:23",
   "total": 100,
-  "pendentes": 83,
-  "postados": 17,
+  "pendentes": 82,
+  "postados": 18,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -309,10 +309,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_944367-MLB113148209841_062026-AB--agasalho-adidas-feminino-jd5435.webp",
       "horarioProgramado": "11:58",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-04T14:58:23.321Z"
     },
     {
       "posicao": 19,
