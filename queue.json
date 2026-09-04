@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-04T00:41:59.870Z",
-  "exportedAt": "03/09/2026, 21:41:59",
+  "lastExport": "2026-09-04T00:51:59.879Z",
+  "exportedAt": "03/09/2026, 21:51:59",
   "total": 100,
-  "pendentes": 4,
-  "postados": 96,
+  "pendentes": 2,
+  "postados": 98,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -1652,10 +1652,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_830781-MLB75888245143_042024-AB--meia-34-alta-compressao-2030-mmhg-sem-ponteira-kendall.webp",
       "horarioProgramado": "21:43",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-04T00:43:35.383Z"
     },
     {
       "posicao": 98,
@@ -1669,10 +1669,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_848768-CBT112934631946_072026-AB--jaqueta-masculina-acolchoada-com-capuz-ziper-e-bolsos.webp",
       "horarioProgramado": "21:49",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-04T00:49:28.501Z"
     },
     {
       "posicao": 99,
