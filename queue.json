@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-04T18:22:24.160Z",
-  "exportedAt": "04/09/2026, 15:22:24",
+  "lastExport": "2026-09-04T18:32:24.192Z",
+  "exportedAt": "04/09/2026, 15:32:24",
   "total": 100,
-  "pendentes": 56,
-  "postados": 44,
+  "pendentes": 55,
+  "postados": 45,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -768,10 +768,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_629775-MLB116867132961_082026-AB--2-repelente-eletronico-anti-pombos-ratos-e-morcegos-byepest.webp",
       "horarioProgramado": "15:27",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-04T18:27:18.101Z"
     },
     {
       "posicao": 46,
