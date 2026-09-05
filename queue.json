@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-05T14:52:25.540Z",
-  "exportedAt": "05/09/2026, 11:52:25",
+  "lastExport": "2026-09-05T15:02:25.707Z",
+  "exportedAt": "05/09/2026, 12:02:25",
   "total": 100,
-  "pendentes": 83,
-  "postados": 17,
+  "pendentes": 81,
+  "postados": 19,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -309,10 +309,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_754138-MLB110437827195_042026-AB--scarpin-vizzano-feminino-11841716.webp",
       "horarioProgramado": "11:58",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-05T14:58:18.989Z"
     },
     {
       "posicao": 19,
@@ -326,10 +326,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_912254-CBT111673812417_052026-AB--batom-liquido-matte-longa-duracao-dunuf.webp",
       "horarioProgramado": "12:01",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-05T15:01:38.929Z"
     },
     {
       "posicao": 20,
