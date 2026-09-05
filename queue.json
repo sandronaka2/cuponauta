@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-05T19:32:25.860Z",
-  "exportedAt": "05/09/2026, 16:32:25",
+  "lastExport": "2026-09-05T19:42:25.851Z",
+  "exportedAt": "05/09/2026, 16:42:25",
   "total": 100,
-  "pendentes": 50,
-  "postados": 50,
+  "pendentes": 49,
+  "postados": 51,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -870,10 +870,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_952057-MLB113663572385_062026-AB--fone-de-ouvido-bluetooth-54-estereo-para-iphone-e-android.webp",
       "horarioProgramado": "16:36",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-05T19:36:10.061Z"
     },
     {
       "posicao": 52,
