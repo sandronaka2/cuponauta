@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-05T19:52:25.883Z",
-  "exportedAt": "05/09/2026, 16:52:25",
+  "lastExport": "2026-09-05T20:02:25.967Z",
+  "exportedAt": "05/09/2026, 17:02:25",
   "total": 100,
-  "pendentes": 48,
-  "postados": 52,
+  "pendentes": 47,
+  "postados": 53,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -904,10 +904,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_742701-MLB105123753019_012026-AB-fone-de-ouvido-bluetooth-ipx4-reduco-de-ruido-premium.webp",
       "horarioProgramado": "16:59",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-05T19:59:29.553Z"
     },
     {
       "posicao": 54,
