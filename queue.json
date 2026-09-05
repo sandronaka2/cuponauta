@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-05T13:12:25.475Z",
-  "exportedAt": "05/09/2026, 10:12:25",
+  "lastExport": "2026-09-05T13:22:25.482Z",
+  "exportedAt": "05/09/2026, 10:22:25",
   "total": 100,
-  "pendentes": 93,
-  "postados": 7,
+  "pendentes": 92,
+  "postados": 8,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -139,10 +139,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_897493-MLB112013730462_062026-AB-tnis-masculino-feminino-kappa-park-20-original.webp",
       "horarioProgramado": "10:12",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-05T13:12:38.234Z"
     },
     {
       "posicao": 9,
