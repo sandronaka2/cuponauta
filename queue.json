@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-05T22:12:26.078Z",
-  "exportedAt": "05/09/2026, 19:12:26",
+  "lastExport": "2026-09-05T22:22:26.099Z",
+  "exportedAt": "05/09/2026, 19:22:26",
   "total": 100,
-  "pendentes": 30,
-  "postados": 70,
+  "pendentes": 28,
+  "postados": 72,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -1210,10 +1210,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_923005-MLB108043102146_032026-AB--cabo-isqueiro-veicular-starlink-mini-12v-24v-carro-barco.webp",
       "horarioProgramado": "19:15",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-05T22:15:10.858Z"
     },
     {
       "posicao": 72,
@@ -1227,10 +1227,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_973849-MLB116041044999_082026-AB--fone-de-ouvido-tws-bluetooth-preto.webp",
       "horarioProgramado": "19:21",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-05T22:21:50.404Z"
     },
     {
       "posicao": 73,
