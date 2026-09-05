@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-05T14:02:25.498Z",
-  "exportedAt": "05/09/2026, 11:02:25",
+  "lastExport": "2026-09-05T14:07:32.045Z",
+  "exportedAt": "05/09/2026, 11:07:32",
   "total": 100,
-  "pendentes": 88,
-  "postados": 12,
+  "pendentes": 87,
+  "postados": 13,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -224,10 +224,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_975812-CBT114565549955_072026-AB--conjunto-infantil-3-pecas-cropped-saia-plissada.webp",
       "horarioProgramado": "11:07",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-05T14:07:06.975Z"
     },
     {
       "posicao": 14,
