@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-05T15:32:25.583Z",
-  "exportedAt": "05/09/2026, 12:32:25",
+  "lastExport": "2026-09-05T15:42:25.600Z",
+  "exportedAt": "05/09/2026, 12:42:25",
   "total": 100,
-  "pendentes": 76,
-  "postados": 24,
+  "pendentes": 75,
+  "postados": 25,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -428,10 +428,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_741106-MLB108083694343_032026-AB--kit-com-10-calcinhas-tipo-biquini-em-algodao-feminina-delrio.webp",
       "horarioProgramado": "12:38",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-05T15:38:28.612Z"
     },
     {
       "posicao": 26,
