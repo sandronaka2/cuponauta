@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-05T15:07:36.055Z",
-  "exportedAt": "05/09/2026, 12:07:36",
+  "lastExport": "2026-09-05T15:12:25.563Z",
+  "exportedAt": "05/09/2026, 12:12:25",
   "total": 100,
-  "pendentes": 80,
-  "postados": 20,
+  "pendentes": 79,
+  "postados": 21,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -360,10 +360,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_600313-MLB108967468682_032026-AB--kit-com-10-cuecas-slip-100-algodao-zorba-lisa.webp",
       "horarioProgramado": "12:12",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-05T15:12:25.293Z"
     },
     {
       "posicao": 22,
