@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-05T15:22:25.701Z",
-  "exportedAt": "05/09/2026, 12:22:25",
+  "lastExport": "2026-09-05T15:32:25.583Z",
+  "exportedAt": "05/09/2026, 12:32:25",
   "total": 100,
-  "pendentes": 78,
-  "postados": 22,
+  "pendentes": 76,
+  "postados": 24,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -394,10 +394,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_648055-MLB110179167467_042026-AB--mascara-incolor-fortalecedora-game-on-ruby-rose-3-unidades.webp",
       "horarioProgramado": "12:25",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-05T15:25:32.664Z"
     },
     {
       "posicao": 24,
@@ -411,10 +411,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_923384-CBT111381081223_052026-AB--sueter-tricot-decote-v-manga-vazada-feminino.webp",
       "horarioProgramado": "12:31",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-05T15:31:36.179Z"
     },
     {
       "posicao": 25,
