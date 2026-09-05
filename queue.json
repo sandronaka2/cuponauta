@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-05T16:22:25.648Z",
-  "exportedAt": "05/09/2026, 13:22:25",
+  "lastExport": "2026-09-05T16:32:25.670Z",
+  "exportedAt": "05/09/2026, 13:32:25",
   "total": 100,
-  "pendentes": 69,
-  "postados": 31,
+  "pendentes": 68,
+  "postados": 32,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -547,10 +547,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_835610-MLB111924697140_062026-AB--tenis-masculino-wave-falcon-5-mizuno.webp",
       "horarioProgramado": "13:27",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-05T16:27:37.108Z"
     },
     {
       "posicao": 33,
