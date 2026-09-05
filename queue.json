@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-05T00:02:24.825Z",
-  "exportedAt": "04/09/2026, 21:02:24",
+  "lastExport": "2026-09-05T00:07:09.489Z",
+  "exportedAt": "04/09/2026, 21:07:09",
   "total": 100,
-  "pendentes": 11,
-  "postados": 89,
+  "pendentes": 10,
+  "postados": 90,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -1533,10 +1533,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_638699-MLA92215267203_092025-AB--fleece-masculino-glacier-full-zip-com-capuz-the-north-face.webp",
       "horarioProgramado": "21:05",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-05T00:05:23.970Z"
     },
     {
       "posicao": 91,
