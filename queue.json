@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-05T00:42:24.717Z",
-  "exportedAt": "04/09/2026, 21:42:24",
+  "lastExport": "2026-09-05T00:52:24.708Z",
+  "exportedAt": "04/09/2026, 21:52:24",
   "total": 100,
-  "pendentes": 4,
-  "postados": 96,
+  "pendentes": 2,
+  "postados": 98,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -1652,10 +1652,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_876243-MLB97609594392_112025-AB--kit-6-pares-de-meia-cano-longo-listra-masculino-mash.webp",
       "horarioProgramado": "21:43",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-05T00:43:18.901Z"
     },
     {
       "posicao": 98,
@@ -1669,10 +1669,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_684415-CBT113946736468_072026-AB.webp",
       "horarioProgramado": "21:49",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-05T00:49:24.488Z"
     },
     {
       "posicao": 99,
