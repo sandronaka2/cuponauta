@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-05T00:52:24.708Z",
-  "exportedAt": "04/09/2026, 21:52:24",
+  "lastExport": "2026-09-05T01:02:25.099Z",
+  "exportedAt": "04/09/2026, 22:02:25",
   "total": 100,
-  "pendentes": 2,
-  "postados": 98,
+  "pendentes": 0,
+  "postados": 100,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -1686,10 +1686,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_762172-MLB113864141483_062026-AB--kit-presente-feminino--conj-pijama-p-mulher--embalagem.webp",
       "horarioProgramado": "21:55",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-05T00:55:19.870Z"
     },
     {
       "posicao": 100,
@@ -1703,10 +1703,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_627545-CBT110146669097_042026-AB-vestido-elegante-2025-novo-e-sofisticado.webp",
       "horarioProgramado": "21:58",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-05T00:58:30.069Z"
     }
   ]
 }
