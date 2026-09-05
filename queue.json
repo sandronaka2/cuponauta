@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-05T19:22:25.916Z",
-  "exportedAt": "05/09/2026, 16:22:25",
+  "lastExport": "2026-09-05T19:32:25.860Z",
+  "exportedAt": "05/09/2026, 16:32:25",
   "total": 100,
-  "pendentes": 51,
-  "postados": 49,
+  "pendentes": 50,
+  "postados": 50,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -853,10 +853,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_805584-CBT116009921733_082026-AB--kit-5-pinceis-silicone-ponta-dupla-para-unhas.webp",
       "horarioProgramado": "16:23",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-05T19:23:40.605Z"
     },
     {
       "posicao": 51,
