@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-06T15:08:16.013Z",
-  "exportedAt": "06/09/2026, 12:08:16",
+  "lastExport": "2026-09-06T15:19:18.237Z",
+  "exportedAt": "06/09/2026, 12:19:18",
   "total": 100,
-  "pendentes": 80,
-  "postados": 20,
+  "pendentes": 79,
+  "postados": 21,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -360,10 +360,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_691430-MLB89643382204_082025-AB--sapato-scarpin-feminino-2595401-com-salto-bloco-comfortflex.webp",
       "horarioProgramado": "12:13",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-06T15:13:19.889Z"
     },
     {
       "posicao": 22,
