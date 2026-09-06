@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-06T17:33:30.845Z",
-  "exportedAt": "06/09/2026, 14:33:30",
+  "lastExport": "2026-09-06T17:40:36.063Z",
+  "exportedAt": "06/09/2026, 14:40:36",
   "total": 100,
-  "pendentes": 60,
-  "postados": 40,
+  "pendentes": 59,
+  "postados": 41,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -700,10 +700,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_704099-MLA114355742035_072026-AB--mochila-trab-academia-faculdade-versatil-feminina-masculina.webp",
       "horarioProgramado": "14:36",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-06T17:36:35.909Z"
     },
     {
       "posicao": 42,
