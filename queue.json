@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-06T19:41:33.464Z",
-  "exportedAt": "06/09/2026, 16:41:33",
+  "lastExport": "2026-09-06T19:50:36.227Z",
+  "exportedAt": "06/09/2026, 16:50:36",
   "total": 100,
-  "pendentes": 49,
-  "postados": 51,
+  "pendentes": 48,
+  "postados": 52,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -887,10 +887,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_892348-MLB112273855473_052026-AB-top-detroit-ligna-exclusivo-ritmo.webp",
       "horarioProgramado": "16:48",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-06T19:48:11.182Z"
     },
     {
       "posicao": 53,
