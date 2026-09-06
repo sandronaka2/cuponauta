@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-06T23:20:48.360Z",
-  "exportedAt": "06/09/2026, 20:20:48",
+  "lastExport": "2026-09-06T23:29:44.179Z",
+  "exportedAt": "06/09/2026, 20:29:44",
   "total": 100,
-  "pendentes": 19,
-  "postados": 81,
+  "pendentes": 17,
+  "postados": 83,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -1397,10 +1397,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_702724-CBT112188056396_062026-AB.webp",
       "horarioProgramado": "20:23",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-06T23:23:10.089Z"
     },
     {
       "posicao": 83,
@@ -1414,10 +1414,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_607466-CBT113383669095_062026-AB--moletom-feminino-com-capuz-estampa-de-gatos-e-patinhas.webp",
       "horarioProgramado": "20:29",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-06T23:29:17.219Z"
     },
     {
       "posicao": 84,
