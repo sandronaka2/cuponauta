@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-06T17:12:30.510Z",
-  "exportedAt": "06/09/2026, 14:12:30",
+  "lastExport": "2026-09-06T17:20:36.004Z",
+  "exportedAt": "06/09/2026, 14:20:36",
   "total": 100,
-  "pendentes": 62,
-  "postados": 38,
+  "pendentes": 61,
+  "postados": 39,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -666,10 +666,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_983398-MLB108416144663_032026-AB--kit-com-10-calcinhas-femininas-505424-de-algodao-delrio.webp",
       "horarioProgramado": "14:12",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-06T17:12:37.129Z"
     },
     {
       "posicao": 40,
