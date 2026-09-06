@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-06T18:30:36.247Z",
-  "exportedAt": "06/09/2026, 15:30:36",
+  "lastExport": "2026-09-06T18:40:10.710Z",
+  "exportedAt": "06/09/2026, 15:40:10",
   "total": 100,
-  "pendentes": 55,
-  "postados": 45,
+  "pendentes": 54,
+  "postados": 46,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -785,10 +785,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_934591-MLB114031216602_072026-AB--rasteira-feminina-tiras-slim-com-adorno-em-metal-anacapri.webp",
       "horarioProgramado": "15:37",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-06T18:37:24.647Z"
     },
     {
       "posicao": 47,
