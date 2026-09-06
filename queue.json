@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-06T12:40:55.044Z",
-  "exportedAt": "06/09/2026, 09:40:55",
+  "lastExport": "2026-09-06T12:51:02.091Z",
+  "exportedAt": "06/09/2026, 09:51:02",
   "total": 100,
-  "pendentes": 96,
-  "postados": 4,
+  "pendentes": 95,
+  "postados": 5,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -88,10 +88,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_971935-MLB115249329030_082026-AB--scarpin-feminino-slingback-ponta-fina-anacapri.webp",
       "horarioProgramado": "09:49",
       "janela": "09:00-10:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-06T12:49:16.986Z"
     },
     {
       "posicao": 6,
