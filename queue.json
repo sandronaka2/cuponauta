@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-06T00:12:26.234Z",
-  "exportedAt": "05/09/2026, 21:12:26",
+  "lastExport": "2026-09-06T00:22:26.252Z",
+  "exportedAt": "05/09/2026, 21:22:26",
   "total": 100,
-  "pendentes": 10,
-  "postados": 90,
+  "pendentes": 8,
+  "postados": 92,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -1550,10 +1550,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_750245-MLB108966362012_032026-AB--kit-com-10-cuecas-slip-100-algodao-zorba-lisa.webp",
       "horarioProgramado": "21:13",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-06T00:13:16.209Z"
     },
     {
       "posicao": 92,
@@ -1567,10 +1567,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_922897-CBT111095349579_042026-AB--mouse-gamer-sem-fio-attack-shark-r1-18000dpi.webp",
       "horarioProgramado": "21:18",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-06T00:18:17.253Z"
     },
     {
       "posicao": 93,
