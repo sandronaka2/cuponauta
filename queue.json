@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-06T00:02:26.351Z",
-  "exportedAt": "05/09/2026, 21:02:26",
+  "lastExport": "2026-09-06T00:07:52.246Z",
+  "exportedAt": "05/09/2026, 21:07:52",
   "total": 100,
-  "pendentes": 11,
-  "postados": 89,
+  "pendentes": 10,
+  "postados": 90,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -1533,10 +1533,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_670827-MLB114039129607_072026-AB--relogio-smartwatch-aurafit-am05-tela-amoled-aco-inoxidavel.webp",
       "horarioProgramado": "21:07",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-06T00:07:17.920Z"
     },
     {
       "posicao": 91,
