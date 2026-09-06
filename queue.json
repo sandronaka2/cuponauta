@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-06T16:40:59.843Z",
-  "exportedAt": "06/09/2026, 13:40:59",
+  "lastExport": "2026-09-06T16:50:35.959Z",
+  "exportedAt": "06/09/2026, 13:50:35",
   "total": 100,
-  "pendentes": 67,
-  "postados": 33,
+  "pendentes": 65,
+  "postados": 35,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -581,10 +581,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_678651-MLB108559909826_032026-AB--kit-com-10-cuecas-boxer-com-elastico-masculina-zorba.webp",
       "horarioProgramado": "13:41",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-06T16:41:27.111Z"
     },
     {
       "posicao": 35,
@@ -598,10 +598,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_891420-MLB103983839597_012026-AB--kit-4-tops-infantil-menina-basico-cotton-delrio.webp",
       "horarioProgramado": "13:47",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-06T16:47:12.205Z"
     },
     {
       "posicao": 36,
