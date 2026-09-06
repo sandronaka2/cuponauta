@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-06T12:51:25.344Z",
-  "exportedAt": "06/09/2026, 09:51:25",
+  "lastExport": "2026-09-06T13:01:31.493Z",
+  "exportedAt": "06/09/2026, 10:01:31",
   "total": 100,
-  "pendentes": 95,
-  "postados": 5,
+  "pendentes": 93,
+  "postados": 7,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -105,10 +105,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_756555-CBT116291230753_082026-AB--porta-pao-tampa-retratil-aco-inox-cozinha.webp",
       "horarioProgramado": "09:58",
       "janela": "09:00-10:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-06T12:58:30.426Z"
     },
     {
       "posicao": 7,
@@ -122,10 +122,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_763148-MLA107518849689_022026-AB--tshirt-gola-alta--algodao-premium--do-p-ao-gg--conforto.webp",
       "horarioProgramado": "10:01",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-06T13:01:21.729Z"
     },
     {
       "posicao": 8,
