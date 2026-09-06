@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-06T16:30:36.219Z",
-  "exportedAt": "06/09/2026, 13:30:36",
+  "lastExport": "2026-09-06T16:40:35.940Z",
+  "exportedAt": "06/09/2026, 13:40:35",
   "total": 100,
-  "pendentes": 68,
-  "postados": 32,
+  "pendentes": 67,
+  "postados": 33,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -564,10 +564,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_789652-MLB111332269037_052026-AB--legging-hit-preta-essentials-moving.webp",
       "horarioProgramado": "13:34",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-06T16:34:14.117Z"
     },
     {
       "posicao": 34,
