@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-06T12:02:54.923Z",
-  "exportedAt": "06/09/2026, 09:02:54",
+  "lastExport": "2026-09-06T12:08:13.102Z",
+  "exportedAt": "06/09/2026, 09:08:13",
   "total": 100,
-  "pendentes": 100,
-  "postados": 0,
+  "pendentes": 99,
+  "postados": 1,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -20,10 +20,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_816803-MLB107481586210_032026-AB--suporte-botijao-de-gas-suspenso-parede-aco-trava-antifurto.webp",
       "horarioProgramado": "09:03",
       "janela": "09:00-10:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-06T12:03:33.682Z"
     },
     {
       "posicao": 2,
