@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-07T12:21:17.602Z",
-  "exportedAt": "07/09/2026, 09:21:17",
+  "lastExport": "2026-09-07T12:30:37.119Z",
+  "exportedAt": "07/09/2026, 09:30:37",
   "total": 100,
-  "pendentes": 98,
-  "postados": 2,
+  "pendentes": 97,
+  "postados": 3,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -54,10 +54,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_784815-CBT112420626275_052026-AB--kit-5-cabos-usb-para-usbc-6a-carregamento-rapido-e-dados.webp",
       "horarioProgramado": "09:24",
       "janela": "09:00-10:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-07T12:24:17.021Z"
     },
     {
       "posicao": 4,
