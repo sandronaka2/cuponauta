@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-07T18:31:18.029Z",
-  "exportedAt": "07/09/2026, 15:31:18",
+  "lastExport": "2026-09-07T18:40:37.578Z",
+  "exportedAt": "07/09/2026, 15:40:37",
   "total": 100,
-  "pendentes": 55,
-  "postados": 45,
+  "pendentes": 54,
+  "postados": 46,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -785,10 +785,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_839841-MLB116703442809_082026-AB--pokebola-pokemo-pikachu-transformavel-com-pokebola-brinquedo.webp",
       "horarioProgramado": "15:35",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-07T18:35:13.116Z"
     },
     {
       "posicao": 47,
