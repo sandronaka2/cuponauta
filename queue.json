@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-07T19:41:18.136Z",
-  "exportedAt": "07/09/2026, 16:41:18",
+  "lastExport": "2026-09-07T19:50:37.684Z",
+  "exportedAt": "07/09/2026, 16:50:37",
   "total": 100,
-  "pendentes": 49,
-  "postados": 51,
+  "pendentes": 48,
+  "postados": 52,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -887,10 +887,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_650401-MLB85955573574_062025-AB--brinquedo-cubo-didatico-educativo-grande-de-montar-encaixe.webp",
       "horarioProgramado": "16:46",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-07T19:46:27.663Z"
     },
     {
       "posicao": 53,
