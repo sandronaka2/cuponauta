@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-07T17:41:18.098Z",
-  "exportedAt": "07/09/2026, 14:41:18",
+  "lastExport": "2026-09-07T17:50:37.500Z",
+  "exportedAt": "07/09/2026, 14:50:37",
   "total": 100,
-  "pendentes": 59,
-  "postados": 41,
+  "pendentes": 58,
+  "postados": 42,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -717,10 +717,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_937545-MLA92681579418_092025-AB--kit-6-boxer-zorba-masculino--liso-0846.webp",
       "horarioProgramado": "14:47",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-07T17:47:12.380Z"
     },
     {
       "posicao": 43,
