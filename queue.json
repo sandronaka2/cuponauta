@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-07T13:41:17.666Z",
-  "exportedAt": "07/09/2026, 10:41:17",
+  "lastExport": "2026-09-07T13:50:37.225Z",
+  "exportedAt": "07/09/2026, 10:50:37",
   "total": 100,
-  "pendentes": 90,
-  "postados": 10,
+  "pendentes": 89,
+  "postados": 11,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -190,10 +190,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_798826-MLB117041856907_092026-AB--cabides-adulto-preto-reforcado-30-atacado-organizador-roupas.webp",
       "horarioProgramado": "10:42",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-07T13:42:09.072Z"
     },
     {
       "posicao": 12,
