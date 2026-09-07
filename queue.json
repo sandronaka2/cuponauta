@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-07T12:41:17.615Z",
-  "exportedAt": "07/09/2026, 09:41:17",
+  "lastExport": "2026-09-07T12:50:37.185Z",
+  "exportedAt": "07/09/2026, 09:50:37",
   "total": 100,
-  "pendentes": 96,
-  "postados": 4,
+  "pendentes": 95,
+  "postados": 5,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -88,10 +88,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_813454-MLB83278005235_032025-AB--kit-com-2-sutia-com-bojo-daily-conforto-trifil.webp",
       "horarioProgramado": "09:47",
       "janela": "09:00-10:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-07T12:47:32.261Z"
     },
     {
       "posicao": 6,
