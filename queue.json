@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-07T21:30:43.719Z",
-  "exportedAt": "07/09/2026, 18:30:43",
+  "lastExport": "2026-09-07T21:31:18.276Z",
+  "exportedAt": "07/09/2026, 18:31:18",
   "total": 100,
-  "pendentes": 37,
-  "postados": 63,
+  "pendentes": 36,
+  "postados": 64,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -1091,10 +1091,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_812903-MLB113732213354_072026-AB--chapeu-the-north-face-horizon-breeze-brimmer-5fx6.webp",
       "horarioProgramado": "18:31",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-07T21:31:12.114Z"
     },
     {
       "posicao": 65,
