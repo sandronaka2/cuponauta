@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-07T17:01:18.089Z",
-  "exportedAt": "07/09/2026, 14:01:18",
+  "lastExport": "2026-09-07T17:08:57.632Z",
+  "exportedAt": "07/09/2026, 14:08:57",
   "total": 100,
-  "pendentes": 63,
-  "postados": 37,
+  "pendentes": 62,
+  "postados": 38,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -649,10 +649,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_954435-MLB95565504953_102025-AB--mini-abajur-luminaria-tomada-luz-noturna-led-bivolt-decora.webp",
       "horarioProgramado": "14:01",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-07T17:01:18.243Z"
     },
     {
       "posicao": 39,
