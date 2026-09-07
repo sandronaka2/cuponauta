@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-07T21:41:18.278Z",
-  "exportedAt": "07/09/2026, 18:41:18",
+  "lastExport": "2026-09-07T21:50:37.817Z",
+  "exportedAt": "07/09/2026, 18:50:37",
   "total": 100,
-  "pendentes": 35,
-  "postados": 65,
+  "pendentes": 33,
+  "postados": 67,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -1125,10 +1125,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_900174-MLB112756572609_062026-AB--moletom-mizuno-zipper-capuz-masculino.webp",
       "horarioProgramado": "18:43",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-07T21:43:22.958Z"
     },
     {
       "posicao": 67,
@@ -1142,10 +1142,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_982571-MLB109821607311_032026-AB--kit-6-meias-trifil-cano-medio.webp",
       "horarioProgramado": "18:49",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-07T21:49:23.555Z"
     },
     {
       "posicao": 68,
