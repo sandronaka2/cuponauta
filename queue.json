@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-07T16:11:17.874Z",
-  "exportedAt": "07/09/2026, 13:11:17",
+  "lastExport": "2026-09-07T16:20:37.461Z",
+  "exportedAt": "07/09/2026, 13:20:37",
   "total": 100,
-  "pendentes": 71,
-  "postados": 29,
+  "pendentes": 69,
+  "postados": 31,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -513,10 +513,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_869624-MLB114214397633_072026-AB--sandalia-papete-feminina-duas-tiras-texas-anacapri.webp",
       "horarioProgramado": "13:14",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-07T16:14:54.923Z"
     },
     {
       "posicao": 31,
@@ -530,10 +530,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_866201-MLA107519248919_022026-AB.webp",
       "horarioProgramado": "13:20",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-07T16:20:33.453Z"
     },
     {
       "posicao": 32,
