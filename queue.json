@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-07T19:11:18.170Z",
-  "exportedAt": "07/09/2026, 16:11:18",
+  "lastExport": "2026-09-07T19:20:37.656Z",
+  "exportedAt": "07/09/2026, 16:20:37",
   "total": 100,
-  "pendentes": 51,
-  "postados": 49,
+  "pendentes": 50,
+  "postados": 50,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -853,10 +853,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_673006-CBT114729054840_082026-AB--fone-de-ouvido-bluetooth-tws-mini-com-estojo.webp",
       "horarioProgramado": "16:20",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-07T19:20:17.598Z"
     },
     {
       "posicao": 51,
