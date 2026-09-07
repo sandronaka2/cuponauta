@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-07T12:31:17.617Z",
-  "exportedAt": "07/09/2026, 09:31:17",
+  "lastExport": "2026-09-07T12:40:37.142Z",
+  "exportedAt": "07/09/2026, 09:40:37",
   "total": 100,
-  "pendentes": 97,
-  "postados": 3,
+  "pendentes": 96,
+  "postados": 4,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -71,10 +71,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_652012-MLB112460007033_052026-AB-camiseta-pontobr-100-algodo-premium-dia-a-dia-casual.webp",
       "horarioProgramado": "09:36",
       "janela": "09:00-10:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-07T12:36:23.846Z"
     },
     {
       "posicao": 5,
