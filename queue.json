@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-07T13:10:42.953Z",
-  "exportedAt": "07/09/2026, 10:10:42",
+  "lastExport": "2026-09-07T13:11:17.663Z",
+  "exportedAt": "07/09/2026, 10:11:17",
   "total": 100,
-  "pendentes": 93,
-  "postados": 7,
+  "pendentes": 92,
+  "postados": 8,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -139,10 +139,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_788870-CBT112662627868_062026-AB--moletom-masculino-com-capuz-folgado-para-esportes-de-outono.webp",
       "horarioProgramado": "10:11",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-07T13:11:12.505Z"
     },
     {
       "posicao": 9,
