@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-07T15:01:17.841Z",
-  "exportedAt": "07/09/2026, 12:01:17",
+  "lastExport": "2026-09-07T15:08:55.923Z",
+  "exportedAt": "07/09/2026, 12:08:55",
   "total": 100,
-  "pendentes": 82,
-  "postados": 18,
+  "pendentes": 80,
+  "postados": 20,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -326,10 +326,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_609621-CBT115562174764_082026-AB--brinquedo-antiestresse-apertavel-uva-cristal.webp",
       "horarioProgramado": "12:01",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-07T15:01:52.198Z"
     },
     {
       "posicao": 20,
@@ -343,10 +343,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_934996-CBT113569719993_062026-AB-aparelho-v-massageador-facial-redutor-papada-therapy-top-a.webp",
       "horarioProgramado": "12:08",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-07T15:08:19.141Z"
     },
     {
       "posicao": 21,
