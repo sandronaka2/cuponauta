@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-07T00:51:40.179Z",
-  "exportedAt": "06/09/2026, 21:51:40",
+  "lastExport": "2026-09-07T01:00:36.840Z",
+  "exportedAt": "06/09/2026, 22:00:36",
   "total": 100,
-  "pendentes": 2,
-  "postados": 98,
+  "pendentes": 0,
+  "postados": 100,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -1686,10 +1686,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_805771-MLA105102769896_012026-AB.webp",
       "horarioProgramado": "21:54",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-07T00:54:15.731Z"
     },
     {
       "posicao": 100,
@@ -1703,10 +1703,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_603984-MLB113707144087_062026-AB--acelerador-universal-para-bicicleta-eletrica-12v-24v-36v-48v.webp",
       "horarioProgramado": "21:58",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-07T00:58:26.477Z"
     }
   ]
 }
