@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-07T19:31:18.182Z",
-  "exportedAt": "07/09/2026, 16:31:18",
+  "lastExport": "2026-09-07T19:40:37.671Z",
+  "exportedAt": "07/09/2026, 16:40:37",
   "total": 100,
-  "pendentes": 50,
-  "postados": 50,
+  "pendentes": 49,
+  "postados": 51,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -870,10 +870,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_943604-MLB115340646085_072026-AB--kit-2-cuecas-boxer-zorba-masculino-689.webp",
       "horarioProgramado": "16:33",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-07T19:33:42.087Z"
     },
     {
       "posicao": 52,
