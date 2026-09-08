@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-08T12:21:19.253Z",
-  "exportedAt": "08/09/2026, 09:21:19",
+  "lastExport": "2026-09-08T12:30:38.822Z",
+  "exportedAt": "08/09/2026, 09:30:38",
   "total": 100,
-  "pendentes": 98,
-  "postados": 2,
+  "pendentes": 97,
+  "postados": 3,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -54,10 +54,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_791013-MLB78291638817_082024-AB--tenis-casual-feminino-easy-2-olympikus.webp",
       "horarioProgramado": "09:24",
       "janela": "09:00-10:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-08T12:24:36.688Z"
     },
     {
       "posicao": 4,
