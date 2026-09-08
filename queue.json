@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-08T16:11:15.852Z",
-  "exportedAt": "08/09/2026, 13:11:15",
+  "lastExport": "2026-09-08T16:20:04.053Z",
+  "exportedAt": "08/09/2026, 13:20:04",
   "total": 100,
-  "pendentes": 71,
-  "postados": 29,
+  "pendentes": 70,
+  "postados": 30,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -513,10 +513,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_700629-CBT113983238815_072026-AB--jaqueta-de-pelucia-solta-feminina-com-capuz-com-ziper.webp",
       "horarioProgramado": "13:14",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-08T16:14:20.430Z"
     },
     {
       "posicao": 31,
