@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-08T13:52:32.028Z",
-  "exportedAt": "08/09/2026, 10:52:32",
+  "lastExport": "2026-09-08T14:00:38.898Z",
+  "exportedAt": "08/09/2026, 11:00:38",
   "total": 100,
-  "pendentes": 89,
-  "postados": 11,
+  "pendentes": 88,
+  "postados": 12,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -207,10 +207,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_846176-CBT112175466329_052026-AB--pijama-feminino-em-cetim-2-pecas.webp",
       "horarioProgramado": "10:54",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-08T13:54:43.921Z"
     },
     {
       "posicao": 13,
