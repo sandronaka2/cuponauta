@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-08T16:31:15.947Z",
-  "exportedAt": "08/09/2026, 13:31:15",
+  "lastExport": "2026-09-08T16:41:03.439Z",
+  "exportedAt": "08/09/2026, 13:41:03",
   "total": 100,
-  "pendentes": 68,
-  "postados": 32,
+  "pendentes": 66,
+  "postados": 34,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -564,10 +564,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_856288-MLB105111979734_012026-AB-capa-360-para-redmi-watch-6-2025-acrilico-e-tela-vidro.webp",
       "horarioProgramado": "13:33",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-08T16:33:13.582Z"
     },
     {
       "posicao": 34,
@@ -581,10 +581,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_617095-MLB108024211415_032026-AB--fleece-feminino-glacier-full-zip-the-north-face.webp",
       "horarioProgramado": "13:40",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-08T16:40:25.934Z"
     },
     {
       "posicao": 35,
