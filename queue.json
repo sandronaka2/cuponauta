@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-08T21:11:21.207Z",
-  "exportedAt": "08/09/2026, 18:11:21",
+  "lastExport": "2026-09-08T21:20:09.632Z",
+  "exportedAt": "08/09/2026, 18:20:09",
   "total": 100,
-  "pendentes": 40,
-  "postados": 60,
+  "pendentes": 38,
+  "postados": 62,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -1040,10 +1040,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_726439-MLB102286207754_122025-AB--carregador-ps5-rapido-base-carregamento-controle-dock-forte.webp",
       "horarioProgramado": "18:13",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-08T21:13:33.561Z"
     },
     {
       "posicao": 62,
@@ -1057,10 +1057,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_642842-CBT113838869029_062026-AB--pulover-masculino-com-capuz-forrado-de-la-e-bolso-canguru.webp",
       "horarioProgramado": "18:19",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-08T21:19:22.529Z"
     },
     {
       "posicao": 63,
