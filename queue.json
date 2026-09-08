@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-08T14:10:45.945Z",
-  "exportedAt": "08/09/2026, 11:10:45",
+  "lastExport": "2026-09-08T14:20:33.979Z",
+  "exportedAt": "08/09/2026, 11:20:33",
   "total": 100,
-  "pendentes": 87,
-  "postados": 13,
+  "pendentes": 86,
+  "postados": 14,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -241,10 +241,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_672366-CBT116165077225_082026-AB--organizador-de-box-para-porta-aco-inox.webp",
       "horarioProgramado": "11:15",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-08T14:15:36.316Z"
     },
     {
       "posicao": 15,
