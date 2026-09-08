@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-08T19:31:16.022Z",
-  "exportedAt": "08/09/2026, 16:31:16",
+  "lastExport": "2026-09-08T19:41:08.528Z",
+  "exportedAt": "08/09/2026, 16:41:08",
   "total": 100,
-  "pendentes": 50,
-  "postados": 50,
+  "pendentes": 49,
+  "postados": 51,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -870,10 +870,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_873652-MLB115312702605_072026-AB--meias-kappa-kit-3-pares-sapatilha-soquete-invisivel-original.webp",
       "horarioProgramado": "16:35",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-08T19:35:11.892Z"
     },
     {
       "posicao": 52,
