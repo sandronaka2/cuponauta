@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-09T00:11:18.368Z",
-  "exportedAt": "08/09/2026, 21:11:18",
+  "lastExport": "2026-09-09T00:20:12.400Z",
+  "exportedAt": "08/09/2026, 21:20:12",
   "total": 100,
-  "pendentes": 10,
-  "postados": 90,
+  "pendentes": 8,
+  "postados": 92,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -1550,10 +1550,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_964271-CBT112659005870_062026-AB--fone-bluetooth-tws-orelha-aberta-com-estojo.webp",
       "horarioProgramado": "21:11",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-09T00:11:20.017Z"
     },
     {
       "posicao": 92,
@@ -1567,10 +1567,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_975396-MLA117326268935_092026-AB.webp",
       "horarioProgramado": "21:16",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-09T00:16:23.401Z"
     },
     {
       "posicao": 93,
