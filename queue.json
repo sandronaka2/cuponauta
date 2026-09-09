@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-09T16:03:57.835Z",
-  "exportedAt": "09/09/2026, 13:03:57",
+  "lastExport": "2026-09-09T16:13:57.847Z",
+  "exportedAt": "09/09/2026, 13:13:57",
   "total": 100,
-  "pendentes": 73,
-  "postados": 27,
+  "pendentes": 71,
+  "postados": 29,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -496,10 +496,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_666962-MLA114929887606_082026-AB.webp",
       "horarioProgramado": "13:05",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-09T16:05:25.271Z"
     },
     {
       "posicao": 30,
@@ -513,10 +513,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_996170-MLB115772266173_082026-AB--fone-bluetooth-estereo-anti-ruido-vaztros-premium.webp",
       "horarioProgramado": "13:12",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-09T16:12:47.116Z"
     },
     {
       "posicao": 31,
