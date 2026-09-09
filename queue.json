@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-09T21:13:59.842Z",
-  "exportedAt": "09/09/2026, 18:13:59",
+  "lastExport": "2026-09-09T21:23:59.828Z",
+  "exportedAt": "09/09/2026, 18:23:59",
   "total": 100,
-  "pendentes": 40,
-  "postados": 60,
+  "pendentes": 39,
+  "postados": 61,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -1057,10 +1057,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_707589-MLB115810897379_082026-AB--jaqueta-corta-vento-feminina-leve-com-capuz.webp",
       "horarioProgramado": "18:19",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-09T21:19:31.655Z"
     },
     {
       "posicao": 63,
