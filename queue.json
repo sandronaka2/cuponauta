@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-09T21:33:59.806Z",
-  "exportedAt": "09/09/2026, 18:33:59",
+  "lastExport": "2026-09-09T21:43:59.810Z",
+  "exportedAt": "09/09/2026, 18:43:59",
   "total": 100,
-  "pendentes": 37,
-  "postados": 63,
+  "pendentes": 35,
+  "postados": 65,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -1108,10 +1108,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_658200-MLB99120568646_112025-AB--kit-12-calcinhas-microfibra-tipo-biquini-trifil-basica-lisa.webp",
       "horarioProgramado": "18:37",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-09T21:37:26.222Z"
     },
     {
       "posicao": 66,
@@ -1125,10 +1125,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_998171-CBT115701247707_082026-AB.webp",
       "horarioProgramado": "18:43",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-09T21:43:45.327Z"
     },
     {
       "posicao": 67,
