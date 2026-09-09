@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-09T22:13:59.850Z",
-  "exportedAt": "09/09/2026, 19:13:59",
+  "lastExport": "2026-09-09T22:23:59.846Z",
+  "exportedAt": "09/09/2026, 19:23:59",
   "total": 100,
-  "pendentes": 31,
-  "postados": 69,
+  "pendentes": 29,
+  "postados": 71,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -1210,10 +1210,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_905968-CBT115726288928_092026-AB-relogio-masculino-aco-inoxidavel-mostrador-azul-luxo.webp",
       "horarioProgramado": "19:15",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-09T22:15:41.576Z"
     },
     {
       "posicao": 72,
@@ -1227,10 +1227,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_887906-MLB108952740937_032026-AB--kit-com-10-cuecas-boxer-com-elastico-masculina-zorba.webp",
       "horarioProgramado": "19:21",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-09T22:21:12.163Z"
     },
     {
       "posicao": 73,
