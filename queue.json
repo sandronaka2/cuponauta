@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-09T13:43:57.651Z",
-  "exportedAt": "09/09/2026, 10:43:57",
+  "lastExport": "2026-09-09T13:53:58.146Z",
+  "exportedAt": "09/09/2026, 10:53:58",
   "total": 100,
-  "pendentes": 90,
-  "postados": 10,
+  "pendentes": 89,
+  "postados": 11,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -207,10 +207,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_887906-MLB108952740937_032026-AB--kit-com-10-cuecas-boxer-com-elastico-masculina-zorba.webp",
       "horarioProgramado": "10:52",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-09T13:52:41.769Z"
     },
     {
       "posicao": 13,
