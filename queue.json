@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-09T21:03:59.756Z",
-  "exportedAt": "09/09/2026, 18:03:59",
+  "lastExport": "2026-09-09T21:13:59.842Z",
+  "exportedAt": "09/09/2026, 18:13:59",
   "total": 100,
-  "pendentes": 42,
-  "postados": 58,
+  "pendentes": 40,
+  "postados": 60,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -1023,10 +1023,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_814457-MLA106599170806_022026-AB.webp",
       "horarioProgramado": "18:06",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-09T21:06:51.520Z"
     },
     {
       "posicao": 61,
@@ -1040,10 +1040,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_715583-MLB113080394641_062026-AB--quadro-ferrari-f40-classica-veloz-c-vidro-e-moldura-preto.webp",
       "horarioProgramado": "18:13",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-09T21:13:16.349Z"
     },
     {
       "posicao": 62,
