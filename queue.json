@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-09T15:23:57.842Z",
-  "exportedAt": "09/09/2026, 12:23:57",
+  "lastExport": "2026-09-09T15:33:57.804Z",
+  "exportedAt": "09/09/2026, 12:33:57",
   "total": 100,
-  "pendentes": 79,
-  "postados": 21,
+  "pendentes": 77,
+  "postados": 23,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -394,10 +394,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_755763-MLB117067968259_092026-AB--50ml-sos-antienvelhecimento-serum-facial-produtos-creme.webp",
       "horarioProgramado": "12:26",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-09T15:26:30.318Z"
     },
     {
       "posicao": 24,
@@ -411,10 +411,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_937545-MLA92681579418_092025-AB--kit-6-boxer-zorba-masculino--liso-0846.webp",
       "horarioProgramado": "12:33",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-09T15:33:17.603Z"
     },
     {
       "posicao": 25,
