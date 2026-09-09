@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-09T13:11:10.683Z",
-  "exportedAt": "09/09/2026, 10:11:10",
+  "lastExport": "2026-09-09T13:23:51.588Z",
+  "exportedAt": "09/09/2026, 10:23:51",
   "total": 100,
-  "pendentes": 93,
-  "postados": 7,
+  "pendentes": 92,
+  "postados": 8,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -139,10 +139,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_973849-MLB116041044999_082026-AB--fone-de-ouvido-tws-bluetooth-preto.webp",
       "horarioProgramado": "10:11",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-09T13:11:16.536Z"
     },
     {
       "posicao": 9,
