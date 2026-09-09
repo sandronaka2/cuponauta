@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-09T13:59:25.499Z",
-  "exportedAt": "09/09/2026, 10:59:25",
+  "lastExport": "2026-09-09T14:03:57.629Z",
+  "exportedAt": "09/09/2026, 11:03:57",
   "total": 100,
-  "pendentes": 89,
-  "postados": 11,
+  "pendentes": 88,
+  "postados": 12,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -224,10 +224,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_841088-MLB114637505666_082026-AB--30ml-cor-natural-bases-faciais-base-payot-maquiagem-50fps.webp",
       "horarioProgramado": "11:03",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-09T14:03:33.736Z"
     },
     {
       "posicao": 14,
