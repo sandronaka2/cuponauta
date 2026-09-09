@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-09T15:33:57.804Z",
-  "exportedAt": "09/09/2026, 12:33:57",
+  "lastExport": "2026-09-09T15:43:57.829Z",
+  "exportedAt": "09/09/2026, 12:43:57",
   "total": 100,
-  "pendentes": 77,
-  "postados": 23,
+  "pendentes": 76,
+  "postados": 24,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -428,10 +428,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_800300-MLB117241098759_092026-AB--oculos-miu-armacao-grau-tartaruga-oval-blogueira-vintage-miu.webp",
       "horarioProgramado": "12:39",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-09T15:39:42.211Z"
     },
     {
       "posicao": 26,
