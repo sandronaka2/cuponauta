@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-09T00:52:06.092Z",
-  "exportedAt": "08/09/2026, 21:52:06",
+  "lastExport": "2026-09-09T00:58:53.281Z",
+  "exportedAt": "08/09/2026, 21:58:53",
   "total": 100,
-  "pendentes": 2,
-  "postados": 98,
+  "pendentes": 0,
+  "postados": 100,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -1686,10 +1686,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_923661-CBT110729729834_052026-AB--fone-de-ouvido-bluetooth-tws-com-estojo-carregador.webp",
       "horarioProgramado": "21:53",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-09T00:53:26.362Z"
     },
     {
       "posicao": 100,
@@ -1703,10 +1703,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_645781-CBT110254928008_052026-AB--mouse-gamer-sem-fio-ultraleve-attack-shark-x8se.webp",
       "horarioProgramado": "21:58",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-09T00:58:11.127Z"
     }
   ]
 }
