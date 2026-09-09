@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-09T14:59:19.739Z",
-  "exportedAt": "09/09/2026, 11:59:19",
+  "lastExport": "2026-09-09T15:03:58.053Z",
+  "exportedAt": "09/09/2026, 12:03:58",
   "total": 100,
-  "pendentes": 83,
-  "postados": 17,
+  "pendentes": 82,
+  "postados": 18,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -326,10 +326,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_973979-MLB115640969114_092026-AB-relogio-smartwatch-h25-monitoramento-saude-resistente-suor.webp",
       "horarioProgramado": "12:01",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-09T15:01:12.843Z"
     },
     {
       "posicao": 20,
