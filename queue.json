@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-09T20:03:59.676Z",
-  "exportedAt": "09/09/2026, 17:03:59",
+  "lastExport": "2026-09-09T20:13:59.676Z",
+  "exportedAt": "09/09/2026, 17:13:59",
   "total": 100,
-  "pendentes": 48,
-  "postados": 52,
+  "pendentes": 47,
+  "postados": 53,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -921,10 +921,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_727876-MLB110297976492_052026-AB-kit-6-pares-meias-algodo-cano-curto-confortavel.webp",
       "horarioProgramado": "17:09",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-09T20:09:31.043Z"
     },
     {
       "posicao": 55,
