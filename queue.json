@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-09T00:41:35.955Z",
-  "exportedAt": "08/09/2026, 21:41:35",
+  "lastExport": "2026-09-09T00:51:09.565Z",
+  "exportedAt": "08/09/2026, 21:51:09",
   "total": 100,
-  "pendentes": 4,
-  "postados": 96,
+  "pendentes": 2,
+  "postados": 98,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -1652,10 +1652,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_923005-MLB108043102146_032026-AB--cabo-isqueiro-veicular-starlink-mini-12v-24v-carro-barco.webp",
       "horarioProgramado": "21:43",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-09T00:43:20.461Z"
     },
     {
       "posicao": 98,
@@ -1669,10 +1669,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_655165-MLB113943900248_072026-AB--kit-3-pares-de-meia-cano-curto-calvin-klein-undm2301.webp",
       "horarioProgramado": "21:48",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-09T00:48:30.700Z"
     },
     {
       "posicao": 99,
