@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-10T00:23:59.953Z",
-  "exportedAt": "09/09/2026, 21:23:59",
+  "lastExport": "2026-09-10T00:34:00.115Z",
+  "exportedAt": "09/09/2026, 21:34:00",
   "total": 100,
-  "pendentes": 8,
-  "postados": 92,
+  "pendentes": 6,
+  "postados": 94,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -1601,10 +1601,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_635454-MLB115392418721_072026-AB--oculos-dsol-classic-sports-country-sem-aro-moldura-ultraleve.webp",
       "horarioProgramado": "21:26",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-10T00:26:22.526Z"
     },
     {
       "posicao": 95,
@@ -1618,10 +1618,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_688002-MLA115581994404_092026-AB.webp",
       "horarioProgramado": "21:32",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-10T00:32:22.598Z"
     },
     {
       "posicao": 96,
