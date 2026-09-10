@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-10T15:54:00.787Z",
-  "exportedAt": "10/09/2026, 12:54:00",
+  "lastExport": "2026-09-10T16:04:00.832Z",
+  "exportedAt": "10/09/2026, 13:04:00",
   "total": 100,
-  "pendentes": 73,
-  "postados": 27,
+  "pendentes": 72,
+  "postados": 28,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -479,10 +479,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_754138-MLB110437827195_042026-AB--scarpin-vizzano-feminino-11841716.webp",
       "horarioProgramado": "12:59",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-10T15:59:08.998Z"
     },
     {
       "posicao": 29,
