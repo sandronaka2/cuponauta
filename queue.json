@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-10T16:04:00.832Z",
-  "exportedAt": "10/09/2026, 13:04:00",
+  "lastExport": "2026-09-10T16:14:00.797Z",
+  "exportedAt": "10/09/2026, 13:14:00",
   "total": 100,
-  "pendentes": 72,
-  "postados": 28,
+  "pendentes": 70,
+  "postados": 30,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -496,10 +496,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_905259-CBT110331391296_052026-AB.webp",
       "horarioProgramado": "13:05",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-10T16:05:43.689Z"
     },
     {
       "posicao": 30,
@@ -513,10 +513,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_951810-MLB106531414672_022026-AB--celimax-retinal-shot-tightening-booster-15ml-pele-corean.webp",
       "horarioProgramado": "13:11",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-10T16:11:21.708Z"
     },
     {
       "posicao": 31,
