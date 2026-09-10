@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-10T21:34:02.341Z",
-  "exportedAt": "10/09/2026, 18:34:02",
+  "lastExport": "2026-09-10T21:44:02.245Z",
+  "exportedAt": "10/09/2026, 18:44:02",
   "total": 100,
-  "pendentes": 36,
-  "postados": 64,
+  "pendentes": 35,
+  "postados": 65,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -1108,10 +1108,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_959284-CBT112438240076_062026-AB--brinquedo-de-boneca-bzdoll-de-19-polegadas-e-48-cm-de-vinil.webp",
       "horarioProgramado": "18:37",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-10T21:37:44.245Z"
     },
     {
       "posicao": 66,
