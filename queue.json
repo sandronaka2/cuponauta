@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-10T17:14:23.892Z",
-  "exportedAt": "10/09/2026, 14:14:23",
+  "lastExport": "2026-09-10T17:24:01.945Z",
+  "exportedAt": "10/09/2026, 14:24:01",
   "total": 100,
-  "pendentes": 61,
-  "postados": 39,
+  "pendentes": 60,
+  "postados": 40,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -683,10 +683,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_865643-CBT113945583291_062026-AB-vestido-mini-feminino-couro-sintetico-manga-longa-festa.webp",
       "horarioProgramado": "14:23",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-10T17:23:22.128Z"
     },
     {
       "posicao": 41,
