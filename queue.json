@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-10T23:24:02.349Z",
-  "exportedAt": "10/09/2026, 20:24:02",
+  "lastExport": "2026-09-10T23:34:02.362Z",
+  "exportedAt": "10/09/2026, 20:34:02",
   "total": 100,
-  "pendentes": 18,
-  "postados": 82,
+  "pendentes": 17,
+  "postados": 83,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -1414,10 +1414,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_800074-MLB75887824047_042024-AB--meia-sport--compressao-adulto-kendall.webp",
       "horarioProgramado": "20:29",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-10T23:29:54.360Z"
     },
     {
       "posicao": 84,
