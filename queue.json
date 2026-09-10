@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-10T14:34:00.670Z",
-  "exportedAt": "10/09/2026, 11:34:00",
+  "lastExport": "2026-09-10T14:44:00.725Z",
+  "exportedAt": "10/09/2026, 11:44:00",
   "total": 100,
-  "pendentes": 85,
-  "postados": 15,
+  "pendentes": 84,
+  "postados": 16,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -275,10 +275,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_748073-CBT113339367826_072026-AB--jaqueta-bomber-masculina-com-ziper-estilo-beisebol.webp",
       "horarioProgramado": "11:38",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-10T14:38:13.086Z"
     },
     {
       "posicao": 17,
