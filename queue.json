@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-10T23:14:28.869Z",
-  "exportedAt": "10/09/2026, 20:14:28",
+  "lastExport": "2026-09-10T23:24:02.349Z",
+  "exportedAt": "10/09/2026, 20:24:02",
   "total": 100,
-  "pendentes": 20,
-  "postados": 80,
+  "pendentes": 18,
+  "postados": 82,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -1380,10 +1380,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_883634-MLA112971491346_072026-AB.webp",
       "horarioProgramado": "20:17",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-10T23:17:44.502Z"
     },
     {
       "posicao": 82,
@@ -1397,10 +1397,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_733420-MLB110267245236_052026-AB--organizador-maquiagem-salao-multiuso-3-gavetas-jaguar.webp",
       "horarioProgramado": "20:23",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-10T23:23:50.269Z"
     },
     {
       "posicao": 83,
