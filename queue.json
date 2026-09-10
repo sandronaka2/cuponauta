@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-10T13:04:00.710Z",
-  "exportedAt": "10/09/2026, 10:04:00",
+  "lastExport": "2026-09-10T13:14:00.657Z",
+  "exportedAt": "10/09/2026, 10:14:00",
   "total": 100,
-  "pendentes": 93,
-  "postados": 7,
+  "pendentes": 92,
+  "postados": 8,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -139,10 +139,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_955117-CBT99803123164_122025-AB-oculos-inteligentes-ai-traduco-164-idiomas-bt-ipx.webp",
       "horarioProgramado": "10:12",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-10T13:12:30.156Z"
     },
     {
       "posicao": 9,
