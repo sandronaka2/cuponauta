@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-10T14:44:00.725Z",
-  "exportedAt": "10/09/2026, 11:44:00",
+  "lastExport": "2026-09-10T14:54:00.685Z",
+  "exportedAt": "10/09/2026, 11:54:00",
   "total": 100,
-  "pendentes": 84,
-  "postados": 16,
+  "pendentes": 83,
+  "postados": 17,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -292,10 +292,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_737108-MLB72797659164_112023-AB--kit-com-10-cuecas-infantis-para-meninos-boxer-algodao-mash.webp",
       "horarioProgramado": "11:49",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-10T14:49:22.686Z"
     },
     {
       "posicao": 18,
