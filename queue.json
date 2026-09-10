@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-10T15:04:00.722Z",
-  "exportedAt": "10/09/2026, 12:04:00",
+  "lastExport": "2026-09-10T15:14:00.718Z",
+  "exportedAt": "10/09/2026, 12:14:00",
   "total": 100,
-  "pendentes": 81,
-  "postados": 19,
+  "pendentes": 79,
+  "postados": 21,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -343,10 +343,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_913530-MLA95057743387_102025-AB--kit-6-cuecas-boxer-zorba-seamless-extreme-sport.webp",
       "horarioProgramado": "12:07",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-10T15:07:12.602Z"
     },
     {
       "posicao": 21,
@@ -360,10 +360,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_875116-MLB77962458187_072024-AB-capa-case-material-rigido-proteco-de-tela-para-gts-4-mini.webp",
       "horarioProgramado": "12:13",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-10T15:13:50.097Z"
     },
     {
       "posicao": 22,
