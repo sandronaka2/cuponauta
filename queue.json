@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-10T19:14:25.278Z",
-  "exportedAt": "10/09/2026, 16:14:25",
+  "lastExport": "2026-09-10T19:24:02.113Z",
+  "exportedAt": "10/09/2026, 16:24:02",
   "total": 100,
-  "pendentes": 51,
-  "postados": 49,
+  "pendentes": 50,
+  "postados": 50,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -853,10 +853,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_698972-MLA108768424669_032026-AB--percarbonato-sodio-realca-roupas-escuras-e-pretas-black-care.webp",
       "horarioProgramado": "16:21",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-10T19:21:10.888Z"
     },
     {
       "posicao": 51,
