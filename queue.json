@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-10T12:54:00.631Z",
-  "exportedAt": "10/09/2026, 09:54:00",
+  "lastExport": "2026-09-10T13:04:00.710Z",
+  "exportedAt": "10/09/2026, 10:04:00",
   "total": 100,
-  "pendentes": 95,
-  "postados": 5,
+  "pendentes": 93,
+  "postados": 7,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -105,10 +105,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_940328-CBT111531425270_062026-AB--kit-5-pares-meias-esportivas-acolchoadas-cano-medio-para-basquete-e-corrida.webp",
       "horarioProgramado": "09:58",
       "janela": "09:00-10:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-10T12:58:48.258Z"
     },
     {
       "posicao": 7,
@@ -122,10 +122,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_901602-MLA84833667253_052025-AB.webp",
       "horarioProgramado": "10:01",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-10T13:01:35.134Z"
     },
     {
       "posicao": 8,
