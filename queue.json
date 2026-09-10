@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-10T18:44:02.060Z",
-  "exportedAt": "10/09/2026, 15:44:02",
+  "lastExport": "2026-09-10T18:54:02.077Z",
+  "exportedAt": "10/09/2026, 15:54:02",
   "total": 100,
-  "pendentes": 54,
-  "postados": 46,
+  "pendentes": 53,
+  "postados": 47,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -802,10 +802,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_764557-MLB109366711172_042026-AB--jaqueta-masculina-aconcagua-3-com-capuz-the-north-face.webp",
       "horarioProgramado": "15:46",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-10T18:46:34.682Z"
     },
     {
       "posicao": 48,
