@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-11T14:54:03.441Z",
-  "exportedAt": "11/09/2026, 11:54:03",
+  "lastExport": "2026-09-11T15:04:03.416Z",
+  "exportedAt": "11/09/2026, 12:04:03",
   "total": 100,
-  "pendentes": 83,
-  "postados": 17,
+  "pendentes": 81,
+  "postados": 19,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -309,10 +309,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_755935-MLB116228111829_082026-AB--album-pokemon-mewtwo-mew-pikachu-240-cartas-porta-cards-tcg.webp",
       "horarioProgramado": "11:58",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-11T14:58:27.326Z"
     },
     {
       "posicao": 19,
@@ -326,10 +326,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_670827-MLB114039129607_072026-AB--relogio-smartwatch-aurafit-am05-tela-amoled-aco-inoxidavel.webp",
       "horarioProgramado": "12:01",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-11T15:01:30.504Z"
     },
     {
       "posicao": 20,
