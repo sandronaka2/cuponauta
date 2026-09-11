@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-11T15:54:03.387Z",
-  "exportedAt": "11/09/2026, 12:54:03",
+  "lastExport": "2026-09-11T16:04:03.405Z",
+  "exportedAt": "11/09/2026, 13:04:03",
   "total": 100,
-  "pendentes": 73,
-  "postados": 27,
+  "pendentes": 72,
+  "postados": 28,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -479,10 +479,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_796514-CBT115621539241_082026-AB--boneca-bebe-reborn-corpo-de-pano-pele-3d-50-cm.webp",
       "horarioProgramado": "12:58",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-11T15:58:09.969Z"
     },
     {
       "posicao": 29,
