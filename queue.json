@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-11T23:04:04.946Z",
-  "exportedAt": "11/09/2026, 20:04:04",
+  "lastExport": "2026-09-11T23:14:05.135Z",
+  "exportedAt": "11/09/2026, 20:14:05",
   "total": 100,
-  "pendentes": 22,
-  "postados": 78,
+  "pendentes": 20,
+  "postados": 80,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -1346,10 +1346,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_951122-MLA110467988157_042026-AB.webp",
       "horarioProgramado": "20:04",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-11T23:04:09.481Z"
     },
     {
       "posicao": 80,
@@ -1363,10 +1363,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_965974-CBT112598810409_062026-AB--fone-de-ouvido-inear-com-microfone-usbc.webp",
       "horarioProgramado": "20:10",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-11T23:10:30.277Z"
     },
     {
       "posicao": 81,
