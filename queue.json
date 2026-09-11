@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-11T21:34:04.871Z",
-  "exportedAt": "11/09/2026, 18:34:04",
+  "lastExport": "2026-09-11T21:44:04.893Z",
+  "exportedAt": "11/09/2026, 18:44:04",
   "total": 100,
-  "pendentes": 36,
-  "postados": 64,
+  "pendentes": 35,
+  "postados": 65,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -1108,10 +1108,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_696160-MLB111748323861_052026-AB--tenis-masculino-tribase-reign-6-under-armour.webp",
       "horarioProgramado": "18:37",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-11T21:37:24.942Z"
     },
     {
       "posicao": 66,
