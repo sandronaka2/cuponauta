@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-11T21:14:32.889Z",
-  "exportedAt": "11/09/2026, 18:14:32",
+  "lastExport": "2026-09-11T21:24:04.811Z",
+  "exportedAt": "11/09/2026, 18:24:04",
   "total": 100,
-  "pendentes": 39,
-  "postados": 61,
+  "pendentes": 38,
+  "postados": 62,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -1057,10 +1057,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_830781-MLB75888245143_042024-AB--meia-34-alta-compressao-2030-mmhg-sem-ponteira-kendall.webp",
       "horarioProgramado": "18:18",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-11T21:18:56.192Z"
     },
     {
       "posicao": 63,
