@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-11T00:04:02.512Z",
-  "exportedAt": "10/09/2026, 21:04:02",
+  "lastExport": "2026-09-11T00:14:02.446Z",
+  "exportedAt": "10/09/2026, 21:14:02",
   "total": 100,
-  "pendentes": 11,
-  "postados": 89,
+  "pendentes": 9,
+  "postados": 91,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -1533,10 +1533,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_694498-MLB110795129417_042026-AB--pijama-mash-alg-ml-c-botao--calca-elastico-embutido.webp",
       "horarioProgramado": "21:06",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-11T00:06:39.326Z"
     },
     {
       "posicao": 91,
@@ -1550,10 +1550,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_862419-MLA108656141418_032026-AB.webp",
       "horarioProgramado": "21:11",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-11T00:11:30.451Z"
     },
     {
       "posicao": 92,
