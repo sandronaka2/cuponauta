@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-11T17:24:04.633Z",
-  "exportedAt": "11/09/2026, 14:24:04",
+  "lastExport": "2026-09-11T17:34:04.546Z",
+  "exportedAt": "11/09/2026, 14:34:04",
   "total": 100,
-  "pendentes": 61,
-  "postados": 39,
+  "pendentes": 60,
+  "postados": 40,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -683,10 +683,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_678178-MLB104562551833_012026-AB-kit-6-pares-meia-sapatilha-algodo-unissex-confortavel.webp",
       "horarioProgramado": "14:24",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-11T17:24:18.966Z"
     },
     {
       "posicao": 41,
