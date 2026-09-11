@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-11T13:04:03.235Z",
-  "exportedAt": "11/09/2026, 10:04:03",
+  "lastExport": "2026-09-11T13:14:03.286Z",
+  "exportedAt": "11/09/2026, 10:14:03",
   "total": 100,
-  "pendentes": 93,
-  "postados": 7,
+  "pendentes": 92,
+  "postados": 8,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -139,10 +139,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_900115-MLB97538409239_112025-AB--sandalia-comfortflex-2556404.webp",
       "horarioProgramado": "10:10",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-11T13:10:47.863Z"
     },
     {
       "posicao": 9,
