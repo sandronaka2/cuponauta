@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-11T13:44:03.258Z",
-  "exportedAt": "11/09/2026, 10:44:03",
+  "lastExport": "2026-09-11T13:54:03.267Z",
+  "exportedAt": "11/09/2026, 10:54:03",
   "total": 100,
-  "pendentes": 90,
-  "postados": 10,
+  "pendentes": 89,
+  "postados": 11,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -190,10 +190,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_918383-CBT111326831908_052026-AB--boneca-interativa-musical-brinquedo.webp",
       "horarioProgramado": "10:44",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-11T13:44:31.251Z"
     },
     {
       "posicao": 12,
