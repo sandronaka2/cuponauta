@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-11T19:34:04.715Z",
-  "exportedAt": "11/09/2026, 16:34:04",
+  "lastExport": "2026-09-11T19:44:04.706Z",
+  "exportedAt": "11/09/2026, 16:44:04",
   "total": 100,
-  "pendentes": 50,
-  "postados": 50,
+  "pendentes": 49,
+  "postados": 51,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -870,10 +870,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_973095-MLB117431993437_092026-AB--creme-facial-q10-lipossomas-oleo-de-coco-cha-verde-bambu.webp",
       "horarioProgramado": "16:35",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-11T19:35:52.288Z"
     },
     {
       "posicao": 52,
