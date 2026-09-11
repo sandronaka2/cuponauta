@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-11T16:04:03.405Z",
-  "exportedAt": "11/09/2026, 13:04:03",
+  "lastExport": "2026-09-11T16:14:03.428Z",
+  "exportedAt": "11/09/2026, 13:14:03",
   "total": 100,
-  "pendentes": 72,
-  "postados": 28,
+  "pendentes": 70,
+  "postados": 30,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -496,10 +496,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_925147-MLB100370554895_122025-AB-kit-12-pares-meia-infantil-branca-escolar-menina-menino.webp",
       "horarioProgramado": "13:06",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-11T16:06:56.190Z"
     },
     {
       "posicao": 30,
@@ -513,10 +513,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_697938-MLB115049353482_082026-AB--jaqueta-corta-vento-elastano-blusa-agasalho-semiforrada.webp",
       "horarioProgramado": "13:13",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-11T16:13:23.734Z"
     },
     {
       "posicao": 31,
