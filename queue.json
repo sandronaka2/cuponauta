@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-11T15:04:03.416Z",
-  "exportedAt": "11/09/2026, 12:04:03",
+  "lastExport": "2026-09-11T15:14:03.368Z",
+  "exportedAt": "11/09/2026, 12:14:03",
   "total": 100,
-  "pendentes": 81,
-  "postados": 19,
+  "pendentes": 79,
+  "postados": 21,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -343,10 +343,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_721945-MLA85788494302_062025-AB.webp",
       "horarioProgramado": "12:07",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-11T15:07:36.751Z"
     },
     {
       "posicao": 21,
@@ -360,10 +360,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_907470-CBT116464169839_082026-AB--brinquedo-antiestresse-squishy-cubo-gelo-45-cm-2un.webp",
       "horarioProgramado": "12:13",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-11T15:13:26.978Z"
     },
     {
       "posicao": 22,
