@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-11T16:54:03.464Z",
-  "exportedAt": "11/09/2026, 13:54:03",
+  "lastExport": "2026-09-11T17:04:03.670Z",
+  "exportedAt": "11/09/2026, 14:04:03",
   "total": 100,
-  "pendentes": 64,
-  "postados": 36,
+  "pendentes": 62,
+  "postados": 38,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -632,10 +632,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_706521-MLB111014581624_052026-AB--top-fitness-feminino-premium-nao-transparente.webp",
       "horarioProgramado": "13:58",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-11T16:58:10.618Z"
     },
     {
       "posicao": 38,
@@ -649,10 +649,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_630405-MLA90655514750_082025-AB.webp",
       "horarioProgramado": "14:01",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-11T17:01:52.310Z"
     },
     {
       "posicao": 39,
