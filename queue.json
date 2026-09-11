@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-11T23:14:33.191Z",
-  "exportedAt": "11/09/2026, 20:14:33",
+  "lastExport": "2026-09-11T23:24:04.960Z",
+  "exportedAt": "11/09/2026, 20:24:04",
   "total": 100,
-  "pendentes": 20,
-  "postados": 80,
+  "pendentes": 18,
+  "postados": 82,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -1380,10 +1380,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_922789-MLA108655910214_032026-AB.webp",
       "horarioProgramado": "20:16",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-11T23:16:24.217Z"
     },
     {
       "posicao": 82,
@@ -1397,10 +1397,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_759279-MLB114674495962_082026-AB--camiseta-feminino-blusa-manga-curta-tshirt-basica-adulta.webp",
       "horarioProgramado": "20:23",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-11T23:23:46.203Z"
     },
     {
       "posicao": 83,
