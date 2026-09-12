@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-12T19:14:37.206Z",
-  "exportedAt": "12/09/2026, 16:14:37",
+  "lastExport": "2026-09-12T19:24:07.459Z",
+  "exportedAt": "12/09/2026, 16:24:07",
   "total": 100,
-  "pendentes": 51,
-  "postados": 49,
+  "pendentes": 50,
+  "postados": 50,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -853,10 +853,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_816077-MLB114561025255_072026-AB-pijama-feminino-inverno-longo-confort-modelo-beth-suede.webp",
       "horarioProgramado": "16:20",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-12T19:20:32.669Z"
     },
     {
       "posicao": 51,
