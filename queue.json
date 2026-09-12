@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-12T15:14:35.485Z",
-  "exportedAt": "12/09/2026, 12:14:35",
+  "lastExport": "2026-09-12T15:24:06.003Z",
+  "exportedAt": "12/09/2026, 12:24:06",
   "total": 100,
-  "pendentes": 79,
-  "postados": 21,
+  "pendentes": 78,
+  "postados": 22,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -377,10 +377,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_872207-MLB54437144172_032023-AB--kit-10-cuecas-slip-go-tagless-masculina-zorba-cos-aparente.webp",
       "horarioProgramado": "12:20",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-12T15:20:48.234Z"
     },
     {
       "posicao": 23,
