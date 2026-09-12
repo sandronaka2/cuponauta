@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-12T16:24:06.059Z",
-  "exportedAt": "12/09/2026, 13:24:06",
+  "lastExport": "2026-09-12T16:34:06.147Z",
+  "exportedAt": "12/09/2026, 13:34:06",
   "total": 100,
-  "pendentes": 69,
-  "postados": 31,
+  "pendentes": 67,
+  "postados": 33,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -547,10 +547,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_785798-CBT112554718223_062026-AB--carrinho-rc-drift-4wd-recarregavel-com-controle.webp",
       "horarioProgramado": "13:26",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-12T16:26:47.061Z"
     },
     {
       "posicao": 33,
@@ -564,10 +564,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_965823-MLB73037198542_112023-AB--kit-10-cuecas-slip-go-tagless-masculina-zorba-cos-aparente.webp",
       "horarioProgramado": "13:33",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-12T16:33:55.737Z"
     },
     {
       "posicao": 34,
