@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-12T13:14:35.191Z",
-  "exportedAt": "12/09/2026, 10:14:35",
+  "lastExport": "2026-09-12T13:24:05.933Z",
+  "exportedAt": "12/09/2026, 10:24:05",
   "total": 100,
-  "pendentes": 92,
-  "postados": 8,
+  "pendentes": 91,
+  "postados": 9,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -156,10 +156,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_894262-CBT113424671900_072026-AB-relogio-masculino-esportivo-quartzo-couro-prova-dagua.webp",
       "horarioProgramado": "10:23",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-12T13:23:48.038Z"
     },
     {
       "posicao": 10,
