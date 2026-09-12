@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-12T15:24:06.003Z",
-  "exportedAt": "12/09/2026, 12:24:06",
+  "lastExport": "2026-09-12T15:34:06.015Z",
+  "exportedAt": "12/09/2026, 12:34:06",
   "total": 100,
-  "pendentes": 78,
-  "postados": 22,
+  "pendentes": 77,
+  "postados": 23,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -394,10 +394,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_736060-MLB117349186815_092026-AB--modelador-de-ondas-gokoco-ions-e-barril-de-ceramica-bivolt.webp",
       "horarioProgramado": "12:27",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-12T15:27:24.345Z"
     },
     {
       "posicao": 24,
