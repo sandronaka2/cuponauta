@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-12T22:24:07.533Z",
-  "exportedAt": "12/09/2026, 19:24:07",
+  "lastExport": "2026-09-12T22:34:07.550Z",
+  "exportedAt": "12/09/2026, 19:34:07",
   "total": 100,
-  "pendentes": 28,
-  "postados": 72,
+  "pendentes": 26,
+  "postados": 74,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -1244,10 +1244,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_958276-CBT114108589961_072026-AB-jaqueta-marrom-franjas-camurca-retro-elegante-outono.webp",
       "horarioProgramado": "19:27",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-12T22:27:29.321Z"
     },
     {
       "posicao": 74,
@@ -1261,10 +1261,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_872207-MLB54437144172_032023-AB--kit-10-cuecas-slip-go-tagless-masculina-zorba-cos-aparente.webp",
       "horarioProgramado": "19:33",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-12T22:33:57.232Z"
     },
     {
       "posicao": 75,
