@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-12T12:54:05.848Z",
-  "exportedAt": "12/09/2026, 09:54:05",
+  "lastExport": "2026-09-12T13:04:05.925Z",
+  "exportedAt": "12/09/2026, 10:04:05",
   "total": 100,
-  "pendentes": 95,
-  "postados": 5,
+  "pendentes": 93,
+  "postados": 7,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -105,10 +105,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_816042-MLB109846174692_042026-AB--tenis-oakley-masculino-airstrip-leather-fof100667009.webp",
       "horarioProgramado": "09:57",
       "janela": "09:00-10:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-12T12:57:25.825Z"
     },
     {
       "posicao": 7,
@@ -122,10 +122,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_923005-MLB108043102146_032026-AB--cabo-isqueiro-veicular-starlink-mini-12v-24v-carro-barco.webp",
       "horarioProgramado": "10:01",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-12T13:01:15.589Z"
     },
     {
       "posicao": 8,
