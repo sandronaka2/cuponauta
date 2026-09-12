@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-12T14:04:05.933Z",
-  "exportedAt": "12/09/2026, 11:04:05",
+  "lastExport": "2026-09-12T14:14:06.007Z",
+  "exportedAt": "12/09/2026, 11:14:06",
   "total": 100,
-  "pendentes": 88,
-  "postados": 12,
+  "pendentes": 87,
+  "postados": 13,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -224,10 +224,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_645781-CBT110254928008_052026-AB--mouse-gamer-sem-fio-ultraleve-attack-shark-x8se.webp",
       "horarioProgramado": "11:07",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-12T14:07:35.231Z"
     },
     {
       "posicao": 14,
