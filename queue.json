@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-12T15:34:06.015Z",
-  "exportedAt": "12/09/2026, 12:34:06",
+  "lastExport": "2026-09-12T15:44:06.100Z",
+  "exportedAt": "12/09/2026, 12:44:06",
   "total": 100,
-  "pendentes": 77,
-  "postados": 23,
+  "pendentes": 75,
+  "postados": 25,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -411,10 +411,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_730822-MLB115301387449_072026-AB--oleo-clareador-manchas-axila-virilha-joelho-cotovelo-100ml.webp",
       "horarioProgramado": "12:34",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-12T15:34:16.445Z"
     },
     {
       "posicao": 25,
@@ -428,10 +428,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_912425-MLA110479800979_042026-AB.webp",
       "horarioProgramado": "12:40",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-12T15:40:43.226Z"
     },
     {
       "posicao": 26,
