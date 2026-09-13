@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-13T00:04:07.636Z",
-  "exportedAt": "12/09/2026, 21:04:07",
+  "lastExport": "2026-09-13T00:14:07.730Z",
+  "exportedAt": "12/09/2026, 21:14:07",
   "total": 100,
-  "pendentes": 11,
-  "postados": 89,
+  "pendentes": 9,
+  "postados": 91,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -1533,10 +1533,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_824736-MLA114002145663_072026-AB.webp",
       "horarioProgramado": "21:05",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-13T00:05:18.665Z"
     },
     {
       "posicao": 91,
@@ -1550,10 +1550,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_992847-MLA101310339574_122025-AB--tshirt-mizuno-run-spark-m.webp",
       "horarioProgramado": "21:12",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-13T00:12:12.394Z"
     },
     {
       "posicao": 92,
