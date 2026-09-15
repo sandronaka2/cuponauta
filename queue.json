@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-15T16:00:01.883Z",
-  "exportedAt": "15/09/2026, 13:00:01",
+  "lastExport": "2026-09-15T16:10:01.818Z",
+  "exportedAt": "15/09/2026, 13:10:01",
   "total": 100,
-  "pendentes": 72,
-  "postados": 28,
+  "pendentes": 71,
+  "postados": 29,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -496,10 +496,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_924005-MLB112861611256_072026-AB-bone-snapback-aba-meia-curva-e-reta-bordado-nfl-redskins.webp",
       "horarioProgramado": "13:06",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-15T16:06:29.476Z"
     },
     {
       "posicao": 30,
