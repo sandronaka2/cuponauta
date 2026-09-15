@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-15T22:40:02.122Z",
-  "exportedAt": "15/09/2026, 19:40:02",
+  "lastExport": "2026-09-15T22:50:02.151Z",
+  "exportedAt": "15/09/2026, 19:50:02",
   "total": 100,
-  "pendentes": 26,
-  "postados": 74,
+  "pendentes": 24,
+  "postados": 76,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -1278,10 +1278,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_747922-MLB112990936704_072026-AB--kit-10-cuecas-boxer-lupo-masculino-algodao.webp",
       "horarioProgramado": "19:40",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-15T22:40:50.937Z"
     },
     {
       "posicao": 76,
@@ -1295,10 +1295,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_705517-MLA99489098452_112025-AB.webp",
       "horarioProgramado": "19:46",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-15T22:46:21.705Z"
     },
     {
       "posicao": 77,
