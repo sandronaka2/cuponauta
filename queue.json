@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-15T21:10:21.629Z",
-  "exportedAt": "15/09/2026, 18:10:21",
+  "lastExport": "2026-09-15T21:20:02.103Z",
+  "exportedAt": "15/09/2026, 18:20:02",
   "total": 100,
-  "pendentes": 40,
-  "postados": 60,
+  "pendentes": 38,
+  "postados": 62,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -1040,10 +1040,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_733531-MLB115866288480_092026-AB--bone-confortavel-dry-fit-corrida-sol-secagem-rapida.webp",
       "horarioProgramado": "18:12",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-15T21:12:11.258Z"
     },
     {
       "posicao": 62,
@@ -1057,10 +1057,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_872205-MLA104792189403_012026-AB.webp",
       "horarioProgramado": "18:18",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-15T21:18:30.686Z"
     },
     {
       "posicao": 63,
