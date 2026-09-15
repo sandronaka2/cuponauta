@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-15T15:00:01.734Z",
-  "exportedAt": "15/09/2026, 12:00:01",
+  "lastExport": "2026-09-15T15:10:01.725Z",
+  "exportedAt": "15/09/2026, 12:10:01",
   "total": 100,
-  "pendentes": 82,
-  "postados": 18,
+  "pendentes": 80,
+  "postados": 20,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -326,10 +326,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_750907-CBT113572350845_062026-AB--conjunto-de-esmaltes-de-gel-xeijayi-de-6-pecas-em-preto-mar.webp",
       "horarioProgramado": "12:01",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-15T15:01:22.602Z"
     },
     {
       "posicao": 20,
@@ -343,10 +343,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_828865-MLA99924621257_112025-AB.webp",
       "horarioProgramado": "12:07",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-15T15:07:39.129Z"
     },
     {
       "posicao": 21,
