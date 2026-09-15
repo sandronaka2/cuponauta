@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-15T15:30:01.756Z",
-  "exportedAt": "15/09/2026, 12:30:01",
+  "lastExport": "2026-09-15T15:40:01.767Z",
+  "exportedAt": "15/09/2026, 12:40:01",
   "total": 100,
-  "pendentes": 77,
-  "postados": 23,
+  "pendentes": 75,
+  "postados": 25,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -411,10 +411,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_918383-CBT111326831908_052026-AB--boneca-interativa-musical-brinquedo.webp",
       "horarioProgramado": "12:32",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-15T15:32:44.148Z"
     },
     {
       "posicao": 25,
@@ -428,10 +428,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_876599-MLB112596644882_062026-AB--tenis-converse-feminino-taylor-ct2964-curto-t.webp",
       "horarioProgramado": "12:38",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-15T15:38:35.136Z"
     },
     {
       "posicao": 26,
