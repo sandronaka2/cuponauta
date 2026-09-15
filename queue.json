@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-15T16:50:01.887Z",
-  "exportedAt": "15/09/2026, 13:50:01",
+  "lastExport": "2026-09-15T17:00:01.936Z",
+  "exportedAt": "15/09/2026, 14:00:01",
   "total": 100,
-  "pendentes": 65,
-  "postados": 35,
+  "pendentes": 63,
+  "postados": 37,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -615,10 +615,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_958172-MLB100694904778_122025-AB--jogo-de-toalhas-buddemeyer-brisa-banho-4-pecas.webp",
       "horarioProgramado": "13:52",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-15T16:52:11.245Z"
     },
     {
       "posicao": 37,
@@ -632,10 +632,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_710107-MLA111664152692_062026-AB.webp",
       "horarioProgramado": "13:58",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-15T16:58:19.232Z"
     },
     {
       "posicao": 38,
