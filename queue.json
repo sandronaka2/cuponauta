@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-15T19:20:01.965Z",
-  "exportedAt": "15/09/2026, 16:20:01",
+  "lastExport": "2026-09-15T19:30:01.986Z",
+  "exportedAt": "15/09/2026, 16:30:01",
   "total": 100,
-  "pendentes": 51,
-  "postados": 49,
+  "pendentes": 50,
+  "postados": 50,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -853,10 +853,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_734048-CBT114452355136_082026-AB--fone-de-ouvido-bluetooth-tws-com-visor-led.webp",
       "horarioProgramado": "16:22",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-15T19:22:25.981Z"
     },
     {
       "posicao": 51,
