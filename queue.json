@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-15T15:50:01.826Z",
-  "exportedAt": "15/09/2026, 12:50:01",
+  "lastExport": "2026-09-15T16:00:01.883Z",
+  "exportedAt": "15/09/2026, 13:00:01",
   "total": 100,
-  "pendentes": 74,
-  "postados": 26,
+  "pendentes": 72,
+  "postados": 28,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -462,10 +462,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_724054-MLB109779436549_032026-AB--pijama-masculino-malha-curto-lupo.webp",
       "horarioProgramado": "12:53",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-15T15:53:50.849Z"
     },
     {
       "posicao": 28,
@@ -479,10 +479,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_694682-MLA93932579135_102025-AB.webp",
       "horarioProgramado": "12:59",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-15T15:59:49.114Z"
     },
     {
       "posicao": 29,
