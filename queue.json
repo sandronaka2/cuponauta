@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-15T17:20:01.860Z",
-  "exportedAt": "15/09/2026, 14:20:01",
+  "lastExport": "2026-09-15T17:30:01.888Z",
+  "exportedAt": "15/09/2026, 14:30:01",
   "total": 100,
-  "pendentes": 61,
-  "postados": 39,
+  "pendentes": 60,
+  "postados": 40,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -683,10 +683,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_950861-MLB108814743953_032026-AB--kit-6-calcinhas-trifil-biquini-glow.webp",
       "horarioProgramado": "14:25",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-15T17:25:25.599Z"
     },
     {
       "posicao": 41,
