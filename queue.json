@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-15T23:10:21.870Z",
-  "exportedAt": "15/09/2026, 20:10:21",
+  "lastExport": "2026-09-15T23:20:02.172Z",
+  "exportedAt": "15/09/2026, 20:20:02",
   "total": 100,
-  "pendentes": 21,
-  "postados": 79,
+  "pendentes": 19,
+  "postados": 81,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -1363,10 +1363,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_893324-MLB106987856085_022026-AB--kit-10-calcinhas-biquini-infantil-menina-cotton-miss-delrio.webp",
       "horarioProgramado": "20:10",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-15T23:10:23.913Z"
     },
     {
       "posicao": 81,
@@ -1380,10 +1380,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_830129-MLB99592735059_112025-AB--kit-12-calcinhas-microfibra-tipo-biquini-trifil-basica-lisa.webp",
       "horarioProgramado": "20:17",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-15T23:17:41.766Z"
     },
     {
       "posicao": 82,
