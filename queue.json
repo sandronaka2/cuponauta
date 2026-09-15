@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-15T15:20:01.752Z",
-  "exportedAt": "15/09/2026, 12:20:01",
+  "lastExport": "2026-09-15T15:30:01.756Z",
+  "exportedAt": "15/09/2026, 12:30:01",
   "total": 100,
-  "pendentes": 79,
-  "postados": 21,
+  "pendentes": 77,
+  "postados": 23,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -377,10 +377,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_706900-MLA95636644404_102025-AB.webp",
       "horarioProgramado": "12:20",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-15T15:20:26.235Z"
     },
     {
       "posicao": 23,
@@ -394,10 +394,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_925147-MLB100370554895_122025-AB-kit-12-pares-meia-infantil-branca-escolar-menina-menino.webp",
       "horarioProgramado": "12:26",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-15T15:26:49.264Z"
     },
     {
       "posicao": 24,
