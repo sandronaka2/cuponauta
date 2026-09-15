@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-15T22:00:02.251Z",
-  "exportedAt": "15/09/2026, 19:00:02",
+  "lastExport": "2026-09-15T22:10:02.121Z",
+  "exportedAt": "15/09/2026, 19:10:02",
   "total": 100,
-  "pendentes": 32,
-  "postados": 68,
+  "pendentes": 30,
+  "postados": 70,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -1176,10 +1176,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_675284-MLB115599038167_082026-AB--fone-bluetooth-kaidi-kd-767-tws-54-som-potente-sem-fio.webp",
       "horarioProgramado": "19:02",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-15T22:02:18.869Z"
     },
     {
       "posicao": 70,
@@ -1193,10 +1193,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_921475-MLA99964412303_112025-AB.webp",
       "horarioProgramado": "19:09",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-15T22:09:45.234Z"
     },
     {
       "posicao": 71,
