@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-15T21:40:02.182Z",
-  "exportedAt": "15/09/2026, 18:40:02",
+  "lastExport": "2026-09-15T21:50:02.102Z",
+  "exportedAt": "15/09/2026, 18:50:02",
   "total": 100,
-  "pendentes": 35,
-  "postados": 65,
+  "pendentes": 33,
+  "postados": 67,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -1125,10 +1125,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_666441-MLA115895082691_082026-AB.webp",
       "horarioProgramado": "18:43",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-15T21:43:14.161Z"
     },
     {
       "posicao": 67,
@@ -1142,10 +1142,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_738579-MLA104244513446_012026-AB--hotwheels-acceleracers-revert-silver-series.webp",
       "horarioProgramado": "18:49",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-15T21:49:50.239Z"
     },
     {
       "posicao": 68,
