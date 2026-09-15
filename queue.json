@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-15T13:10:21.147Z",
-  "exportedAt": "15/09/2026, 10:10:21",
+  "lastExport": "2026-09-15T13:20:01.633Z",
+  "exportedAt": "15/09/2026, 10:20:01",
   "total": 100,
-  "pendentes": 93,
-  "postados": 7,
+  "pendentes": 92,
+  "postados": 8,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -139,10 +139,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_781273-MLB106255652835_012026-AB-tapete-sala-quarto-100x140-shaggy-peludo-fofinho-luxo.webp",
       "horarioProgramado": "10:11",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-15T13:11:14.688Z"
     },
     {
       "posicao": 9,
