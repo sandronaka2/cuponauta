@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-16T17:50:03.459Z",
-  "exportedAt": "16/09/2026, 14:50:03",
+  "lastExport": "2026-09-16T18:00:03.498Z",
+  "exportedAt": "16/09/2026, 15:00:03",
   "total": 100,
-  "pendentes": 59,
-  "postados": 41,
+  "pendentes": 58,
+  "postados": 42,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -717,10 +717,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_700054-MLB110947938387_042026-AB--calca-masculina-essentials-tres-listras-adidas.webp",
       "horarioProgramado": "14:52",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-16T17:52:40.353Z"
     },
     {
       "posicao": 43,
