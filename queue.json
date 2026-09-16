@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-16T21:40:05.072Z",
-  "exportedAt": "16/09/2026, 18:40:05",
+  "lastExport": "2026-09-16T21:50:05.063Z",
+  "exportedAt": "16/09/2026, 18:50:05",
   "total": 100,
-  "pendentes": 35,
-  "postados": 65,
+  "pendentes": 34,
+  "postados": 66,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -1125,10 +1125,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_628486-MLB113746104007_062026-AB--monitor-gamer-portatil-bettdow-de-19--144hz-polegadas-4k.webp",
       "horarioProgramado": "18:44",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-16T21:44:18.564Z"
     },
     {
       "posicao": 67,
