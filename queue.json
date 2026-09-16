@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-16T00:00:02.345Z",
-  "exportedAt": "15/09/2026, 21:00:02",
+  "lastExport": "2026-09-16T00:10:02.289Z",
+  "exportedAt": "15/09/2026, 21:10:02",
   "total": 100,
-  "pendentes": 12,
-  "postados": 88,
+  "pendentes": 10,
+  "postados": 90,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -1516,10 +1516,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_691478-MLA116718873701_082026-AB.webp",
       "horarioProgramado": "21:01",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-16T00:01:36.415Z"
     },
     {
       "posicao": 90,
@@ -1533,10 +1533,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_616986-MLB89912598314_082025-AB-adaptador-de-hub-usb-c-7-em-1-para-macbook-proair-m1-4k.webp",
       "horarioProgramado": "21:06",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-16T00:06:25.601Z"
     },
     {
       "posicao": 91,
