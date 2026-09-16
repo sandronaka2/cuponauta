@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-16T15:20:03.323Z",
-  "exportedAt": "16/09/2026, 12:20:03",
+  "lastExport": "2026-09-16T15:30:03.314Z",
+  "exportedAt": "16/09/2026, 12:30:03",
   "total": 100,
-  "pendentes": 78,
-  "postados": 22,
+  "pendentes": 77,
+  "postados": 23,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -394,10 +394,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_698022-MLB113901015972_072026-AB-secador-de-cabelo-taiff-profissional-style-vermelho-classico.webp",
       "horarioProgramado": "12:25",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-16T15:25:57.749Z"
     },
     {
       "posicao": 24,
