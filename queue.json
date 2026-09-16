@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-16T18:20:04.839Z",
-  "exportedAt": "16/09/2026, 15:20:04",
+  "lastExport": "2026-09-16T18:30:04.877Z",
+  "exportedAt": "16/09/2026, 15:30:04",
   "total": 100,
-  "pendentes": 56,
-  "postados": 44,
+  "pendentes": 55,
+  "postados": 45,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -768,10 +768,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_964970-MLB111567595742_062026-AB--cueca-samba-cancao-tricoline-lisa.webp",
       "horarioProgramado": "15:29",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-16T18:29:40.445Z"
     },
     {
       "posicao": 46,
