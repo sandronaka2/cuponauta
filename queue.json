@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-17T00:20:05.223Z",
-  "exportedAt": "16/09/2026, 21:20:05",
+  "lastExport": "2026-09-17T00:30:05.300Z",
+  "exportedAt": "16/09/2026, 21:30:05",
   "total": 100,
-  "pendentes": 8,
-  "postados": 92,
+  "pendentes": 6,
+  "postados": 94,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -1584,10 +1584,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_662202-MLB110075140000_042026-AB--kit-2-cuecas-boxer-cotton-intense-power-calvin-klein.webp",
       "horarioProgramado": "21:22",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-17T00:22:40.098Z"
     },
     {
       "posicao": 94,
@@ -1601,10 +1601,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_985284-MLA115000341690_082026-AB.webp",
       "horarioProgramado": "21:28",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-17T00:28:35.780Z"
     },
     {
       "posicao": 95,
