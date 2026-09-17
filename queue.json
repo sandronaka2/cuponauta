@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-17T23:30:06.957Z",
-  "exportedAt": "17/09/2026, 20:30:06",
+  "lastExport": "2026-09-17T23:40:06.907Z",
+  "exportedAt": "17/09/2026, 20:40:06",
   "total": 100,
-  "pendentes": 17,
-  "postados": 83,
+  "pendentes": 16,
+  "postados": 84,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -1431,10 +1431,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_787332-MLB107831136186_032026-AB--sutia-trifil-af-reforcado.webp",
       "horarioProgramado": "20:35",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-17T23:35:53.701Z"
     },
     {
       "posicao": 85,
