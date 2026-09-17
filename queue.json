@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-17T13:40:06.220Z",
-  "exportedAt": "17/09/2026, 10:40:06",
+  "lastExport": "2026-09-17T13:50:06.283Z",
+  "exportedAt": "17/09/2026, 10:50:06",
   "total": 100,
-  "pendentes": 90,
-  "postados": 10,
+  "pendentes": 89,
+  "postados": 11,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -190,10 +190,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_980721-MLB109166483730_042026-AB-chaveiros-alice-no-pais-das-maravilhas-diversos-modelos.webp",
       "horarioProgramado": "10:44",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-17T13:44:35.030Z"
     },
     {
       "posicao": 12,
