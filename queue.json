@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-17T13:50:06.283Z",
-  "exportedAt": "17/09/2026, 10:50:06",
+  "lastExport": "2026-09-17T14:00:06.471Z",
+  "exportedAt": "17/09/2026, 11:00:06",
   "total": 100,
-  "pendentes": 89,
-  "postados": 11,
+  "pendentes": 88,
+  "postados": 12,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -207,10 +207,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_616288-MLB71260050530_082023-AB-anel-masculino-simbolo-maconaria-maconico-azul-aco-inox-316l.webp",
       "horarioProgramado": "10:55",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-17T13:55:46.590Z"
     },
     {
       "posicao": 13,
