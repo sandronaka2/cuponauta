@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-17T16:50:06.393Z",
-  "exportedAt": "17/09/2026, 13:50:06",
+  "lastExport": "2026-09-17T17:00:06.492Z",
+  "exportedAt": "17/09/2026, 14:00:06",
   "total": 100,
-  "pendentes": 65,
-  "postados": 35,
+  "pendentes": 63,
+  "postados": 37,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -615,10 +615,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_824821-MLA91820735646_092025-AB--fleece-feminino-glacier-full-zip-com-capuz-the-north-face.webp",
       "horarioProgramado": "13:52",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-17T16:52:19.686Z"
     },
     {
       "posicao": 37,
@@ -632,10 +632,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_888120-MLB114489348343_072026-AB--kit-10-calcinhas-femininas-cintura-alta-poliamida-trifil.webp",
       "horarioProgramado": "13:58",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-17T16:58:53.834Z"
     },
     {
       "posicao": 38,
