@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-17T13:10:28.062Z",
-  "exportedAt": "17/09/2026, 10:10:28",
+  "lastExport": "2026-09-17T13:20:06.162Z",
+  "exportedAt": "17/09/2026, 10:20:06",
   "total": 100,
-  "pendentes": 93,
-  "postados": 7,
+  "pendentes": 92,
+  "postados": 8,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -139,10 +139,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_801054-CBT113277265109_062026-AB--fone-de-ouvido-bluetooth-miniso-ms105-sem-fio.webp",
       "horarioProgramado": "10:11",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-17T13:11:27.519Z"
     },
     {
       "posicao": 9,
