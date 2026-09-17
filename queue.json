@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-17T15:20:06.381Z",
-  "exportedAt": "17/09/2026, 12:20:06",
+  "lastExport": "2026-09-17T15:30:06.621Z",
+  "exportedAt": "17/09/2026, 12:30:06",
   "total": 100,
-  "pendentes": 79,
-  "postados": 21,
+  "pendentes": 77,
+  "postados": 23,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -377,10 +377,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_760217-MLB80903953366_122024-AB--15-esponja-louca-delicada-antiaderente-teflon-n-risca-pct-c3.webp",
       "horarioProgramado": "12:20",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-17T15:20:47.094Z"
     },
     {
       "posicao": 23,
@@ -394,10 +394,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_809495-MLA115240270263_072026-AB.webp",
       "horarioProgramado": "12:27",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-17T15:27:44.568Z"
     },
     {
       "posicao": 24,
