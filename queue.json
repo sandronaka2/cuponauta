@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-17T15:40:06.362Z",
-  "exportedAt": "17/09/2026, 12:40:06",
+  "lastExport": "2026-09-17T15:50:06.360Z",
+  "exportedAt": "17/09/2026, 12:50:06",
   "total": 100,
-  "pendentes": 76,
-  "postados": 24,
+  "pendentes": 74,
+  "postados": 26,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -428,10 +428,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_655515-MLB115145133677_072026-AB-relogio-feminino-kit-colar-brinco-folheado-ouro-18k-presente.webp",
       "horarioProgramado": "12:41",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-17T15:41:28.063Z"
     },
     {
       "posicao": 26,
@@ -445,10 +445,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_621118-MLA114213119916_082026-AB.webp",
       "horarioProgramado": "12:47",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-17T15:47:55.124Z"
     },
     {
       "posicao": 27,
