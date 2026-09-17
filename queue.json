@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-17T16:40:06.421Z",
-  "exportedAt": "17/09/2026, 13:40:06",
+  "lastExport": "2026-09-17T16:50:06.393Z",
+  "exportedAt": "17/09/2026, 13:50:06",
   "total": 100,
-  "pendentes": 67,
-  "postados": 33,
+  "pendentes": 65,
+  "postados": 35,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -581,10 +581,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_653263-MLB115253932085_072026-AB--kit-3-pares-de-meia-cano-curto-calvin-klein-undm2301.webp",
       "horarioProgramado": "13:40",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-17T16:40:51.497Z"
     },
     {
       "posicao": 35,
@@ -598,10 +598,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_783163-MLA109735076888_042026-AB.webp",
       "horarioProgramado": "13:46",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-17T16:46:40.859Z"
     },
     {
       "posicao": 36,
