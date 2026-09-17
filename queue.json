@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-17T00:50:05.272Z",
-  "exportedAt": "16/09/2026, 21:50:05",
+  "lastExport": "2026-09-17T01:00:05.549Z",
+  "exportedAt": "16/09/2026, 22:00:05",
   "total": 100,
-  "pendentes": 3,
-  "postados": 97,
+  "pendentes": 0,
+  "postados": 100,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -1669,10 +1669,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_949687-MLA107423093255_022026-AB.webp",
       "horarioProgramado": "21:50",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-17T00:50:20.061Z"
     },
     {
       "posicao": 99,
@@ -1686,10 +1686,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_801947-CBT111679938095_052026-AB--fone-bluetooth-esportivo-com-estojo-de-carregamen.webp",
       "horarioProgramado": "21:55",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-17T00:55:52.670Z"
     },
     {
       "posicao": 100,
@@ -1703,10 +1703,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_710711-CBT113980081357_062026-AB.webp",
       "horarioProgramado": "21:58",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-17T00:58:13.090Z"
     }
   ]
 }
