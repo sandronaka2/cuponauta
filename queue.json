@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-18T23:10:53.445Z",
-  "exportedAt": "18/09/2026, 20:10:53",
+  "lastExport": "2026-09-18T23:20:09.205Z",
+  "exportedAt": "18/09/2026, 20:20:09",
   "total": 100,
-  "pendentes": 21,
-  "postados": 79,
+  "pendentes": 19,
+  "postados": 81,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -1363,10 +1363,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_722737-CBT97788340236_112025-AB-mini-maquina-de-lavar-e-secar-portatil-dobravel-13l.webp",
       "horarioProgramado": "20:10",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-18T23:11:04.116Z"
     },
     {
       "posicao": 81,
@@ -1380,10 +1380,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_666441-MLA115895082691_082026-AB.webp",
       "horarioProgramado": "20:16",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-18T23:16:50.278Z"
     },
     {
       "posicao": 82,
