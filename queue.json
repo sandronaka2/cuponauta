@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-18T19:30:08.927Z",
-  "exportedAt": "18/09/2026, 16:30:08",
+  "lastExport": "2026-09-18T19:40:08.935Z",
+  "exportedAt": "18/09/2026, 16:40:08",
   "total": 100,
-  "pendentes": 50,
-  "postados": 50,
+  "pendentes": 49,
+  "postados": 51,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -870,10 +870,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_994470-MLA101310332748_122025-AB--agasalho-mizuno-basic-ii-f.webp",
       "horarioProgramado": "16:38",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-18T19:38:35.879Z"
     },
     {
       "posicao": 52,
