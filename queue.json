@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-18T12:10:30.784Z",
-  "exportedAt": "18/09/2026, 09:10:30",
+  "lastExport": "2026-09-18T12:20:07.250Z",
+  "exportedAt": "18/09/2026, 09:20:07",
   "total": 100,
-  "pendentes": 99,
-  "postados": 1,
+  "pendentes": 98,
+  "postados": 2,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -37,10 +37,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_986699-CBT117518338809_092026-AB-monitor-gamer-curvo-ultrawide-deco-gear-34-180hz.webp",
       "horarioProgramado": "09:15",
       "janela": "09:00-10:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-18T12:15:56.811Z"
     },
     {
       "posicao": 3,
