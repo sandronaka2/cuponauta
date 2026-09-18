@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-18T21:00:09.086Z",
-  "exportedAt": "18/09/2026, 18:00:09",
+  "lastExport": "2026-09-18T21:10:09.107Z",
+  "exportedAt": "18/09/2026, 18:10:09",
   "total": 100,
-  "pendentes": 42,
-  "postados": 58,
+  "pendentes": 40,
+  "postados": 60,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -1006,10 +1006,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_685064-MLB77016381269_062024-AB--kit-12-cuecas-boxer-masculino-polo-wear.webp",
       "horarioProgramado": "18:01",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-18T21:01:57.211Z"
     },
     {
       "posicao": 60,
@@ -1023,10 +1023,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_605824-MLA113713604571_062026-AB.webp",
       "horarioProgramado": "18:06",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-18T21:06:51.969Z"
     },
     {
       "posicao": 61,
