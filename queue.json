@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-18T21:30:09.145Z",
-  "exportedAt": "18/09/2026, 18:30:09",
+  "lastExport": "2026-09-18T21:40:09.100Z",
+  "exportedAt": "18/09/2026, 18:40:09",
   "total": 100,
-  "pendentes": 37,
-  "postados": 63,
+  "pendentes": 35,
+  "postados": 65,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -1091,10 +1091,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_967601-MLB108814716827_032026-AB--sutia-feminino-ampla-sustentacao-com-abertura-frontal-trifil.webp",
       "horarioProgramado": "18:32",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-18T21:32:10.240Z"
     },
     {
       "posicao": 65,
@@ -1108,10 +1108,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_687156-MLA98390777385_112025-AB.webp",
       "horarioProgramado": "18:38",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-18T21:38:39.239Z"
     },
     {
       "posicao": 66,
