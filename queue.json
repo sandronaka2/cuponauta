@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-18T16:00:07.518Z",
-  "exportedAt": "18/09/2026, 13:00:07",
+  "lastExport": "2026-09-18T16:10:07.587Z",
+  "exportedAt": "18/09/2026, 13:10:07",
   "total": 100,
-  "pendentes": 72,
-  "postados": 28,
+  "pendentes": 71,
+  "postados": 29,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -496,10 +496,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_976913-MLB94713611134_102025-AB--conjunto-de-agasalho-masculino-linear-adidas.webp",
       "horarioProgramado": "13:07",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-18T16:07:56.155Z"
     },
     {
       "posicao": 30,
