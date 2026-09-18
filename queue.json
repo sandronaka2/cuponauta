@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-18T21:20:09.096Z",
-  "exportedAt": "18/09/2026, 18:20:09",
+  "lastExport": "2026-09-18T21:30:09.145Z",
+  "exportedAt": "18/09/2026, 18:30:09",
   "total": 100,
-  "pendentes": 38,
-  "postados": 62,
+  "pendentes": 37,
+  "postados": 63,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -1074,10 +1074,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_603712-MLB111599531623_052026-AB-vestido-trico-feminino-manga-longa-moda-inverno-elegante.webp",
       "horarioProgramado": "18:25",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-18T21:25:25.410Z"
     },
     {
       "posicao": 64,
