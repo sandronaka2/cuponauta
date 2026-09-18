@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-18T16:40:07.577Z",
-  "exportedAt": "18/09/2026, 13:40:07",
+  "lastExport": "2026-09-18T16:50:07.611Z",
+  "exportedAt": "18/09/2026, 13:50:07",
   "total": 100,
-  "pendentes": 67,
-  "postados": 33,
+  "pendentes": 65,
+  "postados": 35,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -581,10 +581,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_849685-MLB115140858780_082026-AB--cabo-12v24v--inversor-para-30v-plug-dc-starlink-mini-4m.webp",
       "horarioProgramado": "13:40",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-18T16:40:40.146Z"
     },
     {
       "posicao": 35,
@@ -598,10 +598,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_876725-MLA109600263936_042026-AB.webp",
       "horarioProgramado": "13:46",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-18T16:46:46.248Z"
     },
     {
       "posicao": 36,
