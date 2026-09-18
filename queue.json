@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-18T16:50:07.611Z",
-  "exportedAt": "18/09/2026, 13:50:07",
+  "lastExport": "2026-09-18T17:00:07.604Z",
+  "exportedAt": "18/09/2026, 14:00:07",
   "total": 100,
-  "pendentes": 65,
-  "postados": 35,
+  "pendentes": 63,
+  "postados": 37,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -615,10 +615,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_940846-MLB106297877292_022026-AB--kit-10-calcinhas-biquini-infantil-menina-cotton-miss-delrio.webp",
       "horarioProgramado": "13:53",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-18T16:53:20.885Z"
     },
     {
       "posicao": 37,
@@ -632,10 +632,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_764301-MLB115336482542_082026-AB--fone-de-ouvido-bluetooth-53-aurafit-x5l-com-tela-touch-4gb.webp",
       "horarioProgramado": "13:58",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-18T16:58:10.005Z"
     },
     {
       "posicao": 38,
