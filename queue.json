@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-18T19:00:08.904Z",
-  "exportedAt": "18/09/2026, 16:00:08",
+  "lastExport": "2026-09-18T19:10:08.908Z",
+  "exportedAt": "18/09/2026, 16:10:08",
   "total": 100,
-  "pendentes": 53,
-  "postados": 47,
+  "pendentes": 52,
+  "postados": 48,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -819,10 +819,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_867376-MLB113791552768_072026-AB--jaqueta-masculina-the-north-face-7ujp.webp",
       "horarioProgramado": "16:03",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-18T19:03:31.930Z"
     },
     {
       "posicao": 49,
