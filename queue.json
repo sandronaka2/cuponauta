@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-18T19:40:08.935Z",
-  "exportedAt": "18/09/2026, 16:40:08",
+  "lastExport": "2026-09-18T19:50:08.973Z",
+  "exportedAt": "18/09/2026, 16:50:08",
   "total": 100,
-  "pendentes": 49,
-  "postados": 51,
+  "pendentes": 48,
+  "postados": 52,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -887,10 +887,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_955053-MLA114785104771_072026-AB--blusa-cropped-frente-unica-feminina-com-pontas-elegante-alca.webp",
       "horarioProgramado": "16:49",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-18T19:49:13.683Z"
     },
     {
       "posicao": 53,
