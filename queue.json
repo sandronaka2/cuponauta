@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-18T18:30:08.846Z",
-  "exportedAt": "18/09/2026, 15:30:08",
+  "lastExport": "2026-09-18T18:40:08.857Z",
+  "exportedAt": "18/09/2026, 15:40:08",
   "total": 100,
-  "pendentes": 55,
-  "postados": 45,
+  "pendentes": 54,
+  "postados": 46,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -785,10 +785,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_757088-MLB108558652508_032026-AB--central-multimidia-universal-mp5-1-din-7-espelha-dvd-cam.webp",
       "horarioProgramado": "15:39",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-18T18:39:27.468Z"
     },
     {
       "posicao": 47,
