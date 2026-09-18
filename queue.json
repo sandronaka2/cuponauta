@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-18T14:50:07.430Z",
-  "exportedAt": "18/09/2026, 11:50:07",
+  "lastExport": "2026-09-18T15:00:07.592Z",
+  "exportedAt": "18/09/2026, 12:00:07",
   "total": 100,
-  "pendentes": 83,
-  "postados": 17,
+  "pendentes": 82,
+  "postados": 18,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -309,10 +309,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_942082-MLB113250978216_072026-AB--1x-curcuma-branca-magnesio-para-adultos-50-60-caps.webp",
       "horarioProgramado": "11:58",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-18T14:58:10.352Z"
     },
     {
       "posicao": 19,
