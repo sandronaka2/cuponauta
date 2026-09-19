@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-19T14:00:10.227Z",
-  "exportedAt": "19/09/2026, 11:00:10",
+  "lastExport": "2026-09-19T14:10:10.069Z",
+  "exportedAt": "19/09/2026, 11:10:10",
   "total": 100,
-  "pendentes": 88,
-  "postados": 12,
+  "pendentes": 87,
+  "postados": 13,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -224,10 +224,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_790923-MLB48161041664_112021-AB--sutia-feminino-adesivo-sem-costura-poliester-trifil--oferta.webp",
       "horarioProgramado": "11:09",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-19T14:09:40.566Z"
     },
     {
       "posicao": 14,
