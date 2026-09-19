@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-19T19:00:10.628Z",
-  "exportedAt": "19/09/2026, 16:00:10",
+  "lastExport": "2026-09-19T19:10:10.523Z",
+  "exportedAt": "19/09/2026, 16:10:10",
   "total": 100,
-  "pendentes": 53,
-  "postados": 47,
+  "pendentes": 52,
+  "postados": 48,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -819,10 +819,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_777154-MLB113578866440_072026-AB--top-de-treino-feminino-basic-adidas.webp",
       "horarioProgramado": "16:02",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-19T19:02:25.199Z"
     },
     {
       "posicao": 49,
