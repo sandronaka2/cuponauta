@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-19T00:20:09.383Z",
-  "exportedAt": "18/09/2026, 21:20:09",
+  "lastExport": "2026-09-19T00:30:09.286Z",
+  "exportedAt": "18/09/2026, 21:30:09",
   "total": 100,
-  "pendentes": 8,
-  "postados": 92,
+  "pendentes": 6,
+  "postados": 94,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -1584,10 +1584,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_729183-MLB108952324201_032026-AB--kit-10-cuecas-slip-algodao-basicas-com-elastico-logo-mash.webp",
       "horarioProgramado": "21:22",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-19T00:22:55.293Z"
     },
     {
       "posicao": 94,
@@ -1601,10 +1601,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_658200-MLB99120568646_112025-AB--kit-12-calcinhas-microfibra-tipo-biquini-trifil-basica-lisa.webp",
       "horarioProgramado": "21:27",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-19T00:27:50.427Z"
     },
     {
       "posicao": 95,
