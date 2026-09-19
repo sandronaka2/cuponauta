@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-19T15:20:10.134Z",
-  "exportedAt": "19/09/2026, 12:20:10",
+  "lastExport": "2026-09-19T15:30:10.204Z",
+  "exportedAt": "19/09/2026, 12:30:10",
   "total": 100,
-  "pendentes": 79,
-  "postados": 21,
+  "pendentes": 77,
+  "postados": 23,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -377,10 +377,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_800227-MLB111069353304_052026-AB-camiseta-estampada-livro-e-flores-confortavel-100-algodo.webp",
       "horarioProgramado": "12:20",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-19T15:20:38.632Z"
     },
     {
       "posicao": 23,
@@ -394,10 +394,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_763265-MLB104095765161_012026-AB--kit-com-6-cuecas-boxer-sem-costura-adulto-delrio.webp",
       "horarioProgramado": "12:26",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-19T15:26:17.482Z"
     },
     {
       "posicao": 24,
