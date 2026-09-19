@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-19T16:00:10.202Z",
-  "exportedAt": "19/09/2026, 13:00:10",
+  "lastExport": "2026-09-19T16:10:10.198Z",
+  "exportedAt": "19/09/2026, 13:10:10",
   "total": 100,
-  "pendentes": 73,
-  "postados": 27,
+  "pendentes": 71,
+  "postados": 29,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -479,10 +479,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_660084-MLA99977469865_112025-AB.webp",
       "horarioProgramado": "13:00",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-19T16:00:32.078Z"
     },
     {
       "posicao": 29,
@@ -496,10 +496,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_843594-MLB116314356831_082026-AB--saco-lixo-resistente-super-forte-grosso-100-litros-com-20un.webp",
       "horarioProgramado": "13:06",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-19T16:06:40.643Z"
     },
     {
       "posicao": 30,
