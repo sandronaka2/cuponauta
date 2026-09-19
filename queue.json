@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-19T15:30:10.204Z",
-  "exportedAt": "19/09/2026, 12:30:10",
+  "lastExport": "2026-09-19T15:40:10.178Z",
+  "exportedAt": "19/09/2026, 12:40:10",
   "total": 100,
-  "pendentes": 77,
-  "postados": 23,
+  "pendentes": 75,
+  "postados": 25,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -411,10 +411,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_864114-MLB107679026514_032026-AB--kit-com-8-cuecas-boxer-sem-costura-infantil-delrio.webp",
       "horarioProgramado": "12:32",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-19T15:32:29.489Z"
     },
     {
       "posicao": 25,
@@ -428,10 +428,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_831081-MLB80815278819_112024-AB--kit-2-cuecas-masculinas-boxer-branca-calvin-klein.webp",
       "horarioProgramado": "12:38",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-19T15:38:58.019Z"
     },
     {
       "posicao": 26,
