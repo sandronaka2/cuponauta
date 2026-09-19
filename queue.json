@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-19T12:10:34.941Z",
-  "exportedAt": "19/09/2026, 09:10:34",
+  "lastExport": "2026-09-19T12:20:09.925Z",
+  "exportedAt": "19/09/2026, 09:20:09",
   "total": 100,
-  "pendentes": 99,
-  "postados": 1,
+  "pendentes": 98,
+  "postados": 2,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -37,10 +37,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_863698-MLB115507896201_082026-AB--kit-5-conjunto-acessorios-suporte-banheiro-lavabo-inox-304.webp",
       "horarioProgramado": "09:15",
       "janela": "09:00-10:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-19T12:15:30.965Z"
     },
     {
       "posicao": 3,
