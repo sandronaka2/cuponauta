@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-19T16:50:10.467Z",
-  "exportedAt": "19/09/2026, 13:50:10",
+  "lastExport": "2026-09-19T17:00:10.280Z",
+  "exportedAt": "19/09/2026, 14:00:10",
   "total": 100,
-  "pendentes": 65,
-  "postados": 35,
+  "pendentes": 63,
+  "postados": 37,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -615,10 +615,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_817323-MLB112508244068_062026-AB--oculos-de-sol-masculino-moderno-estiloso-casual-uv-premium.webp",
       "horarioProgramado": "13:54",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-19T16:54:29.565Z"
     },
     {
       "posicao": 37,
@@ -632,10 +632,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_856335-MLB110045727652_042026-AB--tenis-de-corrida-feminino-supernova-glide-adidas.webp",
       "horarioProgramado": "13:58",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-19T16:58:40.408Z"
     },
     {
       "posicao": 38,
