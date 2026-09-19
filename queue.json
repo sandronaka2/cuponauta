@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-19T23:30:10.819Z",
-  "exportedAt": "19/09/2026, 20:30:10",
+  "lastExport": "2026-09-19T23:40:10.834Z",
+  "exportedAt": "19/09/2026, 20:40:10",
   "total": 100,
-  "pendentes": 17,
-  "postados": 83,
+  "pendentes": 16,
+  "postados": 84,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -1431,10 +1431,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_682217-MLB110297378672_052026-AB--regata-feminina-decote-quadrado-alca-grossa-premium-suplex.webp",
       "horarioProgramado": "20:36",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-19T23:36:22.681Z"
     },
     {
       "posicao": 85,
