@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-19T15:00:10.119Z",
-  "exportedAt": "19/09/2026, 12:00:10",
+  "lastExport": "2026-09-19T15:10:10.148Z",
+  "exportedAt": "19/09/2026, 12:10:10",
   "total": 100,
-  "pendentes": 82,
-  "postados": 18,
+  "pendentes": 80,
+  "postados": 20,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -326,10 +326,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_687371-MLB115308098218_082026-AB--kit-3-anti-mofo-aparelho-eletrico-acaro-fungos-bye-mofo.webp",
       "horarioProgramado": "12:01",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-19T15:01:32.352Z"
     },
     {
       "posicao": 20,
@@ -343,10 +343,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_924406-MLB113552486897_062026-AB--relogio-de-pulso-prata-digital-retro-pulseira-ajuste-unissex.webp",
       "horarioProgramado": "12:06",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-19T15:06:40.662Z"
     },
     {
       "posicao": 21,
