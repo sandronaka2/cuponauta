@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-19T17:30:10.361Z",
-  "exportedAt": "19/09/2026, 14:30:10",
+  "lastExport": "2026-09-19T17:40:10.357Z",
+  "exportedAt": "19/09/2026, 14:40:10",
   "total": 100,
-  "pendentes": 60,
-  "postados": 40,
+  "pendentes": 59,
+  "postados": 41,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -700,10 +700,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_886281-MLA88081353506_072025-AB--jaqueta-fleece-the-north-face-masculino--lisa-a040n.webp",
       "horarioProgramado": "14:36",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-19T17:36:28.581Z"
     },
     {
       "posicao": 42,
