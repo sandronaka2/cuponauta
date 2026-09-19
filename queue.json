@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-19T21:50:10.712Z",
-  "exportedAt": "19/09/2026, 18:50:10",
+  "lastExport": "2026-09-19T22:00:10.850Z",
+  "exportedAt": "19/09/2026, 19:00:10",
   "total": 100,
-  "pendentes": 34,
-  "postados": 66,
+  "pendentes": 32,
+  "postados": 68,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -1142,10 +1142,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_760933-MLB116771301913_082026-AB--kit-moedores-de-sal-e-pimenta-21-cm-le-creuset.webp",
       "horarioProgramado": "18:50",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-19T21:50:55.656Z"
     },
     {
       "posicao": 68,
@@ -1159,10 +1159,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_755911-MLB53684823218_022023-AB--kit-com-10-cuecas-infantis-meninos-modelagem-boxer-mash.webp",
       "horarioProgramado": "18:56",
       "janela": "18:00-21:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-19T21:56:23.590Z"
     },
     {
       "posicao": 69,
