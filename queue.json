@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-19T16:11:00.549Z",
-  "exportedAt": "19/09/2026, 13:11:00",
+  "lastExport": "2026-09-19T16:20:10.219Z",
+  "exportedAt": "19/09/2026, 13:20:10",
   "total": 100,
-  "pendentes": 71,
-  "postados": 29,
+  "pendentes": 69,
+  "postados": 31,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -513,10 +513,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_734564-MLB107373909772_032026-AB--kit-3-cuecas-calvin-klein-masculino-nb4389.webp",
       "horarioProgramado": "13:12",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-19T16:12:49.247Z"
     },
     {
       "posicao": 31,
@@ -530,10 +530,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_991529-MLA99935131565_112025-AB.webp",
       "horarioProgramado": "13:18",
       "janela": "12:00-14:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-19T16:18:41.994Z"
     },
     {
       "posicao": 32,
