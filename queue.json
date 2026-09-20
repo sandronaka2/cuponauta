@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-09-20T00:40:10.870Z",
-  "exportedAt": "19/09/2026, 21:40:10",
+  "lastExport": "2026-09-20T00:50:11.085Z",
+  "exportedAt": "19/09/2026, 21:50:11",
   "total": 100,
-  "pendentes": 4,
-  "postados": 96,
+  "pendentes": 2,
+  "postados": 98,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -1652,10 +1652,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_853659-MLB99594081601_112025-AB--kit-6-calcinhas-trifil-feminino-biquini--basica-lisa.webp",
       "horarioProgramado": "21:43",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-20T00:43:42.748Z"
     },
     {
       "posicao": 98,
@@ -1669,10 +1669,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_872207-MLB54437144172_032023-AB--kit-10-cuecas-slip-go-tagless-masculina-zorba-cos-aparente.webp",
       "horarioProgramado": "21:48",
       "janela": "21:00-22:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-09-20T00:48:46.070Z"
     },
     {
       "posicao": 99,
