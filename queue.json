@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-10-11T14:09:41.689Z",
-  "exportedAt": "11/10/2026, 11:09:41",
+  "lastExport": "2026-10-11T14:19:41.706Z",
+  "exportedAt": "11/10/2026, 11:19:41",
   "total": 100,
-  "pendentes": 87,
-  "postados": 13,
+  "pendentes": 86,
+  "postados": 14,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -241,10 +241,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_695422-MLB117612911079_092026-AB--percarbonato-de-sodio-100-puro-1kg-tuff--tira-manchas.webp",
       "horarioProgramado": "11:15",
       "janela": "10:00-12:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-10-11T14:15:23.649Z"
     },
     {
       "posicao": 15,
