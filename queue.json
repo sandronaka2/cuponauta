@@ -1,9 +1,9 @@
 {
-  "lastExport": "2026-10-11T12:49:54.509Z",
-  "exportedAt": "11/10/2026, 09:49:54",
+  "lastExport": "2026-10-11T12:59:41.609Z",
+  "exportedAt": "11/10/2026, 09:59:41",
   "total": 100,
-  "pendentes": 96,
-  "postados": 4,
+  "pendentes": 94,
+  "postados": 6,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
   "source": "120363425869339748@g.us",
@@ -88,10 +88,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_733398-MLA114453273457_072026-AB.webp",
       "horarioProgramado": "09:50",
       "janela": "09:00-10:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-10-11T12:50:47.385Z"
     },
     {
       "posicao": 6,
@@ -105,10 +105,10 @@
       "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_782302-MLA95403395019_102025-AB--coala-difusor-de-aromas-bambu-liquido-100ml-1-unidade.webp",
       "horarioProgramado": "09:58",
       "janela": "09:00-10:00",
-      "status": "pendente",
+      "status": "postado",
       "fonte": "OFERTA",
       "boostType": null,
-      "postedAt": null
+      "postedAt": "2026-10-11T12:58:38.015Z"
     },
     {
       "posicao": 7,
