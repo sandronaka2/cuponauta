@@ -1,8 +1,8 @@
 {
-  "lastExport": "2026-10-18T20:30:16.550Z",
-  "exportedAt": "18/10/2026, 17:30:16",
+  "lastExport": "2026-10-18T20:40:16.560Z",
+  "exportedAt": "18/10/2026, 17:40:16",
   "total": 100,
-  "pendentes": 45,
+  "pendentes": 44,
   "postados": 7,
   "groupJid": "120363425869339748@g.us",
   "groupName": "🏆 CUPONAUTA - GRUPO VIP 🏷️",
@@ -955,7 +955,7 @@
       "imagem": null,
       "horarioProgramado": "17:36",
       "janela": "14:00-18:00",
-      "status": "pendente",
+      "status": "erro",
       "fonte": "OFERTA",
       "boostType": null,
       "postedAt": null
